@@ -10,9 +10,9 @@ Pur signal, removing noise
 
 ---
 
-## ✨ Features
+## Features
 
-### 📰 Multi-source aggregation
+### Multi-source aggregation
 JFET-digest pulls concise, high-quality items from selected tech feeds:
 
 - MIT News (Robotics, AI, Engineering, CS)
@@ -25,7 +25,7 @@ Each feed has its own dedicated parser under `helpers/`.
 
 ---
 
-### 🧹 Intelligent filtering
+### Intelligent filtering
 The system automatically removes:
 
 - political content  
@@ -38,7 +38,7 @@ The result: **every article is strictly tech and innovation focused**.
 
 ---
 
-### 🖼️ Image extraction
+### Image extraction
 Many RSS feeds do not expose images consistently. JFET-digest enhances them using:
 
 - `media:content` or `media:thumbnail` when available  
@@ -49,12 +49,12 @@ Ensures each item has a usable preview image.
 
 ---
 
-### 📨 Email delivery
+### Email delivery
 Uses **Resend** to send a beautifully formatted HTML digest.
 
 The email design is intentionally minimal, readable, and typography-focused.
 
-### ⏱️ Automated scheduling (GitHub Actions)
+### Automated scheduling (GitHub Actions)
 
 The system uses two scheduled workflows:
 
@@ -68,7 +68,7 @@ This separation allows a manual editorial window between collection and sending.
 
 ---
 
-### 🗂️ YAML-based editorial workflow
+### YAML-based editorial workflow
 
 Fetched articles are converted into:
 
@@ -85,7 +85,7 @@ You may:
 
 Each final digest is archived automatically.
 
-### 📁 Project Structure
+### Project Structure
 
 JFET-digest/
 ├── helpers/ # Source-specific RSS parsers
@@ -104,7 +104,7 @@ JFET-digest/
 
 ---
 
-### 🚀 Running locally
+### Running locally
 
 #### 1. Install dependencies
 
