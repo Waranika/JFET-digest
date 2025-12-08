@@ -6,8 +6,9 @@ JFET-digest is a lightweight, low-noise newsletter generator designed to surface
 It aggregates articles from high-quality sources (MIT News, Wired, TechXplore, IEEE Spectrum, ScienceDaily, …), normalizes the feeds through custom parsers, removes duplicates, strips political content, enhances metadata (images, summaries), and outputs a minimal clean newsletter sent automatically via email.
 
 The goal:  
-Pur signal, removing noise
+Pure signal, removing noise
 
+** This doesn't allow you to access those websites for free, past the limit of free visits, you'll need to figure out your ways of accessing the content**
 ---
 
 ## Features
