@@ -1,5 +1,12 @@
-import { writeFile } from "fs/promises";
+import fs from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+
 import { fetchArticles } from "./fetchArticles.js";
+import { buildNewsletterHtml } from "./buildNewsletterHtml.js"; // the refactored function
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 function buildPageHtml(articles) {
   const hasArticles = articles && articles.length > 0;
@@ -212,10 +219,22 @@ function buildPageHtml(articles) {
 }
 
 async function main() {
+  console.log("Building web page…");
+
+  // 1) Get today’s articles (same limit you use for the email)
   const articles = await fetchArticles(1);
+
+  // 2) Reuse the email layout as a webpage
   const html = buildPageHtml(articles);
-  await writeFile("index.html", html, "utf8");
-  console.log("index.html written");
+
+  // 3) Write docs/index.html (GitHub Pages target)
+  const outDir = path.join(__dirname, "..", "docs");
+  const outFile = path.join(outDir, "index.html");
+
+  fs.mkdirSync(outDir, { recursive: true });
+  fs.writeFileSync(outFile, html, "utf8");
+
+  console.log(`✅ Wrote ${outFile}`);
 }
 
 main().catch((err) => {
