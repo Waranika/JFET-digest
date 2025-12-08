@@ -85,22 +85,6 @@ You may:
 
 Each final digest is archived automatically.
 
-### Project Structure
-
-JFET-digest/
-├── helpers/ # Source-specific RSS parsers
-├── scripts/
-│ ├── fetchArticles.js # Collects and filters all feeds
-│ ├── prepareYaml.js # Generates YAML from article list
-│ ├── sendNewsletter.js # Sends the digest using Resend
-│ ├── buildNewsletterHtml.js
-├── data/
-│ ├── today.yaml
-│ └── archive/
-├── .github/workflows/
-│ ├── prepare.yml
-│ └── send.yml
-
 
 ---
 
