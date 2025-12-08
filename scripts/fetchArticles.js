@@ -172,6 +172,8 @@ export async function fetchArticles(limitPerFeed = 1) {
     try {
       const feed = await parser.parseURL(feedConfig.url);
       const items = (feed.items || []).slice(0, limitPerFeed);
+      let feedArticleCount = 0;
+      console.log(`${feedConfig.name}:`);
 
       for (const item of items) {
         const parserFn = feedConfig.parser;
@@ -202,7 +204,10 @@ export async function fetchArticles(limitPerFeed = 1) {
         if (!parsed.title || !parsed.url) continue;
 
         all.push(parsed);
+        feedArticleCount++;
+        console.log(`  - ${parsed.title}`);
       }
+      console.log(`  → ${feedArticleCount} article(s) added\n`);
     } catch (err) {
       console.error("Failed to fetch feed:", feedConfig.name);
       console.error(err.message);
@@ -236,7 +241,10 @@ export async function fetchArticles(limitPerFeed = 1) {
   for (const art of all) {
     const nt = normalizeTitle(art.title);
     if (!nt) continue; // skip items without a usable title
-    if (seen.has(nt)) continue;
+    if (seen.has(nt)) {
+      console.log(`  [DUPLICATE] "${art.title}" from ${art.source}`);
+      continue;
+    }
     seen.add(nt);
     deduped.push(art);
   }
