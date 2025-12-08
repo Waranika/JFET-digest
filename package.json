@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node scripts/sendEmail.js"
+    "prepare": "node scripts/prepareYaml.js",
+    "send": "node scripts/sendNewsletter.js",
+    "build:web": "node scripts/buildWebPage.js"
   },
   "keywords": [],
   "author": "",
