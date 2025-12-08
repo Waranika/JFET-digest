@@ -1,0 +1,32 @@
+name: Prepare newsletter YAML
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Generate today.yaml
+        run: node scripts/prepareYaml.js
+
+      - name: Commit & push YAML
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update today.yaml"
+          file_pattern: "data/today.yaml"
