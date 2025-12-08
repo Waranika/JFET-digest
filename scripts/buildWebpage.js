@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import YAML from "yaml";
 
 import { fetchArticles } from "./fetchArticles.js";
 import { buildNewsletterHtml } from "./buildNewsletterHtml.js"; // the refactored function
@@ -221,20 +222,25 @@ function buildPageHtml(articles) {
 async function main() {
   console.log("Building web page…");
 
-  // 1) Get today’s articles (same limit you use for the email)
-  const articles = await fetchArticles(1);
-
-  // 2) Reuse the email layout as a webpage
-  const html = buildPageHtml(articles);
-
-  // 3) Write docs/index.html (GitHub Pages target)
-  const outDir = path.join(__dirname, "..", "docs");
+  // Absolute repo paths
+  const repoRoot = path.join(__dirname, "..");
+  const yamlPath = path.join(repoRoot, "data", "today.yaml");
+  const outDir = path.join(repoRoot, "docs");
   const outFile = path.join(outDir, "index.html");
 
+  // 1) Read YAML
+  const raw = fs.readFileSync(yamlPath, "utf8");
+  const data = YAML.parse(raw);
+  const articles = data.articles || [];
+
+  // 2) Build HTML
+  const html = buildPageHtml(articles);
+
+  // 3) Ensure docs/ exists + write index.html
   fs.mkdirSync(outDir, { recursive: true });
   fs.writeFileSync(outFile, html, "utf8");
 
-  console.log(`✅ Wrote ${outFile}`);
+  console.log(`✅ Wrote webpage to ${outFile}`);
 }
 
 main().catch((err) => {
