@@ -34,7 +34,7 @@ async function main() {
   }
 
   // 2. Build HTML
-  const html = buildNewsletterHtml(newsletter);
+  const html = buildNewsletterHtml(newsletter.articles);
   const subject = newsletter.subject || "Your Tech Digest";
 
   // 3. Send email
