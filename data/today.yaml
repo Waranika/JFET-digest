@@ -1,8 +1,44 @@
-date: 2025-12-08
+date: 2025-12-09
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: America’s Biggest Bitcoin Miners Are Pivoting to AI
+    url: https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/
+    summary: In the face of a profitability crisis, industrial-scale bitcoin miners
+      are transforming their data centers into AI factories.
+    imageUrl: https://media.wired.com/photos/69374ba6ceb33c37ef2a4913/191:100/w_1280,c_limit/biz-ai-bitcoin-mining-1007877006.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2025-12-09T10:30:00.000Z
+    source: WIRED (AI)
+  - title: EU launches antitrust probe into Google's data use for AI
+    url: https://techxplore.com/news/2025-12-eu-antitrust-probe-google-ai.html
+    summary: The EU announced Tuesday it had opened a probe to assess whether Google
+      breached antitrust rules by using content put online by media and other
+      publishers to train and provide AI services without appropriate
+      compensation.
+    imageUrl: null
+    categories:
+      - Business
+    publishedAt: 2025-12-09T09:22:30.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: A multifunctional carbon-titanium composite material enhances the
+      performance of lithium-sulfur batteries
+    url: https://techxplore.com/news/2025-12-multifunctional-carbon-titanium-composite-material.html
+    summary: A research team led by Professor Jongsung Yu of the Department of
+      Energy Science and Engineering at DGIST has successfully developed a new
+      electrode material that can significantly enhance the performance of
+      lithium-sulfur (Li-S) batteries. The main achievement of this research is
+      the simple production of titanium monoxide (TiO) nanoparticles and
+      nitrogen (N)-containing honeycomb-structured highly graphitized porous
+      carbon (TiO-NGPC) in a single process (magnesium reduction).
+    imageUrl: null
+    categories:
+      - Engineering
+    publishedAt: 2025-12-08T23:10:03.000Z
+    source: TechXplore — Engineering
   - title: MIT affiliates named 2025 Schmidt Sciences AI2050 Fellows
     url: https://news.mit.edu/2025/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1208
     summary: Two current MIT affiliates and seven additional alumni are among those
@@ -41,17 +77,6 @@ articles:
       - Science / Health
     publishedAt: 2025-12-08T18:54:05.000Z
     source: WIRED science
-  - title: Aging bridges are crumbling. Here's how new technologies can help detect
-      danger earlier
-    url: https://techxplore.com/news/2025-12-aging-bridges-crumbling-technologies-danger.html
-    summary: New signs of deterioration recently discovered on the Île-aux-Tourtes
-      Bridge in Montréal have spurred the Québec government to reinforce beams
-      and install shoring just to keep the structure open.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2019/bridge.jpg
-    categories:
-      - Engineering
-    publishedAt: 2025-12-08T18:26:31.000Z
-    source: TechXplore — Engineering
   - title: Team develops chips that act like brains and makes them scalable
     url: https://techxplore.com/news/2025-12-team-chips-brains-scalable.html
     summary: Developing chips that simulate how the brain works has great promise
@@ -59,7 +84,7 @@ articles:
       scalable while providing repeatable results has proven tricky. Now, a
       Yale-led team of researchers has put forth a solution. The results are
       published in Nature Communications.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/chips-that-act-like-br.jpg
+    imageUrl: null
     categories:
       - Hardware
     publishedAt: 2025-12-08T16:10:01.000Z
@@ -72,7 +97,7 @@ articles:
       workflow that allows them to provide input to a robotic arm and "speak
       objects into existence," creating things like furniture in as little as
       five minutes.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/researchers-speak-obje.jpg
+    imageUrl: null
     categories:
       - Robotics
     publishedAt: 2025-12-08T15:43:35.000Z
@@ -104,22 +129,13 @@ articles:
     categories: []
     publishedAt: 2025-12-08T10:25:15.000Z
     source: ScienceDaily — Robotics
-  - title: This AI Model Can Intuit How the Physical World Works
-    url: https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/
-    summary: The V-JEPA system uses ordinary videos to understand the physics of the
-      real world.
-    imageUrl: https://media.wired.com/photos/69316737bae73f21e0de4542/191:100/w_1280,c_limit/AIIntuitsPhysics-crKristinaArmitage-Lede-scaled.jpeg
-    categories:
-      - Science
-    publishedAt: 2025-12-07T00:00:00.000Z
-    source: WIRED (AI)
   - title: "Video Friday: Biorobotics Turns Lobster Tails Into Gripper"
     url: https://spectrum.ieee.org/lobster-biorobotics
     summary: Video Friday is your weekly selection of awesome robotics videos,
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robotic-gripper-with-feather-like-fingers-delicately-holds-a-brown-mushroom-on-a-black-background.jpg?id=62284894&width=1200&height=800&coordinates=154%2C0%2C155%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/robotic-gripper-with-feather-like-fingers-delicately-holds-a-brown-mushroom-on-a-black-background.jpg?id=62284894&width=1245&height=700&coordinates=0%2C1%2C0%2C1
     categories:
       - Robotics
       - Video friday
@@ -182,7 +198,7 @@ articles:
       at tens to hundreds of megahertz. However, another NMR-based instrument
       involves much lower-frequency oscillations: a proton-precession
       magnetometer, often used to measure Earth’s magnetic field."
-    imageUrl: https://spectrum.ieee.org/media-library/a-pair-of-coil-wound-cylinders-sits-atop-two-milk-crates-wires-connect-them-to-a-circuit-board-connected-to-three-large-12-volt.png?id=62212907&width=1245&height=700&coordinates=0%2C428%2C0%2C429
+    imageUrl: https://spectrum.ieee.org/media-library/a-pair-of-coil-wound-cylinders-sits-atop-two-milk-crates-wires-connect-them-to-a-circuit-board-connected-to-three-large-12-volt.png?id=62212907&width=1200&height=400&coordinates=0%2C677%2C0%2C677
     categories:
       - Citizen science
       - Proton magnetometer
