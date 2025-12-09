@@ -43,7 +43,7 @@ async function main() {
   );
 
   const { data, error } = await resend.emails.send({
-    from: "news@jfetnews.news",
+    from: "news@jfetnews.net",
     to,
     subject,
     html,
