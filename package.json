@@ -6,7 +6,7 @@
   "scripts": {
     "prepare": "node scripts/prepareYaml.js",
     "send": "node scripts/sendNewsletter.js",
-    "build:web": "node scripts/buildWebPage.js"
+    "build:web": "node scripts/buildWebpage.js"
   },
   "keywords": [],
   "author": "",
