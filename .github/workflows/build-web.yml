@@ -1,0 +1,42 @@
+name: Build website from YAML
+
+on:
+  schedule:
+    # Run every day at 08:55 UTC, *after* your prepareYaml job
+    - cron: '55 8 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build-web:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate docs/index.html from YAML
+        run: npm run build:web
+
+      - name: Commit and push if changed
+        run: |
+          if [[ -n "$(git status --porcelain docs/index.html)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/index.html
+            git commit -m "chore: update generated website from YAML"
+            git push
+          else
+            echo "No changes to commit"
+          fi
