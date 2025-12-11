@@ -25,7 +25,17 @@ function extractImage(item) {
 
 async function fetchOgImage(url) {
   try {
-    const res = await fetch(url, { timeout: 3000 });
+    const res = await fetch(url);
+
+    // Log non-200 cases
+    if (!res.ok) {
+      console.error(
+        `[TechXplore][OG] Non-200 response: ${res.status} ${res.statusText} for ${url} (after ${duration}ms)`
+      );
+      return null;
+    }
+
+    
     const html = await res.text();
 
     const $ = cheerio.load(html);
@@ -35,6 +45,16 @@ async function fetchOgImage(url) {
 
     const tw = $('meta[name="twitter:image"]').attr("content");
     if (tw) return tw;
+
+    if (!og && !tw) {
+      console.error(
+        `[TechXplore][OG] No og:image or twitter:image found in fetched page: ${url}`
+      );
+      console.error(
+        `[TechXplore][OG] Head snippet:\n` +
+        html.slice(0, 400).replace(/\n/g, " ")
+      );
+    }
 
     return null;
   } catch (err) {
