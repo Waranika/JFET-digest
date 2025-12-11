@@ -1,8 +1,69 @@
-date: 2025-12-10
+date: 2025-12-11
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Why Vision AI Models Fail
+    url: https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/
+    summary: Prevent costly AI failures in production by mastering data-centric
+      approaches to detect bias, classimbalance, and data leakage before
+      deployment impacts your business.
+    imageUrl: https://spectrum.ieee.org/media-library/logo-of-voxel51-orange-cube-outline-on-left-voxel-in-gray-51-in-orange-on-right.png?id=62304853&width=980
+    categories:
+      - Type:whitepaper
+      - Ai models
+      - Artificial intelligence
+      - Data
+    publishedAt: 2025-12-10T20:33:57.000Z
+    source: IEEE Spectrum — AI
+  - title: "Seamless tech: 'OriStitch' threads computation and 3D textiles"
+    url: https://techxplore.com/news/2025-12-seamless-tech-oristitch-threads-3d.html
+    summary: Could a flat piece of fabric hold a 3D shape, the way paper does in
+      origami? Aiming to find out, researchers from the Cornell Ann S. Bowers
+      College of Computing and Information Science developed OriStitch, a new
+      software and fabrication system that takes simple 3D objects—a toy or a
+      teapot, say—and spins them into a design for a textile version using
+      carefully placed stitches in fabric.
+    imageUrl: null
+    categories:
+      - Software
+    publishedAt: 2025-12-10T20:16:13.000Z
+    source: TechXplore — Engineering
+  - title: Vine-inspired robotic gripper gently lifts heavy and fragile objects
+    url: https://techxplore.com/news/2025-12-vine-robotic-gripper-gently-heavy.html
+    summary: In the horticultural world, some vines are especially grabby. As they
+      grow, the woody tendrils can wrap around obstacles with enough force to
+      pull down entire fences and trees.
+    imageUrl: null
+    categories:
+      - Robotics
+    publishedAt: 2025-12-10T19:52:27.000Z
+    source: TechXplore — Robotics
+  - title: Fully digital design paves the way for scalable probabilistic computing
+    url: https://techxplore.com/news/2025-12-fully-digital-paves-scalable-probabilistic.html
+    summary: Artificial intelligence and machine learning could become dramatically
+      more efficient, thanks to a new type of computer component developed by
+      researchers at the University of California, Santa Barbara and Tohoku
+      University, in collaboration with the Taiwan Semiconductor Manufacturing
+      Company (TSMC).
+    imageUrl: null
+    categories:
+      - Hardware
+    publishedAt: 2025-12-10T17:21:22.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Scientists reveal a tiny brain chip that streams thoughts in real time
+    url: https://www.sciencedaily.com/releases/2025/12/251209234139.htm
+    summary: BISC is an ultra-thin neural implant that creates a high-bandwidth
+      wireless link between the brain and computers. Its tiny single-chip design
+      packs tens of thousands of electrodes and supports advanced AI models for
+      decoding movement, perception, and intent. Initial clinical work shows it
+      can be inserted through a small opening in the skull and remain stable
+      while capturing detailed neural activity. The technology could reshape
+      treatments for epilepsy, paralysis, and blindness.
+    imageUrl: https://www.sciencedaily.com/images/1920/bisc-brain-implant.webp
+    categories: []
+    publishedAt: 2025-12-10T04:54:39.000Z
+    source: ScienceDaily — Robotics
   - title: Intel Takes Major Step in Plan to Acquire Chip Startup SambaNova
     url: https://www.wired.com/story/intel-signs-term-sheet-sambanova-ai/
     summary: The two chip companies have signed a term sheet, according to sources
@@ -13,29 +74,6 @@ articles:
       - Business / Artificial Intelligence
     publishedAt: 2025-12-09T23:08:59.000Z
     source: WIRED (AI)
-  - title: "Jennifer Lewis ScD ’91: “Can we make tissues that are made from you, for
-      you?”"
-    url: https://news.mit.edu/2025/jennifer-lewis-dresselhaus-lecture-printing-soft-and-living-matter-1209
-    summary: “Can we make tissues that are made from you, for you?” asked Jennifer
-      Lewis ScD ’91 at the 2025 Mildred S. Dresselhaus Lecture, organized by
-      MIT.nano, on Nov. 3. “The grand challenge goal is to create these tissues
-      for therapeutic use and, ultimately, at the whole organ scale.”
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202511/mit-dresselhaus-lecture-Bulovic-Lewis-Raman.jpg?itok=KI7UN-ON
-    categories: []
-    publishedAt: 2025-12-09T22:20:00.000Z
-    source: MIT Robotics
-  - title: AI headphones automatically learn who you're talking to—and let you hear
-      them better
-    url: https://techxplore.com/news/2025-12-ai-headphones-automatically-youre.html
-    summary: Holding a conversation in a crowded room often leads to the frustrating
-      "cocktail party problem," or the challenge of separating the voices of
-      conversation partners from a hubbub. It's a mentally taxing situation that
-      can be exacerbated by hearing impairment.
-    imageUrl: null
-    categories:
-      - Hardware
-    publishedAt: 2025-12-09T21:10:01.000Z
-    source: TechXplore — AI & Machine Learning
   - title: AI predicts complex social group behavior using individual attributes
     url: https://techxplore.com/news/2025-12-ai-complex-social-group-behavior.html
     summary: Professor Kijung Shin's research team at the Kim Jaechul Graduate
@@ -47,30 +85,6 @@ articles:
       - Computer Sciences
     publishedAt: 2025-12-09T19:45:12.000Z
     source: TechXplore — Computer Science
-  - title: AI-powered robotic dog sees, remembers and responds with human-like
-      precision in search-and-rescue missions
-    url: https://techxplore.com/news/2025-12-ai-powered-robotic-dog-human.html
-    summary: Meet the robotic dog with a memory like an elephant and the instincts
-      of a seasoned first responder.
-    imageUrl: null
-    categories:
-      - Robotics
-    publishedAt: 2025-12-09T17:00:30.000Z
-    source: TechXplore — Robotics
-  - title: Composite rivets offer lighter, corrosion-free joints for bridges, docks
-      and more
-    url: https://techxplore.com/news/2025-12-composite-rivets-lighter-corrosion-free.html
-    summary: Researchers from Skoltech and Harbin Institute of Technology have
-      devised and tested a new mechanism for joining together the composite
-      parts that make up bridges, the cooling towers of power stations, water
-      treatment facilities, marine terminals, and offshore oil rigs. The
-      solution provides an alternative to the heavy and corrosion-prone metal
-      bolts.
-    imageUrl: null
-    categories:
-      - Engineering
-    publishedAt: 2025-12-09T16:02:36.000Z
-    source: TechXplore — Engineering
   - title: MIT affiliates named 2025 Schmidt Sciences AI2050 Fellows
     url: https://news.mit.edu/2025/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1208
     summary: Two current MIT affiliates and seven additional alumni are among those
@@ -79,36 +93,6 @@ articles:
     categories: []
     publishedAt: 2025-12-08T20:15:00.000Z
     source: MIT Artificial Intelligence
-  - title: Amazon’s “Catalog AI” Product Platform Helps You Shop Smarter
-    url: https://spectrum.ieee.org/abhishek-agrawal-amazon-catalog-ai
-    summary: If you’ve shopped on Amazon in the past few months, you might have
-      noticed it has gotten easier to find what you’re looking for. Listings now
-      have more images, detailed product names, and better descriptions. The
-      website’s predictive search feature uses the listing updates to anticipate
-      needs and suggests a list of items in real time as you type in the search
-      bar.
-    imageUrl: https://spectrum.ieee.org/media-library/smiling-portrait-of-abhishek-agrawal.jpg?id=62288075&width=1245&height=700&coordinates=0%2C161%2C0%2C162
-    categories:
-      - Amazon
-      - Artificial intelligence
-      - Ieee member news
-      - Machine learning
-      - Microsoft
-      - Type:ti
-      - User experience
-    publishedAt: 2025-12-08T19:00:03.000Z
-    source: IEEE Spectrum — AI
-  - title: For the First Time, Mutations in a Single Gene Have Been Linked to Mental
-      Illness
-    url: https://www.wired.com/story/mutations-in-a-single-gene-have-been-linked-to-mental-illness/
-    summary: Research links variations in the gene GRIN2A to a higher risk of
-      developing schizophrenia and other forms of mental illness.
-    imageUrl: https://media.wired.com/photos/6936f402f531b8d4d032a16f/191:100/w_1280,c_limit/GettyImages-2182084501.jpg
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2025-12-08T18:54:05.000Z
-    source: WIRED science
   - title: A Quantum Components Industry Is Emerging
     url: https://spectrum.ieee.org/quantum-components-industry
     summary: The punishingly cold temperatures and fragile quantum states at the
@@ -116,7 +100,7 @@ articles:
       that support them. So far, quantum computing companies have had to solve
       these challenges in-house, but as the field matures, a burgeoning quantum
       components industry is springing up to provide off-the-shelf solutions.
-    imageUrl: https://spectrum.ieee.org/media-library/an-adult-man-carefully-takes-cryogenic-measurements-in-a-lab.jpg?id=62288850&width=1245&height=700&coordinates=0%2C141%2C0%2C141
+    imageUrl: https://spectrum.ieee.org/media-library/an-adult-man-carefully-takes-cryogenic-measurements-in-a-lab.jpg?id=62288850&width=1200&height=800&coordinates=0%2C62%2C0%2C63
     categories:
       - Cryogenics
       - Quantum computing
@@ -124,25 +108,13 @@ articles:
       - Signal processing
     publishedAt: 2025-12-08T13:00:02.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: This tiny implant sends secret messages to the brain
-    url: https://www.sciencedaily.com/releases/2025/12/251208052515.htm
-    summary: Researchers have built a fully implantable device that sends
-      light-based messages directly to the brain. Mice learned to interpret
-      these artificial patterns as meaningful signals, even without touch,
-      sight, or sound. The system uses up to 64 micro-LEDs to create complex
-      neural patterns that resemble natural sensory activity. It could pave the
-      way for next-generation prosthetics and new therapies.
-    imageUrl: https://www.sciencedaily.com/images/1920/wireless-device-brain-light-transmission.webp
-    categories: []
-    publishedAt: 2025-12-08T10:25:15.000Z
-    source: ScienceDaily — Robotics
   - title: "Video Friday: Biorobotics Turns Lobster Tails Into Gripper"
     url: https://spectrum.ieee.org/lobster-biorobotics
     summary: Video Friday is your weekly selection of awesome robotics videos,
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robotic-gripper-with-feather-like-fingers-delicately-holds-a-brown-mushroom-on-a-black-background.jpg?id=62284894&width=1245&height=700&coordinates=0%2C1%2C0%2C1
+    imageUrl: https://spectrum.ieee.org/media-library/robotic-gripper-with-feather-like-fingers-delicately-holds-a-brown-mushroom-on-a-black-background.jpg?id=62284894&width=1200&height=800&coordinates=154%2C0%2C155%2C0
     categories:
       - Robotics
       - Video friday
@@ -163,16 +135,6 @@ articles:
     categories: []
     publishedAt: 2025-12-04T07:16:47.000Z
     source: ScienceDaily — Engineering
-  - title: Scientists just found a way to tell if quantum computers are wrong
-    url: https://www.sciencedaily.com/releases/2025/11/251130205506.htm
-    summary: Researchers unveiled a new technique that validates quantum computer
-      results—especially those from GBS devices—in minutes instead of millennia.
-      Their findings expose unexpected errors in a landmark experiment, offering
-      a crucial step toward truly reliable quantum machines.
-    imageUrl: https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp
-    categories: []
-    publishedAt: 2025-12-01T15:19:09.000Z
-    source: ScienceDaily — Computer Science
   - title: Listen to Protons for Less Than $100
     url: https://spectrum.ieee.org/listen-to-protons-diy-magnetometer
     summary: "When you get an MRI scan, the machine exploits a phenomenon called
@@ -183,7 +145,7 @@ articles:
       at tens to hundreds of megahertz. However, another NMR-based instrument
       involves much lower-frequency oscillations: a proton-precession
       magnetometer, often used to measure Earth’s magnetic field."
-    imageUrl: https://spectrum.ieee.org/media-library/a-pair-of-coil-wound-cylinders-sits-atop-two-milk-crates-wires-connect-them-to-a-circuit-board-connected-to-three-large-12-volt.png?id=62212907&width=1200&height=400&coordinates=0%2C677%2C0%2C677
+    imageUrl: https://spectrum.ieee.org/media-library/a-pair-of-coil-wound-cylinders-sits-atop-two-milk-crates-wires-connect-them-to-a-circuit-board-connected-to-three-large-12-volt.png?id=62212907&width=1200&height=800&coordinates=0%2C315%2C0%2C315
     categories:
       - Citizen science
       - Proton magnetometer
