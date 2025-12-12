@@ -25,6 +25,7 @@ function extractImage(item) {
 
 async function fetchOgImage(url) {
   try {
+    const duration = Date.now() - start;
     const res = await fetch(url);
 
     // Log non-200 cases
