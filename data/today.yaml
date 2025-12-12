@@ -1,8 +1,99 @@
-date: 2025-12-11
+date: 2025-12-12
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Why new kinds of steel are needed to build lead-cooled reactors
+    url: https://techxplore.com/news/2025-12-kinds-steel-cooled-reactors.html
+    summary: Safer operation, better fuel efficiency and lower waste mark
+      lead-cooled nuclear power as a potentially dramatic shift from the
+      water-cooled nuclear stations the world has relied on since the mid 20th
+      century. A recent Swedish study casts new light on how to avoid corrosion
+      in the steel used to build these next-generation nuclear facilities.
+    imageUrl: null
+    categories:
+      - Engineering
+    publishedAt: 2025-12-12T02:30:01.000Z
+    source: TechXplore — Engineering
+  - title: RFK Jr.’s Health Department Is Pondering a National Men’s Health Initiative
+    url: https://www.wired.com/story/rfk-jrs-health-department-is-pondering-a-national-mens-health-initiative/
+    summary: At an FDA discussion of testosterone replacement therapy, a top
+      official called for special health centers to address a “men’s health
+      crisis.” Others called to ease men’s access to hormones.
+    imageUrl: https://media.wired.com/photos/6939e3662ab753fbb0e0f436/191:100/w_1280,c_limit/GettyImages-1433852695.jpg
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2025-12-11T22:11:31.000Z
+    source: WIRED science
+  - title: New method improves the reliability of statistical estimations
+    url: https://techxplore.com/news/2025-12-method-reliability-statistical.html
+    summary: MIT researchers have developed a method that generates more accurate
+      uncertainty measures for certain types of estimation. This could help
+      improve the reliability of data analyses in areas like economics,
+      epidemiology, and environmental sciences.
+    imageUrl: null
+    categories:
+      - Computer Sciences
+    publishedAt: 2025-12-11T20:05:24.000Z
+    source: TechXplore — Computer Science
+  - title: Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds
+    url: https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm
+    summary: "Ghost Robotics is today announcing a major upgrade for their Vision 60
+      quadruped: an arm. Ghost, a company which originated at the GRASP Lab at
+      the University of Pennsylvania, specializes in exceptionally rugged
+      quadrupeds, and while many of its customers use its robots for public
+      safety and disaster relief, it also provides robots to the United States
+      military, which has very specific needs when it comes to keeping humans
+      out of danger."
+    imageUrl: https://spectrum.ieee.org/media-library/robotic-dog-lifting-backpack-with-its-mechanical-arm-in-an-industrial-setting.jpg?id=62304619&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+    categories:
+      - Ghost robotics
+      - Legged robot
+      - Quadrupedal robots
+      - Robotics
+      - Weaponized robots
+      - Military robots
+    publishedAt: 2025-12-11T15:00:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Tiny Chips Could Lead to Giant Power Savings
+    url: https://spectrum.ieee.org/voltage-regulator
+    summary: Even if a GPU in a data center should only require 700 watts to run a
+      large language model, it may realistically need 1,700 watts because of
+      inefficiencies in how electricity reaches it. That’s a problem Peng Zou
+      and his team at startup PowerLattice say they have solved by miniaturizing
+      and repackaging high-voltage regulators.
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-powerlattice-s-newest-chiplet-on-the-pad-of-a-person-s-pointer-finger.jpg?id=62303380&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+    categories:
+      - Data centers
+      - Chiplets
+      - Voltage regulation
+      - Inductors
+      - Gpus
+    publishedAt: 2025-12-11T14:00:02.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Researchers catch atoms standing still inside molten metal
+    url: https://www.sciencedaily.com/releases/2025/12/251210092017.htm
+    summary: Scientists have uncovered that some atoms in liquids don't move at
+      all—even at extreme temperatures—and these anchored atoms dramatically
+      alter the way materials freeze. Using advanced electron microscopy,
+      researchers watched molten metal droplets solidify and found that
+      stationary atoms can trap liquids in tiny “atomic corrals,” keeping them
+      fluid far below their normal freezing point and giving rise to a strange
+      hybrid state of matter.
+    imageUrl: https://www.sciencedaily.com/images/1920/strange-liquid-metal.webp
+    categories: []
+    publishedAt: 2025-12-11T08:15:21.000Z
+    source: ScienceDaily — Engineering
+  - title: New materials could boost the energy efficiency of microelectronics
+    url: https://news.mit.edu/2025/new-materials-could-boost-energy-efficiency-microelectronics-1211
+    summary: MIT researchers have developed a new fabrication method that could
+      enable the production of more energy efficient electronics by stacking
+      multiple functional components on top of one existing circuit.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-Memory-Transistors-01-press.jpg?itok=hNQjmJPU
+    categories: []
+    publishedAt: 2025-12-11T05:00:00.000Z
+    source: MIT Artificial Intelligence
   - title: Why Vision AI Models Fail
     url: https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/
     summary: Prevent costly AI failures in production by mastering data-centric
@@ -16,19 +107,6 @@ articles:
       - Data
     publishedAt: 2025-12-10T20:33:57.000Z
     source: IEEE Spectrum — AI
-  - title: "Seamless tech: 'OriStitch' threads computation and 3D textiles"
-    url: https://techxplore.com/news/2025-12-seamless-tech-oristitch-threads-3d.html
-    summary: Could a flat piece of fabric hold a 3D shape, the way paper does in
-      origami? Aiming to find out, researchers from the Cornell Ann S. Bowers
-      College of Computing and Information Science developed OriStitch, a new
-      software and fabrication system that takes simple 3D objects—a toy or a
-      teapot, say—and spins them into a design for a textile version using
-      carefully placed stitches in fabric.
-    imageUrl: null
-    categories:
-      - Software
-    publishedAt: 2025-12-10T20:16:13.000Z
-    source: TechXplore — Engineering
   - title: Vine-inspired robotic gripper gently lifts heavy and fragile objects
     url: https://techxplore.com/news/2025-12-vine-robotic-gripper-gently-heavy.html
     summary: In the horticultural world, some vines are especially grabby. As they
@@ -39,18 +117,6 @@ articles:
       - Robotics
     publishedAt: 2025-12-10T19:52:27.000Z
     source: TechXplore — Robotics
-  - title: Fully digital design paves the way for scalable probabilistic computing
-    url: https://techxplore.com/news/2025-12-fully-digital-paves-scalable-probabilistic.html
-    summary: Artificial intelligence and machine learning could become dramatically
-      more efficient, thanks to a new type of computer component developed by
-      researchers at the University of California, Santa Barbara and Tohoku
-      University, in collaboration with the Taiwan Semiconductor Manufacturing
-      Company (TSMC).
-    imageUrl: null
-    categories:
-      - Hardware
-    publishedAt: 2025-12-10T17:21:22.000Z
-    source: TechXplore — AI & Machine Learning
   - title: Scientists reveal a tiny brain chip that streams thoughts in real time
     url: https://www.sciencedaily.com/releases/2025/12/251209234139.htm
     summary: BISC is an ultra-thin neural implant that creates a high-bandwidth
@@ -64,77 +130,6 @@ articles:
     categories: []
     publishedAt: 2025-12-10T04:54:39.000Z
     source: ScienceDaily — Robotics
-  - title: Intel Takes Major Step in Plan to Acquire Chip Startup SambaNova
-    url: https://www.wired.com/story/intel-signs-term-sheet-sambanova-ai/
-    summary: The two chip companies have signed a term sheet, according to sources
-      with direct knowledge of the agreement.
-    imageUrl: https://media.wired.com/photos/69388d00f279e8228fedc145/191:100/w_1280,c_limit/Intel-Signed-Term-Sheet-to-Buy-Chip-Startup-SambaNova-Business-2235610710.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2025-12-09T23:08:59.000Z
-    source: WIRED (AI)
-  - title: AI predicts complex social group behavior using individual attributes
-    url: https://techxplore.com/news/2025-12-ai-complex-social-group-behavior.html
-    summary: Professor Kijung Shin's research team at the Kim Jaechul Graduate
-      School of AI has developed an AI technology that predicts complex social
-      group behavior by analyzing how individual attributes such as age and role
-      influence group relationships.
-    imageUrl: null
-    categories:
-      - Computer Sciences
-    publishedAt: 2025-12-09T19:45:12.000Z
-    source: TechXplore — Computer Science
-  - title: MIT affiliates named 2025 Schmidt Sciences AI2050 Fellows
-    url: https://news.mit.edu/2025/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1208
-    summary: Two current MIT affiliates and seven additional alumni are among those
-      named to the 2025 cohort of AI2050 Fellows.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/ai2050-fellows-2025_0.png?itok=TOImdXxR
-    categories: []
-    publishedAt: 2025-12-08T20:15:00.000Z
-    source: MIT Artificial Intelligence
-  - title: A Quantum Components Industry Is Emerging
-    url: https://spectrum.ieee.org/quantum-components-industry
-    summary: The punishingly cold temperatures and fragile quantum states at the
-      heart of a quantum computer put extreme constraints on the electronics
-      that support them. So far, quantum computing companies have had to solve
-      these challenges in-house, but as the field matures, a burgeoning quantum
-      components industry is springing up to provide off-the-shelf solutions.
-    imageUrl: https://spectrum.ieee.org/media-library/an-adult-man-carefully-takes-cryogenic-measurements-in-a-lab.jpg?id=62288850&width=1200&height=800&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Cryogenics
-      - Quantum computing
-      - Electronics
-      - Signal processing
-    publishedAt: 2025-12-08T13:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: "Video Friday: Biorobotics Turns Lobster Tails Into Gripper"
-    url: https://spectrum.ieee.org/lobster-biorobotics
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robotic-gripper-with-feather-like-fingers-delicately-holds-a-brown-mushroom-on-a-black-background.jpg?id=62284894&width=1200&height=800&coordinates=154%2C0%2C155%2C0
-    categories:
-      - Robotics
-      - Video friday
-      - Biorobotics
-      - Humanoid robots
-      - Quadruped robots
-    publishedAt: 2025-12-05T17:30:02.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Engineered imperfections supercharge graphene’s power
-    url: https://www.sciencedaily.com/releases/2025/12/251203004738.htm
-    summary: Researchers have discovered a new way to grow graphene that
-      deliberately adds structural defects to enhance its usefulness in
-      electronics, sensors, catalysts, and more. Using a specially shaped
-      molecule called azupyrene, scientists can produce graphene films rich in
-      beneficial 5–7 ring defects—imperfections that make the material more
-      interactive, more magnetic, and more electronically versatile.
-    imageUrl: https://www.sciencedaily.com/images/1920/supercharged-graphene-nanotechnology-breakthrough.webp
-    categories: []
-    publishedAt: 2025-12-04T07:16:47.000Z
-    source: ScienceDaily — Engineering
   - title: Listen to Protons for Less Than $100
     url: https://spectrum.ieee.org/listen-to-protons-diy-magnetometer
     summary: "When you get an MRI scan, the machine exploits a phenomenon called
