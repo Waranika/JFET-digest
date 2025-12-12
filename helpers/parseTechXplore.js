@@ -24,6 +24,7 @@ function extractImage(item) {
 }
 
 async function fetchOgImage(url) {
+  const start = Date.now();
   try {
     const duration = Date.now() - start;
     const res = await fetch(url);
