@@ -3,75 +3,90 @@ subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Why new kinds of steel are needed to build lead-cooled reactors
-    url: https://techxplore.com/news/2025-12-kinds-steel-cooled-reactors.html
-    summary: Safer operation, better fuel efficiency and lower waste mark
-      lead-cooled nuclear power as a potentially dramatic shift from the
-      water-cooled nuclear stations the world has relied on since the mid 20th
-      century. A recent Swedish study casts new light on how to avoid corrosion
-      in the steel used to build these next-generation nuclear facilities.
-    imageUrl: null
-    categories:
-      - Engineering
-    publishedAt: 2025-12-12T02:30:01.000Z
-    source: TechXplore — Engineering
-  - title: RFK Jr.’s Health Department Is Pondering a National Men’s Health Initiative
-    url: https://www.wired.com/story/rfk-jrs-health-department-is-pondering-a-national-mens-health-initiative/
-    summary: At an FDA discussion of testosterone replacement therapy, a top
-      official called for special health centers to address a “men’s health
-      crisis.” Others called to ease men’s access to hormones.
-    imageUrl: https://media.wired.com/photos/6939e3662ab753fbb0e0f436/191:100/w_1280,c_limit/GettyImages-1433852695.jpg
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2025-12-11T22:11:31.000Z
-    source: WIRED science
-  - title: New method improves the reliability of statistical estimations
-    url: https://techxplore.com/news/2025-12-method-reliability-statistical.html
-    summary: MIT researchers have developed a method that generates more accurate
-      uncertainty measures for certain types of estimation. This could help
-      improve the reliability of data analyses in areas like economics,
-      epidemiology, and environmental sciences.
+  - title: "'Periodic table' for AI methods aims to drive innovation"
+    url: https://techxplore.com/news/2025-12-periodic-table-ai-methods-aims.html
+    summary: Artificial intelligence is increasingly used to integrate and analyze
+      multiple types of data formats, such as text, images, audio and video. One
+      challenge slowing advances in multimodal AI, however, is the process of
+      choosing the algorithmic method best aligned to the specific task an AI
+      system needs to perform.
     imageUrl: null
     categories:
       - Computer Sciences
-    publishedAt: 2025-12-11T20:05:24.000Z
+    publishedAt: 2025-12-12T17:00:15.000Z
     source: TechXplore — Computer Science
-  - title: Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds
-    url: https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm
-    summary: "Ghost Robotics is today announcing a major upgrade for their Vision 60
-      quadruped: an arm. Ghost, a company which originated at the GRASP Lab at
-      the University of Pennsylvania, specializes in exceptionally rugged
-      quadrupeds, and while many of its customers use its robots for public
-      safety and disaster relief, it also provides robots to the United States
-      military, which has very specific needs when it comes to keeping humans
-      out of danger."
-    imageUrl: https://spectrum.ieee.org/media-library/robotic-dog-lifting-backpack-with-its-mechanical-arm-in-an-industrial-setting.jpg?id=62304619&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+  - title: "Video Friday: Robot Dog Shows Off Its Muscles"
+    url: https://spectrum.ieee.org/musculoskeletal-robot-dog
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/person-interacts-with-a-large-robotic-skeleton-model-of-a-canine-on-wheeled-legs-outdoors.png?id=62313004&width=1200&height=800&coordinates=30%2C0%2C30%2C0
     categories:
-      - Ghost robotics
-      - Legged robot
-      - Quadrupedal robots
       - Robotics
-      - Weaponized robots
-      - Military robots
-    publishedAt: 2025-12-11T15:00:02.000Z
+      - Video friday
+      - Quadruped robots
+      - Ai robots
+      - Vision robotics
+    publishedAt: 2025-12-12T17:00:02.000Z
     source: IEEE Spectrum — Robotics
-  - title: Tiny Chips Could Lead to Giant Power Savings
-    url: https://spectrum.ieee.org/voltage-regulator
-    summary: Even if a GPU in a data center should only require 700 watts to run a
-      large language model, it may realistically need 1,700 watts because of
-      inefficiencies in how electricity reaches it. That’s a problem Peng Zou
-      and his team at startup PowerLattice say they have solved by miniaturizing
-      and repackaging high-voltage regulators.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-powerlattice-s-newest-chiplet-on-the-pad-of-a-person-s-pointer-finger.jpg?id=62303380&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+  - title: Organic solar cells achieve 20.02% efficiency with new giant acceptors
+    url: https://techxplore.com/news/2025-12-solar-cells-efficiency-giant-acceptors.html
+    summary: A research team has developed novel giant acceptors with an oxygenated
+      linker, enabling the creation of highly efficient nonhalogenated-processed
+      organic solar cells (OSCs), with a power conversion efficiency (PCE) of up
+      to 20.02%.
+    imageUrl: null
     categories:
-      - Data centers
-      - Chiplets
-      - Voltage regulation
-      - Inductors
-      - Gpus
-    publishedAt: 2025-12-11T14:00:02.000Z
+      - Engineering
+    publishedAt: 2025-12-12T16:53:14.000Z
+    source: TechXplore — Engineering
+  - title: You’re Thinking About AI and Water All Wrong
+    url: https://www.wired.com/story/karen-hao-empire-of-ai-water-use-statistics/
+    summary: Fears about AI data centers’ water use have exploded. Experts say the
+      reality is far more complicated than people think.
+    imageUrl: https://media.wired.com/photos/693a15837657bddf72dde582/191:100/w_1280,c_limit/Backchannel_karen_hao_ai_water.jpg
+    categories:
+      - Business
+      - Business / Tech Culture
+    publishedAt: 2025-12-12T16:00:00.000Z
+    source: WIRED (AI)
+  - title: How the RESISTORS Put Computing into 1960s Counter-culture
+    url: https://spectrum.ieee.org/teenage-hackers
+    summary: In late April of 1968, a computer conference in Atlantic City, N.J.,
+      got off to a rocky start. A strike by telephone operators prevented
+      exhibitors from linking their terminals to off-site computers, as
+      union-sympathetic workers refused to wire up the necessary connections.
+      Companies’ displays were effectively dead.
+    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-photo-of-teenagers-sitting-and-lying-on-a-rug-one-of-them-is-typing-on-a-computer-keyboard.jpg?id=62304521&width=1200&height=600&coordinates=0%2C1544%2C0%2C1544
+    categories:
+      - Hypertext
+      - Pdp-8
+      - History of computing
+      - Art and technology
+      - Ted nelson
+      - Computer hacking
+    publishedAt: 2025-12-12T13:26:23.000Z
     source: IEEE Spectrum — Computing & Chips
+  - title: People Are Already Taking This Unapproved New Weight-Loss Drug
+    url: https://www.wired.com/story/people-are-already-taking-this-unapproved-new-weight-loss-drug-triple-g-retatrutide/
+    summary: Retatrutide, originally developed by Eli Lilly, has found a loyal fan
+      base—even though clinical trials of the drug still haven’t finished.
+    imageUrl: https://media.wired.com/photos/68f7c5f862883d2cd39ed9ed/191:100/w_1280,c_limit/101625_Retatrutide.jpg
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2025-12-12T11:30:00.000Z
+    source: WIRED science
+  - title: New method improves the reliability of statistical estimations
+    url: https://news.mit.edu/2025/new-method-improves-reliability-statistical-estimations-1212
+    summary: Let’s say an environmental scientist is studying whether exposure to
+      air pollution is associated with lower birth weights in a particular
+      county.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-SmoothSailing-01-press.jpg?itok=7_MdZ9Pf
+    categories: []
+    publishedAt: 2025-12-12T05:00:00.000Z
+    source: MIT Artificial Intelligence
   - title: Researchers catch atoms standing still inside molten metal
     url: https://www.sciencedaily.com/releases/2025/12/251210092017.htm
     summary: Scientists have uncovered that some atoms in liquids don't move at
@@ -85,15 +100,6 @@ articles:
     categories: []
     publishedAt: 2025-12-11T08:15:21.000Z
     source: ScienceDaily — Engineering
-  - title: New materials could boost the energy efficiency of microelectronics
-    url: https://news.mit.edu/2025/new-materials-could-boost-energy-efficiency-microelectronics-1211
-    summary: MIT researchers have developed a new fabrication method that could
-      enable the production of more energy efficient electronics by stacking
-      multiple functional components on top of one existing circuit.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-Memory-Transistors-01-press.jpg?itok=hNQjmJPU
-    categories: []
-    publishedAt: 2025-12-11T05:00:00.000Z
-    source: MIT Artificial Intelligence
   - title: Why Vision AI Models Fail
     url: https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/
     summary: Prevent costly AI failures in production by mastering data-centric
