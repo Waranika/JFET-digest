@@ -1,20 +1,85 @@
-date: 2025-12-12
+date: 2025-12-13
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "'Periodic table' for AI methods aims to drive innovation"
-    url: https://techxplore.com/news/2025-12-periodic-table-ai-methods-aims.html
-    summary: Artificial intelligence is increasingly used to integrate and analyze
-      multiple types of data formats, such as text, images, audio and video. One
-      challenge slowing advances in multimodal AI, however, is the process of
-      choosing the algorithmic method best aligned to the specific task an AI
-      system needs to perform.
+  - title: Enabling small language models to solve complex reasoning tasks
+    url: https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212
+    summary: As language models (LMs) improve at tasks like image generation, trivia
+      questions, and simple math, you might think that human-like reasoning is
+      around the corner. In reality, they still trail us by a wide margin on
+      complex tasks. Try playing Sudoku with one, for instance, where you fill
+      in numbers one through nine in such a way that each appears only once
+      across the columns, rows, and sections of a nine-by-nine grid. Your AI
+      opponent will either fail to fill in boxes on its own or do so
+      inefficiently, although it can verify if you’ve filled yours out
+      correctly.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/self-steering-model-mit-csail-00_0.png?itok=v7ciylOd
+    categories: []
+    publishedAt: 2025-12-12T20:30:00.000Z
+    source: MIT Artificial Intelligence
+  - title: AMD CEO Lisa Su Isn’t Afraid of the Competition
+    url: https://www.wired.com/story/uncanny-valley-podcast-amd-ceo-lisa-su-isnt-afraid-of-the-competition/
+    summary: In this episode of Uncanny Valley we take you through our recent
+      conversation with Lisa Su and go behind the scenes of our Big Interview
+      event.
+    imageUrl: https://media.wired.com/photos/693a07b2584a0ef96634d76e/191:100/w_1280,c_limit/business_uncanny_valley_lisa_su.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2025-12-12T20:01:14.000Z
+    source: WIRED (AI)
+  - title: New system efficiently explains AI judgments in real-time
+    url: https://techxplore.com/news/2025-12-efficiently-ai-judgments-real.html
+    summary: A research team led by Professor Jaesik Choi of KAIST's Kim Jaechul
+      Graduate School of AI, in collaboration with KakaoBank Corp, has developed
+      an accelerated explanation technology that can explain the basis of an
+      artificial intelligence (AI) model's judgment in real-time.
     imageUrl: null
     categories:
       - Computer Sciences
-    publishedAt: 2025-12-12T17:00:15.000Z
+    publishedAt: 2025-12-12T19:40:04.000Z
     source: TechXplore — Computer Science
+  - title: Humanoid robots take center stage at Silicon Valley summit, but
+      skepticism remains
+    url: https://techxplore.com/news/2025-12-humanoid-robots-center-stage-silicon.html
+    summary: Robots have long been seen as a bad bet for Silicon Valley
+      investors—too complicated, capital-intensive and "boring, honestly," says
+      venture capitalist Modar Alaoui.
+    imageUrl: null
+    categories:
+      - Robotics
+    publishedAt: 2025-12-12T18:50:28.000Z
+    source: TechXplore — Robotics
+  - title: "Beyond mimicry: Fiber-type artificial muscles outperform biological
+      muscles"
+    url: https://techxplore.com/news/2025-12-mimicry-fiber-artificial-muscles-outperform.html
+    summary: Biological muscles act as flexible actuators, generating force
+      naturally and with an impressive range of motion. Unsurprisingly,
+      scientists and engineers have been striving to build artificial muscles
+      that mimic these abilities. A new review study, published in Nature, takes
+      a deep dive into recent developments surrounding fiber-type artificial
+      muscles, one of the most life-like types of artificial muscles developed
+      so far.
+    imageUrl: null
+    categories:
+      - Robotics
+    publishedAt: 2025-12-12T18:50:07.000Z
+    source: TechXplore — Engineering
+  - title: New MIT program to train military leaders for the AI age
+    url: https://news.mit.edu/2025/applied-ai-program-train-military-leaders-ai-age-1212
+    summary: Artificial intelligence can enhance decision-making and enable action
+      with reduced risk and greater precision, making it a critical tool for
+      national security. A new program offered jointly by the MIT departments of
+      Mechanical Engineering (Course 2, MechE) and Electrical Engineering and
+      Computer Science (Course 6, EECS) will provide breadth and depth in
+      technical studies for naval officers, as well as a path for non-naval
+      officers studying at MIT, to grow in their understanding of applied AI for
+      naval and military applications.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-2023-2N-Commencement.JPG?itok=J7W9sSOO
+    categories: []
+    publishedAt: 2025-12-12T18:10:00.000Z
+    source: MIT Engineering
   - title: "Video Friday: Robot Dog Shows Off Its Muscles"
     url: https://spectrum.ieee.org/musculoskeletal-robot-dog
     summary: Video Friday is your weekly selection of awesome robotics videos,
@@ -30,27 +95,6 @@ articles:
       - Vision robotics
     publishedAt: 2025-12-12T17:00:02.000Z
     source: IEEE Spectrum — Robotics
-  - title: Organic solar cells achieve 20.02% efficiency with new giant acceptors
-    url: https://techxplore.com/news/2025-12-solar-cells-efficiency-giant-acceptors.html
-    summary: A research team has developed novel giant acceptors with an oxygenated
-      linker, enabling the creation of highly efficient nonhalogenated-processed
-      organic solar cells (OSCs), with a power conversion efficiency (PCE) of up
-      to 20.02%.
-    imageUrl: null
-    categories:
-      - Engineering
-    publishedAt: 2025-12-12T16:53:14.000Z
-    source: TechXplore — Engineering
-  - title: You’re Thinking About AI and Water All Wrong
-    url: https://www.wired.com/story/karen-hao-empire-of-ai-water-use-statistics/
-    summary: Fears about AI data centers’ water use have exploded. Experts say the
-      reality is far more complicated than people think.
-    imageUrl: https://media.wired.com/photos/693a15837657bddf72dde582/191:100/w_1280,c_limit/Backchannel_karen_hao_ai_water.jpg
-    categories:
-      - Business
-      - Business / Tech Culture
-    publishedAt: 2025-12-12T16:00:00.000Z
-    source: WIRED (AI)
   - title: How the RESISTORS Put Computing into 1960s Counter-culture
     url: https://spectrum.ieee.org/teenage-hackers
     summary: In late April of 1968, a computer conference in Atlantic City, N.J.,
@@ -58,7 +102,7 @@ articles:
       exhibitors from linking their terminals to off-site computers, as
       union-sympathetic workers refused to wire up the necessary connections.
       Companies’ displays were effectively dead.
-    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-photo-of-teenagers-sitting-and-lying-on-a-rug-one-of-them-is-typing-on-a-computer-keyboard.jpg?id=62304521&width=1200&height=600&coordinates=0%2C1544%2C0%2C1544
+    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-photo-of-teenagers-sitting-and-lying-on-a-rug-one-of-them-is-typing-on-a-computer-keyboard.jpg?id=62304521&width=1245&height=700&coordinates=0%2C1424%2C0%2C1425
     categories:
       - Hypertext
       - Pdp-8
@@ -78,15 +122,6 @@ articles:
       - Science / Health
     publishedAt: 2025-12-12T11:30:00.000Z
     source: WIRED science
-  - title: New method improves the reliability of statistical estimations
-    url: https://news.mit.edu/2025/new-method-improves-reliability-statistical-estimations-1212
-    summary: Let’s say an environmental scientist is studying whether exposure to
-      air pollution is associated with lower birth weights in a particular
-      county.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-SmoothSailing-01-press.jpg?itok=7_MdZ9Pf
-    categories: []
-    publishedAt: 2025-12-12T05:00:00.000Z
-    source: MIT Artificial Intelligence
   - title: Researchers catch atoms standing still inside molten metal
     url: https://www.sciencedaily.com/releases/2025/12/251210092017.htm
     summary: Scientists have uncovered that some atoms in liquids don't move at
@@ -114,15 +149,14 @@ articles:
     publishedAt: 2025-12-10T20:33:57.000Z
     source: IEEE Spectrum — AI
   - title: Vine-inspired robotic gripper gently lifts heavy and fragile objects
-    url: https://techxplore.com/news/2025-12-vine-robotic-gripper-gently-heavy.html
+    url: https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210
     summary: In the horticultural world, some vines are especially grabby. As they
       grow, the woody tendrils can wrap around obstacles with enough force to
       pull down entire fences and trees.
-    imageUrl: null
-    categories:
-      - Robotics
-    publishedAt: 2025-12-10T19:52:27.000Z
-    source: TechXplore — Robotics
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-VineRobot-01-press.jpg?itok=I74qLvMT
+    categories: []
+    publishedAt: 2025-12-10T19:00:00.000Z
+    source: MIT Robotics
   - title: Scientists reveal a tiny brain chip that streams thoughts in real time
     url: https://www.sciencedaily.com/releases/2025/12/251209234139.htm
     summary: BISC is an ultra-thin neural implant that creates a high-bandwidth
