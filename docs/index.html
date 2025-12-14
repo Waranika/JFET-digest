@@ -14,62 +14,81 @@
 
           body {
             margin: 0;
-            padding: 24px 16px;
-            background: #f5f5f5;
+            padding: 0;
+            background: #ffffff;
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
                          Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue',
                          Arial, sans-serif;
           }
 
           .container {
-            max-width: 640px;
+            max-width: 760px;
             margin: 0 auto;
-            background: #ffffff;
-            border-radius: 8px;
-            padding: 24px;
+            padding: 60px 72px;
           }
 
           .header {
-            font-size: 22px;
-            font-weight: 600;
-            letter-spacing: 0.06em;
-            text-transform: uppercase;
-            margin-bottom: 22px;
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 40px;
+            text-align: center;
+            color: #000000;
           }
 
           .article-item {
-            padding: 28px 0;
-            border-bottom: 1px solid #eeeeee;
+            margin-bottom: 0;
+            border-bottom: 1px solid #e0e0e0;
           }
 
           .article-item:last-child {
             border-bottom: none;
           }
 
+          .article-header {
+            padding: 20px 0;
+            cursor: pointer;
+            transition: background-color 0.2s;
+          }
+
+          .article-header:hover {
+            background-color: #fafafa;
+          }
+
           .article-title {
-            margin: 0 0 4px 0;
-            font-size: 19px;
-            line-height: 1.35;
+            margin: 0 0 8px 0;
+            font-size: 18px;
+            line-height: 1.4;
             font-weight: 600;
-            letter-spacing: 0.01em;
-          }
-
-          .article-title a {
-            color: #111111;
-            text-decoration: none;
-          }
-
-          .article-title a:hover {
-            color: #0066cc;
+            color: #000000;
           }
 
           .article-meta {
-            margin: 0 0 14px 0;
-            font-size: 11px;
+            font-size: 12px;
             line-height: 1.4;
-            color: #999999;
+            color: #666666;
             text-transform: uppercase;
-            letter-spacing: 0.12em;
+            letter-spacing: 0.05em;
+          }
+
+          .article-content {
+            display: none;
+            padding: 0 0 24px 0;
+            animation: slideDown 0.3s ease-out;
+          }
+
+          .article-content.expanded {
+            display: block;
+          }
+
+          @keyframes slideDown {
+            from {
+              opacity: 0;
+              transform: translateY(-10px);
+            }
+            to {
+              opacity: 1;
+              transform: translateY(0);
+            }
           }
 
           .article-image {
@@ -77,59 +96,68 @@
             width: 100%;
             max-width: 100%;
             border-radius: 4px;
-            margin: 0 0 12px 0;
+            margin: 0 0 16px 0;
           }
 
           .article-snippet {
-            margin: 0 0 8px 0;
-            font-size: 13px;
+            margin: 0 0 12px 0;
+            font-size: 14px;
             line-height: 1.6;
             color: #333333;
           }
 
           .article-link {
             margin: 0;
-            font-size: 12px;
+            font-size: 13px;
           }
 
           .article-link a {
-            color: #999999;
+            color: #666666;
             text-decoration: none;
             font-weight: 500;
-            letter-spacing: 0.04em;
+            letter-spacing: 0.02em;
             text-transform: uppercase;
-            font-size: 11px;
+            font-size: 12px;
           }
 
           .article-link a:hover {
-            color: #0066cc;
+            color: #000000;
           }
 
           .no-articles {
             padding: 40px 0;
             text-align: center;
-            color: #555555;
+            color: #666666;
           }
 
           .no-articles p {
             font-size: 14px;
           }
 
-          .footer {
-            margin-top: 24px;
-            padding-top: 12px;
-            border-top: 1px solid #eeeeee;
-            font-size: 11px;
-            color: #999999;
-            line-height: 1.5;
-          }
-
           @media (max-width: 680px) {
             .container {
-              border-radius: 0;
+              padding: 40px 16px;
+            }
+
+            .article-title {
+              font-size: 16px;
             }
           }
         </style>
+        <script>
+          function toggleArticle(index) {
+            const content = document.getElementById('article-' + index);
+            if (content.classList.contains('expanded')) {
+              content.classList.remove('expanded');
+            } else {
+              // Close all other articles
+              document.querySelectorAll('.article-content').forEach(el => {
+                el.classList.remove('expanded');
+              });
+              content.classList.add('expanded');
+            }
+          }
+        </script>
       </head>
       <body>
         <div class="container">
@@ -140,245 +168,291 @@
           <main>
             
             <article class="article-item">
-              <h2 class="article-title">
-                <a href="https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/">For the First Time, AI Analyzes Language as Well as a Human Expert</a>
-              </h2>
-
-              <div class="article-meta">
-                14 Dec 2025 &nbsp; | &nbsp; Science
+              <div class="article-header" onclick="toggleArticle(0)">
+                <h2 class="article-title">AI agents debate their way to improved mathematical reasoning</h2>
+                <div class="article-meta">
+                  14 DEC 2025 &nbsp; | &nbsp; COMPUTER SCIENCES
+                </div>
               </div>
 
-              <img src="https://media.wired.com/photos/69380ff2c2102f279da71d1b/191:100/w_1280,c_limit/Metalinguistics-cr-Robert-Neubecker-Lede.jpeg" alt="" class="article-image" />
+              <div class="article-content" id="article-0">
+                <img src="https://scx2.b-cdn.net/gfx/news/hires/2025/new-framework-improves.jpg" alt="" class="article-image" />
 
-              <p class="article-snippet">If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?</p>
+                <p class="article-snippet">Large language models (LLMs), artificial intelligence (AI) systems that can process and generate texts in various languages, are now widely used worldwide to create written content, source information and even to code websites or applications. While these…</p>
 
-              <p class="article-link">
-                <a href="https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/">Read the full article →</a>
-              </p>
+                <p class="article-link">
+                  <a href="https://techxplore.com/news/2025-12-ai-agents-debate-mathematical.html" target="_blank">Read the full article →</a>
+                </p>
+              </div>
             </article>
           
             <article class="article-item">
-              <h2 class="article-title">
-                <a href="https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212">Enabling small language models to solve complex reasoning tasks</a>
-              </h2>
-
-              <div class="article-meta">
-                12 Dec 2025 &nbsp; | &nbsp; MIT Artificial Intelligence
+              <div class="article-header" onclick="toggleArticle(1)">
+                <h2 class="article-title">AI finds a hidden stress signal inside routine CT scans</h2>
+                <div class="article-meta">
+                  14 DEC 2025 &nbsp; | &nbsp; SCIENCEDAILY — ROBOTICS
+                </div>
               </div>
 
-              <img src="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/self-steering-model-mit-csail-00_0.png?itok=v7ciylOd" alt="" class="article-image" />
+              <div class="article-content" id="article-1">
+                <img src="https://www.sciencedaily.com/images/1920/human-adrenal-glands-scan.webp" alt="" class="article-image" />
 
-              <p class="article-snippet">As language models (LMs) improve at tasks like image generation, trivia questions, and simple math, you might think that human-like reasoning is around the corner. In reality, they still trail us by a wide margin on complex tasks. Try playing Sudoku with one,…</p>
+                <p class="article-snippet">Researchers used a deep learning AI model to uncover the first imaging-based biomarker of chronic stress by measuring adrenal gland volume on routine CT scans. This new metric, the Adrenal Volume Index, correlates strongly with cortisol levels, allostatic…</p>
 
-              <p class="article-link">
-                <a href="https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212">Read the full article →</a>
-              </p>
+                <p class="article-link">
+                  <a href="https://www.sciencedaily.com/releases/2025/12/251213032615.htm" target="_blank">Read the full article →</a>
+                </p>
+              </div>
             </article>
           
             <article class="article-item">
-              <h2 class="article-title">
-                <a href="https://techxplore.com/news/2025-12-efficiently-ai-judgments-real.html">New system efficiently explains AI judgments in real-time</a>
-              </h2>
-
-              <div class="article-meta">
-                12 Dec 2025 &nbsp; | &nbsp; Computer Sciences
+              <div class="article-header" onclick="toggleArticle(2)">
+                <h2 class="article-title">Smart Tiles Make Crowd Counting Easy</h2>
+                <div class="article-meta">
+                  14 DEC 2025 &nbsp; | &nbsp; CROWD ANALYSIS
+                </div>
               </div>
 
-              
+              <div class="article-content" id="article-2">
+                <img src="https://spectrum.ieee.org/media-library/footprints-against-a-grid-lined-background.jpg?id=62346893&width=1245&height=700&coordinates=0%2C187%2C0%2C188" alt="" class="article-image" />
 
-              <p class="article-snippet">A research team led by Professor Jaesik Choi of KAIST's Kim Jaechul Graduate School of AI, in collaboration with KakaoBank Corp, has developed an accelerated explanation technology that can explain the basis of an artificial intelligence (AI) model's judgment…</p>
+                <p class="article-snippet">This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.</p>
 
-              <p class="article-link">
-                <a href="https://techxplore.com/news/2025-12-efficiently-ai-judgments-real.html">Read the full article →</a>
-              </p>
+                <p class="article-link">
+                  <a href="https://spectrum.ieee.org/crowd-monitoring-smart-tiles-iot" target="_blank">Read the full article →</a>
+                </p>
+              </div>
             </article>
           
             <article class="article-item">
-              <h2 class="article-title">
-                <a href="https://techxplore.com/news/2025-12-humanoid-robots-center-stage-silicon.html">Humanoid robots take center stage at Silicon Valley summit, but skepticism remains</a>
-              </h2>
-
-              <div class="article-meta">
-                12 Dec 2025 &nbsp; | &nbsp; Robotics
+              <div class="article-header" onclick="toggleArticle(3)">
+                <h2 class="article-title">How Do Astronomers Find Planets in Other Solar Systems?</h2>
+                <div class="article-meta">
+                  14 DEC 2025 &nbsp; | &nbsp; SCIENCE
+                </div>
               </div>
 
-              
+              <div class="article-content" id="article-3">
+                <img src="https://media.wired.com/photos/693c7420d9838445ae310cf3/191:100/w_1280,c_limit/How-Can-We-Find-Exoplanets-Science-1237974418.jpg" alt="" class="article-image" />
 
-              <p class="article-snippet">Robots have long been seen as a bad bet for Silicon Valley investors—too complicated, capital-intensive and "boring, honestly," says venture capitalist Modar Alaoui.</p>
+                <p class="article-snippet">Even the best telescopes can’t see exoplanets. It’s all about watching for jiggly stars, blue shifts, and transits.</p>
 
-              <p class="article-link">
-                <a href="https://techxplore.com/news/2025-12-humanoid-robots-center-stage-silicon.html">Read the full article →</a>
-              </p>
+                <p class="article-link">
+                  <a href="https://www.wired.com/story/how-do-astronomers-find-planets-in-other-solar-systems/" target="_blank">Read the full article →</a>
+                </p>
+              </div>
             </article>
           
             <article class="article-item">
-              <h2 class="article-title">
-                <a href="https://techxplore.com/news/2025-12-mimicry-fiber-artificial-muscles-outperform.html">Beyond mimicry: Fiber-type artificial muscles outperform biological muscles</a>
-              </h2>
-
-              <div class="article-meta">
-                12 Dec 2025 &nbsp; | &nbsp; Robotics
+              <div class="article-header" onclick="toggleArticle(4)">
+                <h2 class="article-title">For the First Time, AI Analyzes Language as Well as a Human Expert</h2>
+                <div class="article-meta">
+                  14 DEC 2025 &nbsp; | &nbsp; SCIENCE
+                </div>
               </div>
 
-              
+              <div class="article-content" id="article-4">
+                <img src="https://media.wired.com/photos/69380ff2c2102f279da71d1b/191:100/w_1280,c_limit/Metalinguistics-cr-Robert-Neubecker-Lede.jpeg" alt="" class="article-image" />
 
-              <p class="article-snippet">Biological muscles act as flexible actuators, generating force naturally and with an impressive range of motion. Unsurprisingly, scientists and engineers have been striving to build artificial muscles that mimic these abilities. A new review study, published…</p>
+                <p class="article-snippet">If language is what makes us human, what does it mean now that large language models have gained “metalinguistic” abilities?</p>
 
-              <p class="article-link">
-                <a href="https://techxplore.com/news/2025-12-mimicry-fiber-artificial-muscles-outperform.html">Read the full article →</a>
-              </p>
+                <p class="article-link">
+                  <a href="https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/" target="_blank">Read the full article →</a>
+                </p>
+              </div>
             </article>
           
             <article class="article-item">
-              <h2 class="article-title">
-                <a href="https://news.mit.edu/2025/applied-ai-program-train-military-leaders-ai-age-1212">New MIT program to train military leaders for the AI age</a>
-              </h2>
-
-              <div class="article-meta">
-                12 Dec 2025 &nbsp; | &nbsp; MIT Engineering
+              <div class="article-header" onclick="toggleArticle(5)">
+                <h2 class="article-title">Enabling small language models to solve complex reasoning tasks</h2>
+                <div class="article-meta">
+                  12 DEC 2025 &nbsp; | &nbsp; MIT ARTIFICIAL INTELLIGENCE
+                </div>
               </div>
 
-              <img src="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-2023-2N-Commencement.JPG?itok=J7W9sSOO" alt="" class="article-image" />
+              <div class="article-content" id="article-5">
+                <img src="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/self-steering-model-mit-csail-00_0.png?itok=v7ciylOd" alt="" class="article-image" />
 
-              <p class="article-snippet">Artificial intelligence can enhance decision-making and enable action with reduced risk and greater precision, making it a critical tool for national security. A new program offered jointly by the MIT departments of Mechanical Engineering (Course 2, MechE)…</p>
+                <p class="article-snippet">As language models (LMs) improve at tasks like image generation, trivia questions, and simple math, you might think that human-like reasoning is around the corner. In reality, they still trail us by a wide margin on complex tasks. Try playing Sudoku with one,…</p>
 
-              <p class="article-link">
-                <a href="https://news.mit.edu/2025/applied-ai-program-train-military-leaders-ai-age-1212">Read the full article →</a>
-              </p>
+                <p class="article-link">
+                  <a href="https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212" target="_blank">Read the full article →</a>
+                </p>
+              </div>
             </article>
           
             <article class="article-item">
-              <h2 class="article-title">
-                <a href="https://spectrum.ieee.org/musculoskeletal-robot-dog">Video Friday: Robot Dog Shows Off Its Muscles</a>
-              </h2>
-
-              <div class="article-meta">
-                12 Dec 2025 &nbsp; | &nbsp; Robotics
+              <div class="article-header" onclick="toggleArticle(6)">
+                <h2 class="article-title">Humanoid robots take center stage at Silicon Valley summit, but skepticism remains</h2>
+                <div class="article-meta">
+                  12 DEC 2025 &nbsp; | &nbsp; ROBOTICS
+                </div>
               </div>
 
-              <img src="https://spectrum.ieee.org/media-library/person-interacts-with-a-large-robotic-skeleton-model-of-a-canine-on-wheeled-legs-outdoors.png?id=62313004&width=1200&height=800&coordinates=30%2C0%2C30%2C0" alt="" class="article-image" />
+              <div class="article-content" id="article-6">
+                <img src="https://scx2.b-cdn.net/gfx/news/hires/2025/humanoid-robots-take-c.jpg" alt="" class="article-image" />
 
-              <p class="article-snippet">Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.</p>
+                <p class="article-snippet">Robots have long been seen as a bad bet for Silicon Valley investors—too complicated, capital-intensive and "boring, honestly," says venture capitalist Modar Alaoui.</p>
 
-              <p class="article-link">
-                <a href="https://spectrum.ieee.org/musculoskeletal-robot-dog">Read the full article →</a>
-              </p>
+                <p class="article-link">
+                  <a href="https://techxplore.com/news/2025-12-humanoid-robots-center-stage-silicon.html" target="_blank">Read the full article →</a>
+                </p>
+              </div>
             </article>
           
             <article class="article-item">
-              <h2 class="article-title">
-                <a href="https://spectrum.ieee.org/teenage-hackers">How the RESISTORS Put Computing into 1960s Counter-culture</a>
-              </h2>
-
-              <div class="article-meta">
-                12 Dec 2025 &nbsp; | &nbsp; Hypertext
+              <div class="article-header" onclick="toggleArticle(7)">
+                <h2 class="article-title">Beyond mimicry: Fiber-type artificial muscles outperform biological muscles</h2>
+                <div class="article-meta">
+                  12 DEC 2025 &nbsp; | &nbsp; ROBOTICS
+                </div>
               </div>
 
-              <img src="https://spectrum.ieee.org/media-library/black-and-white-photo-of-teenagers-sitting-and-lying-on-a-rug-one-of-them-is-typing-on-a-computer-keyboard.jpg?id=62304521&width=1245&height=700&coordinates=0%2C1424%2C0%2C1425" alt="" class="article-image" />
+              <div class="article-content" id="article-7">
+                <img src="https://scx2.b-cdn.net/gfx/news/2025/fiber-type-artificial.jpg" alt="" class="article-image" />
 
-              <p class="article-snippet">In late April of 1968, a computer conference in Atlantic City, N.J., got off to a rocky start. A strike by telephone operators prevented exhibitors from linking their terminals to off-site computers, as union-sympathetic workers refused to wire up the…</p>
+                <p class="article-snippet">Biological muscles act as flexible actuators, generating force naturally and with an impressive range of motion. Unsurprisingly, scientists and engineers have been striving to build artificial muscles that mimic these abilities. A new review study, published…</p>
 
-              <p class="article-link">
-                <a href="https://spectrum.ieee.org/teenage-hackers">Read the full article →</a>
-              </p>
+                <p class="article-link">
+                  <a href="https://techxplore.com/news/2025-12-mimicry-fiber-artificial-muscles-outperform.html" target="_blank">Read the full article →</a>
+                </p>
+              </div>
             </article>
           
             <article class="article-item">
-              <h2 class="article-title">
-                <a href="https://www.sciencedaily.com/releases/2025/12/251210092017.htm">Researchers catch atoms standing still inside molten metal</a>
-              </h2>
-
-              <div class="article-meta">
-                11 Dec 2025 &nbsp; | &nbsp; ScienceDaily — Engineering
+              <div class="article-header" onclick="toggleArticle(8)">
+                <h2 class="article-title">New MIT program to train military leaders for the AI age</h2>
+                <div class="article-meta">
+                  12 DEC 2025 &nbsp; | &nbsp; MIT ENGINEERING
+                </div>
               </div>
 
-              <img src="https://www.sciencedaily.com/images/1920/strange-liquid-metal.webp" alt="" class="article-image" />
+              <div class="article-content" id="article-8">
+                <img src="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-2023-2N-Commencement.JPG?itok=J7W9sSOO" alt="" class="article-image" />
 
-              <p class="article-snippet">Scientists have uncovered that some atoms in liquids don't move at all—even at extreme temperatures—and these anchored atoms dramatically alter the way materials freeze. Using advanced electron microscopy, researchers watched molten metal droplets solidify…</p>
+                <p class="article-snippet">Artificial intelligence can enhance decision-making and enable action with reduced risk and greater precision, making it a critical tool for national security. A new program offered jointly by the MIT departments of Mechanical Engineering (Course 2, MechE)…</p>
 
-              <p class="article-link">
-                <a href="https://www.sciencedaily.com/releases/2025/12/251210092017.htm">Read the full article →</a>
-              </p>
+                <p class="article-link">
+                  <a href="https://news.mit.edu/2025/applied-ai-program-train-military-leaders-ai-age-1212" target="_blank">Read the full article →</a>
+                </p>
+              </div>
             </article>
           
             <article class="article-item">
-              <h2 class="article-title">
-                <a href="https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/">Why Vision AI Models Fail</a>
-              </h2>
-
-              <div class="article-meta">
-                10 Dec 2025 &nbsp; | &nbsp; Type:whitepaper
+              <div class="article-header" onclick="toggleArticle(9)">
+                <h2 class="article-title">Video Friday: Robot Dog Shows Off Its Muscles</h2>
+                <div class="article-meta">
+                  12 DEC 2025 &nbsp; | &nbsp; ROBOTICS
+                </div>
               </div>
 
-              <img src="https://spectrum.ieee.org/media-library/logo-of-voxel51-orange-cube-outline-on-left-voxel-in-gray-51-in-orange-on-right.png?id=62304853&width=980" alt="" class="article-image" />
+              <div class="article-content" id="article-9">
+                <img src="https://spectrum.ieee.org/media-library/person-interacts-with-a-large-robotic-skeleton-model-of-a-canine-on-wheeled-legs-outdoors.png?id=62313004&width=1245&height=700&coordinates=0%2C39%2C0%2C40" alt="" class="article-image" />
 
-              <p class="article-snippet">Prevent costly AI failures in production by mastering data-centric approaches to detect bias, classimbalance, and data leakage before deployment impacts your business.</p>
+                <p class="article-snippet">Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.</p>
 
-              <p class="article-link">
-                <a href="https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/">Read the full article →</a>
-              </p>
+                <p class="article-link">
+                  <a href="https://spectrum.ieee.org/musculoskeletal-robot-dog" target="_blank">Read the full article →</a>
+                </p>
+              </div>
             </article>
           
             <article class="article-item">
-              <h2 class="article-title">
-                <a href="https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210">Vine-inspired robotic gripper gently lifts heavy and fragile objects</a>
-              </h2>
-
-              <div class="article-meta">
-                10 Dec 2025 &nbsp; | &nbsp; MIT Robotics
+              <div class="article-header" onclick="toggleArticle(10)">
+                <h2 class="article-title">Researchers catch atoms standing still inside molten metal</h2>
+                <div class="article-meta">
+                  11 DEC 2025 &nbsp; | &nbsp; SCIENCEDAILY — ENGINEERING
+                </div>
               </div>
 
-              <img src="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-VineRobot-01-press.jpg?itok=I74qLvMT" alt="" class="article-image" />
+              <div class="article-content" id="article-10">
+                <img src="https://www.sciencedaily.com/images/1920/strange-liquid-metal.webp" alt="" class="article-image" />
 
-              <p class="article-snippet">In the horticultural world, some vines are especially grabby. As they grow, the woody tendrils can wrap around obstacles with enough force to pull down entire fences and trees.</p>
+                <p class="article-snippet">Scientists have uncovered that some atoms in liquids don't move at all—even at extreme temperatures—and these anchored atoms dramatically alter the way materials freeze. Using advanced electron microscopy, researchers watched molten metal droplets solidify…</p>
 
-              <p class="article-link">
-                <a href="https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210">Read the full article →</a>
-              </p>
+                <p class="article-link">
+                  <a href="https://www.sciencedaily.com/releases/2025/12/251210092017.htm" target="_blank">Read the full article →</a>
+                </p>
+              </div>
             </article>
           
             <article class="article-item">
-              <h2 class="article-title">
-                <a href="https://www.sciencedaily.com/releases/2025/12/251209234139.htm">Scientists reveal a tiny brain chip that streams thoughts in real time</a>
-              </h2>
-
-              <div class="article-meta">
-                10 Dec 2025 &nbsp; | &nbsp; ScienceDaily — Robotics
+              <div class="article-header" onclick="toggleArticle(11)">
+                <h2 class="article-title">Why Vision AI Models Fail</h2>
+                <div class="article-meta">
+                  10 DEC 2025 &nbsp; | &nbsp; TYPE:WHITEPAPER
+                </div>
               </div>
 
-              <img src="https://www.sciencedaily.com/images/1920/bisc-brain-implant.webp" alt="" class="article-image" />
+              <div class="article-content" id="article-11">
+                <img src="https://spectrum.ieee.org/media-library/logo-of-voxel51-orange-cube-outline-on-left-voxel-in-gray-51-in-orange-on-right.png?id=62304853&width=980" alt="" class="article-image" />
 
-              <p class="article-snippet">BISC is an ultra-thin neural implant that creates a high-bandwidth wireless link between the brain and computers. Its tiny single-chip design packs tens of thousands of electrodes and supports advanced AI models for decoding movement, perception, and intent.…</p>
+                <p class="article-snippet">Prevent costly AI failures in production by mastering data-centric approaches to detect bias, classimbalance, and data leakage before deployment impacts your business.</p>
 
-              <p class="article-link">
-                <a href="https://www.sciencedaily.com/releases/2025/12/251209234139.htm">Read the full article →</a>
-              </p>
+                <p class="article-link">
+                  <a href="https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/" target="_blank">Read the full article →</a>
+                </p>
+              </div>
             </article>
           
             <article class="article-item">
-              <h2 class="article-title">
-                <a href="https://spectrum.ieee.org/listen-to-protons-diy-magnetometer">Listen to Protons for Less Than $100</a>
-              </h2>
-
-              <div class="article-meta">
-                25 Nov 2025 &nbsp; | &nbsp; Citizen science
+              <div class="article-header" onclick="toggleArticle(12)">
+                <h2 class="article-title">Vine-inspired robotic gripper gently lifts heavy and fragile objects</h2>
+                <div class="article-meta">
+                  10 DEC 2025 &nbsp; | &nbsp; MIT ROBOTICS
+                </div>
               </div>
 
-              <img src="https://spectrum.ieee.org/media-library/a-pair-of-coil-wound-cylinders-sits-atop-two-milk-crates-wires-connect-them-to-a-circuit-board-connected-to-three-large-12-volt.png?id=62212907&width=1200&height=800&coordinates=0%2C315%2C0%2C315" alt="" class="article-image" />
+              <div class="article-content" id="article-12">
+                <img src="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-VineRobot-01-press.jpg?itok=I74qLvMT" alt="" class="article-image" />
 
-              <p class="article-snippet">When you get an MRI scan, the machine exploits a phenomenon called nuclear magnetic resonance (NMR). Certain kinds of atomic nuclei—including those of the hydrogen atoms in a water molecule—can be made to oscillate in a magnetic field, and these oscillations…</p>
+                <p class="article-snippet">In the horticultural world, some vines are especially grabby. As they grow, the woody tendrils can wrap around obstacles with enough force to pull down entire fences and trees.</p>
 
-              <p class="article-link">
-                <a href="https://spectrum.ieee.org/listen-to-protons-diy-magnetometer">Read the full article →</a>
-              </p>
+                <p class="article-link">
+                  <a href="https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210" target="_blank">Read the full article →</a>
+                </p>
+              </div>
+            </article>
+          
+            <article class="article-item">
+              <div class="article-header" onclick="toggleArticle(13)">
+                <h2 class="article-title">Scientists reveal a tiny brain chip that streams thoughts in real time</h2>
+                <div class="article-meta">
+                  10 DEC 2025 &nbsp; | &nbsp; SCIENCEDAILY — COMPUTER SCIENCE
+                </div>
+              </div>
+
+              <div class="article-content" id="article-13">
+                <img src="https://www.sciencedaily.com/images/1920/bisc-brain-implant.webp" alt="" class="article-image" />
+
+                <p class="article-snippet">BISC is an ultra-thin neural implant that creates a high-bandwidth wireless link between the brain and computers. Its tiny single-chip design packs tens of thousands of electrodes and supports advanced AI models for decoding movement, perception, and intent.…</p>
+
+                <p class="article-link">
+                  <a href="https://www.sciencedaily.com/releases/2025/12/251209234139.htm" target="_blank">Read the full article →</a>
+                </p>
+              </div>
+            </article>
+          
+            <article class="article-item">
+              <div class="article-header" onclick="toggleArticle(14)">
+                <h2 class="article-title">Listen to Protons for Less Than $100</h2>
+                <div class="article-meta">
+                  25 NOV 2025 &nbsp; | &nbsp; CITIZEN SCIENCE
+                </div>
+              </div>
+
+              <div class="article-content" id="article-14">
+                <img src="https://spectrum.ieee.org/media-library/a-pair-of-coil-wound-cylinders-sits-atop-two-milk-crates-wires-connect-them-to-a-circuit-board-connected-to-three-large-12-volt.png?id=62212907&width=1200&height=800&coordinates=0%2C315%2C0%2C315" alt="" class="article-image" />
+
+                <p class="article-snippet">When you get an MRI scan, the machine exploits a phenomenon called nuclear magnetic resonance (NMR). Certain kinds of atomic nuclei—including those of the hydrogen atoms in a water molecule—can be made to oscillate in a magnetic field, and these oscillations…</p>
+
+                <p class="article-link">
+                  <a href="https://spectrum.ieee.org/listen-to-protons-diy-magnetometer" target="_blank">Read the full article →</a>
+                </p>
+              </div>
             </article>
           
           </main>
-
-          <footer class="footer">
-            This is the webpage of the JFETechDigest<br/>
-            Links go directly to the original publishers.
-          </footer>
         </div>
       </body>
     </html>
