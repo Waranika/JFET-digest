@@ -1,76 +1,127 @@
-date: 2025-12-12
+date: 2025-12-14
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Why new kinds of steel are needed to build lead-cooled reactors
-    url: https://techxplore.com/news/2025-12-kinds-steel-cooled-reactors.html
-    summary: Safer operation, better fuel efficiency and lower waste mark
-      lead-cooled nuclear power as a potentially dramatic shift from the
-      water-cooled nuclear stations the world has relied on since the mid 20th
-      century. A recent Swedish study casts new light on how to avoid corrosion
-      in the steel used to build these next-generation nuclear facilities.
-    imageUrl: null
-    categories:
-      - Engineering
-    publishedAt: 2025-12-12T02:30:01.000Z
-    source: TechXplore — Engineering
-  - title: RFK Jr.’s Health Department Is Pondering a National Men’s Health Initiative
-    url: https://www.wired.com/story/rfk-jrs-health-department-is-pondering-a-national-mens-health-initiative/
-    summary: At an FDA discussion of testosterone replacement therapy, a top
-      official called for special health centers to address a “men’s health
-      crisis.” Others called to ease men’s access to hormones.
-    imageUrl: https://media.wired.com/photos/6939e3662ab753fbb0e0f436/191:100/w_1280,c_limit/GettyImages-1433852695.jpg
+  - title: Google Data Centers Are Returning Nuclear Power to Tornado Country
+    url: https://www.wired.com/story/google-data-centers-will-bring-nuclear-power-back-to-tornado-country/
+    summary: A destructive storm in 2020 prematurely shut down Iowa’s only nuclear
+      plant. With Google’s plans to reopen it to power nearby data centers, will
+      extreme weather threaten the reactor’s safety?
+    imageUrl: https://media.wired.com/photos/6939851578ecc02d6a91bf83/191:100/w_1280,c_limit/Duane-Arnold-Energy-Center3.jpg
     categories:
       - Science
-      - Science / Health
-    publishedAt: 2025-12-11T22:11:31.000Z
+      - Science / Environment
+    publishedAt: 2025-12-13T12:00:00.000Z
     source: WIRED science
-  - title: New method improves the reliability of statistical estimations
-    url: https://techxplore.com/news/2025-12-method-reliability-statistical.html
-    summary: MIT researchers have developed a method that generates more accurate
-      uncertainty measures for certain types of estimation. This could help
-      improve the reliability of data analyses in areas like economics,
-      epidemiology, and environmental sciences.
+  - title: Enabling small language models to solve complex reasoning tasks
+    url: https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212
+    summary: As language models (LMs) improve at tasks like image generation, trivia
+      questions, and simple math, you might think that human-like reasoning is
+      around the corner. In reality, they still trail us by a wide margin on
+      complex tasks. Try playing Sudoku with one, for instance, where you fill
+      in numbers one through nine in such a way that each appears only once
+      across the columns, rows, and sections of a nine-by-nine grid. Your AI
+      opponent will either fail to fill in boxes on its own or do so
+      inefficiently, although it can verify if you’ve filled yours out
+      correctly.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/self-steering-model-mit-csail-00_0.png?itok=v7ciylOd
+    categories: []
+    publishedAt: 2025-12-12T20:30:00.000Z
+    source: MIT Artificial Intelligence
+  - title: AMD CEO Lisa Su Isn’t Afraid of the Competition
+    url: https://www.wired.com/story/uncanny-valley-podcast-amd-ceo-lisa-su-isnt-afraid-of-the-competition/
+    summary: In this episode of Uncanny Valley we take you through our recent
+      conversation with Lisa Su and go behind the scenes of our Big Interview
+      event.
+    imageUrl: https://media.wired.com/photos/693a07b2584a0ef96634d76e/191:100/w_1280,c_limit/business_uncanny_valley_lisa_su.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2025-12-12T20:01:14.000Z
+    source: WIRED (AI)
+  - title: New system efficiently explains AI judgments in real-time
+    url: https://techxplore.com/news/2025-12-efficiently-ai-judgments-real.html
+    summary: A research team led by Professor Jaesik Choi of KAIST's Kim Jaechul
+      Graduate School of AI, in collaboration with KakaoBank Corp, has developed
+      an accelerated explanation technology that can explain the basis of an
+      artificial intelligence (AI) model's judgment in real-time.
     imageUrl: null
     categories:
       - Computer Sciences
-    publishedAt: 2025-12-11T20:05:24.000Z
+    publishedAt: 2025-12-12T19:40:04.000Z
     source: TechXplore — Computer Science
-  - title: Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds
-    url: https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm
-    summary: "Ghost Robotics is today announcing a major upgrade for their Vision 60
-      quadruped: an arm. Ghost, a company which originated at the GRASP Lab at
-      the University of Pennsylvania, specializes in exceptionally rugged
-      quadrupeds, and while many of its customers use its robots for public
-      safety and disaster relief, it also provides robots to the United States
-      military, which has very specific needs when it comes to keeping humans
-      out of danger."
-    imageUrl: https://spectrum.ieee.org/media-library/robotic-dog-lifting-backpack-with-its-mechanical-arm-in-an-industrial-setting.jpg?id=62304619&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+  - title: Humanoid robots take center stage at Silicon Valley summit, but
+      skepticism remains
+    url: https://techxplore.com/news/2025-12-humanoid-robots-center-stage-silicon.html
+    summary: Robots have long been seen as a bad bet for Silicon Valley
+      investors—too complicated, capital-intensive and "boring, honestly," says
+      venture capitalist Modar Alaoui.
+    imageUrl: null
     categories:
-      - Ghost robotics
-      - Legged robot
-      - Quadrupedal robots
       - Robotics
-      - Weaponized robots
-      - Military robots
-    publishedAt: 2025-12-11T15:00:02.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Tiny Chips Could Lead to Giant Power Savings
-    url: https://spectrum.ieee.org/voltage-regulator
-    summary: Even if a GPU in a data center should only require 700 watts to run a
-      large language model, it may realistically need 1,700 watts because of
-      inefficiencies in how electricity reaches it. That’s a problem Peng Zou
-      and his team at startup PowerLattice say they have solved by miniaturizing
-      and repackaging high-voltage regulators.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-powerlattice-s-newest-chiplet-on-the-pad-of-a-person-s-pointer-finger.jpg?id=62303380&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+    publishedAt: 2025-12-12T18:50:28.000Z
+    source: TechXplore — Robotics
+  - title: "Beyond mimicry: Fiber-type artificial muscles outperform biological
+      muscles"
+    url: https://techxplore.com/news/2025-12-mimicry-fiber-artificial-muscles-outperform.html
+    summary: Biological muscles act as flexible actuators, generating force
+      naturally and with an impressive range of motion. Unsurprisingly,
+      scientists and engineers have been striving to build artificial muscles
+      that mimic these abilities. A new review study, published in Nature, takes
+      a deep dive into recent developments surrounding fiber-type artificial
+      muscles, one of the most life-like types of artificial muscles developed
+      so far.
+    imageUrl: null
     categories:
-      - Data centers
-      - Chiplets
-      - Voltage regulation
-      - Inductors
-      - Gpus
-    publishedAt: 2025-12-11T14:00:02.000Z
+      - Robotics
+    publishedAt: 2025-12-12T18:50:07.000Z
+    source: TechXplore — Engineering
+  - title: New MIT program to train military leaders for the AI age
+    url: https://news.mit.edu/2025/applied-ai-program-train-military-leaders-ai-age-1212
+    summary: Artificial intelligence can enhance decision-making and enable action
+      with reduced risk and greater precision, making it a critical tool for
+      national security. A new program offered jointly by the MIT departments of
+      Mechanical Engineering (Course 2, MechE) and Electrical Engineering and
+      Computer Science (Course 6, EECS) will provide breadth and depth in
+      technical studies for naval officers, as well as a path for non-naval
+      officers studying at MIT, to grow in their understanding of applied AI for
+      naval and military applications.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-2023-2N-Commencement.JPG?itok=J7W9sSOO
+    categories: []
+    publishedAt: 2025-12-12T18:10:00.000Z
+    source: MIT Engineering
+  - title: "Video Friday: Robot Dog Shows Off Its Muscles"
+    url: https://spectrum.ieee.org/musculoskeletal-robot-dog
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/person-interacts-with-a-large-robotic-skeleton-model-of-a-canine-on-wheeled-legs-outdoors.png?id=62313004&width=1245&height=700&coordinates=0%2C39%2C0%2C40
+    categories:
+      - Robotics
+      - Video friday
+      - Quadruped robots
+      - Ai robots
+      - Vision robotics
+    publishedAt: 2025-12-12T17:00:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: How the RESISTORS Put Computing into 1960s Counter-culture
+    url: https://spectrum.ieee.org/teenage-hackers
+    summary: In late April of 1968, a computer conference in Atlantic City, N.J.,
+      got off to a rocky start. A strike by telephone operators prevented
+      exhibitors from linking their terminals to off-site computers, as
+      union-sympathetic workers refused to wire up the necessary connections.
+      Companies’ displays were effectively dead.
+    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-photo-of-teenagers-sitting-and-lying-on-a-rug-one-of-them-is-typing-on-a-computer-keyboard.jpg?id=62304521&width=1245&height=700&coordinates=0%2C1424%2C0%2C1425
+    categories:
+      - Hypertext
+      - Pdp-8
+      - History of computing
+      - Art and technology
+      - Ted nelson
+      - Computer hacking
+    publishedAt: 2025-12-12T13:26:23.000Z
     source: IEEE Spectrum — Computing & Chips
   - title: Researchers catch atoms standing still inside molten metal
     url: https://www.sciencedaily.com/releases/2025/12/251210092017.htm
@@ -85,15 +136,6 @@ articles:
     categories: []
     publishedAt: 2025-12-11T08:15:21.000Z
     source: ScienceDaily — Engineering
-  - title: New materials could boost the energy efficiency of microelectronics
-    url: https://news.mit.edu/2025/new-materials-could-boost-energy-efficiency-microelectronics-1211
-    summary: MIT researchers have developed a new fabrication method that could
-      enable the production of more energy efficient electronics by stacking
-      multiple functional components on top of one existing circuit.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-Memory-Transistors-01-press.jpg?itok=hNQjmJPU
-    categories: []
-    publishedAt: 2025-12-11T05:00:00.000Z
-    source: MIT Artificial Intelligence
   - title: Why Vision AI Models Fail
     url: https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/
     summary: Prevent costly AI failures in production by mastering data-centric
@@ -108,15 +150,14 @@ articles:
     publishedAt: 2025-12-10T20:33:57.000Z
     source: IEEE Spectrum — AI
   - title: Vine-inspired robotic gripper gently lifts heavy and fragile objects
-    url: https://techxplore.com/news/2025-12-vine-robotic-gripper-gently-heavy.html
+    url: https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210
     summary: In the horticultural world, some vines are especially grabby. As they
       grow, the woody tendrils can wrap around obstacles with enough force to
       pull down entire fences and trees.
-    imageUrl: null
-    categories:
-      - Robotics
-    publishedAt: 2025-12-10T19:52:27.000Z
-    source: TechXplore — Robotics
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-VineRobot-01-press.jpg?itok=I74qLvMT
+    categories: []
+    publishedAt: 2025-12-10T19:00:00.000Z
+    source: MIT Robotics
   - title: Scientists reveal a tiny brain chip that streams thoughts in real time
     url: https://www.sciencedaily.com/releases/2025/12/251209234139.htm
     summary: BISC is an ultra-thin neural implant that creates a high-bandwidth
