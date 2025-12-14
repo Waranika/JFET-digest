@@ -1,8 +1,19 @@
-date: 2025-12-13
+date: 2025-12-14
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Google Data Centers Are Returning Nuclear Power to Tornado Country
+    url: https://www.wired.com/story/google-data-centers-will-bring-nuclear-power-back-to-tornado-country/
+    summary: A destructive storm in 2020 prematurely shut down Iowa’s only nuclear
+      plant. With Google’s plans to reopen it to power nearby data centers, will
+      extreme weather threaten the reactor’s safety?
+    imageUrl: https://media.wired.com/photos/6939851578ecc02d6a91bf83/191:100/w_1280,c_limit/Duane-Arnold-Energy-Center3.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2025-12-13T12:00:00.000Z
+    source: WIRED science
   - title: Enabling small language models to solve complex reasoning tasks
     url: https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212
     summary: As language models (LMs) improve at tasks like image generation, trivia
@@ -86,7 +97,7 @@ articles:
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/person-interacts-with-a-large-robotic-skeleton-model-of-a-canine-on-wheeled-legs-outdoors.png?id=62313004&width=1200&height=800&coordinates=30%2C0%2C30%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/person-interacts-with-a-large-robotic-skeleton-model-of-a-canine-on-wheeled-legs-outdoors.png?id=62313004&width=1245&height=700&coordinates=0%2C39%2C0%2C40
     categories:
       - Robotics
       - Video friday
@@ -112,16 +123,6 @@ articles:
       - Computer hacking
     publishedAt: 2025-12-12T13:26:23.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: People Are Already Taking This Unapproved New Weight-Loss Drug
-    url: https://www.wired.com/story/people-are-already-taking-this-unapproved-new-weight-loss-drug-triple-g-retatrutide/
-    summary: Retatrutide, originally developed by Eli Lilly, has found a loyal fan
-      base—even though clinical trials of the drug still haven’t finished.
-    imageUrl: https://media.wired.com/photos/68f7c5f862883d2cd39ed9ed/191:100/w_1280,c_limit/101625_Retatrutide.jpg
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2025-12-12T11:30:00.000Z
-    source: WIRED science
   - title: Researchers catch atoms standing still inside molten metal
     url: https://www.sciencedaily.com/releases/2025/12/251210092017.htm
     summary: Scientists have uncovered that some atoms in liquids don't move at
