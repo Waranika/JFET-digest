@@ -3,17 +3,61 @@ subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Google Data Centers Are Returning Nuclear Power to Tornado Country
-    url: https://www.wired.com/story/google-data-centers-will-bring-nuclear-power-back-to-tornado-country/
-    summary: A destructive storm in 2020 prematurely shut down Iowa’s only nuclear
-      plant. With Google’s plans to reopen it to power nearby data centers, will
-      extreme weather threaten the reactor’s safety?
-    imageUrl: https://media.wired.com/photos/6939851578ecc02d6a91bf83/191:100/w_1280,c_limit/Duane-Arnold-Energy-Center3.jpg
+  - title: AI agents debate their way to improved mathematical reasoning
+    url: https://techxplore.com/news/2025-12-ai-agents-debate-mathematical.html
+    summary: Large language models (LLMs), artificial intelligence (AI) systems that
+      can process and generate texts in various languages, are now widely used
+      worldwide to create written content, source information and even to code
+      websites or applications. While these models have improved significantly
+      over the past couple of years, their answers can sometimes contain factual
+      inaccuracies or logical inconsistencies.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/new-framework-improves.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2025-12-14T16:00:01.000Z
+    source: TechXplore — Computer Science
+  - title: AI finds a hidden stress signal inside routine CT scans
+    url: https://www.sciencedaily.com/releases/2025/12/251213032615.htm
+    summary: Researchers used a deep learning AI model to uncover the first
+      imaging-based biomarker of chronic stress by measuring adrenal gland
+      volume on routine CT scans. This new metric, the Adrenal Volume Index,
+      correlates strongly with cortisol levels, allostatic load, perceived
+      stress, and even long-term cardiovascular outcomes, including heart
+      failure risk.
+    imageUrl: https://www.sciencedaily.com/images/1920/human-adrenal-glands-scan.webp
+    categories: []
+    publishedAt: 2025-12-14T14:27:30.000Z
+    source: ScienceDaily — Robotics
+  - title: Smart Tiles Make Crowd Counting Easy
+    url: https://spectrum.ieee.org/crowd-monitoring-smart-tiles-iot
+    summary: This article is part of our exclusive IEEE Journal Watch series in
+      partnership with IEEE Xplore.
+    imageUrl: https://spectrum.ieee.org/media-library/footprints-against-a-grid-lined-background.jpg?id=62346893&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Crowd analysis
+      - Smart devices
+      - Iot devices
+    publishedAt: 2025-12-14T14:00:02.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: How Do Astronomers Find Planets in Other Solar Systems?
+    url: https://www.wired.com/story/how-do-astronomers-find-planets-in-other-solar-systems/
+    summary: Even the best telescopes can’t see exoplanets. It’s all about watching
+      for jiggly stars, blue shifts, and transits.
+    imageUrl: https://media.wired.com/photos/693c7420d9838445ae310cf3/191:100/w_1280,c_limit/How-Can-We-Find-Exoplanets-Science-1237974418.jpg
     categories:
       - Science
-      - Science / Environment
-    publishedAt: 2025-12-13T12:00:00.000Z
+      - Science / Physics and Math
+    publishedAt: 2025-12-14T11:00:00.000Z
     source: WIRED science
+  - title: For the First Time, AI Analyzes Language as Well as a Human Expert
+    url: https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/
+    summary: If language is what makes us human, what does it mean now that large
+      language models have gained “metalinguistic” abilities?
+    imageUrl: https://media.wired.com/photos/69380ff2c2102f279da71d1b/191:100/w_1280,c_limit/Metalinguistics-cr-Robert-Neubecker-Lede.jpeg
+    categories:
+      - Science
+    publishedAt: 2025-12-14T07:00:00.000Z
+    source: WIRED (AI)
   - title: Enabling small language models to solve complex reasoning tasks
     url: https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212
     summary: As language models (LMs) improve at tasks like image generation, trivia
@@ -29,35 +73,13 @@ articles:
     categories: []
     publishedAt: 2025-12-12T20:30:00.000Z
     source: MIT Artificial Intelligence
-  - title: AMD CEO Lisa Su Isn’t Afraid of the Competition
-    url: https://www.wired.com/story/uncanny-valley-podcast-amd-ceo-lisa-su-isnt-afraid-of-the-competition/
-    summary: In this episode of Uncanny Valley we take you through our recent
-      conversation with Lisa Su and go behind the scenes of our Big Interview
-      event.
-    imageUrl: https://media.wired.com/photos/693a07b2584a0ef96634d76e/191:100/w_1280,c_limit/business_uncanny_valley_lisa_su.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2025-12-12T20:01:14.000Z
-    source: WIRED (AI)
-  - title: New system efficiently explains AI judgments in real-time
-    url: https://techxplore.com/news/2025-12-efficiently-ai-judgments-real.html
-    summary: A research team led by Professor Jaesik Choi of KAIST's Kim Jaechul
-      Graduate School of AI, in collaboration with KakaoBank Corp, has developed
-      an accelerated explanation technology that can explain the basis of an
-      artificial intelligence (AI) model's judgment in real-time.
-    imageUrl: null
-    categories:
-      - Computer Sciences
-    publishedAt: 2025-12-12T19:40:04.000Z
-    source: TechXplore — Computer Science
   - title: Humanoid robots take center stage at Silicon Valley summit, but
       skepticism remains
     url: https://techxplore.com/news/2025-12-humanoid-robots-center-stage-silicon.html
     summary: Robots have long been seen as a bad bet for Silicon Valley
       investors—too complicated, capital-intensive and "boring, honestly," says
       venture capitalist Modar Alaoui.
-    imageUrl: null
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/humanoid-robots-take-c.jpg
     categories:
       - Robotics
     publishedAt: 2025-12-12T18:50:28.000Z
@@ -68,11 +90,11 @@ articles:
     summary: Biological muscles act as flexible actuators, generating force
       naturally and with an impressive range of motion. Unsurprisingly,
       scientists and engineers have been striving to build artificial muscles
-      that mimic these abilities. A new review study, published in Nature, takes
-      a deep dive into recent developments surrounding fiber-type artificial
-      muscles, one of the most life-like types of artificial muscles developed
-      so far.
-    imageUrl: null
+      that mimic these abilities. A new review study, published in npj Robotics,
+      takes a deep dive into recent developments surrounding fiber-type
+      artificial muscles, one of the most life-like types of artificial muscles
+      developed so far.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/fiber-type-artificial.jpg
     categories:
       - Robotics
     publishedAt: 2025-12-12T18:50:07.000Z
@@ -106,23 +128,6 @@ articles:
       - Vision robotics
     publishedAt: 2025-12-12T17:00:02.000Z
     source: IEEE Spectrum — Robotics
-  - title: How the RESISTORS Put Computing into 1960s Counter-culture
-    url: https://spectrum.ieee.org/teenage-hackers
-    summary: In late April of 1968, a computer conference in Atlantic City, N.J.,
-      got off to a rocky start. A strike by telephone operators prevented
-      exhibitors from linking their terminals to off-site computers, as
-      union-sympathetic workers refused to wire up the necessary connections.
-      Companies’ displays were effectively dead.
-    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-photo-of-teenagers-sitting-and-lying-on-a-rug-one-of-them-is-typing-on-a-computer-keyboard.jpg?id=62304521&width=1245&height=700&coordinates=0%2C1424%2C0%2C1425
-    categories:
-      - Hypertext
-      - Pdp-8
-      - History of computing
-      - Art and technology
-      - Ted nelson
-      - Computer hacking
-    publishedAt: 2025-12-12T13:26:23.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: Researchers catch atoms standing still inside molten metal
     url: https://www.sciencedaily.com/releases/2025/12/251210092017.htm
     summary: Scientists have uncovered that some atoms in liquids don't move at
@@ -170,7 +175,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/bisc-brain-implant.webp
     categories: []
     publishedAt: 2025-12-10T04:54:39.000Z
-    source: ScienceDaily — Robotics
+    source: ScienceDaily — Computer Science
   - title: Listen to Protons for Less Than $100
     url: https://spectrum.ieee.org/listen-to-protons-diy-magnetometer
     summary: "When you get an MRI scan, the machine exploits a phenomenon called
