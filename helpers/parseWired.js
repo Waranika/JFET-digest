@@ -3,7 +3,16 @@ import * as cheerio from "cheerio";
 // --- Fetch OG image (WIRED always provides one) --------------------
 async function fetchOgImage(url) {
   try {
-    const res = await fetch(url);
+    const res = await fetch(url, {
+      redirect: "follow",
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (compatible; JFETDigestBot/1.0; +https://github.com/Waranika/JFET-digest)",
+        Accept: "text/html,application/xhtml+xml",
+        "Accept-Language": "en-US,en;q=0.9",
+      },
+    });
+    
     if (!res.ok) return null;
 
     const html = await res.text();
