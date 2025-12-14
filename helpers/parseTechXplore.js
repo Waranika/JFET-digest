@@ -1,6 +1,24 @@
 // helpers/parseTechXplore.js
 import * as cheerio from "cheerio";
 
+const SITE_URL = "https://jfetnews.net";
+
+function asset(filename) {
+  return `${SITE_URL}/assets/${filename}`;
+}
+
+function fallbackImageFromCategory(item, feedConfig) {
+  const src = (feedConfig?.name || "").toLowerCase();
+
+  if (src.includes("robotics")) return asset("techXplore_robotics.jpg");
+  if (src.includes("engineering")) return asset("techxplore_robotics.jpg");
+  if (src.includes("computer science")) return asset("techxplore_cs.jpg");
+  if (src.includes("ai")) return asset("techxplore_cs.jpg"); 
+
+  // fallback
+  return asset("techxplore_default.png");
+}
+
 function extractImage(item) {
   // Try media fields first
   const media = item["media:content"] || item["media:thumbnail"];
@@ -27,7 +45,15 @@ async function fetchOgImage(url) {
   const start = Date.now();
   try {
     const duration = Date.now() - start;
-    const res = await fetch(url);
+    const res = await fetch(url, {
+      redirect: "follow",
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (compatible; JFETDigestBot/1.0; +https://github.com/Waranika/JFET-digest)",
+        Accept: "text/html,application/xhtml+xml",
+        "Accept-Language": "en-US,en;q=0.9",
+      },
+    });
 
     // Log non-200 cases
     if (!res.ok) {
@@ -84,6 +110,10 @@ function cleanSummary(raw) {
 
 export async function parseTechXploreItem(item, feedMeta, feedConfig) {
   const imageUrl = await fetchOgImage(item.link);
+
+  if (!imageUrl) {
+    imageUrl = fallbackImageFromCategory(item, feedConfig);
+  }
 
   const publishedRaw =
     item.isoDate || item.pubDate || item.published || item.updated;

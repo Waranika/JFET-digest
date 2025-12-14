@@ -14,7 +14,7 @@ function buildPageHtml(articles) {
 
   const itemsHtml = hasArticles
     ? articles
-        .map((a) => {
+        .map((a, idx) => {
           const snippet =
             a.summary && a.summary.length > 260
               ? a.summary.slice(0, 260).split(" ").slice(0, -1).join(" ") + "…"
@@ -33,29 +33,30 @@ function buildPageHtml(articles) {
 
           return `
             <article class="article-item">
-              <h2 class="article-title">
-                <a href="${a.url}">${a.title}</a>
-              </h2>
-
-              <div class="article-meta">
-                ${formattedDate} &nbsp; | &nbsp; ${category}
+              <div class="article-header" onclick="toggleArticle(${idx})">
+                <h2 class="article-title">${a.title}</h2>
+                <div class="article-meta">
+                  ${formattedDate.toUpperCase()} &nbsp; | &nbsp; ${category.toUpperCase()}
+                </div>
               </div>
 
-              ${
-                a.imageUrl
-                  ? `<img src="${a.imageUrl}" alt="" class="article-image" />`
-                  : ""
-              }
+              <div class="article-content" id="article-${idx}">
+                ${
+                  a.imageUrl
+                    ? `<img src="${a.imageUrl}" alt="" class="article-image" />`
+                    : ""
+                }
 
-              ${
-                snippet
-                  ? `<p class="article-snippet">${snippet}</p>`
-                  : ""
-              }
+                ${
+                  snippet
+                    ? `<p class="article-snippet">${snippet}</p>`
+                    : ""
+                }
 
-              <p class="article-link">
-                <a href="${a.url}">Read the full article →</a>
-              </p>
+                <p class="article-link">
+                  <a href="${a.url}" target="_blank">Read the full article →</a>
+                </p>
+              </div>
             </article>
           `;
         })
@@ -82,62 +83,81 @@ function buildPageHtml(articles) {
 
           body {
             margin: 0;
-            padding: 24px 16px;
-            background: #f5f5f5;
+            padding: 0;
+            background: #ffffff;
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
                          Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue',
                          Arial, sans-serif;
           }
 
           .container {
-            max-width: 640px;
+            max-width: 760px;
             margin: 0 auto;
-            background: #ffffff;
-            border-radius: 8px;
-            padding: 24px;
+            padding: 60px 72px;
           }
 
           .header {
-            font-size: 22px;
-            font-weight: 600;
-            letter-spacing: 0.06em;
-            text-transform: uppercase;
-            margin-bottom: 22px;
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 40px;
+            text-align: center;
+            color: #000000;
           }
 
           .article-item {
-            padding: 28px 0;
-            border-bottom: 1px solid #eeeeee;
+            margin-bottom: 0;
+            border-bottom: 1px solid #e0e0e0;
           }
 
           .article-item:last-child {
             border-bottom: none;
           }
 
+          .article-header {
+            padding: 20px 0;
+            cursor: pointer;
+            transition: background-color 0.2s;
+          }
+
+          .article-header:hover {
+            background-color: #fafafa;
+          }
+
           .article-title {
-            margin: 0 0 4px 0;
-            font-size: 19px;
-            line-height: 1.35;
+            margin: 0 0 8px 0;
+            font-size: 18px;
+            line-height: 1.4;
             font-weight: 600;
-            letter-spacing: 0.01em;
-          }
-
-          .article-title a {
-            color: #111111;
-            text-decoration: none;
-          }
-
-          .article-title a:hover {
-            color: #0066cc;
+            color: #000000;
           }
 
           .article-meta {
-            margin: 0 0 14px 0;
-            font-size: 11px;
+            font-size: 12px;
             line-height: 1.4;
-            color: #999999;
+            color: #666666;
             text-transform: uppercase;
-            letter-spacing: 0.12em;
+            letter-spacing: 0.05em;
+          }
+
+          .article-content {
+            display: none;
+            padding: 0 0 24px 0;
+            animation: slideDown 0.3s ease-out;
+          }
+
+          .article-content.expanded {
+            display: block;
+          }
+
+          @keyframes slideDown {
+            from {
+              opacity: 0;
+              transform: translateY(-10px);
+            }
+            to {
+              opacity: 1;
+              transform: translateY(0);
+            }
           }
 
           .article-image {
@@ -145,59 +165,68 @@ function buildPageHtml(articles) {
             width: 100%;
             max-width: 100%;
             border-radius: 4px;
-            margin: 0 0 12px 0;
+            margin: 0 0 16px 0;
           }
 
           .article-snippet {
-            margin: 0 0 8px 0;
-            font-size: 13px;
+            margin: 0 0 12px 0;
+            font-size: 14px;
             line-height: 1.6;
             color: #333333;
           }
 
           .article-link {
             margin: 0;
-            font-size: 12px;
+            font-size: 13px;
           }
 
           .article-link a {
-            color: #999999;
+            color: #666666;
             text-decoration: none;
             font-weight: 500;
-            letter-spacing: 0.04em;
+            letter-spacing: 0.02em;
             text-transform: uppercase;
-            font-size: 11px;
+            font-size: 12px;
           }
 
           .article-link a:hover {
-            color: #0066cc;
+            color: #000000;
           }
 
           .no-articles {
             padding: 40px 0;
             text-align: center;
-            color: #555555;
+            color: #666666;
           }
 
           .no-articles p {
             font-size: 14px;
           }
 
-          .footer {
-            margin-top: 24px;
-            padding-top: 12px;
-            border-top: 1px solid #eeeeee;
-            font-size: 11px;
-            color: #999999;
-            line-height: 1.5;
-          }
-
           @media (max-width: 680px) {
             .container {
-              border-radius: 0;
+              padding: 40px 16px;
+            }
+
+            .article-title {
+              font-size: 16px;
             }
           }
         </style>
+        <script>
+          function toggleArticle(index) {
+            const content = document.getElementById('article-' + index);
+            if (content.classList.contains('expanded')) {
+              content.classList.remove('expanded');
+            } else {
+              // Close all other articles
+              document.querySelectorAll('.article-content').forEach(el => {
+                el.classList.remove('expanded');
+              });
+              content.classList.add('expanded');
+            }
+          }
+        </script>
       </head>
       <body>
         <div class="container">
@@ -208,11 +237,6 @@ function buildPageHtml(articles) {
           <main>
             ${itemsHtml}
           </main>
-
-          <footer class="footer">
-            This is the webpage of the JFETechDigest<br/>
-            Links go directly to the original publishers.
-          </footer>
         </div>
       </body>
     </html>
