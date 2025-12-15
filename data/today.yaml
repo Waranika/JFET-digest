@@ -1,4 +1,4 @@
-date: 2025-12-14
+date: 2025-12-15
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
@@ -39,25 +39,6 @@ articles:
       - Iot devices
     publishedAt: 2025-12-14T14:00:02.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: How Do Astronomers Find Planets in Other Solar Systems?
-    url: https://www.wired.com/story/how-do-astronomers-find-planets-in-other-solar-systems/
-    summary: Even the best telescopes can’t see exoplanets. It’s all about watching
-      for jiggly stars, blue shifts, and transits.
-    imageUrl: https://media.wired.com/photos/693c7420d9838445ae310cf3/191:100/w_1280,c_limit/How-Can-We-Find-Exoplanets-Science-1237974418.jpg
-    categories:
-      - Science
-      - Science / Physics and Math
-    publishedAt: 2025-12-14T11:00:00.000Z
-    source: WIRED science
-  - title: For the First Time, AI Analyzes Language as Well as a Human Expert
-    url: https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/
-    summary: If language is what makes us human, what does it mean now that large
-      language models have gained “metalinguistic” abilities?
-    imageUrl: https://media.wired.com/photos/69380ff2c2102f279da71d1b/191:100/w_1280,c_limit/Metalinguistics-cr-Robert-Neubecker-Lede.jpeg
-    categories:
-      - Science
-    publishedAt: 2025-12-14T07:00:00.000Z
-    source: WIRED (AI)
   - title: Enabling small language models to solve complex reasoning tasks
     url: https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212
     summary: As language models (LMs) improve at tasks like image generation, trivia
@@ -119,7 +100,7 @@ articles:
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/person-interacts-with-a-large-robotic-skeleton-model-of-a-canine-on-wheeled-legs-outdoors.png?id=62313004&width=1245&height=700&coordinates=0%2C39%2C0%2C40
+    imageUrl: https://spectrum.ieee.org/media-library/person-interacts-with-a-large-robotic-skeleton-model-of-a-canine-on-wheeled-legs-outdoors.png?id=62313004&width=1200&height=800&coordinates=30%2C0%2C30%2C0
     categories:
       - Robotics
       - Video friday
