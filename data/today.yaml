@@ -1,21 +1,116 @@
-date: 2025-12-15
+date: 2025-12-16
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: AI agents debate their way to improved mathematical reasoning
-    url: https://techxplore.com/news/2025-12-ai-agents-debate-mathematical.html
-    summary: Large language models (LLMs), artificial intelligence (AI) systems that
-      can process and generate texts in various languages, are now widely used
-      worldwide to create written content, source information and even to code
-      websites or applications. While these models have improved significantly
-      over the past couple of years, their answers can sometimes contain factual
-      inaccuracies or logical inconsistencies.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/new-framework-improves.jpg
+  - title: OpenAI’s Chief Communications Officer Is Leaving the Company
+    url: https://www.wired.com/story/openai-chief-communications-officer-hannah-wong-leaves/
+    summary: Hannah Wong told staff she is moving on to her “next chapter.” The
+      company will be running an executive search to find a replacement,
+      according to a memo.
+    imageUrl: https://media.wired.com/photos/69409cfc0b71868f273ffce7/191:100/w_1280,c_limit/OpenAI-Loses-Chief-Communications-Officer-Business-2218358100.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2025-12-16T00:10:24.000Z
+    source: WIRED (AI)
+  - title: "3 Questions: Using computation to study the world’s best single-celled
+      chemists"
+    url: https://news.mit.edu/2025/3-questions-yunha-hwang-using-computation-study-worlds-best-single-celled-chemists-1215
+    summary: Today, out of an estimated 1 trillion species on Earth, 99.999 percent
+      are considered microbial — bacteria, archaea, viruses, and single-celled
+      eukaryotes. For much of our planet’s history, microbes ruled the Earth,
+      able to live and thrive in the most extreme of environments. Researchers
+      have only just begun in the last few decades to contend with the diversity
+      of microbes — it’s estimated that less than 1 percent of known genes have
+      laboratory-validated functions. Computational approaches offer researchers
+      the opportunity to strategically parse this truly astounding amount of
+      information.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-biology-Yunha-Hwang-3q.jpg?itok=iTEkh14c
+    categories: []
+    publishedAt: 2025-12-15T22:15:00.000Z
+    source: MIT Artificial Intelligence
+  - title: MIT community members elected to the National Academy of Inventors for 2025
+    url: https://news.mit.edu/2025/community-members-elected-national-academy-inventors-1215
+    summary: The National Academy of Inventors (NAI) has named nine MIT affiliates
+      as members of the 2025 class of NAI Fellows. They include Ahmad Bahai, an
+      MIT professor of the practice in the Department of Electrical Engineering
+      and Computer Science (EECS), and Kripa K. Varanasi, MIT professor in the
+      Department of Mechanical Engineering, as well as seven additional MIT
+      alumni. NAI fellowship is the highest professional distinction awarded
+      solely to inventors.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-nai-awards-Bahai-Varanasi.jpg?itok=A6c7a-5M
+    categories: []
+    publishedAt: 2025-12-15T21:30:00.000Z
+    source: MIT Engineering
+  - title: How 3D printing creates stronger vehicle parts by solving aluminum's
+      high-temperature weakness
+    url: https://techxplore.com/news/2025-12-3d-stronger-vehicle-aluminum-high.html
+    summary: Aluminum is prized for being lightweight and strong, but at high
+      temperatures it loses strength. This has limited its use in engines,
+      turbines, and other applications where parts must stay strong under high
+      temperature conditions. Researchers at Nagoya University have developed a
+      method that uses metal 3D printing to create a new aluminum alloy series
+      optimized for high strength and heat resistance. All new alloys use
+      low-cost, abundant elements, and are recycling-friendly, with one variant
+      staying both strong and flexible at 300° C.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/how-3d-printing-create.jpg
+    categories:
+      - Engineering
+    publishedAt: 2025-12-15T21:08:34.000Z
+    source: TechXplore — Engineering
+  - title: New software could reduce dependency on big data centers for AI
+    url: https://techxplore.com/news/2025-12-software-big-centers-ai.html
+    summary: EPFL researchers have developed new software—now spun-off into a
+      start-up—that eliminates the need for data to be sent to third-party cloud
+      services when AI is used to complete a task. This could challenge the
+      business model of Big Tech.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/data-center-1.jpg
+    categories:
+      - Software
+    publishedAt: 2025-12-15T18:34:20.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Sub-millimeter-sized robots can sense, 'think' and act on their own
+    url: https://techxplore.com/news/2025-12-millimeter-sized-robots.html
+    summary: Robots small enough to travel autonomously through the human body to
+      repair damaged sites may seem the stuff of science fiction dreams. But
+      this vision of surgery on a microscale is a step closer to reality, with
+      news that researchers from the University of Pennsylvania and the
+      University of Michigan have built a robot smaller than a millimeter that
+      has an onboard computer and sensors.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/scientists-build-sub-m-1.jpg
+    categories:
+      - Robotics
+    publishedAt: 2025-12-15T15:10:01.000Z
+    source: TechXplore — Robotics
+  - title: Enabling small language models to solve complex reasoning tasks
+    url: https://techxplore.com/news/2025-12-enabling-small-language-complex-tasks.html
+    summary: As language models (LMs) improve at tasks like image generation, trivia
+      questions, and simple math, you might think that human-like reasoning is
+      around the corner. In reality, they still trail us by a wide margin on
+      complex tasks. Try playing Sudoku with one, for instance, where you fill
+      in numbers one through nine in such a way that each appears only once
+      across the columns, rows, and sections of a nine-by-nine grid. Your AI
+      opponent will either fail to fill in boxes on its own or do so
+      inefficiently, although it can verify if you've filled yours out
+      correctly.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/enabling-small-languag.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2025-12-14T16:00:01.000Z
+    publishedAt: 2025-12-15T13:53:30.000Z
     source: TechXplore — Computer Science
+  - title: Radiation-Detection Systems Are Quietly Running in the Background All
+      Around You
+    url: https://www.wired.com/story/radiation-detection-systems-are-quietly-running-in-the-background-all-around-you/
+    summary: If a major disaster like Fukushima or Chornobyl ever happens again, the
+      world would know almost straight away, thanks to an array of government
+      and DIY radiation-monitoring programs running globally.
+    imageUrl: https://media.wired.com/photos/693bfe71540dad19016a9556/191:100/w_1280,c_limit/121125-Weather-Radiation-Alarms.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2025-12-15T10:00:00.000Z
+    source: WIRED science
   - title: AI finds a hidden stress signal inside routine CT scans
     url: https://www.sciencedaily.com/releases/2025/12/251213032615.htm
     summary: Researchers used a deep learning AI model to uncover the first
@@ -39,68 +134,13 @@ articles:
       - Iot devices
     publishedAt: 2025-12-14T14:00:02.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Enabling small language models to solve complex reasoning tasks
-    url: https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212
-    summary: As language models (LMs) improve at tasks like image generation, trivia
-      questions, and simple math, you might think that human-like reasoning is
-      around the corner. In reality, they still trail us by a wide margin on
-      complex tasks. Try playing Sudoku with one, for instance, where you fill
-      in numbers one through nine in such a way that each appears only once
-      across the columns, rows, and sections of a nine-by-nine grid. Your AI
-      opponent will either fail to fill in boxes on its own or do so
-      inefficiently, although it can verify if you’ve filled yours out
-      correctly.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/self-steering-model-mit-csail-00_0.png?itok=v7ciylOd
-    categories: []
-    publishedAt: 2025-12-12T20:30:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Humanoid robots take center stage at Silicon Valley summit, but
-      skepticism remains
-    url: https://techxplore.com/news/2025-12-humanoid-robots-center-stage-silicon.html
-    summary: Robots have long been seen as a bad bet for Silicon Valley
-      investors—too complicated, capital-intensive and "boring, honestly," says
-      venture capitalist Modar Alaoui.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/humanoid-robots-take-c.jpg
-    categories:
-      - Robotics
-    publishedAt: 2025-12-12T18:50:28.000Z
-    source: TechXplore — Robotics
-  - title: "Beyond mimicry: Fiber-type artificial muscles outperform biological
-      muscles"
-    url: https://techxplore.com/news/2025-12-mimicry-fiber-artificial-muscles-outperform.html
-    summary: Biological muscles act as flexible actuators, generating force
-      naturally and with an impressive range of motion. Unsurprisingly,
-      scientists and engineers have been striving to build artificial muscles
-      that mimic these abilities. A new review study, published in npj Robotics,
-      takes a deep dive into recent developments surrounding fiber-type
-      artificial muscles, one of the most life-like types of artificial muscles
-      developed so far.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/fiber-type-artificial.jpg
-    categories:
-      - Robotics
-    publishedAt: 2025-12-12T18:50:07.000Z
-    source: TechXplore — Engineering
-  - title: New MIT program to train military leaders for the AI age
-    url: https://news.mit.edu/2025/applied-ai-program-train-military-leaders-ai-age-1212
-    summary: Artificial intelligence can enhance decision-making and enable action
-      with reduced risk and greater precision, making it a critical tool for
-      national security. A new program offered jointly by the MIT departments of
-      Mechanical Engineering (Course 2, MechE) and Electrical Engineering and
-      Computer Science (Course 6, EECS) will provide breadth and depth in
-      technical studies for naval officers, as well as a path for non-naval
-      officers studying at MIT, to grow in their understanding of applied AI for
-      naval and military applications.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-2023-2N-Commencement.JPG?itok=J7W9sSOO
-    categories: []
-    publishedAt: 2025-12-12T18:10:00.000Z
-    source: MIT Engineering
   - title: "Video Friday: Robot Dog Shows Off Its Muscles"
     url: https://spectrum.ieee.org/musculoskeletal-robot-dog
     summary: Video Friday is your weekly selection of awesome robotics videos,
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/person-interacts-with-a-large-robotic-skeleton-model-of-a-canine-on-wheeled-legs-outdoors.png?id=62313004&width=1200&height=800&coordinates=30%2C0%2C30%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/person-interacts-with-a-large-robotic-skeleton-model-of-a-canine-on-wheeled-legs-outdoors.png?id=62313004&width=1245&height=700&coordinates=0%2C39%2C0%2C40
     categories:
       - Robotics
       - Video friday
