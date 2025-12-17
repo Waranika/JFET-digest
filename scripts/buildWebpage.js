@@ -94,6 +94,23 @@ function buildPageHtml(articles) {
                          Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue',
                          Arial, sans-serif;
           }
+          .header {
+            font-size: 24px;
+            font-weight: 700;
+            margin: 0 -1440px 40px -1440px;
+            margin-bottom: 40px;
+            padding-bottom: 5px;  /* Add space between logo and border */
+            border-bottom: 1px solid #000000;  /* Add black line */
+            text-align: center;
+            color: #000000;
+          }
+
+          .logo {
+            display: block;
+            max-width: 100px;
+            height: auto;
+            margin: 0 auto 16px auto;
+          }                 
 
           .container {
             max-width: 760px;
@@ -236,7 +253,7 @@ function buildPageHtml(articles) {
       <body>
         <div class="container">
           <header class="header">
-            JFETech Digest
+            <img src="/android-chrome-192x192.png" alt="JFETech Logo" class="logo" />
           </header>
 
           <main>
