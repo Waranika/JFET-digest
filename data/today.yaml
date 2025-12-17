@@ -1,154 +1,133 @@
-date: 2025-12-16
+date: 2025-12-17
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: OpenAI’s Chief Communications Officer Is Leaving the Company
-    url: https://www.wired.com/story/openai-chief-communications-officer-hannah-wong-leaves/
-    summary: Hannah Wong told staff she is moving on to her “next chapter.” The
-      company will be running an executive search to find a replacement,
-      according to a memo.
-    imageUrl: https://media.wired.com/photos/69409cfc0b71868f273ffce7/191:100/w_1280,c_limit/OpenAI-Loses-Chief-Communications-Officer-Business-2218358100.jpg
+  - title: Should the US be worried about AI bubble?
+    url: https://techxplore.com/news/2025-12-ai-1.html
+    summary: Tech giants Amazon, Meta, Alphabet, Microsoft, and Oracle have been
+      taking on enormous new debt in a race to build out their artificial
+      intelligence ventures in the last year, fueling Wall Street fears of a
+      bubble capable of disrupting the entire economy.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/should-us-be-worried-a.jpg
+    categories:
+      - Business
+    publishedAt: 2025-12-17T01:40:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: AI-powered robotic hands learn dexterity by mimicking human movements and
+      anatomy
+    url: https://techxplore.com/news/2025-12-ai-powered-robotic-dexterity-mimicking.html
+    summary: Step inside the Soft Robotics Lab at ETH Zurich, and you find yourself
+      in a space that is part children's nursery, part high-tech workshop and
+      part cabinet of curiosities. The lab benches are strewn with foam blocks,
+      stuffed animals—including a cuddly squid—and other colorful toys used to
+      train robotic dexterity. Piled up on every surface are sensors, cables and
+      measurement devices. Skeletal fingers, on show in display cases or
+      attached to powerful robotic arms, seem to reach out to grab you from
+      every corner.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/getting-a-grip-ai-and.jpg
+    categories:
+      - Robotics
+    publishedAt: 2025-12-17T01:00:03.000Z
+    source: TechXplore — Robotics
+  - title: More safety and comfort for protective clothing thanks to auxetic fabrics
+    url: https://techxplore.com/news/2025-12-safety-comfort-auxetic-fabrics.html
+    summary: When everyday materials are pulled, they stretch or elongate in the
+      direction of the pull and become narrower in cross-section. We can also
+      observe this property in two-dimensional textiles. Auxetic structures
+      behave differently here. They have the striking property of not changing
+      under tensile stress or even increasing their width or thickness. These
+      properties are advantageous, for example, in protective textiles or
+      textile filter media.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/more-safety-and-comfor.jpg
+    categories:
+      - Engineering
+    publishedAt: 2025-12-16T21:08:16.000Z
+    source: TechXplore — Engineering
+  - title: iRobot’s Cofounder Weighs In on Company’s Bankruptcy
+    url: https://spectrum.ieee.org/irobot-bankruptcy-colin-angle-amazon
+    summary: On Sunday evening, the legendary robotics company iRobot, manufacturer
+      of the Roomba robotic vacuum, filed for bankruptcy. The company will be
+      handing over all of its assets to its Chinese manufacturing partner,
+      Picea. According to iRobot’s press release, “this agreement represents a
+      critical step toward strengthening iRobot’s financial foundation and
+      positioning the Company for long-term growth and innovation,” which sounds
+      like the sort of thing that you put in a press release when you’re trying
+      your best to put a positive spin on really, really bad news.
+    imageUrl: https://spectrum.ieee.org/media-library/many-boxes-of-irobot-roomba-robot-vacuums-on-display-at-a-store.jpg?id=62593562&width=1200&height=400&coordinates=0%2C417%2C0%2C417
+    categories:
+      - Irobot
+      - Home robots
+    publishedAt: 2025-12-16T20:12:37.000Z
+    source: IEEE Spectrum — Robotics
+  - title: New 3D benchmark leaves AI in knots
+    url: https://techxplore.com/news/2025-12-3d-benchmark-ai.html
+    summary: Today's artificial intelligence models can't even tie their own shoes.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/new-3d-benchmark-leave.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2025-12-16T19:10:14.000Z
+    source: TechXplore — Computer Science
+  - title: OpenAI Rolls Back ChatGPT’s Model Router System for Most Users
+    url: https://www.wired.com/story/openai-router-relaunch-gpt-5-sam-altman/
+    summary: As OpenAI scrambles to improve ChatGPT, it's ditching a feature in its
+      free tier that contributed to last summer's user revolt.
+    imageUrl: https://media.wired.com/photos/6940568e6f1488718f54b69a/191:100/w_1280,c_limit/Model-Behavior-Why-OpenAI-Killed-the-Model-Router-in-GPT-5-2218344204.jpg
     categories:
       - Business
       - Business / Artificial Intelligence
-    publishedAt: 2025-12-16T00:10:24.000Z
+    publishedAt: 2025-12-16T17:30:00.000Z
     source: WIRED (AI)
-  - title: "3 Questions: Using computation to study the world’s best single-celled
-      chemists"
-    url: https://news.mit.edu/2025/3-questions-yunha-hwang-using-computation-study-worlds-best-single-celled-chemists-1215
-    summary: Today, out of an estimated 1 trillion species on Earth, 99.999 percent
-      are considered microbial — bacteria, archaea, viruses, and single-celled
-      eukaryotes. For much of our planet’s history, microbes ruled the Earth,
-      able to live and thrive in the most extreme of environments. Researchers
-      have only just begun in the last few decades to contend with the diversity
-      of microbes — it’s estimated that less than 1 percent of known genes have
-      laboratory-validated functions. Computational approaches offer researchers
-      the opportunity to strategically parse this truly astounding amount of
-      information.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-biology-Yunha-Hwang-3q.jpg?itok=iTEkh14c
+  - title: This AI Can Beat You At Rock-Paper-Scissors
+    url: https://spectrum.ieee.org/analog-reservoir-computer
+    summary: Rock-paper-scissors is often a game of psychology, reverse psychology,
+      reverse-reverse psychology, and chance. But what if a computer could
+      understand you well enough to win every time? A team at Hokkaido
+      University and the TDK Corp. (of cassette-tape fame), both based in Japan,
+      has designed a chip that can do just that.
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-tdk-s-prototype-of-an-analog-reservoir-ai-chip.jpg?id=62299641&width=700&height=1245&coordinates=578%2C0%2C578%2C0
+    categories:
+      - Edge ai
+      - Power consumption
+      - Reservoir computing
+      - Neural networks
+      - Chips
+    publishedAt: 2025-12-16T16:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: Ramanujan’s 100-year-old pi formula is still revealing the Universe
+    url: https://www.sciencedaily.com/releases/2025/12/251216081949.htm
+    summary: Ramanujan’s elegant formulas for calculating pi, developed more than a
+      century ago, have unexpectedly resurfaced at the heart of modern physics.
+      Researchers at IISc discovered that the same mathematical structures
+      behind these formulas also describe real-world phenomena like turbulence,
+      percolation, and even black holes. What once seemed like pure mathematics
+      now appears deeply intertwined with the physical laws governing the
+      universe.
+    imageUrl: https://www.sciencedaily.com/images/1920/pi-number-infinite-spiral.webp
     categories: []
-    publishedAt: 2025-12-15T22:15:00.000Z
-    source: MIT Artificial Intelligence
-  - title: MIT community members elected to the National Academy of Inventors for 2025
-    url: https://news.mit.edu/2025/community-members-elected-national-academy-inventors-1215
-    summary: The National Academy of Inventors (NAI) has named nine MIT affiliates
-      as members of the 2025 class of NAI Fellows. They include Ahmad Bahai, an
-      MIT professor of the practice in the Department of Electrical Engineering
-      and Computer Science (EECS), and Kripa K. Varanasi, MIT professor in the
-      Department of Mechanical Engineering, as well as seven additional MIT
-      alumni. NAI fellowship is the highest professional distinction awarded
-      solely to inventors.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-nai-awards-Bahai-Varanasi.jpg?itok=A6c7a-5M
+    publishedAt: 2025-12-16T13:19:49.000Z
+    source: ScienceDaily — Computer Science
+  - title: AI learns to decode the diseases written in your DNA
+    url: https://www.sciencedaily.com/releases/2025/12/251216043957.htm
+    summary: A newly developed AI can predict which diseases specific genetic
+      mutations are likely to cause, not just whether they are harmful. The
+      breakthrough could speed up diagnoses and open new paths for personalized
+      treatment.
+    imageUrl: https://www.sciencedaily.com/images/1920/ai-dna-nanostructure-analysis.webp
     categories: []
-    publishedAt: 2025-12-15T21:30:00.000Z
-    source: MIT Engineering
-  - title: How 3D printing creates stronger vehicle parts by solving aluminum's
-      high-temperature weakness
-    url: https://techxplore.com/news/2025-12-3d-stronger-vehicle-aluminum-high.html
-    summary: Aluminum is prized for being lightweight and strong, but at high
-      temperatures it loses strength. This has limited its use in engines,
-      turbines, and other applications where parts must stay strong under high
-      temperature conditions. Researchers at Nagoya University have developed a
-      method that uses metal 3D printing to create a new aluminum alloy series
-      optimized for high strength and heat resistance. All new alloys use
-      low-cost, abundant elements, and are recycling-friendly, with one variant
-      staying both strong and flexible at 300° C.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/how-3d-printing-create.jpg
-    categories:
-      - Engineering
-    publishedAt: 2025-12-15T21:08:34.000Z
-    source: TechXplore — Engineering
-  - title: New software could reduce dependency on big data centers for AI
-    url: https://techxplore.com/news/2025-12-software-big-centers-ai.html
-    summary: EPFL researchers have developed new software—now spun-off into a
-      start-up—that eliminates the need for data to be sent to third-party cloud
-      services when AI is used to complete a task. This could challenge the
-      business model of Big Tech.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/data-center-1.jpg
-    categories:
-      - Software
-    publishedAt: 2025-12-15T18:34:20.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Sub-millimeter-sized robots can sense, 'think' and act on their own
-    url: https://techxplore.com/news/2025-12-millimeter-sized-robots.html
-    summary: Robots small enough to travel autonomously through the human body to
-      repair damaged sites may seem the stuff of science fiction dreams. But
-      this vision of surgery on a microscale is a step closer to reality, with
-      news that researchers from the University of Pennsylvania and the
-      University of Michigan have built a robot smaller than a millimeter that
-      has an onboard computer and sensors.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/scientists-build-sub-m-1.jpg
-    categories:
-      - Robotics
-    publishedAt: 2025-12-15T15:10:01.000Z
-    source: TechXplore — Robotics
-  - title: Enabling small language models to solve complex reasoning tasks
-    url: https://techxplore.com/news/2025-12-enabling-small-language-complex-tasks.html
-    summary: As language models (LMs) improve at tasks like image generation, trivia
-      questions, and simple math, you might think that human-like reasoning is
-      around the corner. In reality, they still trail us by a wide margin on
-      complex tasks. Try playing Sudoku with one, for instance, where you fill
-      in numbers one through nine in such a way that each appears only once
-      across the columns, rows, and sections of a nine-by-nine grid. Your AI
-      opponent will either fail to fill in boxes on its own or do so
-      inefficiently, although it can verify if you've filled yours out
-      correctly.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/enabling-small-languag.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2025-12-15T13:53:30.000Z
-    source: TechXplore — Computer Science
-  - title: Radiation-Detection Systems Are Quietly Running in the Background All
-      Around You
-    url: https://www.wired.com/story/radiation-detection-systems-are-quietly-running-in-the-background-all-around-you/
-    summary: If a major disaster like Fukushima or Chornobyl ever happens again, the
-      world would know almost straight away, thanks to an array of government
-      and DIY radiation-monitoring programs running globally.
-    imageUrl: https://media.wired.com/photos/693bfe71540dad19016a9556/191:100/w_1280,c_limit/121125-Weather-Radiation-Alarms.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2025-12-15T10:00:00.000Z
-    source: WIRED science
-  - title: AI finds a hidden stress signal inside routine CT scans
-    url: https://www.sciencedaily.com/releases/2025/12/251213032615.htm
-    summary: Researchers used a deep learning AI model to uncover the first
-      imaging-based biomarker of chronic stress by measuring adrenal gland
-      volume on routine CT scans. This new metric, the Adrenal Volume Index,
-      correlates strongly with cortisol levels, allostatic load, perceived
-      stress, and even long-term cardiovascular outcomes, including heart
-      failure risk.
-    imageUrl: https://www.sciencedaily.com/images/1920/human-adrenal-glands-scan.webp
-    categories: []
-    publishedAt: 2025-12-14T14:27:30.000Z
+    publishedAt: 2025-12-16T09:47:28.000Z
     source: ScienceDaily — Robotics
-  - title: Smart Tiles Make Crowd Counting Easy
-    url: https://spectrum.ieee.org/crowd-monitoring-smart-tiles-iot
-    summary: This article is part of our exclusive IEEE Journal Watch series in
-      partnership with IEEE Xplore.
-    imageUrl: https://spectrum.ieee.org/media-library/footprints-against-a-grid-lined-background.jpg?id=62346893&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Crowd analysis
-      - Smart devices
-      - Iot devices
-    publishedAt: 2025-12-14T14:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: "Video Friday: Robot Dog Shows Off Its Muscles"
-    url: https://spectrum.ieee.org/musculoskeletal-robot-dog
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/person-interacts-with-a-large-robotic-skeleton-model-of-a-canine-on-wheeled-legs-outdoors.png?id=62313004&width=1245&height=700&coordinates=0%2C39%2C0%2C40
-    categories:
-      - Robotics
-      - Video friday
-      - Quadruped robots
-      - Ai robots
-      - Vision robotics
-    publishedAt: 2025-12-12T17:00:02.000Z
-    source: IEEE Spectrum — Robotics
+  - title: "“Robot, make me a chair” "
+    url: https://news.mit.edu/2025/robot-makes-chair-1216
+    summary: Computer-aided design (CAD) systems are tried-and-true tools used to
+      design many of the physical objects we use each day. But CAD software
+      requires extensive expertise to master, and many tools incorporate such a
+      high level of detail they don’t lend themselves to brainstorming or rapid
+      prototyping.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-TextAssembly-01-press.jpg?itok=9VjD1Zwy
+    categories: []
+    publishedAt: 2025-12-16T05:00:00.000Z
+    source: MIT Artificial Intelligence
   - title: Researchers catch atoms standing still inside molten metal
     url: https://www.sciencedaily.com/releases/2025/12/251210092017.htm
     summary: Scientists have uncovered that some atoms in liquids don't move at
@@ -162,19 +141,6 @@ articles:
     categories: []
     publishedAt: 2025-12-11T08:15:21.000Z
     source: ScienceDaily — Engineering
-  - title: Why Vision AI Models Fail
-    url: https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/
-    summary: Prevent costly AI failures in production by mastering data-centric
-      approaches to detect bias, classimbalance, and data leakage before
-      deployment impacts your business.
-    imageUrl: https://spectrum.ieee.org/media-library/logo-of-voxel51-orange-cube-outline-on-left-voxel-in-gray-51-in-orange-on-right.png?id=62304853&width=980
-    categories:
-      - Type:whitepaper
-      - Ai models
-      - Artificial intelligence
-      - Data
-    publishedAt: 2025-12-10T20:33:57.000Z
-    source: IEEE Spectrum — AI
   - title: Vine-inspired robotic gripper gently lifts heavy and fragile objects
     url: https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210
     summary: In the horticultural world, some vines are especially grabby. As they
@@ -196,7 +162,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/bisc-brain-implant.webp
     categories: []
     publishedAt: 2025-12-10T04:54:39.000Z
-    source: ScienceDaily — Computer Science
+    source: ScienceDaily — Artificial Intelligence
   - title: Listen to Protons for Less Than $100
     url: https://spectrum.ieee.org/listen-to-protons-diy-magnetometer
     summary: "When you get an MRI scan, the machine exploits a phenomenon called
