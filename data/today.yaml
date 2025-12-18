@@ -1,49 +1,87 @@
-date: 2025-12-17
+date: 2025-12-18
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Should the US be worried about AI bubble?
-    url: https://techxplore.com/news/2025-12-ai-1.html
-    summary: Tech giants Amazon, Meta, Alphabet, Microsoft, and Oracle have been
-      taking on enormous new debt in a race to build out their artificial
-      intelligence ventures in the last year, fueling Wall Street fears of a
-      bubble capable of disrupting the entire economy.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/should-us-be-worried-a.jpg
-    categories:
-      - Business
-    publishedAt: 2025-12-17T01:40:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: AI-powered robotic hands learn dexterity by mimicking human movements and
-      anatomy
-    url: https://techxplore.com/news/2025-12-ai-powered-robotic-dexterity-mimicking.html
-    summary: Step inside the Soft Robotics Lab at ETH Zurich, and you find yourself
-      in a space that is part children's nursery, part high-tech workshop and
-      part cabinet of curiosities. The lab benches are strewn with foam blocks,
-      stuffed animals—including a cuddly squid—and other colorful toys used to
-      train robotic dexterity. Piled up on every surface are sensors, cables and
-      measurement devices. Skeletal fingers, on show in display cases or
-      attached to powerful robotic arms, seem to reach out to grab you from
-      every corner.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/getting-a-grip-ai-and.jpg
-    categories:
-      - Robotics
-    publishedAt: 2025-12-17T01:00:03.000Z
-    source: TechXplore — Robotics
-  - title: More safety and comfort for protective clothing thanks to auxetic fabrics
-    url: https://techxplore.com/news/2025-12-safety-comfort-auxetic-fabrics.html
-    summary: When everyday materials are pulled, they stretch or elongate in the
-      direction of the pull and become narrower in cross-section. We can also
-      observe this property in two-dimensional textiles. Auxetic structures
-      behave differently here. They have the striking property of not changing
-      under tensile stress or even increasing their width or thickness. These
-      properties are advantageous, for example, in protective textiles or
-      textile filter media.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/more-safety-and-comfor.jpg
+  - title: A new way to increase the capabilities of large language models
+    url: https://news.mit.edu/2025/new-way-to-increase-large-language-model-capabilities-1217
+    summary: Most languages use word position and sentence structure to extract
+      meaning. For example, “The cat sat on the box,” is not the same as “The
+      box was on the cat.” Over a long text, like a financial document or a
+      novel, the syntax of these words likely evolves.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-watson-cats-in-a-box.jpg?itok=ytH_wQHS
+    categories: []
+    publishedAt: 2025-12-18T04:10:00.000Z
+    source: MIT Artificial Intelligence
+  - title: New interface engineering strategy developed for efficient and stable
+      back-contact solar cells
+    url: https://techxplore.com/news/2025-12-interface-strategy-efficient-stable-contact.html
+    summary: As the demand for renewable energy grows, scientists are developing new
+      types of solar cells that are both highly efficient and scalable. The
+      back-contact perovskite solar cell (BC-PSC) is one such innovative
+      architecture, emerging as a promising alternative to traditional
+      front-contact designs.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/jeonbuk-national-unive-4.jpg
     categories:
       - Engineering
-    publishedAt: 2025-12-16T21:08:16.000Z
+    publishedAt: 2025-12-18T00:20:04.000Z
     source: TechXplore — Engineering
+  - title: We may never be able to tell if AI becomes conscious, argues philosopher
+    url: https://techxplore.com/news/2025-12-ai-conscious-philosopher.html
+    summary: A University of Cambridge philosopher argues that our evidence for what
+      constitutes consciousness is far too limited to tell if or when artificial
+      intelligence has made the leap—and a valid test for doing so will remain
+      out of reach for the foreseeable future.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/ai-conscious.jpg
+    categories:
+      - Business
+    publishedAt: 2025-12-18T00:00:02.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: ‘Wicked’ Director Jon M. Chu on ‘What Makes Art Beautiful’ in the AI Era
+    url: https://www.wired.com/story/uncanny-valley-podcast-wicked-director-jon-m-chu/
+    summary: "In this episode of Uncanny Valley, we bring you our conversation with
+      Jon M. Chu from WIRED’s Big Interview event, fresh on the heels of
+      directing Wicked: For Good."
+    imageUrl: https://media.wired.com/photos/69407fa27e1bd64b844c6136/191:100/w_1280,c_limit/Uncanny-Valley-Jon-Chu-Culture-2249988378.jpg
+    categories:
+      - Culture
+      - Culture / Movies
+    publishedAt: 2025-12-17T22:07:59.000Z
+    source: WIRED (AI)
+  - title: Flexible position encoding helps LLMs follow complex instructions and
+      shifting states
+    url: https://techxplore.com/news/2025-12-flexible-position-encoding-llms-complex.html
+    summary: Most languages use word position and sentence structure to extract
+      meaning. For example, "The cat sat on the box," is not the same as "The
+      box was on the cat." Over a long text, like a financial document or a
+      novel, the syntax of these words likely evolves.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/new-way-to-increase-ca.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2025-12-17T19:33:13.000Z
+    source: TechXplore — Computer Science
+  - title: Robotic arm successfully learns 1,000 manipulation tasks in one day
+    url: https://techxplore.com/news/2025-12-robotic-arm-successfully-tasks-day.html
+    summary: Over the past decades, roboticists have introduced a wide range of
+      systems that can effectively tackle some real-world problems. Most of
+      these robots, however, often perform poorly on tasks that they were not
+      trained on, particularly those that entail manipulating previously unseen
+      objects or handling objects that were encountered before in new ways.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/robotics-team-successf.jpg
+    categories:
+      - Robotics
+    publishedAt: 2025-12-17T17:30:03.000Z
+    source: TechXplore — Robotics
+  - title: How to Watch the Final Meteor Shower of 2025
+    url: https://www.wired.com/story/how-to-watch-the-ursids-meteor-shower/
+    summary: Conditions in the US should be perfect for the final meteor shower of
+      2025, with no moonlight present to interfere with spotting shooting stars.
+    imageUrl: https://media.wired.com/photos/674705ece62bfbd1626a1416/191:100/w_1280,c_limit/GettyImages-1293014500.jpg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2025-12-17T12:00:00.000Z
+    source: WIRED science
   - title: iRobot’s Cofounder Weighs In on Company’s Bankruptcy
     url: https://spectrum.ieee.org/irobot-bankruptcy-colin-angle-amazon
     summary: On Sunday evening, the legendary robotics company iRobot, manufacturer
@@ -54,30 +92,12 @@ articles:
       positioning the Company for long-term growth and innovation,” which sounds
       like the sort of thing that you put in a press release when you’re trying
       your best to put a positive spin on really, really bad news.
-    imageUrl: https://spectrum.ieee.org/media-library/many-boxes-of-irobot-roomba-robot-vacuums-on-display-at-a-store.jpg?id=62593562&width=1200&height=400&coordinates=0%2C417%2C0%2C417
+    imageUrl: https://spectrum.ieee.org/media-library/many-boxes-of-irobot-roomba-robot-vacuums-on-display-at-a-store.jpg?id=62593562&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
       - Irobot
       - Home robots
     publishedAt: 2025-12-16T20:12:37.000Z
     source: IEEE Spectrum — Robotics
-  - title: New 3D benchmark leaves AI in knots
-    url: https://techxplore.com/news/2025-12-3d-benchmark-ai.html
-    summary: Today's artificial intelligence models can't even tie their own shoes.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/new-3d-benchmark-leave.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2025-12-16T19:10:14.000Z
-    source: TechXplore — Computer Science
-  - title: OpenAI Rolls Back ChatGPT’s Model Router System for Most Users
-    url: https://www.wired.com/story/openai-router-relaunch-gpt-5-sam-altman/
-    summary: As OpenAI scrambles to improve ChatGPT, it's ditching a feature in its
-      free tier that contributed to last summer's user revolt.
-    imageUrl: https://media.wired.com/photos/6940568e6f1488718f54b69a/191:100/w_1280,c_limit/Model-Behavior-Why-OpenAI-Killed-the-Model-Router-in-GPT-5-2218344204.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2025-12-16T17:30:00.000Z
-    source: WIRED (AI)
   - title: This AI Can Beat You At Rock-Paper-Scissors
     url: https://spectrum.ieee.org/analog-reservoir-computer
     summary: Rock-paper-scissors is often a game of psychology, reverse psychology,
@@ -85,7 +105,7 @@ articles:
       understand you well enough to win every time? A team at Hokkaido
       University and the TDK Corp. (of cassette-tape fame), both based in Japan,
       has designed a chip that can do just that.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-tdk-s-prototype-of-an-analog-reservoir-ai-chip.jpg?id=62299641&width=700&height=1245&coordinates=578%2C0%2C578%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-tdk-s-prototype-of-an-analog-reservoir-ai-chip.jpg?id=62299641&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
       - Edge ai
       - Power consumption
@@ -127,7 +147,7 @@ articles:
     imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-TextAssembly-01-press.jpg?itok=9VjD1Zwy
     categories: []
     publishedAt: 2025-12-16T05:00:00.000Z
-    source: MIT Artificial Intelligence
+    source: MIT Engineering
   - title: Researchers catch atoms standing still inside molten metal
     url: https://www.sciencedaily.com/releases/2025/12/251210092017.htm
     summary: Scientists have uncovered that some atoms in liquids don't move at
