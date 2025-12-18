@@ -115,7 +115,7 @@ function buildPageHtml(articles) {
           .container {
             max-width: 760px;
             margin: 0 auto;
-            padding: 20px 72px;
+            padding: 5px 72px;
           }
 
           .header {
