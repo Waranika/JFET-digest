@@ -1,87 +1,95 @@
-date: 2025-12-18
+date: 2025-12-19
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: A new way to increase the capabilities of large language models
-    url: https://news.mit.edu/2025/new-way-to-increase-large-language-model-capabilities-1217
-    summary: Most languages use word position and sentence structure to extract
-      meaning. For example, “The cat sat on the box,” is not the same as “The
-      box was on the cat.” Over a long text, like a financial document or a
-      novel, the syntax of these words likely evolves.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-watson-cats-in-a-box.jpg?itok=ytH_wQHS
+  - title: Guided learning lets “untrainable” neural networks realize their potential
+    url: https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218
+    summary: Even networks long considered “untrainable” can learn effectively with
+      a bit of a helping hand. Researchers at MIT’s Computer Science and
+      Artificial Intelligence Laboratory (CSAIL) have shown that a brief period
+      of alignment between neural networks, a method they call guidance, can
+      dramatically improve the performance of architectures previously thought
+      unsuitable for modern tasks.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-csail-Untrainable-networks.jpg?itok=_xsMAwVf
     categories: []
-    publishedAt: 2025-12-18T04:10:00.000Z
+    publishedAt: 2025-12-18T21:20:00.000Z
     source: MIT Artificial Intelligence
-  - title: New interface engineering strategy developed for efficient and stable
-      back-contact solar cells
-    url: https://techxplore.com/news/2025-12-interface-strategy-efficient-stable-contact.html
-    summary: As the demand for renewable energy grows, scientists are developing new
-      types of solar cells that are both highly efficient and scalable. The
-      back-contact perovskite solar cell (BC-PSC) is one such innovative
-      architecture, emerging as a promising alternative to traditional
-      front-contact designs.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/jeonbuk-national-unive-4.jpg
+  - title: "Putting the squeeze on dendrites: New strategy addresses persistent
+      problem in next-generation solid-state batteries"
+    url: https://techxplore.com/news/2025-12-dendrites-strategy-persistent-problem-generation.html
+    summary: New research by Brown University engineers identifies a simple strategy
+      for combating a major stumbling block in the development of
+      next-generation solid-state lithium batteries.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/putting-the-squeeze-on.jpg
     categories:
       - Engineering
-    publishedAt: 2025-12-18T00:20:04.000Z
+    publishedAt: 2025-12-18T20:53:35.000Z
     source: TechXplore — Engineering
-  - title: We may never be able to tell if AI becomes conscious, argues philosopher
-    url: https://techxplore.com/news/2025-12-ai-conscious-philosopher.html
-    summary: A University of Cambridge philosopher argues that our evidence for what
-      constitutes consciousness is far too limited to tell if or when artificial
-      intelligence has made the leap—and a valid test for doing so will remain
-      out of reach for the foreseeable future.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/ai-conscious.jpg
-    categories:
-      - Business
-    publishedAt: 2025-12-18T00:00:02.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: ‘Wicked’ Director Jon M. Chu on ‘What Makes Art Beautiful’ in the AI Era
-    url: https://www.wired.com/story/uncanny-valley-podcast-wicked-director-jon-m-chu/
-    summary: "In this episode of Uncanny Valley, we bring you our conversation with
-      Jon M. Chu from WIRED’s Big Interview event, fresh on the heels of
-      directing Wicked: For Good."
-    imageUrl: https://media.wired.com/photos/69407fa27e1bd64b844c6136/191:100/w_1280,c_limit/Uncanny-Valley-Jon-Chu-Culture-2249988378.jpg
-    categories:
-      - Culture
-      - Culture / Movies
-    publishedAt: 2025-12-17T22:07:59.000Z
-    source: WIRED (AI)
-  - title: Flexible position encoding helps LLMs follow complex instructions and
-      shifting states
-    url: https://techxplore.com/news/2025-12-flexible-position-encoding-llms-complex.html
-    summary: Most languages use word position and sentence structure to extract
-      meaning. For example, "The cat sat on the box," is not the same as "The
-      box was on the cat." Over a long text, like a financial document or a
-      novel, the syntax of these words likely evolves.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/new-way-to-increase-ca.jpg
+  - title: Human language inspired AI—now, we can use that AI to learn about language
+    url: https://techxplore.com/news/2025-12-human-language-ai.html
+    summary: Ph.D. candidate Yuchen Lian (LIACS) wants to understand why human
+      languages look the way they do—and find inspiration to improve AI along
+      the way. She defended her thesis on 12 December.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/human-language-inspire.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2025-12-17T19:33:13.000Z
+    publishedAt: 2025-12-18T20:37:24.000Z
     source: TechXplore — Computer Science
-  - title: Robotic arm successfully learns 1,000 manipulation tasks in one day
-    url: https://techxplore.com/news/2025-12-robotic-arm-successfully-tasks-day.html
-    summary: Over the past decades, roboticists have introduced a wide range of
-      systems that can effectively tackle some real-world problems. Most of
-      these robots, however, often perform poorly on tasks that they were not
-      trained on, particularly those that entail manipulating previously unseen
-      objects or handling objects that were encountered before in new ways.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/robotics-team-successf.jpg
+  - title: The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams
+    url: https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/
+    summary: Capable of creating “nearly perfect” face swaps during live video
+      chats, Haotian has made millions, mainly via Telegram. But its main
+      channel vanished after WIRED's inquiry into scammers using the app.
+    imageUrl: https://media.wired.com/photos/6941b2b7df7648d0f38774bb/191:100/w_1280,c_limit/sec-ai-faceswap-app-1382901144.jpg
     categories:
-      - Robotics
-    publishedAt: 2025-12-17T17:30:03.000Z
+      - Security
+      - Security / Security News
+    publishedAt: 2025-12-18T17:45:46.000Z
+    source: WIRED (AI)
+  - title: At a Silicon Valley summit, robots fold laundry—and investors open their
+      wallets
+    url: https://techxplore.com/news/2025-12-silicon-valley-summit-robots-laundry.html
+    summary: Robots from around the world converged on Silicon Valley to provide a
+      glimpse of a potential future.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/at-a-silicon-valley-su.jpg
+    categories:
+      - Business
+    publishedAt: 2025-12-18T15:00:04.000Z
     source: TechXplore — Robotics
-  - title: How to Watch the Final Meteor Shower of 2025
-    url: https://www.wired.com/story/how-to-watch-the-ursids-meteor-shower/
-    summary: Conditions in the US should be perfect for the final meteor shower of
-      2025, with no moonlight present to interfere with spotting shooting stars.
-    imageUrl: https://media.wired.com/photos/674705ece62bfbd1626a1416/191:100/w_1280,c_limit/GettyImages-1293014500.jpg
+  - title: Scientists spent 10 years chasing a particle that wasn’t there
+    url: https://www.sciencedaily.com/releases/2025/12/251217082503.htm
+    summary: "After a decade of painstaking measurements, scientists have delivered
+      a major plot twist in particle physics: a long-hypothesized “mystery
+      particle” likely doesn’t exist. Using the MicroBooNE experiment at
+      Fermilab, researchers analyzed neutrinos from two powerful beams and found
+      no evidence for a sterile neutrino, ruling it out with 95% certainty."
+    imageUrl: https://www.sciencedaily.com/images/1920/physics-breakthrough.webp
+    categories: []
+    publishedAt: 2025-12-18T10:43:55.000Z
+    source: ScienceDaily — Engineering
+  - title: Pumped Hydro Energy Storage Is Having a Renaissance
+    url: https://www.wired.com/story/pumped-hydro-energy-storage-is-having-a-renaissance/
+    summary: As the world looks to incorporate more renewables into energy grids,
+      centuries-old systems that can balance supply and demand are being
+      reappraised and innovated upon.
+    imageUrl: https://media.wired.com/photos/69208e512fa6964c21cd5476/191:100/w_1280,c_limit/Goldisthal_2004.jpg
     categories:
       - Science
-      - Science / Space
-    publishedAt: 2025-12-17T12:00:00.000Z
+    publishedAt: 2025-12-18T10:30:00.000Z
     source: WIRED science
+  - title: AI detects cancer but it’s also reading who you are
+    url: https://www.sciencedaily.com/releases/2025/12/251217231230.htm
+    summary: AI tools designed to diagnose cancer from tissue samples are quietly
+      learning more than just disease patterns. New research shows these systems
+      can infer patient demographics from pathology slides, leading to biased
+      results for certain groups. The bias stems from how the models are trained
+      and the data they see, not just from missing samples. Researchers also
+      demonstrated a way to significantly reduce these disparities.
+    imageUrl: https://www.sciencedaily.com/images/1920/abstract-artificial-intelligence-medical-health-dna-technology.webp
+    categories: []
+    publishedAt: 2025-12-18T04:53:41.000Z
+    source: ScienceDaily — Robotics
   - title: iRobot’s Cofounder Weighs In on Company’s Bankruptcy
     url: https://spectrum.ieee.org/irobot-bankruptcy-colin-angle-amazon
     summary: On Sunday evening, the legendary robotics company iRobot, manufacturer
@@ -92,7 +100,7 @@ articles:
       positioning the Company for long-term growth and innovation,” which sounds
       like the sort of thing that you put in a press release when you’re trying
       your best to put a positive spin on really, really bad news.
-    imageUrl: https://spectrum.ieee.org/media-library/many-boxes-of-irobot-roomba-robot-vacuums-on-display-at-a-store.jpg?id=62593562&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    imageUrl: https://spectrum.ieee.org/media-library/many-boxes-of-irobot-roomba-robot-vacuums-on-display-at-a-store.jpg?id=62593562&width=1200&height=800&coordinates=0%2C83%2C0%2C84
     categories:
       - Irobot
       - Home robots
@@ -127,16 +135,6 @@ articles:
     categories: []
     publishedAt: 2025-12-16T13:19:49.000Z
     source: ScienceDaily — Computer Science
-  - title: AI learns to decode the diseases written in your DNA
-    url: https://www.sciencedaily.com/releases/2025/12/251216043957.htm
-    summary: A newly developed AI can predict which diseases specific genetic
-      mutations are likely to cause, not just whether they are harmful. The
-      breakthrough could speed up diagnoses and open new paths for personalized
-      treatment.
-    imageUrl: https://www.sciencedaily.com/images/1920/ai-dna-nanostructure-analysis.webp
-    categories: []
-    publishedAt: 2025-12-16T09:47:28.000Z
-    source: ScienceDaily — Robotics
   - title: "“Robot, make me a chair” "
     url: https://news.mit.edu/2025/robot-makes-chair-1216
     summary: Computer-aided design (CAD) systems are tried-and-true tools used to
@@ -148,19 +146,6 @@ articles:
     categories: []
     publishedAt: 2025-12-16T05:00:00.000Z
     source: MIT Engineering
-  - title: Researchers catch atoms standing still inside molten metal
-    url: https://www.sciencedaily.com/releases/2025/12/251210092017.htm
-    summary: Scientists have uncovered that some atoms in liquids don't move at
-      all—even at extreme temperatures—and these anchored atoms dramatically
-      alter the way materials freeze. Using advanced electron microscopy,
-      researchers watched molten metal droplets solidify and found that
-      stationary atoms can trap liquids in tiny “atomic corrals,” keeping them
-      fluid far below their normal freezing point and giving rise to a strange
-      hybrid state of matter.
-    imageUrl: https://www.sciencedaily.com/images/1920/strange-liquid-metal.webp
-    categories: []
-    publishedAt: 2025-12-11T08:15:21.000Z
-    source: ScienceDaily — Engineering
   - title: Vine-inspired robotic gripper gently lifts heavy and fragile objects
     url: https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210
     summary: In the horticultural world, some vines are especially grabby. As they
@@ -193,7 +178,7 @@ articles:
       at tens to hundreds of megahertz. However, another NMR-based instrument
       involves much lower-frequency oscillations: a proton-precession
       magnetometer, often used to measure Earth’s magnetic field."
-    imageUrl: https://spectrum.ieee.org/media-library/a-pair-of-coil-wound-cylinders-sits-atop-two-milk-crates-wires-connect-them-to-a-circuit-board-connected-to-three-large-12-volt.png?id=62212907&width=1200&height=800&coordinates=0%2C315%2C0%2C315
+    imageUrl: https://spectrum.ieee.org/media-library/a-pair-of-coil-wound-cylinders-sits-atop-two-milk-crates-wires-connect-them-to-a-circuit-board-connected-to-three-large-12-volt.png?id=62212907&width=1245&height=700&coordinates=0%2C428%2C0%2C429
     categories:
       - Citizen science
       - Proton magnetometer
