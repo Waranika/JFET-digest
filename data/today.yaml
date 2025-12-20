@@ -1,8 +1,83 @@
-date: 2025-12-19
+date: 2025-12-20
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Sam Altman’s New Brain Venture, Merge Labs, Will Spin Out of a Nonprofit
+    url: https://www.wired.com/story/sam-altman-brain-computer-interface-merge-labs-spin-out-nonprofit-forest-neurotech/
+    summary: Merge Labs, a brain-computer interface startup that seeks to read brain
+      activity using ultrasound, is being spun out of Forest Neurotech, a Los
+      Angeles nonprofit.
+    imageUrl: https://media.wired.com/photos/6943154b8d14fbb0ba136394/191:100/w_1280,c_limit/GettyImages-1255236646.jpg
+    categories:
+      - Science
+      - Science / Biotech
+    publishedAt: 2025-12-19T19:03:11.000Z
+    source: WIRED science
+  - title: Basalt and cotton fiber composite yarn advance textile industry's green
+      transition
+    url: https://techxplore.com/news/2025-12-basalt-cotton-fiber-composite-yarn.html
+    summary: A research team from the Xinjiang Technical Institute of Physics and
+      Chemistry of the Chinese Academy of Sciences, has developed a basalt
+      fiber/cotton fiber composite yarn that integrates weavability with
+      multiple functional properties. The study was published in Composites
+      Communications.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/researchers-develop-ba-1.jpg
+    categories:
+      - Engineering
+    publishedAt: 2025-12-19T18:24:14.000Z
+    source: TechXplore — Engineering
+  - title: Creating realistic 3D scenes from everyday online photos
+    url: https://techxplore.com/news/2025-12-realistic-3d-scenes-everyday-online.html
+    summary: A new approach is making it easier to visualize lifelike 3D
+      environments from everyday photos already shared online, opening new
+      possibilities in industries such as gaming, virtual tourism and cultural
+      preservation.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/researchers-make-it-ea.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2025-12-19T17:30:01.000Z
+    source: TechXplore — Computer Science
+  - title: Ultra-low power, fully biodegradable artificial synapse offers
+      record-breaking memory
+    url: https://techxplore.com/news/2025-12-ultra-power-fully-biodegradable-artificial.html
+    summary: In Nature Communications, a research team affiliated with UNIST present
+      a fully biodegradable, robust, and energy-efficient artificial synapse
+      that holds great promise for sustainable neuromorphic technologies. Made
+      entirely from eco-friendly materials sourced from nature—such as shells,
+      beans, and plant fibers—this innovation could help address the growing
+      problems of electronic waste and high energy use.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/ultra-low-power-fully-3.jpg
+    categories:
+      - Robotics
+    publishedAt: 2025-12-19T16:41:27.000Z
+    source: TechXplore — Robotics
+  - title: "Video Friday: Happy Robot Holidays"
+    url: https://spectrum.ieee.org/happy-holidays-robot
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events. Please send us your events for
+      inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/robot-shooting-fire-towards-a-candle-on-a-table-with-a-backdrop-of-robot-silhouettes.png?id=62607756&width=1200&height=400&coordinates=0%2C220%2C0%2C220
+    categories:
+      - Video friday
+      - Robotics
+      - Holidays
+      - Quadruped robots
+      - Modular robots
+      - Humanoid robots
+    publishedAt: 2025-12-19T16:30:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: “Wait, we have the tech skills to build that”
+    url: https://news.mit.edu/2025/building-with-tech-skills-julianna-schneider-1219
+    summary: Students can take many possible routes through MIT’s curriculum, which
+      can zigag through different departments, linking classes and disciplines
+      in unexpected ways. With so many options, charting an academic path can be
+      overwhelming, but a new tool called NerdXing is here to help.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-Julia-Schneider-01-press.jpg?itok=HEkpAr0G
+    categories: []
+    publishedAt: 2025-12-19T05:00:00.000Z
+    source: MIT Robotics
   - title: Guided learning lets “untrainable” neural networks realize their potential
     url: https://news.mit.edu/2025/guided-learning-lets-untrainable-neural-networks-realize-their-potential-1218
     summary: Even networks long considered “untrainable” can learn effectively with
@@ -15,48 +90,6 @@ articles:
     categories: []
     publishedAt: 2025-12-18T21:20:00.000Z
     source: MIT Artificial Intelligence
-  - title: "Putting the squeeze on dendrites: New strategy addresses persistent
-      problem in next-generation solid-state batteries"
-    url: https://techxplore.com/news/2025-12-dendrites-strategy-persistent-problem-generation.html
-    summary: New research by Brown University engineers identifies a simple strategy
-      for combating a major stumbling block in the development of
-      next-generation solid-state lithium batteries.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/putting-the-squeeze-on.jpg
-    categories:
-      - Engineering
-    publishedAt: 2025-12-18T20:53:35.000Z
-    source: TechXplore — Engineering
-  - title: Human language inspired AI—now, we can use that AI to learn about language
-    url: https://techxplore.com/news/2025-12-human-language-ai.html
-    summary: Ph.D. candidate Yuchen Lian (LIACS) wants to understand why human
-      languages look the way they do—and find inspiration to improve AI along
-      the way. She defended her thesis on 12 December.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/human-language-inspire.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2025-12-18T20:37:24.000Z
-    source: TechXplore — Computer Science
-  - title: The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams
-    url: https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/
-    summary: Capable of creating “nearly perfect” face swaps during live video
-      chats, Haotian has made millions, mainly via Telegram. But its main
-      channel vanished after WIRED's inquiry into scammers using the app.
-    imageUrl: https://media.wired.com/photos/6941b2b7df7648d0f38774bb/191:100/w_1280,c_limit/sec-ai-faceswap-app-1382901144.jpg
-    categories:
-      - Security
-      - Security / Security News
-    publishedAt: 2025-12-18T17:45:46.000Z
-    source: WIRED (AI)
-  - title: At a Silicon Valley summit, robots fold laundry—and investors open their
-      wallets
-    url: https://techxplore.com/news/2025-12-silicon-valley-summit-robots-laundry.html
-    summary: Robots from around the world converged on Silicon Valley to provide a
-      glimpse of a potential future.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/at-a-silicon-valley-su.jpg
-    categories:
-      - Business
-    publishedAt: 2025-12-18T15:00:04.000Z
-    source: TechXplore — Robotics
   - title: Scientists spent 10 years chasing a particle that wasn’t there
     url: https://www.sciencedaily.com/releases/2025/12/251217082503.htm
     summary: "After a decade of painstaking measurements, scientists have delivered
@@ -68,16 +101,6 @@ articles:
     categories: []
     publishedAt: 2025-12-18T10:43:55.000Z
     source: ScienceDaily — Engineering
-  - title: Pumped Hydro Energy Storage Is Having a Renaissance
-    url: https://www.wired.com/story/pumped-hydro-energy-storage-is-having-a-renaissance/
-    summary: As the world looks to incorporate more renewables into energy grids,
-      centuries-old systems that can balance supply and demand are being
-      reappraised and innovated upon.
-    imageUrl: https://media.wired.com/photos/69208e512fa6964c21cd5476/191:100/w_1280,c_limit/Goldisthal_2004.jpg
-    categories:
-      - Science
-    publishedAt: 2025-12-18T10:30:00.000Z
-    source: WIRED science
   - title: AI detects cancer but it’s also reading who you are
     url: https://www.sciencedaily.com/releases/2025/12/251217231230.htm
     summary: AI tools designed to diagnose cancer from tissue samples are quietly
@@ -90,22 +113,6 @@ articles:
     categories: []
     publishedAt: 2025-12-18T04:53:41.000Z
     source: ScienceDaily — Robotics
-  - title: iRobot’s Cofounder Weighs In on Company’s Bankruptcy
-    url: https://spectrum.ieee.org/irobot-bankruptcy-colin-angle-amazon
-    summary: On Sunday evening, the legendary robotics company iRobot, manufacturer
-      of the Roomba robotic vacuum, filed for bankruptcy. The company will be
-      handing over all of its assets to its Chinese manufacturing partner,
-      Picea. According to iRobot’s press release, “this agreement represents a
-      critical step toward strengthening iRobot’s financial foundation and
-      positioning the Company for long-term growth and innovation,” which sounds
-      like the sort of thing that you put in a press release when you’re trying
-      your best to put a positive spin on really, really bad news.
-    imageUrl: https://spectrum.ieee.org/media-library/many-boxes-of-irobot-roomba-robot-vacuums-on-display-at-a-store.jpg?id=62593562&width=1200&height=800&coordinates=0%2C83%2C0%2C84
-    categories:
-      - Irobot
-      - Home robots
-    publishedAt: 2025-12-16T20:12:37.000Z
-    source: IEEE Spectrum — Robotics
   - title: This AI Can Beat You At Rock-Paper-Scissors
     url: https://spectrum.ieee.org/analog-reservoir-computer
     summary: Rock-paper-scissors is often a game of psychology, reverse psychology,
@@ -113,7 +120,7 @@ articles:
       understand you well enough to win every time? A team at Hokkaido
       University and the TDK Corp. (of cassette-tape fame), both based in Japan,
       has designed a chip that can do just that.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-tdk-s-prototype-of-an-analog-reservoir-ai-chip.jpg?id=62299641&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-tdk-s-prototype-of-an-analog-reservoir-ai-chip.jpg?id=62299641&width=600&height=600&coordinates=250%2C0%2C250%2C0
     categories:
       - Edge ai
       - Power consumption
@@ -135,26 +142,6 @@ articles:
     categories: []
     publishedAt: 2025-12-16T13:19:49.000Z
     source: ScienceDaily — Computer Science
-  - title: "“Robot, make me a chair” "
-    url: https://news.mit.edu/2025/robot-makes-chair-1216
-    summary: Computer-aided design (CAD) systems are tried-and-true tools used to
-      design many of the physical objects we use each day. But CAD software
-      requires extensive expertise to master, and many tools incorporate such a
-      high level of detail they don’t lend themselves to brainstorming or rapid
-      prototyping.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-TextAssembly-01-press.jpg?itok=9VjD1Zwy
-    categories: []
-    publishedAt: 2025-12-16T05:00:00.000Z
-    source: MIT Engineering
-  - title: Vine-inspired robotic gripper gently lifts heavy and fragile objects
-    url: https://news.mit.edu/2025/vine-inspired-robotic-gripper-gently-lifts-heavy-and-fragile-objects-1210
-    summary: In the horticultural world, some vines are especially grabby. As they
-      grow, the woody tendrils can wrap around obstacles with enough force to
-      pull down entire fences and trees.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-VineRobot-01-press.jpg?itok=I74qLvMT
-    categories: []
-    publishedAt: 2025-12-10T19:00:00.000Z
-    source: MIT Robotics
   - title: Scientists reveal a tiny brain chip that streams thoughts in real time
     url: https://www.sciencedaily.com/releases/2025/12/251209234139.htm
     summary: BISC is an ultra-thin neural implant that creates a high-bandwidth
