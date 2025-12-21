@@ -1,31 +1,21 @@
-date: 2025-12-20
+date: 2025-12-21
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Sam Altman’s New Brain Venture, Merge Labs, Will Spin Out of a Nonprofit
-    url: https://www.wired.com/story/sam-altman-brain-computer-interface-merge-labs-spin-out-nonprofit-forest-neurotech/
-    summary: Merge Labs, a brain-computer interface startup that seeks to read brain
-      activity using ultrasound, is being spun out of Forest Neurotech, a Los
-      Angeles nonprofit.
-    imageUrl: https://media.wired.com/photos/6943154b8d14fbb0ba136394/191:100/w_1280,c_limit/GettyImages-1255236646.jpg
-    categories:
-      - Science
-      - Science / Biotech
-    publishedAt: 2025-12-19T19:03:11.000Z
-    source: WIRED science
-  - title: Basalt and cotton fiber composite yarn advance textile industry's green
-      transition
-    url: https://techxplore.com/news/2025-12-basalt-cotton-fiber-composite-yarn.html
-    summary: A research team from the Xinjiang Technical Institute of Physics and
-      Chemistry of the Chinese Academy of Sciences, has developed a basalt
-      fiber/cotton fiber composite yarn that integrates weavability with
-      multiple functional properties. The study was published in Composites
-      Communications.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/researchers-develop-ba-1.jpg
+  - title: Industrial solar cells achieve 26.09% efficiency with reduced silver use
+      and better bifacial performance
+    url: https://techxplore.com/news/2025-12-industrial-solar-cells-efficiency-silver.html
+    summary: A research team led by Prof. Ye Jichun from the Ningbo Institute of
+      Materials Technology and Engineering (NIMTE) of the Chinese Academy of
+      Sciences, in collaboration with partners, has proposed a synergistic
+      technical solution enabling industrial tunnel oxide passivating contact
+      (TOPCon) solar cells to simultaneously achieve high efficiency, low cost,
+      and excellent bifacial power generation performance.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/scientists-develop-hig-9.jpg
     categories:
       - Engineering
-    publishedAt: 2025-12-19T18:24:14.000Z
+    publishedAt: 2025-12-20T19:30:02.000Z
     source: TechXplore — Engineering
   - title: Creating realistic 3D scenes from everyday online photos
     url: https://techxplore.com/news/2025-12-realistic-3d-scenes-everyday-online.html
@@ -58,7 +48,7 @@ articles:
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events. Please send us your events for
       inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robot-shooting-fire-towards-a-candle-on-a-table-with-a-backdrop-of-robot-silhouettes.png?id=62607756&width=1200&height=400&coordinates=0%2C220%2C0%2C220
+    imageUrl: https://spectrum.ieee.org/media-library/robot-shooting-fire-towards-a-candle-on-a-table-with-a-backdrop-of-robot-silhouettes.png?id=62607756&width=1200&height=800&coordinates=150%2C0%2C150%2C0
     categories:
       - Video friday
       - Robotics
@@ -120,7 +110,7 @@ articles:
       understand you well enough to win every time? A team at Hokkaido
       University and the TDK Corp. (of cassette-tape fame), both based in Japan,
       has designed a chip that can do just that.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-tdk-s-prototype-of-an-analog-reservoir-ai-chip.jpg?id=62299641&width=600&height=600&coordinates=250%2C0%2C250%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-tdk-s-prototype-of-an-analog-reservoir-ai-chip.jpg?id=62299641&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
       - Edge ai
       - Power consumption
