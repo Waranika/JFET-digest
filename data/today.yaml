@@ -1,8 +1,33 @@
-date: 2025-12-21
+date: 2025-12-22
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: A new tool is revealing the invisible networks inside cancer
+    url: https://www.sciencedaily.com/releases/2025/12/251221043216.htm
+    summary: "Spanish researchers have created a powerful new open-source tool that
+      helps uncover the hidden genetic networks driving cancer. Called RNACOREX,
+      the software can analyze thousands of molecular interactions at once,
+      revealing how genes communicate inside tumors and how those signals relate
+      to patient survival. Tested across 13 different cancer types using
+      international data, the tool matches the predictive power of advanced AI
+      systems—while offering something rare in modern analytics: clear,
+      interpretable explanations that help scientists understand why tumors
+      behave the way they do."
+    imageUrl: https://www.sciencedaily.com/images/1920/dna-cancer-genetics.webp
+    categories: []
+    publishedAt: 2025-12-21T12:29:28.000Z
+    source: ScienceDaily — Robotics
+  - title: Research Reveals the Optimal Way to Optimize
+    url: https://www.wired.com/story/researchers-discover-the-optimal-way-to-optimize/
+    summary: The leading approach to the simplex method, a widely used technique for
+      balancing complex logistical constraints, can’t get any better.
+    imageUrl: https://media.wired.com/photos/693fdfa96b2907698cec70a5/191:100/w_1280,c_limit/simplex-method-cr.Nash-Weerasekera-Lede.jpeg
+    categories:
+      - Science
+      - Science / Physics and Math
+    publishedAt: 2025-12-21T12:00:00.000Z
+    source: WIRED science
   - title: Industrial solar cells achieve 26.09% efficiency with reduced silver use
       and better bifacial performance
     url: https://techxplore.com/news/2025-12-industrial-solar-cells-efficiency-silver.html
@@ -91,18 +116,6 @@ articles:
     categories: []
     publishedAt: 2025-12-18T10:43:55.000Z
     source: ScienceDaily — Engineering
-  - title: AI detects cancer but it’s also reading who you are
-    url: https://www.sciencedaily.com/releases/2025/12/251217231230.htm
-    summary: AI tools designed to diagnose cancer from tissue samples are quietly
-      learning more than just disease patterns. New research shows these systems
-      can infer patient demographics from pathology slides, leading to biased
-      results for certain groups. The bias stems from how the models are trained
-      and the data they see, not just from missing samples. Researchers also
-      demonstrated a way to significantly reduce these disparities.
-    imageUrl: https://www.sciencedaily.com/images/1920/abstract-artificial-intelligence-medical-health-dna-technology.webp
-    categories: []
-    publishedAt: 2025-12-18T04:53:41.000Z
-    source: ScienceDaily — Robotics
   - title: This AI Can Beat You At Rock-Paper-Scissors
     url: https://spectrum.ieee.org/analog-reservoir-computer
     summary: Rock-paper-scissors is often a game of psychology, reverse psychology,
@@ -132,19 +145,6 @@ articles:
     categories: []
     publishedAt: 2025-12-16T13:19:49.000Z
     source: ScienceDaily — Computer Science
-  - title: Scientists reveal a tiny brain chip that streams thoughts in real time
-    url: https://www.sciencedaily.com/releases/2025/12/251209234139.htm
-    summary: BISC is an ultra-thin neural implant that creates a high-bandwidth
-      wireless link between the brain and computers. Its tiny single-chip design
-      packs tens of thousands of electrodes and supports advanced AI models for
-      decoding movement, perception, and intent. Initial clinical work shows it
-      can be inserted through a small opening in the skull and remain stable
-      while capturing detailed neural activity. The technology could reshape
-      treatments for epilepsy, paralysis, and blindness.
-    imageUrl: https://www.sciencedaily.com/images/1920/bisc-brain-implant.webp
-    categories: []
-    publishedAt: 2025-12-10T04:54:39.000Z
-    source: ScienceDaily — Artificial Intelligence
   - title: Listen to Protons for Less Than $100
     url: https://spectrum.ieee.org/listen-to-protons-diy-magnetometer
     summary: "When you get an MRI scan, the machine exploits a phenomenon called
