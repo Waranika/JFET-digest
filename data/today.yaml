@@ -1,18 +1,91 @@
-date: 2025-12-23
+date: 2025-12-24
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: FDA Approves Pill Version of Wegovy
-    url: https://www.wired.com/story/fda-approves-pill-version-of-wegovy/
-    summary: Novo Nordisk’s semaglutide will soon be available in a daily pill
-      Americans can take for weight loss.
-    imageUrl: https://media.wired.com/photos/6941334fb871f460797b4951/191:100/w_1280,c_limit/Novo%20Nordisk%20oral%20semaglutide%2025%20mg_image%201.jpg
+  - title: New calibration module offers improved measurement of thermoelectric
+      device performance
+    url: https://techxplore.com/news/2025-12-calibration-module-thermoelectric-device.html
+    summary: A standard reference thermoelectric module (SRTEM) for objectively
+      measuring thermoelectric module performance has been developed in Korea
+      for the first time. A research team led by Dr. Sang Hyun Park at the Korea
+      Institute of Energy Research developed the world's second standard
+      reference thermoelectric module, following Japan, and improved its
+      performance by more than 20% compared with existing modules, demonstrating
+      the excellence of Korea's homegrown technology. The findings are published
+      in the journal ACS Applied Materials & Interfaces.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/kier-successfully-deve.jpg
+    categories:
+      - Engineering
+    publishedAt: 2025-12-23T20:12:16.000Z
+    source: TechXplore — Engineering
+  - title: Technology that helps robots read human intentions could lead to safer,
+      smarter, more trustworthy machines
+    url: https://techxplore.com/news/2025-12-technology-robots-human-intentions-safer.html
+    summary: Robots are becoming part of our everyday lives, from health care to
+      home assistance. But for humans to truly trust and collaborate with them,
+      robots need more than technical skill—they need to understand us.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/robot-1.jpg
+    categories:
+      - Robotics
+    publishedAt: 2025-12-23T18:43:44.000Z
+    source: TechXplore — Robotics
+  - title: Multi-agent AI could change everything—if researchers can figure out the
+      risks
+    url: https://techxplore.com/news/2025-12-multi-agent-ai-figure.html
+    summary: You might have seen headlines sounding the alarm about the safety of an
+      emerging technology called agentic AI.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/ai-2.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2025-12-23T18:32:23.000Z
+    source: TechXplore — Computer Science
+  - title: Data Holds the Key in Slowing Age-Related Illnesses
+    url: https://www.wired.com/story/data-holds-the-key-in-slowing-age-related-illnesses/
+    summary: More accurate and individualized health predictions will allow for
+      preventative factors to be implemented well in advance.
+    imageUrl: https://media.wired.com/photos/69408dd2e4a52f661966b675/191:100/w_1280,c_limit/WIRED-WORLD-DATA-AGING.jpg
     categories:
       - Science
       - Science / Health
-    publishedAt: 2025-12-22T23:59:33.000Z
+    publishedAt: 2025-12-23T18:11:52.000Z
     source: WIRED science
+  - title: Next-Level Quantum Computers Will Almost Be Useful
+    url: https://spectrum.ieee.org/neutral-atom-quantum-computing
+    summary: The goal of the quantum-computing industry is to build a powerful,
+      functional machine capable of solving large-scale problems in science and
+      industry that classical computing can’t solve. We won’t get there in 2026.
+      In fact, scientists have been working toward that goal since at least the
+      1980s, and it has proved difficult, to say the least.
+    imageUrl: https://spectrum.ieee.org/media-library/a-laptop-with-atoms-and-lasers-instead-of-a-keyboard.jpg?id=62609800&width=1245&height=700&coordinates=0%2C262%2C0%2C263
+    categories:
+      - Quantum computing
+      - Neutral atom
+      - Quantum error correction
+    publishedAt: 2025-12-23T13:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Google’s and OpenAI’s Chatbots Can Strip Women in Photos Down to Bikinis
+    url: https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/
+    summary: Users of AI image generators are offering each other instructions on
+      how to use the tech to alter pictures of women into realistic, revealing
+      deepfakes.
+    imageUrl: https://media.wired.com/photos/69498505d904ee60304dcde0/191:100/w_1280,c_limit/gear-chatbot-bikini-1246865275.jpg
+    categories:
+      - Gear
+      - Gear / Gear News and Events
+    publishedAt: 2025-12-23T11:30:00.000Z
+    source: WIRED (AI)
+  - title: Physicists made atoms behave like a quantum circuit
+    url: https://www.sciencedaily.com/releases/2025/12/251222043243.htm
+    summary: Using ultracold atoms and laser light, researchers recreated the
+      behavior of a Josephson junction—an essential component of quantum
+      computers and voltage standards. The appearance of Shapiro steps in this
+      atomic system reveals a deep universality in quantum physics and makes
+      elusive microscopic effects visible for the first time.
+    imageUrl: https://www.sciencedaily.com/images/1920/abstract-quantum-electronic-effect.webp
+    categories: []
+    publishedAt: 2025-12-23T06:52:01.000Z
+    source: ScienceDaily — Engineering
   - title: "MIT in the media: 2025 in review "
     url: https://news.mit.edu/2025/mit-media-review-1222
     summary: “At MIT, innovation ranges from awe-inspiring technology to
@@ -26,44 +99,6 @@ articles:
     categories: []
     publishedAt: 2025-12-22T22:20:00.000Z
     source: MIT Artificial Intelligence
-  - title: AI-driven assistant calculates best injection molding settings and
-      explains decisions in multiple languages
-    url: https://techxplore.com/news/2025-12-ai-driven-molding-decisions-multiple.html
-    summary: Most of the plastic products we use are made through injection molding,
-      a process in which molten plastic is injected into a mold to mass-produce
-      identical items. However, even slight changes in conditions can lead to
-      defects, so the process has long relied on the intuition of highly skilled
-      workers.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/generative-ai-guided-i.jpg
-    categories:
-      - Engineering
-    publishedAt: 2025-12-22T21:54:15.000Z
-    source: TechXplore — Engineering
-  - title: Helping AI agents search to get the best results out of large language
-      models
-    url: https://techxplore.com/news/2025-12-ai-agents-results-large-language.html
-    summary: Whether you're a scientist brainstorming research ideas or a CEO hoping
-      to automate a task in human resources or finance, you'll find that
-      artificial intelligence (AI) tools are becoming the assistants you didn't
-      know you needed. In particular, many professionals are tapping into the
-      talents of semi-autonomous software systems called AI agents, which can
-      call on AI at specific points to solve problems and complete tasks.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/helping-ai-agents-sear.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2025-12-22T21:01:12.000Z
-    source: TechXplore — Computer Science
-  - title: OpenAI’s Child Exploitation Reports Increased Sharply This Year
-    url: https://www.wired.com/story/openai-child-safety-reports-ncmec/
-    summary: The company made 80 times as many reports to the National Center for
-      Missing & Exploited Children during the first six months of 2025 as it did
-      in the same period a year prior.
-    imageUrl: https://media.wired.com/photos/694346f17da5542acf17db6b/191:100/w_1280,c_limit/OpenAI-Reports-Sharp-Rise-in-Child-Safety-Reports-Business.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2025-12-22T16:32:20.000Z
-    source: WIRED (AI)
   - title: This AI finds simple rules where humans see only chaos
     url: https://www.sciencedaily.com/releases/2025/12/251221091237.htm
     summary: A new AI developed at Duke University can uncover simple, readable
@@ -77,27 +112,13 @@ articles:
     categories: []
     publishedAt: 2025-12-22T06:04:50.000Z
     source: ScienceDaily — Robotics
-  - title: Ultra-low power, fully biodegradable artificial synapse offers
-      record-breaking memory
-    url: https://techxplore.com/news/2025-12-ultra-power-fully-biodegradable-artificial.html
-    summary: In Nature Communications, a research team affiliated with UNIST present
-      a fully biodegradable, robust, and energy-efficient artificial synapse
-      that holds great promise for sustainable neuromorphic technologies. Made
-      entirely from eco-friendly materials sourced from nature—such as shells,
-      beans, and plant fibers—this innovation could help address the growing
-      problems of electronic waste and high energy use.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/ultra-low-power-fully-3.jpg
-    categories:
-      - Robotics
-    publishedAt: 2025-12-19T16:41:27.000Z
-    source: TechXplore — Robotics
   - title: "Video Friday: Happy Robot Holidays"
     url: https://spectrum.ieee.org/happy-holidays-robot
     summary: Video Friday is your weekly selection of awesome robotics videos,
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events. Please send us your events for
       inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robot-shooting-fire-towards-a-candle-on-a-table-with-a-backdrop-of-robot-silhouettes.png?id=62607756&width=1200&height=800&coordinates=150%2C0%2C150%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/robot-shooting-fire-towards-a-candle-on-a-table-with-a-backdrop-of-robot-silhouettes.png?id=62607756&width=1200&height=400&coordinates=0%2C220%2C0%2C220
     categories:
       - Video friday
       - Robotics
@@ -117,17 +138,6 @@ articles:
     categories: []
     publishedAt: 2025-12-19T05:00:00.000Z
     source: MIT Robotics
-  - title: Scientists spent 10 years chasing a particle that wasn’t there
-    url: https://www.sciencedaily.com/releases/2025/12/251217082503.htm
-    summary: "After a decade of painstaking measurements, scientists have delivered
-      a major plot twist in particle physics: a long-hypothesized “mystery
-      particle” likely doesn’t exist. Using the MicroBooNE experiment at
-      Fermilab, researchers analyzed neutrinos from two powerful beams and found
-      no evidence for a sterile neutrino, ruling it out with 95% certainty."
-    imageUrl: https://www.sciencedaily.com/images/1920/physics-breakthrough.webp
-    categories: []
-    publishedAt: 2025-12-18T10:43:55.000Z
-    source: ScienceDaily — Engineering
   - title: This AI Can Beat You At Rock-Paper-Scissors
     url: https://spectrum.ieee.org/analog-reservoir-computer
     summary: Rock-paper-scissors is often a game of psychology, reverse psychology,
@@ -135,7 +145,7 @@ articles:
       understand you well enough to win every time? A team at Hokkaido
       University and the TDK Corp. (of cassette-tape fame), both based in Japan,
       has designed a chip that can do just that.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-tdk-s-prototype-of-an-analog-reservoir-ai-chip.jpg?id=62299641&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-tdk-s-prototype-of-an-analog-reservoir-ai-chip.jpg?id=62299641&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
       - Edge ai
       - Power consumption
