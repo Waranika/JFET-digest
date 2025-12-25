@@ -1,8 +1,112 @@
-date: 2025-12-24
+date: 2025-12-25
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: AI overestimates how smart people are, according to economists
+    url: https://techxplore.com/news/2025-12-ai-overestimates-smart-people-economists.html
+    summary: Scientists at HSE University have found that current AI models,
+      including ChatGPT and Claude, tend to overestimate the rationality of
+      their human opponents—whether first-year undergraduate students or
+      experienced scientists—in strategic thinking games, such as the Keynesian
+      beauty contest. While these models attempt to predict human behavior, they
+      often end up playing "too smart" and losing because they assume a higher
+      level of logic in people than is actually present.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/guessing-game.jpg
+    categories:
+      - Business
+    publishedAt: 2025-12-24T18:26:23.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: "For computational devices, talk isn't cheap: Research reveals
+      unavoidable energy costs across all communication channels"
+    url: https://techxplore.com/news/2025-12-devices-isnt-cheap-reveals-unavoidable.html
+    summary: Every task we perform on a computer—whether number crunching, watching
+      a video, or typing out an article—requires different components of the
+      machine to interact with one another. "Communication is massively crucial
+      for any computation," says former SFI Graduate Fellow Abhishek Yadav, a
+      Ph.D. scholar at the University of New Mexico. But scientists don't fully
+      grasp how much energy computational devices spend on communication.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/for-computational-devi.jpg
+    categories:
+      - Energy & Green Tech
+    publishedAt: 2025-12-24T18:24:56.000Z
+    source: TechXplore — Computer Science
+  - title: The Top 6 Robotics Stories of 2025
+    url: https://spectrum.ieee.org/top-robotics-stories-2025
+    summary: Usually, I start off these annual highlights posts by saying that it
+      was the best year ever for robotics. But this year, I’m not so sure. At
+      the end of 2024, it really seemed like AI and humanoid robots were poised
+      to make a transformative amount of progress towards some sort of
+      practicality. While it’s certainly true that progress has been made, it’s
+      hard to rationalize what’s actually happened in 2025 with the amount of
+      money and hype that has suffused robotics over the course of the year. And
+      for better or worse, humanoids are overshadowing everything else, raising
+      questions about what will happen if the companies building them ultimately
+      do not succeed.
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-humanoid-robot-walking-a-robotic-dog.jpg?id=62601947&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Humanoids
+      - Robotics
+      - Unitree
+      - Atlas
+      - Amazon
+    publishedAt: 2025-12-24T14:00:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Drones Compete to Spot and Extinguish Brushfires
+    url: https://spectrum.ieee.org/wildfire-drones
+    summary: To the untrained eye, it did not look like a particularly complicated
+      mission. A large black quadcopter drone, more than two meters spanning the
+      propeller tips, sat parked on the grass. Nestled between the legs of its
+      landing gear was a red balloon filled with water. Not far away, on a
+      concrete pad, a stack of wood pallets was ablaze, the flames whipping
+      around in a heavy wind. A student at the University of Maryland (UMD)
+      would fly the Alta X drone all of about 25 meters to the fire. There it
+      would drop the water balloon to extinguish the flames.
+    imageUrl: https://spectrum.ieee.org/media-library/a-man-in-a-hard-hat-and-high-visibility-vest-looks-on-as-a-drone-drops-water-to-extinguish-a-fire.jpg?id=62601800&width=1245&height=700&coordinates=0%2C1562%2C0%2C1562
+    categories:
+      - Firefighting robots
+      - Wildfires
+      - Fire detection
+      - Drones
+      - Sensors
+    publishedAt: 2025-12-24T13:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: The Age of the All-Access AI Agent Is Here
+    url: https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/
+    summary: Big AI companies courted controversy by scraping wide swaths of the
+      public internet. With the rise of AI agents, the next data grab is far
+      more private.
+    imageUrl: https://media.wired.com/photos/693884828db268ccd294df4d/191:100/w_1280,c_limit/WTE%20AI%20agents%20final%20(1).jpg
+    categories:
+      - Security
+      - Security / Privacy
+    publishedAt: 2025-12-24T11:00:00.000Z
+    source: WIRED (AI)
+  - title: AlphaFold Changed Science. After 5 Years, It’s Still Evolving
+    url: https://www.wired.com/story/alphafold-changed-science-after-5-years-its-still-evolving/
+    summary: WIRED spoke with DeepMind’s Pushmeet Kohli about the recent past—and
+      promising future—of the Nobel Prize-winning research project that changed
+      biology and chemistry forever.
+    imageUrl: https://media.wired.com/photos/6945719619dbd1ce3aedd653/191:100/w_1280,c_limit/1352901220
+    categories:
+      - Science
+      - Science / Biotech
+    publishedAt: 2025-12-24T10:00:00.000Z
+    source: WIRED science
+  - title: This new 3D chip could break AI’s biggest bottleneck
+    url: https://www.sciencedaily.com/releases/2025/12/251223084857.htm
+    summary: Researchers have created a new kind of 3D computer chip that stacks
+      memory and computing elements vertically, dramatically speeding up how
+      data moves inside the chip. Unlike traditional flat designs, this approach
+      avoids the traffic jams that limit today’s AI hardware. The prototype
+      already beats comparable chips by several times, with future versions
+      expected to go much further. Just as important, it was manufactured
+      entirely in a U.S. foundry, showing the technology is ready for real-world
+      production.
+    imageUrl: https://www.sciencedaily.com/images/1920/3d-chip-breakthrough-to-accelerate-ai.webp
+    categories: []
+    publishedAt: 2025-12-24T06:21:36.000Z
+    source: ScienceDaily — Computer Science
   - title: New calibration module offers improved measurement of thermoelectric
       device performance
     url: https://techxplore.com/news/2025-12-calibration-module-thermoelectric-device.html
@@ -30,26 +134,6 @@ articles:
       - Robotics
     publishedAt: 2025-12-23T18:43:44.000Z
     source: TechXplore — Robotics
-  - title: Multi-agent AI could change everything—if researchers can figure out the
-      risks
-    url: https://techxplore.com/news/2025-12-multi-agent-ai-figure.html
-    summary: You might have seen headlines sounding the alarm about the safety of an
-      emerging technology called agentic AI.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/ai-2.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2025-12-23T18:32:23.000Z
-    source: TechXplore — Computer Science
-  - title: Data Holds the Key in Slowing Age-Related Illnesses
-    url: https://www.wired.com/story/data-holds-the-key-in-slowing-age-related-illnesses/
-    summary: More accurate and individualized health predictions will allow for
-      preventative factors to be implemented well in advance.
-    imageUrl: https://media.wired.com/photos/69408dd2e4a52f661966b675/191:100/w_1280,c_limit/WIRED-WORLD-DATA-AGING.jpg
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2025-12-23T18:11:52.000Z
-    source: WIRED science
   - title: Next-Level Quantum Computers Will Almost Be Useful
     url: https://spectrum.ieee.org/neutral-atom-quantum-computing
     summary: The goal of the quantum-computing industry is to build a powerful,
@@ -57,24 +141,13 @@ articles:
       industry that classical computing can’t solve. We won’t get there in 2026.
       In fact, scientists have been working toward that goal since at least the
       1980s, and it has proved difficult, to say the least.
-    imageUrl: https://spectrum.ieee.org/media-library/a-laptop-with-atoms-and-lasers-instead-of-a-keyboard.jpg?id=62609800&width=1245&height=700&coordinates=0%2C262%2C0%2C263
+    imageUrl: https://spectrum.ieee.org/media-library/a-laptop-with-atoms-and-lasers-instead-of-a-keyboard.jpg?id=62609800&width=1200&height=800&coordinates=0%2C200%2C0%2C200
     categories:
       - Quantum computing
       - Neutral atom
       - Quantum error correction
     publishedAt: 2025-12-23T13:00:01.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Google’s and OpenAI’s Chatbots Can Strip Women in Photos Down to Bikinis
-    url: https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/
-    summary: Users of AI image generators are offering each other instructions on
-      how to use the tech to alter pictures of women into realistic, revealing
-      deepfakes.
-    imageUrl: https://media.wired.com/photos/69498505d904ee60304dcde0/191:100/w_1280,c_limit/gear-chatbot-bikini-1246865275.jpg
-    categories:
-      - Gear
-      - Gear / Gear News and Events
-    publishedAt: 2025-12-23T11:30:00.000Z
-    source: WIRED (AI)
   - title: Physicists made atoms behave like a quantum circuit
     url: https://www.sciencedaily.com/releases/2025/12/251222043243.htm
     summary: Using ultracold atoms and laser light, researchers recreated the
@@ -112,22 +185,6 @@ articles:
     categories: []
     publishedAt: 2025-12-22T06:04:50.000Z
     source: ScienceDaily — Robotics
-  - title: "Video Friday: Happy Robot Holidays"
-    url: https://spectrum.ieee.org/happy-holidays-robot
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events. Please send us your events for
-      inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robot-shooting-fire-towards-a-candle-on-a-table-with-a-backdrop-of-robot-silhouettes.png?id=62607756&width=1200&height=400&coordinates=0%2C220%2C0%2C220
-    categories:
-      - Video friday
-      - Robotics
-      - Holidays
-      - Quadruped robots
-      - Modular robots
-      - Humanoid robots
-    publishedAt: 2025-12-19T16:30:02.000Z
-    source: IEEE Spectrum — Robotics
   - title: “Wait, we have the tech skills to build that”
     url: https://news.mit.edu/2025/building-with-tech-skills-julianna-schneider-1219
     summary: Students can take many possible routes through MIT’s curriculum, which
@@ -138,35 +195,6 @@ articles:
     categories: []
     publishedAt: 2025-12-19T05:00:00.000Z
     source: MIT Robotics
-  - title: This AI Can Beat You At Rock-Paper-Scissors
-    url: https://spectrum.ieee.org/analog-reservoir-computer
-    summary: Rock-paper-scissors is often a game of psychology, reverse psychology,
-      reverse-reverse psychology, and chance. But what if a computer could
-      understand you well enough to win every time? A team at Hokkaido
-      University and the TDK Corp. (of cassette-tape fame), both based in Japan,
-      has designed a chip that can do just that.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-tdk-s-prototype-of-an-analog-reservoir-ai-chip.jpg?id=62299641&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Edge ai
-      - Power consumption
-      - Reservoir computing
-      - Neural networks
-      - Chips
-    publishedAt: 2025-12-16T16:00:02.000Z
-    source: IEEE Spectrum — AI
-  - title: Ramanujan’s 100-year-old pi formula is still revealing the Universe
-    url: https://www.sciencedaily.com/releases/2025/12/251216081949.htm
-    summary: Ramanujan’s elegant formulas for calculating pi, developed more than a
-      century ago, have unexpectedly resurfaced at the heart of modern physics.
-      Researchers at IISc discovered that the same mathematical structures
-      behind these formulas also describe real-world phenomena like turbulence,
-      percolation, and even black holes. What once seemed like pure mathematics
-      now appears deeply intertwined with the physical laws governing the
-      universe.
-    imageUrl: https://www.sciencedaily.com/images/1920/pi-number-infinite-spiral.webp
-    categories: []
-    publishedAt: 2025-12-16T13:19:49.000Z
-    source: ScienceDaily — Computer Science
   - title: Listen to Protons for Less Than $100
     url: https://spectrum.ieee.org/listen-to-protons-diy-magnetometer
     summary: "When you get an MRI scan, the machine exploits a phenomenon called
