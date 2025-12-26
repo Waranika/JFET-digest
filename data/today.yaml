@@ -1,22 +1,55 @@
-date: 2025-12-25
+date: 2025-12-26
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: AI overestimates how smart people are, according to economists
-    url: https://techxplore.com/news/2025-12-ai-overestimates-smart-people-economists.html
-    summary: Scientists at HSE University have found that current AI models,
-      including ChatGPT and Claude, tend to overestimate the rationality of
-      their human opponents—whether first-year undergraduate students or
-      experienced scientists—in strategic thinking games, such as the Keynesian
-      beauty contest. While these models attempt to predict human behavior, they
-      often end up playing "too smart" and losing because they assume a higher
-      level of logic in people than is actually present.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/guessing-game.jpg
+  - title: Researchers create world's smallest programmable, autonomous robots
+    url: https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html
+    summary: "Researchers at the University of Pennsylvania and University of
+      Michigan have created the world's smallest fully programmable, autonomous
+      robots: microscopic swimming machines that can independently sense and
+      respond to their surroundings, operate for months and cost just a penny
+      each."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/penn-and-umich-create.jpg
+    categories:
+      - Robotics
+    publishedAt: 2025-12-25T20:50:01.000Z
+    source: TechXplore — Engineering
+  - title: How to Stay Ahead of AI as an Early-Career Engineer
+    url: https://spectrum.ieee.org/ai-effect-entry-level-jobs
+    summary: “AI is not going to take your job. The person who uses AI is going to
+      take your job.”
+    imageUrl: https://spectrum.ieee.org/media-library/person-sitting-on-robotic-chair-using-a-laptop-red-background-with-geometric-lines.jpg?id=62609789&width=1245&height=700&coordinates=0%2C262%2C0%2C263
+    categories:
+      - Employment
+      - Software engineering
+      - Ai programming
+      - Job market
+    publishedAt: 2025-12-25T17:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: How ChatGPT could change the face of advertising, without you even
+      knowing about it
+    url: https://techxplore.com/news/2025-12-chatgpt-advertising.html
+    summary: Online adverts are sometimes so personal that they feel eerie. Even as
+      a researcher in this area, I'm slightly startled when I get a message
+      asking if my son still needs school shirts a few hours after browsing for
+      clothes for my children.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/chatgpt.jpg
     categories:
       - Business
-    publishedAt: 2025-12-24T18:26:23.000Z
+    publishedAt: 2025-12-25T16:10:01.000Z
     source: TechXplore — AI & Machine Learning
+  - title: ‘Wolf DNA’ Lurks in Many Modern Dog Breeds
+    url: https://www.wired.com/story/wolf-dna-lurks-in-many-modern-dog-breeds/
+    summary: Although wolf-canine interbreeding has been considered extremely rare,
+      the latest research shows that many present-day canines carry a small
+      amount of wolf genes.
+    imageUrl: https://media.wired.com/photos/694569cf73ab74971a81d484/191:100/w_1280,c_limit/1326569262
+    categories:
+      - Science
+      - Science / Biotech
+    publishedAt: 2025-12-25T10:00:00.000Z
+    source: WIRED science
   - title: "For computational devices, talk isn't cheap: Research reveals
       unavoidable energy costs across all communication channels"
     url: https://techxplore.com/news/2025-12-devices-isnt-cheap-reveals-unavoidable.html
@@ -43,7 +76,7 @@ articles:
       for better or worse, humanoids are overshadowing everything else, raising
       questions about what will happen if the companies building them ultimately
       do not succeed.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-humanoid-robot-walking-a-robotic-dog.jpg?id=62601947&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-humanoid-robot-walking-a-robotic-dog.jpg?id=62601947&width=1200&height=800&coordinates=0%2C83%2C0%2C84
     categories:
       - Humanoids
       - Robotics
@@ -52,25 +85,6 @@ articles:
       - Amazon
     publishedAt: 2025-12-24T14:00:02.000Z
     source: IEEE Spectrum — Robotics
-  - title: Drones Compete to Spot and Extinguish Brushfires
-    url: https://spectrum.ieee.org/wildfire-drones
-    summary: To the untrained eye, it did not look like a particularly complicated
-      mission. A large black quadcopter drone, more than two meters spanning the
-      propeller tips, sat parked on the grass. Nestled between the legs of its
-      landing gear was a red balloon filled with water. Not far away, on a
-      concrete pad, a stack of wood pallets was ablaze, the flames whipping
-      around in a heavy wind. A student at the University of Maryland (UMD)
-      would fly the Alta X drone all of about 25 meters to the fire. There it
-      would drop the water balloon to extinguish the flames.
-    imageUrl: https://spectrum.ieee.org/media-library/a-man-in-a-hard-hat-and-high-visibility-vest-looks-on-as-a-drone-drops-water-to-extinguish-a-fire.jpg?id=62601800&width=1245&height=700&coordinates=0%2C1562%2C0%2C1562
-    categories:
-      - Firefighting robots
-      - Wildfires
-      - Fire detection
-      - Drones
-      - Sensors
-    publishedAt: 2025-12-24T13:00:02.000Z
-    source: IEEE Spectrum — AI
   - title: The Age of the All-Access AI Agent Is Here
     url: https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/
     summary: Big AI companies courted controversy by scraping wide swaths of the
@@ -82,17 +96,6 @@ articles:
       - Security / Privacy
     publishedAt: 2025-12-24T11:00:00.000Z
     source: WIRED (AI)
-  - title: AlphaFold Changed Science. After 5 Years, It’s Still Evolving
-    url: https://www.wired.com/story/alphafold-changed-science-after-5-years-its-still-evolving/
-    summary: WIRED spoke with DeepMind’s Pushmeet Kohli about the recent past—and
-      promising future—of the Nobel Prize-winning research project that changed
-      biology and chemistry forever.
-    imageUrl: https://media.wired.com/photos/6945719619dbd1ce3aedd653/191:100/w_1280,c_limit/1352901220
-    categories:
-      - Science
-      - Science / Biotech
-    publishedAt: 2025-12-24T10:00:00.000Z
-    source: WIRED science
   - title: This new 3D chip could break AI’s biggest bottleneck
     url: https://www.sciencedaily.com/releases/2025/12/251223084857.htm
     summary: Researchers have created a new kind of 3D computer chip that stacks
@@ -107,47 +110,6 @@ articles:
     categories: []
     publishedAt: 2025-12-24T06:21:36.000Z
     source: ScienceDaily — Computer Science
-  - title: New calibration module offers improved measurement of thermoelectric
-      device performance
-    url: https://techxplore.com/news/2025-12-calibration-module-thermoelectric-device.html
-    summary: A standard reference thermoelectric module (SRTEM) for objectively
-      measuring thermoelectric module performance has been developed in Korea
-      for the first time. A research team led by Dr. Sang Hyun Park at the Korea
-      Institute of Energy Research developed the world's second standard
-      reference thermoelectric module, following Japan, and improved its
-      performance by more than 20% compared with existing modules, demonstrating
-      the excellence of Korea's homegrown technology. The findings are published
-      in the journal ACS Applied Materials & Interfaces.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/kier-successfully-deve.jpg
-    categories:
-      - Engineering
-    publishedAt: 2025-12-23T20:12:16.000Z
-    source: TechXplore — Engineering
-  - title: Technology that helps robots read human intentions could lead to safer,
-      smarter, more trustworthy machines
-    url: https://techxplore.com/news/2025-12-technology-robots-human-intentions-safer.html
-    summary: Robots are becoming part of our everyday lives, from health care to
-      home assistance. But for humans to truly trust and collaborate with them,
-      robots need more than technical skill—they need to understand us.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/robot-1.jpg
-    categories:
-      - Robotics
-    publishedAt: 2025-12-23T18:43:44.000Z
-    source: TechXplore — Robotics
-  - title: Next-Level Quantum Computers Will Almost Be Useful
-    url: https://spectrum.ieee.org/neutral-atom-quantum-computing
-    summary: The goal of the quantum-computing industry is to build a powerful,
-      functional machine capable of solving large-scale problems in science and
-      industry that classical computing can’t solve. We won’t get there in 2026.
-      In fact, scientists have been working toward that goal since at least the
-      1980s, and it has proved difficult, to say the least.
-    imageUrl: https://spectrum.ieee.org/media-library/a-laptop-with-atoms-and-lasers-instead-of-a-keyboard.jpg?id=62609800&width=1200&height=800&coordinates=0%2C200%2C0%2C200
-    categories:
-      - Quantum computing
-      - Neutral atom
-      - Quantum error correction
-    publishedAt: 2025-12-23T13:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: Physicists made atoms behave like a quantum circuit
     url: https://www.sciencedaily.com/releases/2025/12/251222043243.htm
     summary: Using ultracold atoms and laser light, researchers recreated the
