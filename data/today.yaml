@@ -1,8 +1,46 @@
-date: 2025-12-26
+date: 2025-12-27
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: "Video Friday: Holiday Robot Helpers Send Season’s Greetings"
+    url: https://spectrum.ieee.org/holiday-robot-videos
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/robots-near-christmas-tree-with-tv-snowman-and-leg-lamp-in-festive-room.png?id=62631880&width=1200&height=800&coordinates=156%2C0%2C156%2C0
+    categories:
+      - Video friday
+      - Robotics
+      - Boston dynamics
+      - Holidays
+      - Humanoid robots
+      - Dancing robots
+    publishedAt: 2025-12-26T18:30:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: This tiny chip could change the future of quantum computing
+    url: https://www.sciencedaily.com/releases/2025/12/251226045341.htm
+    summary: A new microchip-sized device could dramatically accelerate the future
+      of quantum computing. It controls laser frequencies with extreme precision
+      while using far less power than today’s bulky systems. Crucially, it’s
+      made with standard chip manufacturing, meaning it can be mass-produced
+      instead of custom-built. This opens the door to quantum machines far
+      larger and more powerful than anything possible today.
+    imageUrl: https://www.sciencedaily.com/images/1920/quantum-computing-optical-fiber-array.webp
+    categories: []
+    publishedAt: 2025-12-26T15:38:10.000Z
+    source: ScienceDaily — Computer Science
+  - title: Could You Use a Rowboat to Walk on the Seafloor Like Jack Sparrow?
+    url: https://www.wired.com/story/using-a-rowboat-to-walk-on-the-seafloor-like-jack-sparrow/
+    summary: In Pirates of the Caribbean, Jack and Will use an overturned dinghy to
+      hold air underwater. Madness or brilliance?
+    imageUrl: https://media.wired.com/photos/6949c420b0033b43849dee68/191:100/w_1280,c_limit/Physics-Walking-Underwater-Science-MCDPIOF_EC028.jpg
+    categories:
+      - Science
+      - Science / Physics and Math
+    publishedAt: 2025-12-26T12:00:00.000Z
+    source: WIRED science
   - title: Researchers create world's smallest programmable, autonomous robots
     url: https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html
     summary: "Researchers at the University of Pennsylvania and University of
@@ -19,7 +57,7 @@ articles:
     url: https://spectrum.ieee.org/ai-effect-entry-level-jobs
     summary: “AI is not going to take your job. The person who uses AI is going to
       take your job.”
-    imageUrl: https://spectrum.ieee.org/media-library/person-sitting-on-robotic-chair-using-a-laptop-red-background-with-geometric-lines.jpg?id=62609789&width=1245&height=700&coordinates=0%2C262%2C0%2C263
+    imageUrl: https://spectrum.ieee.org/media-library/person-sitting-on-robotic-chair-using-a-laptop-red-background-with-geometric-lines.jpg?id=62609789&width=1200&height=800&coordinates=0%2C200%2C0%2C200
     categories:
       - Employment
       - Software engineering
@@ -39,17 +77,6 @@ articles:
       - Business
     publishedAt: 2025-12-25T16:10:01.000Z
     source: TechXplore — AI & Machine Learning
-  - title: ‘Wolf DNA’ Lurks in Many Modern Dog Breeds
-    url: https://www.wired.com/story/wolf-dna-lurks-in-many-modern-dog-breeds/
-    summary: Although wolf-canine interbreeding has been considered extremely rare,
-      the latest research shows that many present-day canines carry a small
-      amount of wolf genes.
-    imageUrl: https://media.wired.com/photos/694569cf73ab74971a81d484/191:100/w_1280,c_limit/1326569262
-    categories:
-      - Science
-      - Science / Biotech
-    publishedAt: 2025-12-25T10:00:00.000Z
-    source: WIRED science
   - title: "For computational devices, talk isn't cheap: Research reveals
       unavoidable energy costs across all communication channels"
     url: https://techxplore.com/news/2025-12-devices-isnt-cheap-reveals-unavoidable.html
@@ -64,27 +91,6 @@ articles:
       - Energy & Green Tech
     publishedAt: 2025-12-24T18:24:56.000Z
     source: TechXplore — Computer Science
-  - title: The Top 6 Robotics Stories of 2025
-    url: https://spectrum.ieee.org/top-robotics-stories-2025
-    summary: Usually, I start off these annual highlights posts by saying that it
-      was the best year ever for robotics. But this year, I’m not so sure. At
-      the end of 2024, it really seemed like AI and humanoid robots were poised
-      to make a transformative amount of progress towards some sort of
-      practicality. While it’s certainly true that progress has been made, it’s
-      hard to rationalize what’s actually happened in 2025 with the amount of
-      money and hype that has suffused robotics over the course of the year. And
-      for better or worse, humanoids are overshadowing everything else, raising
-      questions about what will happen if the companies building them ultimately
-      do not succeed.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-humanoid-robot-walking-a-robotic-dog.jpg?id=62601947&width=1200&height=800&coordinates=0%2C83%2C0%2C84
-    categories:
-      - Humanoids
-      - Robotics
-      - Unitree
-      - Atlas
-      - Amazon
-    publishedAt: 2025-12-24T14:00:02.000Z
-    source: IEEE Spectrum — Robotics
   - title: The Age of the All-Access AI Agent Is Here
     url: https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/
     summary: Big AI companies courted controversy by scraping wide swaths of the
@@ -96,20 +102,6 @@ articles:
       - Security / Privacy
     publishedAt: 2025-12-24T11:00:00.000Z
     source: WIRED (AI)
-  - title: This new 3D chip could break AI’s biggest bottleneck
-    url: https://www.sciencedaily.com/releases/2025/12/251223084857.htm
-    summary: Researchers have created a new kind of 3D computer chip that stacks
-      memory and computing elements vertically, dramatically speeding up how
-      data moves inside the chip. Unlike traditional flat designs, this approach
-      avoids the traffic jams that limit today’s AI hardware. The prototype
-      already beats comparable chips by several times, with future versions
-      expected to go much further. Just as important, it was manufactured
-      entirely in a U.S. foundry, showing the technology is ready for real-world
-      production.
-    imageUrl: https://www.sciencedaily.com/images/1920/3d-chip-breakthrough-to-accelerate-ai.webp
-    categories: []
-    publishedAt: 2025-12-24T06:21:36.000Z
-    source: ScienceDaily — Computer Science
   - title: Physicists made atoms behave like a quantum circuit
     url: https://www.sciencedaily.com/releases/2025/12/251222043243.htm
     summary: Using ultracold atoms and laser light, researchers recreated the
