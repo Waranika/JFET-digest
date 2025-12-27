@@ -172,6 +172,10 @@ function buildNewsletterHtml(articles) {
                     ">
                       You’re receiving this email because you subscribed to Tech Digest.<br/>
                       Links go directly to the original publishers.
+                      <br/>
+                        <a href="{{{RESEND_UNSUBSCRIBE_URL}}}" style="color:#999999; text-decoration:underline;">
+                          Unsubscribe
+                        </a>
                     </div>
 
                   </td>
