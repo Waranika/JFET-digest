@@ -193,9 +193,14 @@ function buildNewsletterHtml(articles) {
 // ----------------------------------------
 async function main() {
   const apiKey = process.env.RESEND_API_KEY;
+  const segmentId = process.env.RESEND_SEGMENT_ID;
 
   if (!apiKey) {
     console.error("Missing RESEND_API_KEY environment variable");
+    process.exit(1);
+  }
+  if (!segmentId) {
+    console.error("Missing RESEND_SEGMENT_ID environment variable");
     process.exit(1);
   }
 
@@ -214,20 +219,36 @@ async function main() {
 
   const html = buildNewsletterHtml(articles);
 
-  const { data, error } = await resend.emails.send({
-    from: "onboarding@resend.dev", // replace with your verified sender
-    to: "kizerboeli@gmail.com",
+  // 1) Create Broadcast for your segment
+  const { data: created, error: createErr } = await resend.broadcasts.create({
+    segmentId, // <-- this is how it targets "everyone in the segment" :contentReference[oaicite:2]{index=2}
+    from: "onboarding@resend.dev", // replace with your verified sender when ready
     subject: "Your Tech Digest",
     html,
+    name: `JFET digest ${new Date().toISOString().slice(0, 10)}`, // optional
   });
 
-  if (error) {
-    console.error("Error sending email:", error);
+  if (createErr) {
+    console.error("Error creating broadcast:", createErr);
     process.exit(1);
   }
 
-  console.log("Email sent:", data);
+  const broadcastId = created?.id;
+  if (!broadcastId) {
+    console.error("Broadcast created but no id returned:", created);
+    process.exit(1);
+  }
+
+  // 2) Send Broadcast
+  const { data: sent, error: sendErr } = await resend.broadcasts.send(broadcastId); // :contentReference[oaicite:3]{index=3}
+  if (sendErr) {
+    console.error("Error sending broadcast:", sendErr);
+    process.exit(1);
+  }
+
+  console.log("✅ Broadcast sent:", sent);
 }
+
 
 main().catch((err) => {
   console.error("Unexpected error:", err);
