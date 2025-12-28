@@ -24,7 +24,6 @@ function buildNewsletterHtml(articles) {
             <tr>
               <td style="padding: 28px 0; border-bottom: 1px solid #eeeeee;">
 
-                <!-- Title -->
                 <h2 style="
                   margin: 0 0 4px 0;
                   font-size: 19px;
@@ -32,15 +31,11 @@ function buildNewsletterHtml(articles) {
                   font-weight: 600;
                   letter-spacing: 0.01em;
                 ">
-                  <a href="${a.url}" style="
-                    color:#111111;
-                    text-decoration:none;
-                  ">
+                  <a href="${a.url}" style="color:#111111; text-decoration:none;">
                     ${a.title}
                   </a>
                 </h2>
 
-                <!-- Meta line: date | CATEGORY -->
                 <div style="
                   margin: 0 0 14px 0;
                   font-size: 11px;
@@ -52,7 +47,6 @@ function buildNewsletterHtml(articles) {
                   ${formattedDate} &nbsp; | &nbsp; ${category}
                 </div>
 
-                <!-- Image -->
                 ${
                   a.imageUrl
                     ? `
@@ -70,7 +64,6 @@ function buildNewsletterHtml(articles) {
                     : ""
                 }
 
-                <!-- Snippet -->
                 ${
                   snippet
                     ? `
@@ -85,7 +78,6 @@ function buildNewsletterHtml(articles) {
                     : ""
                 }
 
-                <!-- External link -->
                 <p style="margin: 0; font-size: 12px;">
                   <a href="${a.url}" style="
                     color:#999999;
@@ -122,7 +114,6 @@ function buildNewsletterHtml(articles) {
         <table width="100%" cellpadding="0" cellspacing="0" style="padding:24px 0;">
           <tr>
             <td align="center">
-
               <table width="640" cellpadding="0" cellspacing="0" style="
                 background:#ffffff;
                 border-radius:8px;
@@ -134,7 +125,6 @@ function buildNewsletterHtml(articles) {
                 <tr>
                   <td>
 
-                    <!-- Header -->
                     <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom: 22px;">
                       <tr>
                         <td style="
@@ -146,32 +136,35 @@ function buildNewsletterHtml(articles) {
                         ">
                           JFETech Digest
                         </td>
-                        
                       </tr>
                     </table>
 
-                    <!-- Articles -->
                     <table width="100%" cellpadding="0" cellspacing="0">
                       ${itemsHtml}
                     </table>
 
-                    <!-- Footer -->
-                    <div style="
-                      margin-top:24px;
-                      padding-top:12px;
-                      border-top:1px solid #eeeeee;
-                      font-size:11px;
-                      color:#999999;
-                      line-height:1.5;
-                    ">
-                      You’re receiving this email because you subscribed to Tech Digest.<br/>
-                      Links go directly to the original publishers.
-                    </div>
+                    <!-- Footer (table-safe) -->
+                    <table width="100%" cellpadding="0" cellspacing="0" style="margin-top:24px;">
+                      <tr>
+                        <td style="
+                          padding-top:12px;
+                          border-top:1px solid #eeeeee;
+                          font-size:11px;
+                          color:#999999;
+                          line-height:1.5;
+                        ">
+                          You’re receiving this email because you subscribed to Tech Digest.<br/>
+                          Links go directly to the original publishers.<br/>
+                          <a href="{{{RESEND_UNSUBSCRIBE_URL}}}" style="color:#999999; text-decoration:underline;">
+                            Unsubscribe
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
 
                   </td>
                 </tr>
               </table>
-
             </td>
           </tr>
         </table>
