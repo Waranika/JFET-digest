@@ -14,7 +14,6 @@ Pure signal, removing noise
 ## Features
 
 ### Multi-source aggregation
-JFET-digest pulls concise, high-quality items from selected tech feeds:
 
 - MIT News (Robotics, AI, Engineering, CS)
 - Wired (AI & Science)
@@ -26,7 +25,7 @@ Each feed has its own dedicated parser under `helpers/`.
 
 ---
 
-### Intelligent filtering
+### filtering
 The system automatically removes:
 
 - political content  
@@ -34,8 +33,6 @@ The system automatically removes:
 - repeated topics  
 - duplicates across sources  
 - non-technical news  
-
-The result: **every article is strictly tech and innovation focused**.
 
 ---
 
