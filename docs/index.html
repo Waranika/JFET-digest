@@ -1,361 +1,472 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="32x32" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
-    <!doctype html>
-    <html lang="en">
-      <head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-        <link rel="icon" type="image/png" sizes="32x32"/>
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JFETech Digest</title>
 
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>JFETech Digest</title>
-        <style>
-          * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-          }
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
 
-          body {
-            margin: 0;
-            padding: 0;
-            background: #ffffff;
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
-                         Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue',
-                         Arial, sans-serif;
-          }
-          .header {
-            font-size: 24px;
-            font-weight: 700;
-            margin: 0 -1440px 40px -1440px;
-            margin-bottom: 40px;
-            padding-bottom: 5px;  /* Add space between logo and border */
-            border-bottom: 1px solid #000000;  /* Add black line */
-            text-align: center;
-            color: #000000;
-          }
+      body {
+        margin: 0;
+        padding: 0;
+        background: #ffffff;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+          Ubuntu, Cantarell, "Helvetica Neue", Arial, sans-serif;
+      }
 
-          .logo {
-            display: block;
-            max-width: 100px;
-            height: auto;
-            margin: 0 auto 16px auto;
-          }                 
+      .container {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 10px 72px 60px 72px;
+      }
 
-          .container {
-            max-width: 760px;
-            margin: 0 auto;
-            padding: 5px 72px;
-          }
+      /* HEADER (updated to support gear + dropdown) */
+      .header {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
 
-          .header {
-            font-size: 24px;
-            font-weight: 700;
-            margin-bottom: 40px;
-            text-align: center;
-            color: #000000;
-          }
+        width: 100vw;
+        margin-left: calc(50% - 50vw); /* full-bleed */
+        margin-bottom: 40px;
+        padding-bottom: 5px;
+        border-bottom: 1px solid #000;
+      }
 
-          .article-item {
-            margin-bottom: 0;
-            border-bottom: 1px solid #e0e0e0;
-          }
+      .logo {
+        display: block;
+        max-width: 100px;
+        height: auto;
+        margin: 0 auto 16px auto;
+      }
 
-          .article-item:last-child {
-            border-bottom: none;
-          }
+      /* Settings (gear + dropdown) */
+      .settings-wrap {
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 44px;
+        display: flex;
+        align-items: center;
+      }
 
-          .article-header {
-            padding: 20px 0;
-            cursor: pointer;
-            transition: background-color 0.2s;
-          }
+      .settings-icon {
+        width: 44px;
+        height: 44px;
+        border: none;
+        background: transparent;
+        cursor: pointer;
+        border-radius: 10px;
+        display: grid;
+        place-items: center;
+      }
 
-          .article-header:hover {
-            background-color: #fafafa;
-          }
+      .settings-icon:hover {
+        background: #f3f3f3;
+      }
 
-          .article-title {
-            margin: 0 0 8px 0;
-            font-size: 18px;
-            line-height: 1.4;
-            font-weight: 600;
-            color: #000000;
-          }
+      .settings-icon svg {
+        width: 20px;
+        height: 20px;
+        fill: #000;
+        opacity: 0.9;
+      }
 
-          .article-meta {
-            font-size: 12px;
-            line-height: 1.4;
-            color: #666666;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-          }
+      .settings-dropdown {
+        position: absolute;
+        left: 0;
+        top: 48px;
+        width: 280px;
+        background: #fff;
+        border: 1px solid #e6e6e6;
+        border-radius: 12px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+        padding: 6px;
+        display: none;
+        z-index: 1000;
+        text-align: left;
+      }
 
-          .article-content {
-            display: none;
-            padding: 0 0 24px 0;
-            animation: slideDown 0.3s ease-out;
-          }
+      .settings-dropdown.open {
+        display: block;
+      }
 
-          .article-content.expanded {
-            display: block;
-          }
+      .dropdown-item {
+        width: 100%;
+        text-align: left;
+        border: none;
+        background: transparent;
+        padding: 10px 10px;
+        border-radius: 10px;
+        cursor: pointer;
+        font-size: 13px;
+      }
 
-          @keyframes slideDown {
-            from {
-              opacity: 0;
-              transform: translateY(-10px);
-            }
-            to {
-              opacity: 1;
-              transform: translateY(0);
-            }
-          }
+      .dropdown-item:hover {
+        background: #f6f6f6;
+      }
 
-          .article-image {
-            display: block;
-            width: 100%;
-            max-width: 100%;
-            border-radius: 4px;
-            margin: 0 0 16px 0;
-          }
+      .subscribe-panel {
+        margin-top: 6px;
+        padding: 8px 6px 4px 6px;
+        border-top: 1px solid #efefef;
+      }
 
-          .article-snippet {
-            margin: 0 0 12px 0;
-            font-size: 14px;
-            line-height: 1.6;
-            color: #333333;
-          }
+      .subscribe-form {
+        display: flex;
+        gap: 8px;
+      }
 
-          .article-link {
-            margin: 0;
-            font-size: 13px;
-          }
+      .subscribe-form input {
+        flex: 1;
+        padding: 9px 10px;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        font-size: 13px;
+      }
 
-          .article-link a {
-            color: #666666;
-            text-decoration: none;
-            font-weight: 500;
-            letter-spacing: 0.02em;
-            text-transform: uppercase;
-            font-size: 12px;
-          }
+      .subscribe-form button {
+        padding: 9px 10px;
+        border: 1px solid #000;
+        background: #000;
+        color: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        font-size: 13px;
+      }
 
-          .article-link a:hover {
-            color: #000000;
-          }
+      .subscribe-msg {
+        margin-top: 8px;
+        font-size: 12px;
+        color: #333;
+        min-height: 16px;
+      }
 
-          .no-articles {
-            padding: 40px 0;
-            text-align: center;
-            color: #666666;
-          }
+      /* Articles */
+      .article-item {
+        margin-bottom: 0;
+        border-bottom: 1px solid #e0e0e0;
+      }
 
-          .no-articles p {
-            font-size: 14px;
-          }
+      .article-item:last-child {
+        border-bottom: none;
+      }
 
-          @media (max-width: 680px) {
-            .container {
-              padding: 40px 16px;
-            }
+      .article-header {
+        padding: 20px 0;
+        cursor: pointer;
+        transition: background-color 0.2s;
+      }
 
-            .article-title {
-              font-size: 16px;
-            }
-          }
-        </style>
-        <script>
-          function toggleArticle(index) {
-            const content = document.getElementById('article-' + index);
-            if (content.classList.contains('expanded')) {
-              content.classList.remove('expanded');
-            } else {
-              // Close all other articles
-              document.querySelectorAll('.article-content').forEach(el => {
-                el.classList.remove('expanded');
-              });
-              content.classList.add('expanded');
-            }
-          }
-        </script>
-      </head>
-      <body>
-        <div class="container">
-          <header class="header">
-            <img src="/android-chrome-192x192.png" alt="JFETech Logo" class="logo" />
-          </header>
+      .article-header:hover {
+        background-color: #fafafa;
+      }
 
-          <main>
-            
+      .article-title {
+        margin: 0 0 8px 0;
+        font-size: 18px;
+        line-height: 1.4;
+        font-weight: 600;
+        color: #000000;
+      }
+
+      .article-meta {
+        font-size: 12px;
+        line-height: 1.4;
+        color: #666666;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+      }
+
+      .article-content {
+        display: none;
+        padding: 0 0 24px 0;
+        animation: slideDown 0.3s ease-out;
+      }
+
+      .article-content.expanded {
+        display: block;
+      }
+
+      @keyframes slideDown {
+        from {
+          opacity: 0;
+          transform: translateY(-10px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      .article-image {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        border-radius: 4px;
+        margin: 0 0 16px 0;
+      }
+
+      .article-snippet {
+        margin: 0 0 12px 0;
+        font-size: 14px;
+        line-height: 1.6;
+        color: #333333;
+      }
+
+      .article-link {
+        margin: 0;
+        font-size: 13px;
+      }
+
+      .article-link a {
+        color: #666666;
+        text-decoration: none;
+        font-weight: 500;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+        font-size: 12px;
+      }
+
+      .article-link a:hover {
+        color: #000000;
+      }
+
+      .no-articles {
+        padding: 40px 0;
+        text-align: center;
+        color: #666666;
+      }
+
+      .no-articles p {
+        font-size: 14px;
+      }
+
+      @media (max-width: 680px) {
+        .container {
+          padding: 40px 16px;
+        }
+
+        .article-title {
+          font-size: 16px;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <header class="header">
+        <!-- Settings gear (left) -->
+        <div class="settings-wrap">
+          <button class="settings-icon" aria-label="Settings" onclick="toggleSettingsDropdown(event)">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <path
+                d="M19.14,12.94c0.04-0.3,0.06-0.61,0.06-0.94c0-0.32-0.02-0.64-0.07-0.94l2.03-1.58c0.18-0.14,0.23-0.41,0.12-0.61 l-1.92-3.32c-0.12-0.22-0.37-0.29-0.59-0.22l-2.39,0.96c-0.5-0.38-1.03-0.7-1.62-0.94L14.4,2.81c-0.04-0.24-0.24-0.41-0.48-0.41 h-3.84c-0.24,0-0.43,0.17-0.47,0.41L9.25,5.35C8.66,5.59,8.12,5.92,7.63,6.29L5.24,5.33c-0.22-0.08-0.47,0-0.59,0.22L2.74,8.87 C2.62,9.08,2.66,9.34,2.86,9.48l2.03,1.58C4.84,11.36,4.8,11.69,4.8,12s0.02,0.64,0.07,0.94l-2.03,1.58 c-0.18,0.14-0.23,0.41-0.12,0.61l1.92,3.32c0.12,0.22,0.37,0.29,0.59,0.22l2.39-0.96c0.5,0.38,1.03,0.7,1.62,0.94l0.36,2.54 c0.05,0.24,0.24,0.41,0.48,0.41h3.84c0.24,0,0.44-0.17,0.47-0.41l0.36-2.54c0.59-0.24,1.13-0.56,1.62-0.94l2.39,0.96 c0.22,0.08,0.47,0,0.59-0.22l1.92-3.32c0.12-0.22,0.07-0.47-0.12-0.61L19.14,12.94z M12,15.6c-1.98,0-3.6-1.62-3.6-3.6 s1.62-3.6,3.6-3.6s3.6,1.62,3.6,3.6S13.98,15.6,12,15.6z"
+              />
+            </svg>
+          </button>
+
+          <div class="settings-dropdown" id="settingsDropdown" role="menu" aria-hidden="true">
+            <button class="dropdown-item" type="button" onclick="toggleSubscribeForm(event)">
+              Subscribe
+            </button>
+
+            <div class="subscribe-panel" id="subscribePanel" hidden>
+              <form id="subscribe-form" class="subscribe-form">
+                <input id="subscribe-email" type="email" placeholder="you@example.com" required />
+                <button type="submit">Go</button>
+              </form>
+              <div id="subscribe-msg" class="subscribe-msg"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Your logo (center) -->
+        <img src="/android-chrome-192x192.png" alt="JFETech Logo" class="logo" />
+      </header>
+
+      <main>
+        
             <article class="article-item">
               <div class="article-header" onclick="toggleArticle(0)">
-                <h2 class="article-title">Video Friday: Holiday Robot Helpers Send Season’s Greetings</h2>
+                <h2 class="article-title">Behold the Manifold, the Concept that Changed How Mathematicians View Space</h2>
                 <div class="article-meta">
-                  26 DEC 2025 &nbsp; | &nbsp; VIDEO FRIDAY
+                  28 DEC 2025 &nbsp; | &nbsp; SCIENCE
                 </div>
               </div>
 
               <div class="article-content" id="article-0">
-                <img src="https://spectrum.ieee.org/media-library/robots-near-christmas-tree-with-tv-snowman-and-leg-lamp-in-festive-room.png?id=62631880&width=1200&height=800&coordinates=156%2C0%2C156%2C0" alt="" class="article-image" />
+                <img src="https://media.wired.com/photos/693fddfac50190c987e8c8fc/191:100/w_1280,c_limit/What-is-a-Manifold-cr-Mark-Belan-Lede-2.jpeg" alt="" class="article-image" />
 
-                <p class="article-snippet">Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.</p>
+                <p class="article-snippet">In the mid-19th century, Bernhard Riemann conceived of a new way to think about mathematical spaces, providing the foundation for modern geometry and physics.</p>
 
                 <p class="article-link">
-                  <a href="https://spectrum.ieee.org/holiday-robot-videos" target="_blank">Read the full article →</a>
+                  <a href="https://www.wired.com/story/behold-the-manifold-the-concept-that-changed-how-mathematicians-view-space/" target="_blank" rel="noopener noreferrer">Read the full article →</a>
                 </p>
               </div>
             </article>
           
             <article class="article-item">
               <div class="article-header" onclick="toggleArticle(1)">
-                <h2 class="article-title">This tiny chip could change the future of quantum computing</h2>
+                <h2 class="article-title">Large Hadron Collider finally explains how fragile matter forms</h2>
                 <div class="article-meta">
-                  26 DEC 2025 &nbsp; | &nbsp; SCIENCEDAILY — COMPUTER SCIENCE
+                  27 DEC 2025 &nbsp; | &nbsp; SCIENCEDAILY — ENGINEERING
                 </div>
               </div>
 
               <div class="article-content" id="article-1">
-                <img src="https://www.sciencedaily.com/images/1920/quantum-computing-optical-fiber-array.webp" alt="" class="article-image" />
+                <img src="https://www.sciencedaily.com/images/1920/particle-collision-antimatter-physics.webp" alt="" class="article-image" />
 
-                <p class="article-snippet">A new microchip-sized device could dramatically accelerate the future of quantum computing. It controls laser frequencies with extreme precision while using far less power than today’s bulky systems. Crucially, it’s made with standard chip manufacturing,…</p>
+                <p class="article-snippet">In collisions at CERN’s Large Hadron Collider, hotter than the Sun’s core by a staggering margin, scientists have finally solved a long-standing mystery: how delicate particles like deuterons and their antimatter twins can exist at all. Instead of forming in…</p>
 
                 <p class="article-link">
-                  <a href="https://www.sciencedaily.com/releases/2025/12/251226045341.htm" target="_blank">Read the full article →</a>
+                  <a href="https://www.sciencedaily.com/releases/2025/12/251227082727.htm" target="_blank" rel="noopener noreferrer">Read the full article →</a>
                 </p>
               </div>
             </article>
           
             <article class="article-item">
               <div class="article-header" onclick="toggleArticle(2)">
-                <h2 class="article-title">Could You Use a Rowboat to Walk on the Seafloor Like Jack Sparrow?</h2>
+                <h2 class="article-title">AI Data Centers Demand More Than Copper Can Deliver</h2>
                 <div class="article-meta">
-                  26 DEC 2025 &nbsp; | &nbsp; SCIENCE
+                  27 DEC 2025 &nbsp; | &nbsp; TERAHERTZ
                 </div>
               </div>
 
               <div class="article-content" id="article-2">
-                <img src="https://media.wired.com/photos/6949c420b0033b43849dee68/191:100/w_1280,c_limit/Physics-Walking-Underwater-Science-MCDPIOF_EC028.jpg" alt="" class="article-image" />
+                <img src="https://spectrum.ieee.org/media-library/a-computer-cable-connector-with-its-cover-off-to-show-the-fibers-and-circuits.jpg?id=62604018&width=1200&height=800&coordinates=178%2C0%2C179%2C0" alt="" class="article-image" />
 
-                <p class="article-snippet">In Pirates of the Caribbean, Jack and Will use an overturned dinghy to hold air underwater. Madness or brilliance?</p>
+                <p class="article-snippet">How fast you can train gigantic new AI models boils down to two words: up and out.</p>
 
                 <p class="article-link">
-                  <a href="https://www.wired.com/story/using-a-rowboat-to-walk-on-the-seafloor-like-jack-sparrow/" target="_blank">Read the full article →</a>
+                  <a href="https://spectrum.ieee.org/rf-over-fiber" target="_blank" rel="noopener noreferrer">Read the full article →</a>
                 </p>
               </div>
             </article>
           
             <article class="article-item">
               <div class="article-header" onclick="toggleArticle(3)">
-                <h2 class="article-title">Researchers create world's smallest programmable, autonomous robots</h2>
+                <h2 class="article-title">So Long, GPT-5. Hello, Qwen</h2>
                 <div class="article-meta">
-                  25 DEC 2025 &nbsp; | &nbsp; ROBOTICS
+                  27 DEC 2025 &nbsp; | &nbsp; BUSINESS
                 </div>
               </div>
 
               <div class="article-content" id="article-3">
-                <img src="https://scx2.b-cdn.net/gfx/news/hires/2025/penn-and-umich-create.jpg" alt="" class="article-image" />
+                <img src="https://media.wired.com/photos/693891ef55a83fbf9c5eff4a/191:100/w_1280,c_limit/Hello_Qwen.jpg" alt="" class="article-image" />
 
-                <p class="article-snippet">Researchers at the University of Pennsylvania and University of Michigan have created the world's smallest fully programmable, autonomous robots: microscopic swimming machines that can independently sense and respond to their surroundings, operate for months…</p>
+                <p class="article-snippet">In the AI boom, chatbots and GPTs come and go quickly. (Remember Llama?) GPT-5 had a big year, but 2026 will be all about Qwen.</p>
 
                 <p class="article-link">
-                  <a href="https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html" target="_blank">Read the full article →</a>
+                  <a href="https://www.wired.com/story/expired-tired-wired-gpt-5/" target="_blank" rel="noopener noreferrer">Read the full article →</a>
                 </p>
               </div>
             </article>
           
             <article class="article-item">
               <div class="article-header" onclick="toggleArticle(4)">
-                <h2 class="article-title">How to Stay Ahead of AI as an Early-Career Engineer</h2>
+                <h2 class="article-title">Video Friday: Holiday Robot Helpers Send Season’s Greetings</h2>
                 <div class="article-meta">
-                  25 DEC 2025 &nbsp; | &nbsp; EMPLOYMENT
+                  26 DEC 2025 &nbsp; | &nbsp; VIDEO FRIDAY
                 </div>
               </div>
 
               <div class="article-content" id="article-4">
-                <img src="https://spectrum.ieee.org/media-library/person-sitting-on-robotic-chair-using-a-laptop-red-background-with-geometric-lines.jpg?id=62609789&width=1200&height=800&coordinates=0%2C200%2C0%2C200" alt="" class="article-image" />
+                <img src="https://spectrum.ieee.org/media-library/robots-near-christmas-tree-with-tv-snowman-and-leg-lamp-in-festive-room.png?id=62631880&width=1200&height=800&coordinates=156%2C0%2C156%2C0" alt="" class="article-image" />
 
-                <p class="article-snippet">“AI is not going to take your job. The person who uses AI is going to take your job.”</p>
+                <p class="article-snippet">Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.</p>
 
                 <p class="article-link">
-                  <a href="https://spectrum.ieee.org/ai-effect-entry-level-jobs" target="_blank">Read the full article →</a>
+                  <a href="https://spectrum.ieee.org/holiday-robot-videos" target="_blank" rel="noopener noreferrer">Read the full article →</a>
                 </p>
               </div>
             </article>
           
             <article class="article-item">
               <div class="article-header" onclick="toggleArticle(5)">
-                <h2 class="article-title">How ChatGPT could change the face of advertising, without you even knowing about it</h2>
+                <h2 class="article-title">This tiny chip could change the future of quantum computing</h2>
                 <div class="article-meta">
-                  25 DEC 2025 &nbsp; | &nbsp; BUSINESS
+                  26 DEC 2025 &nbsp; | &nbsp; SCIENCEDAILY — COMPUTER SCIENCE
                 </div>
               </div>
 
               <div class="article-content" id="article-5">
-                <img src="https://scx2.b-cdn.net/gfx/news/hires/2025/chatgpt.jpg" alt="" class="article-image" />
+                <img src="https://www.sciencedaily.com/images/1920/quantum-computing-optical-fiber-array.webp" alt="" class="article-image" />
 
-                <p class="article-snippet">Online adverts are sometimes so personal that they feel eerie. Even as a researcher in this area, I'm slightly startled when I get a message asking if my son still needs school shirts a few hours after browsing for clothes for my children.</p>
+                <p class="article-snippet">A new microchip-sized device could dramatically accelerate the future of quantum computing. It controls laser frequencies with extreme precision while using far less power than today’s bulky systems. Crucially, it’s made with standard chip manufacturing,…</p>
 
                 <p class="article-link">
-                  <a href="https://techxplore.com/news/2025-12-chatgpt-advertising.html" target="_blank">Read the full article →</a>
+                  <a href="https://www.sciencedaily.com/releases/2025/12/251226045341.htm" target="_blank" rel="noopener noreferrer">Read the full article →</a>
                 </p>
               </div>
             </article>
           
             <article class="article-item">
               <div class="article-header" onclick="toggleArticle(6)">
-                <h2 class="article-title">For computational devices, talk isn't cheap: Research reveals unavoidable energy costs across all communication channels</h2>
+                <h2 class="article-title">Researchers create world's smallest programmable, autonomous robots</h2>
                 <div class="article-meta">
-                  24 DEC 2025 &nbsp; | &nbsp; ENERGY & GREEN TECH
+                  25 DEC 2025 &nbsp; | &nbsp; ROBOTICS
                 </div>
               </div>
 
               <div class="article-content" id="article-6">
-                <img src="https://scx2.b-cdn.net/gfx/news/hires/2025/for-computational-devi.jpg" alt="" class="article-image" />
+                <img src="https://scx2.b-cdn.net/gfx/news/hires/2025/penn-and-umich-create.jpg" alt="" class="article-image" />
 
-                <p class="article-snippet">Every task we perform on a computer—whether number crunching, watching a video, or typing out an article—requires different components of the machine to interact with one another. "Communication is massively crucial for any computation," says former SFI…</p>
+                <p class="article-snippet">Researchers at the University of Pennsylvania and University of Michigan have created the world's smallest fully programmable, autonomous robots: microscopic swimming machines that can independently sense and respond to their surroundings, operate for months…</p>
 
                 <p class="article-link">
-                  <a href="https://techxplore.com/news/2025-12-devices-isnt-cheap-reveals-unavoidable.html" target="_blank">Read the full article →</a>
+                  <a href="https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html" target="_blank" rel="noopener noreferrer">Read the full article →</a>
                 </p>
               </div>
             </article>
           
             <article class="article-item">
               <div class="article-header" onclick="toggleArticle(7)">
-                <h2 class="article-title">The Age of the All-Access AI Agent Is Here</h2>
+                <h2 class="article-title">How ChatGPT could change the face of advertising, without you even knowing about it</h2>
                 <div class="article-meta">
-                  24 DEC 2025 &nbsp; | &nbsp; SECURITY
+                  25 DEC 2025 &nbsp; | &nbsp; BUSINESS
                 </div>
               </div>
 
               <div class="article-content" id="article-7">
-                <img src="https://media.wired.com/photos/693884828db268ccd294df4d/191:100/w_1280,c_limit/WTE%20AI%20agents%20final%20(1).jpg" alt="" class="article-image" />
+                <img src="https://scx2.b-cdn.net/gfx/news/hires/2025/chatgpt.jpg" alt="" class="article-image" />
 
-                <p class="article-snippet">Big AI companies courted controversy by scraping wide swaths of the public internet. With the rise of AI agents, the next data grab is far more private.</p>
+                <p class="article-snippet">Online adverts are sometimes so personal that they feel eerie. Even as a researcher in this area, I'm slightly startled when I get a message asking if my son still needs school shirts a few hours after browsing for clothes for my children.</p>
 
                 <p class="article-link">
-                  <a href="https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/" target="_blank">Read the full article →</a>
+                  <a href="https://techxplore.com/news/2025-12-chatgpt-advertising.html" target="_blank" rel="noopener noreferrer">Read the full article →</a>
                 </p>
               </div>
             </article>
           
             <article class="article-item">
               <div class="article-header" onclick="toggleArticle(8)">
-                <h2 class="article-title">Physicists made atoms behave like a quantum circuit</h2>
+                <h2 class="article-title">For computational devices, talk isn't cheap: Research reveals unavoidable energy costs across all communication channels</h2>
                 <div class="article-meta">
-                  23 DEC 2025 &nbsp; | &nbsp; SCIENCEDAILY — ENGINEERING
+                  24 DEC 2025 &nbsp; | &nbsp; ENERGY & GREEN TECH
                 </div>
               </div>
 
               <div class="article-content" id="article-8">
-                <img src="https://www.sciencedaily.com/images/1920/abstract-quantum-electronic-effect.webp" alt="" class="article-image" />
+                <img src="https://scx2.b-cdn.net/gfx/news/hires/2025/for-computational-devi.jpg" alt="" class="article-image" />
 
-                <p class="article-snippet">Using ultracold atoms and laser light, researchers recreated the behavior of a Josephson junction—an essential component of quantum computers and voltage standards. The appearance of Shapiro steps in this atomic system reveals a deep universality in quantum…</p>
+                <p class="article-snippet">Every task we perform on a computer—whether number crunching, watching a video, or typing out an article—requires different components of the machine to interact with one another. "Communication is massively crucial for any computation," says former SFI…</p>
 
                 <p class="article-link">
-                  <a href="https://www.sciencedaily.com/releases/2025/12/251222043243.htm" target="_blank">Read the full article →</a>
+                  <a href="https://techxplore.com/news/2025-12-devices-isnt-cheap-reveals-unavoidable.html" target="_blank" rel="noopener noreferrer">Read the full article →</a>
                 </p>
               </div>
             </article>
@@ -374,7 +485,7 @@
                 <p class="article-snippet">“At MIT, innovation ranges from awe-inspiring technology to down-to-Earth creativity,” noted Chronicle, during a campus visit this year for an episode of the program. In 2025, MIT researchers made headlines across print publications, podcasts, and video…</p>
 
                 <p class="article-link">
-                  <a href="https://news.mit.edu/2025/mit-media-review-1222" target="_blank">Read the full article →</a>
+                  <a href="https://news.mit.edu/2025/mit-media-review-1222" target="_blank" rel="noopener noreferrer">Read the full article →</a>
                 </p>
               </div>
             </article>
@@ -393,7 +504,7 @@
                 <p class="article-snippet">A new AI developed at Duke University can uncover simple, readable rules behind extremely complex systems. It studies how systems evolve over time and reduces thousands of variables into compact equations that still capture real behavior. The method works…</p>
 
                 <p class="article-link">
-                  <a href="https://www.sciencedaily.com/releases/2025/12/251221091237.htm" target="_blank">Read the full article →</a>
+                  <a href="https://www.sciencedaily.com/releases/2025/12/251221091237.htm" target="_blank" rel="noopener noreferrer">Read the full article →</a>
                 </p>
               </div>
             </article>
@@ -412,7 +523,7 @@
                 <p class="article-snippet">Students can take many possible routes through MIT’s curriculum, which can zigag through different departments, linking classes and disciplines in unexpected ways. With so many options, charting an academic path can be overwhelming, but a new tool called…</p>
 
                 <p class="article-link">
-                  <a href="https://news.mit.edu/2025/building-with-tech-skills-julianna-schneider-1219" target="_blank">Read the full article →</a>
+                  <a href="https://news.mit.edu/2025/building-with-tech-skills-julianna-schneider-1219" target="_blank" rel="noopener noreferrer">Read the full article →</a>
                 </p>
               </div>
             </article>
@@ -431,13 +542,116 @@
                 <p class="article-snippet">When you get an MRI scan, the machine exploits a phenomenon called nuclear magnetic resonance (NMR). Certain kinds of atomic nuclei—including those of the hydrogen atoms in a water molecule—can be made to oscillate in a magnetic field, and these oscillations…</p>
 
                 <p class="article-link">
-                  <a href="https://spectrum.ieee.org/listen-to-protons-diy-magnetometer" target="_blank">Read the full article →</a>
+                  <a href="https://spectrum.ieee.org/listen-to-protons-diy-magnetometer" target="_blank" rel="noopener noreferrer">Read the full article →</a>
                 </p>
               </div>
             </article>
           
-          </main>
-        </div>
-      </body>
-    </html>
-  
+      </main>
+    </div>
+
+    <script>
+      const SUBSCRIBE_ENDPOINT = "https://worker.jfet-api.workers.dev/subscribe";
+
+      function toggleArticle(index) {
+        const content = document.getElementById("article-" + index);
+        if (content.classList.contains("expanded")) {
+          content.classList.remove("expanded");
+        } else {
+          document.querySelectorAll(".article-content").forEach((el) => {
+            el.classList.remove("expanded");
+          });
+          content.classList.add("expanded");
+        }
+      }
+
+      function closeSettingsDropdown() {
+        const dd = document.getElementById("settingsDropdown");
+        if (!dd) return;
+        dd.classList.remove("open");
+        dd.setAttribute("aria-hidden", "true");
+
+        const panel = document.getElementById("subscribePanel");
+        if (panel) panel.hidden = true;
+      }
+
+      function toggleSettingsDropdown(e) {
+        e?.preventDefault?.();
+        e?.stopPropagation?.();
+
+        const dd = document.getElementById("settingsDropdown");
+        if (!dd) return;
+
+        const open = dd.classList.toggle("open");
+        dd.setAttribute("aria-hidden", open ? "false" : "true");
+
+        if (!open) {
+          const panel = document.getElementById("subscribePanel");
+          if (panel) panel.hidden = true;
+        }
+      }
+
+      function toggleSubscribeForm(e) {
+        e?.preventDefault?.();
+        e?.stopPropagation?.();
+
+        const panel = document.getElementById("subscribePanel");
+        if (!panel) return;
+
+        panel.hidden = !panel.hidden;
+
+        if (!panel.hidden) {
+          setTimeout(() => document.getElementById("subscribe-email")?.focus(), 0);
+        }
+      }
+
+      // Close dropdown on outside click
+      document.addEventListener("click", (e) => {
+        const wrap = document.querySelector(".settings-wrap");
+        if (!wrap) return;
+        if (!wrap.contains(e.target)) closeSettingsDropdown();
+      });
+
+      // Close dropdown on Escape
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") closeSettingsDropdown();
+      });
+
+      // Subscribe submit
+      document.addEventListener("DOMContentLoaded", () => {
+        const form = document.getElementById("subscribe-form");
+        if (!form) return;
+
+        form.addEventListener("submit", async (e) => {
+          e.preventDefault();
+          e.stopPropagation();
+
+          const msg = document.getElementById("subscribe-msg");
+          const email = document.getElementById("subscribe-email").value.trim();
+
+          msg.textContent = "Subscribing…";
+
+          try {
+            const res = await fetch(SUBSCRIBE_ENDPOINT, {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ email }),
+            });
+
+            const data = await res.json().catch(() => ({}));
+
+            if (!res.ok || !data.ok) {
+              msg.textContent = data.message || "Subscription failed.";
+              return;
+            }
+
+            msg.textContent = data.message || "Subscribed 🎉";
+            form.reset();
+          } catch (err) {
+            msg.textContent = "Network error. Try again.";
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
