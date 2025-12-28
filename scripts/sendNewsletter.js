@@ -11,16 +11,20 @@ const __dirname = path.dirname(__filename);
 
 async function main() {
   const apiKey = process.env.RESEND_API_KEY;
-  const to = process.env.NEWSLETTER_TO || "kizerboeli@gmail.com";
+  const segmentId = process.env.RESEND_SEGMENT_ID;
 
   if (!apiKey) {
     console.error("Missing RESEND_API_KEY environment variable");
     process.exit(1);
   }
+  if (!segmentId) {
+    console.error("Missing RESEND_SEGMENT_ID environment variable");
+    process.exit(1);
+  }
 
   const resend = new Resend(apiKey);
 
-  // 1. Load YAML
+  // 1) Load YAML
   const dataDir = path.join(__dirname, "..", "data");
   const todayPath = path.join(dataDir, "today.yaml");
 
@@ -33,30 +37,46 @@ async function main() {
     process.exit(1);
   }
 
-  // 2. Build HTML
+  // 2) Build HTML
   const html = buildNewsletterHtml(newsletter.articles);
   const subject = newsletter.subject || "Your Tech Digest";
 
-  // 3. Send email
+  // 3) Create broadcast to the segment
   console.log(
-    `Sending newsletter to ${to} with ${newsletter.articles.length} article(s)…`
+    `Creating broadcast for segment ${segmentId} with ${newsletter.articles.length} article(s)…`
   );
 
-  const { data, error } = await resend.emails.send({
+  const { data: created, error: createErr } = await resend.broadcasts.create({
+    segmentId,
     from: "news@jfetnews.net",
-    to,
     subject,
     html,
+    name: `JFET digest ${newsletter.date || new Date().toISOString().slice(0, 10)}`,
   });
 
-  if (error) {
-    console.error("Error sending email:", error);
+  if (createErr) {
+    console.error("Error creating broadcast:", createErr);
     process.exit(1);
   }
 
-  console.log("Email sent:", data);
+  const broadcastId = created?.id;
+  if (!broadcastId) {
+    console.error("Broadcast created but no id returned:", created);
+    process.exit(1);
+  }
 
-  // 4. Archive YAML
+  // 4) Send broadcast
+  console.log(`Sending broadcast ${broadcastId}…`);
+  const { data: sent, error: sendErr } = await resend.broadcasts.send(broadcastId);
+
+  if (sendErr) {
+    console.error("Error sending broadcast:", sendErr);
+    process.exit(1);
+  }
+
+  console.log("✅ Broadcast sent:", sent);
+
+  // 5) Archive YAML
   const archiveDir = path.join(dataDir, "archive");
   await fs.mkdir(archiveDir, { recursive: true });
 
