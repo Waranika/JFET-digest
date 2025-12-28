@@ -25,5 +25,6 @@ jobs:
       - name: Send newsletter
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_SEGMENT_ID: ${{ secrets.RESEND_SEGMENT_ID }}
           NEWSLETTER_TO: ${{ vars.NEWSLETTER_TO }}
         run: node scripts/sendNewsletter.js
