@@ -1,8 +1,75 @@
-date: 2025-12-29
+date: 2025-12-30
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: New AI-based technology offers real-time electric vehicle state
+      estimation for safer driving
+    url: https://techxplore.com/news/2025-12-ai-based-technology-real-electric.html
+    summary: A research team led by Professor Kanghyun Nam from the Department of
+      Robotics and Mechanical Engineering at DGIST has developed a physical
+      AI-based vehicle state estimation technology that accurately estimates the
+      driving state of electric vehicles in real time.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2020/traffic.jpg
+    categories:
+      - Engineering
+    publishedAt: 2025-12-29T17:37:34.000Z
+    source: TechXplore — Engineering
+  - title: The origami wheel that could explore lunar caves
+    url: https://techxplore.com/news/2025-12-origami-wheel-explore-lunar-caves.html
+    summary: Beneath the moon's cratered surface lie networks of lava tubes and deep
+      pits, natural caves that could shelter future lunar bases from cosmic
+      radiation and wild temperature swings. These underground structures
+      represent some of the most scientifically valuable areas in the solar
+      system, but they come with the very real challenge of simply getting
+      there.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/the-origami-wheel-that-1.jpg
+    categories:
+      - Robotics
+    publishedAt: 2025-12-29T15:50:02.000Z
+    source: TechXplore — Robotics
+  - title: Deepfakes leveled up in 2025—here's what's coming next
+    url: https://techxplore.com/news/2025-12-deepfakes.html
+    summary: Over the course of 2025, deepfakes improved dramatically. AI-generated
+      faces, voices and full-body performances that mimic real people increased
+      in quality far beyond what even many experts expected would be the case
+      just a few years ago. They were also increasingly used to deceive people.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/computer-face.jpg
+    categories:
+      - Security
+    publishedAt: 2025-12-29T15:26:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: AI models stumble on basic multiplication without special training
+      methods, study finds
+    url: https://techxplore.com/news/2025-12-ai-stumble-basic-multiplication-special.html
+    summary: These days, large language models can handle increasingly complex
+      tasks, writing complex code and engaging in sophisticated reasoning. But
+      when it comes to four-digit multiplication, a task taught in elementary
+      school, even state-of-the-art systems fail. Why?
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/why-cant-powerful-ais.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2025-12-29T13:40:06.000Z
+    source: TechXplore — Computer Science
+  - title: 3 New Tricks to Try With Google Gemini Live After Its Latest Major Upgrade
+    url: https://www.wired.com/story/3-tricks-google-gemini-live-latest-major-upgrade/
+    summary: Google's AI is now even smarter, and more versatile.
+    imageUrl: https://media.wired.com/photos/694978bcd440f25f26616df1/191:100/w_1280,c_limit/gear-android-2230409281.jpg
+    categories:
+      - Gear
+      - Gear / How To and Advice
+    publishedAt: 2025-12-29T11:00:00.000Z
+    source: WIRED (AI)
+  - title: The Earth Is Nearing an Environmental Tipping Point
+    url: https://www.wired.com/story/the-earth-is-nearing-an-environmental-tipping-point/
+    summary: Today’s global coral bleaching events are the worst kind of climate
+      warning.
+    imageUrl: https://media.wired.com/photos/69408c1f8016807df5bf35cb/191:100/w_1280,c_limit/WIRED-WORLD-ENVIRONMENTAL-TIPPING-POINT.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2025-12-29T10:00:00.000Z
+    source: WIRED science
   - title: First Air Taxi Service to Launch in Dubai in 2026
     url: https://spectrum.ieee.org/joby-air-taxi
     summary: Ten years ago, ride-sharing giant Uber embraced a sci-fi future in
@@ -21,31 +88,6 @@ articles:
       - Urban air mobility
     publishedAt: 2025-12-28T13:00:02.000Z
     source: IEEE Spectrum — Robotics
-  - title: People Who Drink Bottled Water on a Daily Basis Ingest 90,000 More
-      Microplastic Particles Each Year
-    url: https://www.wired.com/story/people-who-drink-bottled-water-on-a-daily-basis-ingest-90000-more-microplastics-per-year/
-    summary: Drinking water in plastic bottles contains countless particles too
-      small to see. New research finds that people who drink water from them on
-      a daily basis ingest far more microplastics than those who don’t.
-    imageUrl: https://media.wired.com/photos/68ff77ac9c4c2a873e8d8e50/191:100/w_1280,c_limit/866929570
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2025-12-28T11:30:00.000Z
-    source: WIRED science
-  - title: Billion-Dollar Data Centers Are Taking Over the World
-    url: https://www.wired.com/story/expired-tired-wired-data-centers/
-    summary: The battle for AI dominance has left a large footprint—and it’s only
-      getting bigger and more expensive.
-    imageUrl: https://media.wired.com/photos/693ce8626542926dcbff7180/191:100/w_1280,c_limit/Data_Center_Takeover_3.jpg
-    categories:
-      - Business
-      - Business / Energy
-      - Business / Computers and Software
-      - Business / Big Tech
-      - Business / Artificial Intelligence
-    publishedAt: 2025-12-28T11:00:00.000Z
-    source: WIRED (AI)
   - title: Large Hadron Collider finally explains how fragile matter forms
     url: https://www.sciencedaily.com/releases/2025/12/251227082727.htm
     summary: "In collisions at CERN’s Large Hadron Collider, hotter than the Sun’s
@@ -83,44 +125,6 @@ articles:
     categories: []
     publishedAt: 2025-12-26T15:38:10.000Z
     source: ScienceDaily — Computer Science
-  - title: Researchers create world's smallest programmable, autonomous robots
-    url: https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html
-    summary: "Researchers at the University of Pennsylvania and University of
-      Michigan have created the world's smallest fully programmable, autonomous
-      robots: microscopic swimming machines that can independently sense and
-      respond to their surroundings, operate for months and cost just a penny
-      each."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/penn-and-umich-create.jpg
-    categories:
-      - Robotics
-    publishedAt: 2025-12-25T20:50:01.000Z
-    source: TechXplore — Engineering
-  - title: How ChatGPT could change the face of advertising, without you even
-      knowing about it
-    url: https://techxplore.com/news/2025-12-chatgpt-advertising.html
-    summary: Online adverts are sometimes so personal that they feel eerie. Even as
-      a researcher in this area, I'm slightly startled when I get a message
-      asking if my son still needs school shirts a few hours after browsing for
-      clothes for my children.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/chatgpt.jpg
-    categories:
-      - Business
-    publishedAt: 2025-12-25T16:10:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: "For computational devices, talk isn't cheap: Research reveals
-      unavoidable energy costs across all communication channels"
-    url: https://techxplore.com/news/2025-12-devices-isnt-cheap-reveals-unavoidable.html
-    summary: Every task we perform on a computer—whether number crunching, watching
-      a video, or typing out an article—requires different components of the
-      machine to interact with one another. "Communication is massively crucial
-      for any computation," says former SFI Graduate Fellow Abhishek Yadav, a
-      Ph.D. scholar at the University of New Mexico. But scientists don't fully
-      grasp how much energy computational devices spend on communication.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/for-computational-devi.jpg
-    categories:
-      - Energy & Green Tech
-    publishedAt: 2025-12-24T18:24:56.000Z
-    source: TechXplore — Computer Science
   - title: "MIT in the media: 2025 in review "
     url: https://news.mit.edu/2025/mit-media-review-1222
     summary: “At MIT, innovation ranges from awe-inspiring technology to
@@ -167,7 +171,7 @@ articles:
       at tens to hundreds of megahertz. However, another NMR-based instrument
       involves much lower-frequency oscillations: a proton-precession
       magnetometer, often used to measure Earth’s magnetic field."
-    imageUrl: https://spectrum.ieee.org/media-library/a-pair-of-coil-wound-cylinders-sits-atop-two-milk-crates-wires-connect-them-to-a-circuit-board-connected-to-three-large-12-volt.png?id=62212907&width=1245&height=700&coordinates=0%2C428%2C0%2C429
+    imageUrl: https://spectrum.ieee.org/media-library/a-pair-of-coil-wound-cylinders-sits-atop-two-milk-crates-wires-connect-them-to-a-circuit-board-connected-to-three-large-12-volt.png?id=62212907&width=2000&height=1500&coordinates=0%2C224%2C0%2C225
     categories:
       - Citizen science
       - Proton magnetometer
