@@ -1,8 +1,71 @@
-date: 2025-12-31
+date: 2026-01-01
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: The Top 6 AI Stories of 2025
+    url: https://spectrum.ieee.org/ai-2025
+    summary: Artificial intelligence in 2025 was less about flashy demos and more
+      about hard questions. What actually works? What breaks in unexpected ways?
+      And what are the environmental and economic costs of scaling these systems
+      further?
+    imageUrl: https://spectrum.ieee.org/media-library/3d-rendering-of-a-brain-surrounded-by-ai-and-large-language-model-graphics.jpg?id=62611993&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+    categories:
+      - Agi
+      - Coding
+      - Agentic ai
+      - Generative ai
+      - Water
+      - Weather forecasting
+    publishedAt: 2025-12-31T14:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: Teams of Robots Compete to Save Lives on the Battlefield
+    url: https://spectrum.ieee.org/darpa-triage-challenge-robots
+    summary: Last September, the Defense Advanced Research Projects Agency (DARPA)
+      unleashed teams of robots on simulated mass-casualty scenarios, including
+      an airplane crash and a night ambush. The robots’ job was to find victims
+      and estimate the severity of their injuries, with the goal of helping
+      human medics get to the people who need them the most.
+    imageUrl: https://spectrum.ieee.org/media-library/aerial-drone-robotic-arm-explosion-and-medical-cross-on-abstract-background.jpg?id=62605094&width=1245&height=700&coordinates=0%2C114%2C0%2C114
+    categories:
+      - 5 questions
+      - Darpa
+      - Robotics
+      - Drones
+      - Quadruped robots
+    publishedAt: 2025-12-31T13:00:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Poor Sleep Quality Accelerates Brain Aging
+    url: https://www.wired.com/story/poor-sleep-quality-accelerates-brain-aging/
+    summary: Research shows that people who sleep poorly tend to have brain age that
+      is older than their actual age. Chronic inflammation in the body caused by
+      poor sleep likely plays a part.
+    imageUrl: https://media.wired.com/photos/69459059f0bcfce52787f83c/191:100/w_1280,c_limit/2184278007
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2025-12-31T12:00:00.000Z
+    source: WIRED science
+  - title: AI-Powered Dating Is All Hype. IRL Cruising Is the Future
+    url: https://www.wired.com/story/expired-tired-wired-ai-powered-dating/
+    summary: Dating apps and AI companies have been touting bot wingmen for months.
+      But the future might just be good old-fashioned meet-cutes.
+    imageUrl: https://media.wired.com/photos/693cd639b979444a26094358/191:100/w_1280,c_limit/Cruising.jpg
+    categories:
+      - Culture
+      - Culture / Digital Culture
+    publishedAt: 2025-12-31T11:00:00.000Z
+    source: WIRED (AI)
+  - title: SoftBank lifts OpenAI stake to 11% with $41bln investment
+    url: https://techxplore.com/news/2025-12-softbank-openai-stake-41bln-investment.html
+    summary: Japanese tech investor SoftBank said Wednesday that its stake in OpenAI
+      is now around 11% after completing the second stage of a $41-billion
+      investment in the maker of ChatGPT.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/softbank-had-announced.jpg
+    categories:
+      - Business
+    publishedAt: 2025-12-31T10:10:01.000Z
+    source: TechXplore — AI & Machine Learning
   - title: New AI model accurately grades messy handwritten math answers and
       explains student errors
     url: https://techxplore.com/news/2025-12-ai-accurately-grades-messy-handwritten.html
@@ -40,35 +103,6 @@ articles:
       - Robotics
     publishedAt: 2025-12-30T15:00:01.000Z
     source: TechXplore — Robotics
-  - title: The Great Big Power Play
-    url: https://www.wired.com/story/expired-tired-wired-nuclear-plants/
-    summary: US support for nuclear energy is soaring. Meanwhile, coal plants are on
-      their way out and electricity-sucking data centers are meeting huge
-      pushback. Welcome to the next front in the energy battle.
-    imageUrl: https://media.wired.com/photos/6938e46985743395b8c52764/191:100/w_1280,c_limit/WTE-big-power-play-2x1.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2025-12-30T11:00:00.000Z
-    source: WIRED (AI)
-  - title: First Air Taxi Service to Launch in Dubai in 2026
-    url: https://spectrum.ieee.org/joby-air-taxi
-    summary: Ten years ago, ride-sharing giant Uber embraced a sci-fi future in
-      which clean, quiet electric aircraft would shuttle passengers around
-      crowded cities. Uber’s well-funded Elevate initiative, which included a
-      white paper and three high-profile annual summits, effectively launched
-      the electric vertical take-off and landing (eVTOL) industry, promising
-      investors, regulators, and the general public that these futuristic flying
-      taxis were “closer than you think.”
-    imageUrl: https://spectrum.ieee.org/media-library/a-futuristic-looking-white-aircraft-is-seen-flying-over-a-brown-desert-landscape-with-the-skyscrapers-of-a-large-modern-city-in.jpg?id=62599869&width=1200&height=800&coordinates=0%2C0%2C0%2C0
-    categories:
-      - Advanced air mobility
-      - Air taxi
-      - Evtol aircraft
-      - Joby aviation
-      - Urban air mobility
-    publishedAt: 2025-12-28T13:00:02.000Z
-    source: IEEE Spectrum — Robotics
   - title: Large Hadron Collider finally explains how fragile matter forms
     url: https://www.sciencedaily.com/releases/2025/12/251227082727.htm
     summary: "In collisions at CERN’s Large Hadron Collider, hotter than the Sun’s
@@ -85,7 +119,7 @@ articles:
     url: https://spectrum.ieee.org/rf-over-fiber
     summary: "How fast you can train gigantic new AI models boils down to two words:
       up and out."
-    imageUrl: https://spectrum.ieee.org/media-library/a-computer-cable-connector-with-its-cover-off-to-show-the-fibers-and-circuits.jpg?id=62604018&width=1245&height=700&coordinates=42%2C0%2C42%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/a-computer-cable-connector-with-its-cover-off-to-show-the-fibers-and-circuits.jpg?id=62604018&width=1200&height=800&coordinates=178%2C0%2C179%2C0
     categories:
       - Terahertz
       - Millimeter wave
@@ -93,7 +127,7 @@ articles:
       - Networks
       - Network infrastructure
     publishedAt: 2025-12-27T13:00:01.000Z
-    source: IEEE Spectrum — AI
+    source: IEEE Spectrum — Computing & Chips
   - title: This tiny chip could change the future of quantum computing
     url: https://www.sciencedaily.com/releases/2025/12/251226045341.htm
     summary: A new microchip-sized device could dramatically accelerate the future
