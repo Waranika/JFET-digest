@@ -1,40 +1,56 @@
-date: 2026-01-01
+date: 2026-01-02
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: The Top 6 AI Stories of 2025
-    url: https://spectrum.ieee.org/ai-2025
-    summary: Artificial intelligence in 2025 was less about flashy demos and more
-      about hard questions. What actually works? What breaks in unexpected ways?
-      And what are the environmental and economic costs of scaling these systems
-      further?
-    imageUrl: https://spectrum.ieee.org/media-library/3d-rendering-of-a-brain-surrounded-by-ai-and-large-language-model-graphics.jpg?id=62611993&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+  - title: Tech to Track in 2026
+    url: https://spectrum.ieee.org/tech-in-2026
+    summary: Every September as we plan our January tech forecast issue, IEEE
+      Spectrum’s editors survey their beats and seek out promising projects that
+      could solve seemingly intractable problems or transform entire industries.
+    imageUrl: https://spectrum.ieee.org/media-library/futuristic-drone-like-air-taxi-on-helipad-surrounded-by-desert-landscape.jpg?id=62639193&width=1200&height=800&coordinates=0%2C0%2C0%2C0
     categories:
-      - Agi
-      - Coding
-      - Agentic ai
-      - Generative ai
-      - Water
-      - Weather forecasting
-    publishedAt: 2025-12-31T14:00:01.000Z
-    source: IEEE Spectrum — AI
-  - title: Teams of Robots Compete to Save Lives on the Battlefield
-    url: https://spectrum.ieee.org/darpa-triage-challenge-robots
-    summary: Last September, the Defense Advanced Research Projects Agency (DARPA)
-      unleashed teams of robots on simulated mass-casualty scenarios, including
-      an airplane crash and a night ambush. The robots’ job was to find victims
-      and estimate the severity of their injuries, with the goal of helping
-      human medics get to the people who need them the most.
-    imageUrl: https://spectrum.ieee.org/media-library/aerial-drone-robotic-arm-explosion-and-medical-cross-on-abstract-background.jpg?id=62605094&width=1245&height=700&coordinates=0%2C114%2C0%2C114
-    categories:
-      - 5 questions
-      - Darpa
-      - Robotics
+      - Technology forecast
+      - Grid-scale storage
+      - Cancer
+      - Ultrasound
+      - Radio frequency
       - Drones
-      - Quadruped robots
-    publishedAt: 2025-12-31T13:00:01.000Z
+    publishedAt: 2026-01-01T15:00:02.000Z
     source: IEEE Spectrum — Robotics
+  - title: 11 Amazing Engineering Events in 2026
+    url: https://spectrum.ieee.org/new-technology-2026
+    summary: Elon Musk says his company Neuralink is aiming to restore partial sight
+      to fully blind patients in 2026. The company plans to test its newest and
+      most powerful implant, Blindsight, in humans early this year. The chip
+      will be wirelessly connected to an external video camera and implanted
+      into the brain’s visual cortex. Bypassing the eyes, it is designed to
+      generate the perception of vision based on what the camera captures, even
+      for people born blind. The resulting vision will be low resolution in
+      early tests but will hopefully get better over time, Musk says, though
+      some experts worry he is overpromising on the quality of the
+      brain-computer interface.
+    imageUrl: https://spectrum.ieee.org/media-library/a-cartoon-of-an-astronaut-floating-near-the-moon-and-holding-a-magnifying-glass.png?id=62609775&width=1245&height=700&coordinates=0%2C437%2C0%2C438
+    categories:
+      - Technology
+      - Neuralink
+      - Space exploration
+      - Supercomputers
+      - Self-driving cars
+      - Chipmaking
+    publishedAt: 2026-01-01T13:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: AI Labor Is Boring. AI Lust Is Big Business
+    url: https://www.wired.com/story/expired-tired-wired-sexy-chatbots/
+    summary: After years of hype about generative AI increasing productivity and
+      making lives easier, 2025 was the year erotic chatbots defined AI’s
+      narrative.
+    imageUrl: https://media.wired.com/photos/693cddc2b63d46bdde86ae98/191:100/w_1280,c_limit/WTE%20sexy%20chats%20final.jpg
+    categories:
+      - Business / Artificial Intelligence
+      - Gear
+    publishedAt: 2026-01-01T11:00:00.000Z
+    source: WIRED (AI)
   - title: Poor Sleep Quality Accelerates Brain Aging
     url: https://www.wired.com/story/poor-sleep-quality-accelerates-brain-aging/
     summary: Research shows that people who sleep poorly tend to have brain age that
@@ -46,16 +62,6 @@ articles:
       - Science / Health
     publishedAt: 2025-12-31T12:00:00.000Z
     source: WIRED science
-  - title: AI-Powered Dating Is All Hype. IRL Cruising Is the Future
-    url: https://www.wired.com/story/expired-tired-wired-ai-powered-dating/
-    summary: Dating apps and AI companies have been touting bot wingmen for months.
-      But the future might just be good old-fashioned meet-cutes.
-    imageUrl: https://media.wired.com/photos/693cd639b979444a26094358/191:100/w_1280,c_limit/Cruising.jpg
-    categories:
-      - Culture
-      - Culture / Digital Culture
-    publishedAt: 2025-12-31T11:00:00.000Z
-    source: WIRED (AI)
   - title: SoftBank lifts OpenAI stake to 11% with $41bln investment
     url: https://techxplore.com/news/2025-12-softbank-openai-stake-41bln-investment.html
     summary: Japanese tech investor SoftBank said Wednesday that its stake in OpenAI
@@ -115,19 +121,6 @@ articles:
     categories: []
     publishedAt: 2025-12-27T16:48:18.000Z
     source: ScienceDaily — Engineering
-  - title: AI Data Centers Demand More Than Copper Can Deliver
-    url: https://spectrum.ieee.org/rf-over-fiber
-    summary: "How fast you can train gigantic new AI models boils down to two words:
-      up and out."
-    imageUrl: https://spectrum.ieee.org/media-library/a-computer-cable-connector-with-its-cover-off-to-show-the-fibers-and-circuits.jpg?id=62604018&width=1200&height=800&coordinates=178%2C0%2C179%2C0
-    categories:
-      - Terahertz
-      - Millimeter wave
-      - Data centers
-      - Networks
-      - Network infrastructure
-    publishedAt: 2025-12-27T13:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: This tiny chip could change the future of quantum computing
     url: https://www.sciencedaily.com/releases/2025/12/251226045341.htm
     summary: A new microchip-sized device could dramatically accelerate the future
