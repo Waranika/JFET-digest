@@ -1,8 +1,57 @@
-date: 2026-01-02
+date: 2026-01-03
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: No-code machine learning development tools
+    url: https://techxplore.com/news/2026-01-code-machine-tools.html
+    summary: Since 2021, Korean researchers have been providing a simple software
+      development framework to users with relatively limited AI expertise in
+      industrial fields such as factories, medical, and shipbuilding, providing
+      them with a significant boost.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/etri-releases-no-code.jpg
+    categories:
+      - Software
+    publishedAt: 2026-01-02T22:30:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: "Video Friday: Watch Scuttle Evolve"
+    url: https://spectrum.ieee.org/video-friday-robot-farming
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/robotic-snake-in-grassy-terrain-featuring-gears-and-yellow-accents.png?id=62651449&width=1200&height=800&coordinates=150%2C0%2C150%2C0
+    categories:
+      - Insect robots
+      - Robotics
+      - Video friday
+      - Legged robots
+      - Humanoid robots
+      - Quadruped robots
+    publishedAt: 2026-01-02T18:00:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Understanding why quick clay is so unstable may lead to safer, greener
+      stabilization methods
+    url: https://techxplore.com/news/2026-01-quick-clay-unstable-safer-greener.html
+    summary: Quick clay collapse can be both dangerous and costly. New research will
+      help us understand more about why the clay is so unstable. And maybe what
+      we can do about it.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-want-to-fi.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-01-02T16:24:45.000Z
+    source: TechXplore — Engineering
+  - title: Here’s How Long You Should Walk Every Day to Prevent Back Pain
+    url: https://www.wired.com/story/heres-how-long-you-should-walk-every-day-to-prevent-back-pain/
+    summary: Back pain is one of the most common chronic diseases in the world.
+      Recent research reveals how much time you should spend walking on a daily
+      basis to prevent it.
+    imageUrl: https://media.wired.com/photos/69528dd873cdee7ed588c420/191:100/w_1280,c_limit/859638-001
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2026-01-02T11:30:00.000Z
+    source: WIRED science
   - title: Tech to Track in 2026
     url: https://spectrum.ieee.org/tech-in-2026
     summary: Every September as we plan our January tech forecast issue, IEEE
@@ -17,7 +66,7 @@ articles:
       - Radio frequency
       - Drones
     publishedAt: 2026-01-01T15:00:02.000Z
-    source: IEEE Spectrum — Robotics
+    source: IEEE Spectrum — Computing & Chips
   - title: 11 Amazing Engineering Events in 2026
     url: https://spectrum.ieee.org/new-technology-2026
     summary: Elon Musk says his company Neuralink is aiming to restore partial sight
@@ -30,7 +79,7 @@ articles:
       early tests but will hopefully get better over time, Musk says, though
       some experts worry he is overpromising on the quality of the
       brain-computer interface.
-    imageUrl: https://spectrum.ieee.org/media-library/a-cartoon-of-an-astronaut-floating-near-the-moon-and-holding-a-magnifying-glass.png?id=62609775&width=1245&height=700&coordinates=0%2C437%2C0%2C438
+    imageUrl: https://spectrum.ieee.org/media-library/a-cartoon-of-an-astronaut-floating-near-the-moon-and-holding-a-magnifying-glass.png?id=62609775&width=1200&height=800&coordinates=0%2C333%2C0%2C334
     categories:
       - Technology
       - Neuralink
@@ -51,27 +100,6 @@ articles:
       - Gear
     publishedAt: 2026-01-01T11:00:00.000Z
     source: WIRED (AI)
-  - title: Poor Sleep Quality Accelerates Brain Aging
-    url: https://www.wired.com/story/poor-sleep-quality-accelerates-brain-aging/
-    summary: Research shows that people who sleep poorly tend to have brain age that
-      is older than their actual age. Chronic inflammation in the body caused by
-      poor sleep likely plays a part.
-    imageUrl: https://media.wired.com/photos/69459059f0bcfce52787f83c/191:100/w_1280,c_limit/2184278007
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2025-12-31T12:00:00.000Z
-    source: WIRED science
-  - title: SoftBank lifts OpenAI stake to 11% with $41bln investment
-    url: https://techxplore.com/news/2025-12-softbank-openai-stake-41bln-investment.html
-    summary: Japanese tech investor SoftBank said Wednesday that its stake in OpenAI
-      is now around 11% after completing the second stage of a $41-billion
-      investment in the maker of ChatGPT.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/softbank-had-announced.jpg
-    categories:
-      - Business
-    publishedAt: 2025-12-31T10:10:01.000Z
-    source: TechXplore — AI & Machine Learning
   - title: New AI model accurately grades messy handwritten math answers and
       explains student errors
     url: https://techxplore.com/news/2025-12-ai-accurately-grades-messy-handwritten.html
@@ -83,19 +111,6 @@ articles:
       - Computer Sciences
     publishedAt: 2025-12-30T16:45:58.000Z
     source: TechXplore — Computer Science
-  - title: Decompression sickness in fish reveals hidden risks of hydropower
-      operations
-    url: https://techxplore.com/news/2025-12-decompression-sickness-fish-reveals-hidden.html
-    summary: "Professor Ole Gunnar Dahlhaug and postdoctoral fellow Wolf Ludwig Kuhn
-      at the Norwegian University of Science and Technology (NTNU) have three
-      goals: To understand the problem of gas supersaturation at hydropower
-      plants, to solve it, and to help correct mistakes made during Norway's
-      more than 100 years of hydropower production."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/this-little-trout-died.jpg
-    categories:
-      - Engineering
-    publishedAt: 2025-12-30T15:50:01.000Z
-    source: TechXplore — Engineering
   - title: From individuals to crews, AI brings teamwork into construction
       productivity analysis
     url: https://techxplore.com/news/2025-12-individuals-crews-ai-teamwork-productivity.html
