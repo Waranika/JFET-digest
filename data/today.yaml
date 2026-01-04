@@ -1,18 +1,22 @@
-date: 2026-01-03
+date: 2026-01-04
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: No-code machine learning development tools
-    url: https://techxplore.com/news/2026-01-code-machine-tools.html
-    summary: Since 2021, Korean researchers have been providing a simple software
-      development framework to users with relatively limited AI expertise in
-      industrial fields such as factories, medical, and shipbuilding, providing
-      them with a significant boost.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/etri-releases-no-code.jpg
+  - title: Reinforcement learning accelerates model-free training of optical AI
+      systems
+    url: https://techxplore.com/news/2026-01-free-optical-ai.html
+    summary: "Optical computing has emerged as a powerful approach for high-speed
+      and energy-efficient information processing. Diffractive optical networks,
+      in particular, enable large-scale parallel computation through the use of
+      passive structured phase masks and the propagation of light. However, one
+      major challenge remains: systems trained in model-based simulations often
+      fail to perform optimally in real experimental settings, where
+      misalignments, noise, and model inaccuracies are difficult to capture."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/reinforcement-learning.jpg
     categories:
-      - Software
-    publishedAt: 2026-01-02T22:30:01.000Z
+      - Hardware
+    publishedAt: 2026-01-03T15:00:01.000Z
     source: TechXplore — AI & Machine Learning
   - title: "Video Friday: Watch Scuttle Evolve"
     url: https://spectrum.ieee.org/video-friday-robot-farming
@@ -89,17 +93,6 @@ articles:
       - Chipmaking
     publishedAt: 2026-01-01T13:00:02.000Z
     source: IEEE Spectrum — AI
-  - title: AI Labor Is Boring. AI Lust Is Big Business
-    url: https://www.wired.com/story/expired-tired-wired-sexy-chatbots/
-    summary: After years of hype about generative AI increasing productivity and
-      making lives easier, 2025 was the year erotic chatbots defined AI’s
-      narrative.
-    imageUrl: https://media.wired.com/photos/693cddc2b63d46bdde86ae98/191:100/w_1280,c_limit/WTE%20sexy%20chats%20final.jpg
-    categories:
-      - Business / Artificial Intelligence
-      - Gear
-    publishedAt: 2026-01-01T11:00:00.000Z
-    source: WIRED (AI)
   - title: New AI model accurately grades messy handwritten math answers and
       explains student errors
     url: https://techxplore.com/news/2025-12-ai-accurately-grades-messy-handwritten.html
