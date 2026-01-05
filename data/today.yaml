@@ -1,8 +1,25 @@
-date: 2026-01-04
+date: 2026-01-05
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: See the Sky Like Never Before With a DIY Eyepiece
+    url: https://spectrum.ieee.org/diy-astrophotography-eyepiece
+    summary: When it comes to viewing nebulae, galaxies, and other deep-sky objects,
+      amateur astronomers on a budget have had two options. They can view with
+      the naked eye through a telescope and perceive these spectacular objects
+      as faint smudges that don’t even begin to capture their majesty, or they
+      can capture long-exposure images with astrocameras and display the results
+      on a view screen or computer, which robs the immediacy of the stargazing
+      experience.
+    imageUrl: https://spectrum.ieee.org/media-library/a-reflecting-telescope-can-be-seen-fitted-with-a-boxy-eyepiece.jpg?id=62609417&width=1200&height=800&coordinates=0%2C293%2C0%2C294
+    categories:
+      - Astronomy
+      - Citizen science
+      - Remote sensing
+      - Type:departments
+    publishedAt: 2026-01-04T13:00:01.000Z
+    source: IEEE Spectrum — DIY
   - title: Reinforcement learning accelerates model-free training of optical AI
       systems
     url: https://techxplore.com/news/2026-01-free-optical-ai.html
@@ -45,17 +62,6 @@ articles:
       - Engineering
     publishedAt: 2026-01-02T16:24:45.000Z
     source: TechXplore — Engineering
-  - title: Here’s How Long You Should Walk Every Day to Prevent Back Pain
-    url: https://www.wired.com/story/heres-how-long-you-should-walk-every-day-to-prevent-back-pain/
-    summary: Back pain is one of the most common chronic diseases in the world.
-      Recent research reveals how much time you should spend walking on a daily
-      basis to prevent it.
-    imageUrl: https://media.wired.com/photos/69528dd873cdee7ed588c420/191:100/w_1280,c_limit/859638-001
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2026-01-02T11:30:00.000Z
-    source: WIRED science
   - title: Tech to Track in 2026
     url: https://spectrum.ieee.org/tech-in-2026
     summary: Every September as we plan our January tech forecast issue, IEEE
@@ -177,21 +183,3 @@ articles:
     categories: []
     publishedAt: 2025-12-19T05:00:00.000Z
     source: MIT Robotics
-  - title: Listen to Protons for Less Than $100
-    url: https://spectrum.ieee.org/listen-to-protons-diy-magnetometer
-    summary: "When you get an MRI scan, the machine exploits a phenomenon called
-      nuclear magnetic resonance (NMR). Certain kinds of atomic nuclei—including
-      those of the hydrogen atoms in a water molecule—can be made to oscillate
-      in a magnetic field, and these oscillations can be detected with coils of
-      wire. MRI scanners employ intense magnetic fields that create resonances
-      at tens to hundreds of megahertz. However, another NMR-based instrument
-      involves much lower-frequency oscillations: a proton-precession
-      magnetometer, often used to measure Earth’s magnetic field."
-    imageUrl: https://spectrum.ieee.org/media-library/a-pair-of-coil-wound-cylinders-sits-atop-two-milk-crates-wires-connect-them-to-a-circuit-board-connected-to-three-large-12-volt.png?id=62212907&width=2000&height=1500&coordinates=0%2C224%2C0%2C225
-    categories:
-      - Citizen science
-      - Proton magnetometer
-      - Sensing
-      - Type:departments
-    publishedAt: 2025-11-25T14:00:02.000Z
-    source: IEEE Spectrum — DIY
