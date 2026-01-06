@@ -1,8 +1,123 @@
-date: 2026-01-05
+date: 2026-01-06
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’
+    url: https://www.wired.com/story/nvidias-rubin-chips-are-going-into-production/
+    summary: The chip giant says Vera Rubin will sharply cut the cost of training
+      and running AI models, strengthening the appeal of its integrated
+      computing platform.
+    imageUrl: https://media.wired.com/photos/695bffe313835ca4d6b41e4a/191:100/w_1280,c_limit/Nvidia-Rubin-Chips-Going-Into-Production-Business-2192346797.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-01-05T23:05:32.000Z
+    source: WIRED (AI)
+  - title: "Q&A: Developing a sustainable power grid in the era of AI"
+    url: https://techxplore.com/news/2026-01-qa-sustainable-power-grid-era.html
+    summary: Le Xie, Professor of Electrical Engineering at the Harvard John A.
+      Paulson School of Engineering and Applied Sciences (SEAS), wants to know
+      how we can modernize the electric grid to support rapid electrification
+      and the growing demands of AI infrastructure. His research at SEAS focuses
+      on the intersection of power systems, artificial intelligence, and
+      decarbonization. We spoke to him about his work and the challenges facing
+      the electric grid today. This interview has been edited for clarity and
+      length.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2019/powergrid.jpg
+    categories:
+      - Energy & Green Tech
+    publishedAt: 2026-01-05T22:12:26.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: MIT scientists investigate memorization risk in the age of clinical AI
+    url: https://news.mit.edu/2026/mit-scientists-investigate-memorization-risk-clinical-ai-0105
+    summary: "What is patient privacy for? The Hippocratic Oath, thought to be one
+      of the earliest and most widely known medical ethics texts in the world,
+      reads: “Whatever I see or hear in the lives of my patients, whether in
+      connection with my professional practice or not, which ought not to be
+      spoken of outside, I will keep secret, as considering all such things to
+      be private.”"
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-j-clinic-EHR-Memorization.jpg?itok=VrtzS0Gi
+    categories: []
+    publishedAt: 2026-01-05T21:55:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Online 'brainrot' isn't ruining children's minds; it's a new way of
+      navigating the modern internet
+    url: https://techxplore.com/news/2026-01-online-brainrot-isnt-children-minds.html
+    summary: '"Brainrot" is what many people call the chaotic, fast-moving memes,
+      sounds and catchphrases that spread across TikTok, Roblox and online
+      gaming and into playgrounds. An example is the endlessly repeated chant of
+      "six-seven," which still echoes through houses and schools across the
+      country—to the bewilderment (or annoyance) of many teachers and parents.'
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/brainrot.jpg
+    categories:
+      - Internet
+    publishedAt: 2026-01-05T17:41:22.000Z
+    source: TechXplore — Computer Science
+  - title: Ultrathin polymer layer extends lifespan of anode-free lithium metal
+      batteries
+    url: https://techxplore.com/news/2026-01-ultrathin-polymer-layer-lifespan-anode.html
+    summary: Anode-free lithium metal batteries, which have attracted attention as
+      candidates for electric vehicles, drones, and next-generation
+      high-performance batteries, offer much higher energy density than
+      conventional lithium-ion batteries. However, their short lifespan has made
+      commercialization difficult.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/key-commercialization.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-01-05T16:10:01.000Z
+    source: TechXplore — Engineering
+  - title: The Data Center Boom Is Concentrated in the U.S.
+    url: https://spectrum.ieee.org/data-center-growth
+    summary: If a data center is moving in next door, you probably live in the
+      United States. More than half of all upcoming global data centers—as
+      indicated by land purchased for data centers not yet announced, those
+      under construction, and those whose plans are public—will be developed in
+      the United States.
+    imageUrl: https://spectrum.ieee.org/media-library/pie-chart-of-service-distribution-showing-aws-9-94-microsoft-7-73-others-70-56.jpg?id=62624451&width=980
+    categories:
+      - Data center
+      - Data center energy
+      - Energy consumption
+      - United states
+      - Data centers
+    publishedAt: 2026-01-05T13:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: Flu Is Relentless. Crispr Might Be Able to Shut It Down
+    url: https://www.wired.com/story/crispr-flu-antivirals/
+    summary: Innovative research into the gene-editing tool targets influenza’s
+      ability to replicate—stopping it in its tracks.
+    imageUrl: https://media.wired.com/photos/6941434a6280a5114317f439/191:100/w_1280,c_limit/GettyImages-2217533380.jpg
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2026-01-05T10:00:00.000Z
+    source: WIRED science
+  - title: Physicists found hidden order in violent proton collisions
+    url: https://www.sciencedaily.com/releases/2026/01/260104202125.htm
+    summary: Inside high-energy proton collisions, quarks and gluons briefly form a
+      dense, boiling state before cooling into ordinary particles. Researchers
+      expected this transition to change how disordered the system is, but LHC
+      data tell a different story. A newly improved collision model matches
+      experiments better than older ones and reveals that the “entropy” remains
+      unchanged throughout the process. This unexpected result turns out to be a
+      direct fingerprint of quantum mechanics at work.
+    imageUrl: https://www.sciencedaily.com/images/1920/high-energy-proton-collisions-entropy.webp
+    categories: []
+    publishedAt: 2026-01-05T05:11:59.000Z
+    source: ScienceDaily — Engineering
+  - title: AI may not need massive training data after all
+    url: https://www.sciencedaily.com/releases/2025/12/251228074457.htm
+    summary: New research shows that AI doesn’t need endless training data to start
+      acting more like a human brain. When researchers redesigned AI systems to
+      better resemble biological brains, some models produced brain-like
+      activity without any training at all. This challenges today’s data-hungry
+      approach to AI development. The work suggests smarter design could
+      dramatically speed up learning while slashing costs and energy use.
+    imageUrl: https://www.sciencedaily.com/images/1920/advanced-ai-machine-learning-brain-chip.webp
+    categories: []
+    publishedAt: 2026-01-05T00:08:41.000Z
+    source: ScienceDaily — Robotics
   - title: See the Sky Like Never Before With a DIY Eyepiece
     url: https://spectrum.ieee.org/diy-astrophotography-eyepiece
     summary: When it comes to viewing nebulae, galaxies, and other deep-sky objects,
@@ -20,21 +135,6 @@ articles:
       - Type:departments
     publishedAt: 2026-01-04T13:00:01.000Z
     source: IEEE Spectrum — DIY
-  - title: Reinforcement learning accelerates model-free training of optical AI
-      systems
-    url: https://techxplore.com/news/2026-01-free-optical-ai.html
-    summary: "Optical computing has emerged as a powerful approach for high-speed
-      and energy-efficient information processing. Diffractive optical networks,
-      in particular, enable large-scale parallel computation through the use of
-      passive structured phase masks and the propagation of light. However, one
-      major challenge remains: systems trained in model-based simulations often
-      fail to perform optimally in real experimental settings, where
-      misalignments, noise, and model inaccuracies are difficult to capture."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/reinforcement-learning.jpg
-    categories:
-      - Hardware
-    publishedAt: 2026-01-03T15:00:01.000Z
-    source: TechXplore — AI & Machine Learning
   - title: "Video Friday: Watch Scuttle Evolve"
     url: https://spectrum.ieee.org/video-friday-robot-farming
     summary: Video Friday is your weekly selection of awesome robotics videos,
@@ -51,23 +151,12 @@ articles:
       - Quadruped robots
     publishedAt: 2026-01-02T18:00:02.000Z
     source: IEEE Spectrum — Robotics
-  - title: Understanding why quick clay is so unstable may lead to safer, greener
-      stabilization methods
-    url: https://techxplore.com/news/2026-01-quick-clay-unstable-safer-greener.html
-    summary: Quick clay collapse can be both dangerous and costly. New research will
-      help us understand more about why the clay is so unstable. And maybe what
-      we can do about it.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-want-to-fi.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-01-02T16:24:45.000Z
-    source: TechXplore — Engineering
   - title: Tech to Track in 2026
     url: https://spectrum.ieee.org/tech-in-2026
     summary: Every September as we plan our January tech forecast issue, IEEE
       Spectrum’s editors survey their beats and seek out promising projects that
       could solve seemingly intractable problems or transform entire industries.
-    imageUrl: https://spectrum.ieee.org/media-library/futuristic-drone-like-air-taxi-on-helipad-surrounded-by-desert-landscape.jpg?id=62639193&width=1200&height=800&coordinates=0%2C0%2C0%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/futuristic-drone-like-air-taxi-on-helipad-surrounded-by-desert-landscape.jpg?id=62639193&width=1245&height=700&coordinates=0%2C56%2C0%2C57
     categories:
       - Technology forecast
       - Grid-scale storage
@@ -77,39 +166,6 @@ articles:
       - Drones
     publishedAt: 2026-01-01T15:00:02.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: 11 Amazing Engineering Events in 2026
-    url: https://spectrum.ieee.org/new-technology-2026
-    summary: Elon Musk says his company Neuralink is aiming to restore partial sight
-      to fully blind patients in 2026. The company plans to test its newest and
-      most powerful implant, Blindsight, in humans early this year. The chip
-      will be wirelessly connected to an external video camera and implanted
-      into the brain’s visual cortex. Bypassing the eyes, it is designed to
-      generate the perception of vision based on what the camera captures, even
-      for people born blind. The resulting vision will be low resolution in
-      early tests but will hopefully get better over time, Musk says, though
-      some experts worry he is overpromising on the quality of the
-      brain-computer interface.
-    imageUrl: https://spectrum.ieee.org/media-library/a-cartoon-of-an-astronaut-floating-near-the-moon-and-holding-a-magnifying-glass.png?id=62609775&width=1200&height=800&coordinates=0%2C333%2C0%2C334
-    categories:
-      - Technology
-      - Neuralink
-      - Space exploration
-      - Supercomputers
-      - Self-driving cars
-      - Chipmaking
-    publishedAt: 2026-01-01T13:00:02.000Z
-    source: IEEE Spectrum — AI
-  - title: New AI model accurately grades messy handwritten math answers and
-      explains student errors
-    url: https://techxplore.com/news/2025-12-ai-accurately-grades-messy-handwritten.html
-    summary: A research team affiliated with UNIST has unveiled a novel AI system
-      capable of grading and providing detailed feedback on even the most untidy
-      handwritten math answers—much like a human instructor.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2025/new-study-unveils-ai-g.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2025-12-30T16:45:58.000Z
-    source: TechXplore — Computer Science
   - title: From individuals to crews, AI brings teamwork into construction
       productivity analysis
     url: https://techxplore.com/news/2025-12-individuals-crews-ai-teamwork-productivity.html
@@ -123,18 +179,6 @@ articles:
       - Robotics
     publishedAt: 2025-12-30T15:00:01.000Z
     source: TechXplore — Robotics
-  - title: Large Hadron Collider finally explains how fragile matter forms
-    url: https://www.sciencedaily.com/releases/2025/12/251227082727.htm
-    summary: "In collisions at CERN’s Large Hadron Collider, hotter than the Sun’s
-      core by a staggering margin, scientists have finally solved a
-      long-standing mystery: how delicate particles like deuterons and their
-      antimatter twins can exist at all. Instead of forming in the initial
-      chaos, these fragile nuclei are born later, when the fireball cools, from
-      the decay of ultra-short-lived, high-energy particles."
-    imageUrl: https://www.sciencedaily.com/images/1920/particle-collision-antimatter-physics.webp
-    categories: []
-    publishedAt: 2025-12-27T16:48:18.000Z
-    source: ScienceDaily — Engineering
   - title: This tiny chip could change the future of quantum computing
     url: https://www.sciencedaily.com/releases/2025/12/251226045341.htm
     summary: A new microchip-sized device could dramatically accelerate the future
@@ -147,32 +191,6 @@ articles:
     categories: []
     publishedAt: 2025-12-26T15:38:10.000Z
     source: ScienceDaily — Computer Science
-  - title: "MIT in the media: 2025 in review "
-    url: https://news.mit.edu/2025/mit-media-review-1222
-    summary: “At MIT, innovation ranges from awe-inspiring technology to
-      down-to-Earth creativity,” noted Chronicle, during a campus visit this
-      year for an episode of the program. In 2025, MIT researchers made
-      headlines across print publications, podcasts, and video platforms for key
-      scientific advances, from breakthroughs in quantum and artificial
-      intelligence to new efforts aimed at improving pediatric health care and
-      cancer diagnosis.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-TopinMedia.jpg?itok=QNUAOAWj
-    categories: []
-    publishedAt: 2025-12-22T22:20:00.000Z
-    source: MIT Artificial Intelligence
-  - title: This AI finds simple rules where humans see only chaos
-    url: https://www.sciencedaily.com/releases/2025/12/251221091237.htm
-    summary: A new AI developed at Duke University can uncover simple, readable
-      rules behind extremely complex systems. It studies how systems evolve over
-      time and reduces thousands of variables into compact equations that still
-      capture real behavior. The method works across physics, engineering,
-      climate science, and biology. Researchers say it could help scientists
-      understand systems where traditional equations are missing or too
-      complicated to write down.
-    imageUrl: https://www.sciencedaily.com/images/1920/science-student-laws-of-physics-equations.webp
-    categories: []
-    publishedAt: 2025-12-22T06:04:50.000Z
-    source: ScienceDaily — Robotics
   - title: “Wait, we have the tech skills to build that”
     url: https://news.mit.edu/2025/building-with-tech-skills-julianna-schneider-1219
     summary: Students can take many possible routes through MIT’s curriculum, which
