@@ -1,34 +1,91 @@
-date: 2026-01-06
+date: 2026-01-07
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’
-    url: https://www.wired.com/story/nvidias-rubin-chips-are-going-into-production/
-    summary: The chip giant says Vera Rubin will sharply cut the cost of training
-      and running AI models, strengthening the appeal of its integrated
-      computing platform.
-    imageUrl: https://media.wired.com/photos/695bffe313835ca4d6b41e4a/191:100/w_1280,c_limit/Nvidia-Rubin-Chips-Going-Into-Production-Business-2192346797.jpg
+  - title: How smart home materials can shield us from extreme heat and cut energy
+      bills all year
+    url: https://techxplore.com/news/2026-01-smart-home-materials-shield-extreme.html
+    summary: Australia is getting hotter. Climate change is driving more frequent
+      and prolonged extreme heat waves and our homes are struggling to keep up.
+      Alarmingly, many Australian houses—especially older ones—weren't designed
+      for these harsh conditions.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/how-smart-home-materia.jpg
     categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-01-05T23:05:32.000Z
+      - Engineering
+    publishedAt: 2026-01-06T23:00:02.000Z
+    source: TechXplore — Engineering
+  - title: AI is quick but risky for updating old software, researchers warn
+    url: https://techxplore.com/news/2026-01-ai-quick-risky-software.html
+    summary: At first glance, artificial intelligence looks like a software
+      developer's dream. A recent McKinsey & Company report found that
+      programmers generated code up to 45% faster with the help of generative
+      AI.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/-software-code.jpg
+    categories:
+      - Software
+    publishedAt: 2026-01-06T22:21:28.000Z
+    source: TechXplore — Computer Science
+  - title: Grok Is Pushing AI ‘Undressing’ Mainstream
+    url: https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/
+    summary: Paid tools that “strip” clothes from photos have been available on the
+      darker corners of the internet for years. Elon Musk’s X is now removing
+      barriers to entry—and making the results public.
+    imageUrl: https://media.wired.com/photos/695d3603b6493d17e530b8ce/191:100/w_1280,c_limit/GettyImages-2248294692.jpg
+    categories:
+      - Security
+      - Security / Privacy
+    publishedAt: 2026-01-06T22:20:08.000Z
     source: WIRED (AI)
-  - title: "Q&A: Developing a sustainable power grid in the era of AI"
-    url: https://techxplore.com/news/2026-01-qa-sustainable-power-grid-era.html
-    summary: Le Xie, Professor of Electrical Engineering at the Harvard John A.
-      Paulson School of Engineering and Applied Sciences (SEAS), wants to know
-      how we can modernize the electric grid to support rapid electrification
-      and the growing demands of AI infrastructure. His research at SEAS focuses
-      on the intersection of power systems, artificial intelligence, and
-      decarbonization. We spoke to him about his work and the challenges facing
-      the electric grid today. This interview has been edited for clarity and
-      length.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2019/powergrid.jpg
+  - title: Ancient board game tactics help AI unlock optimal cooling strategies
+    url: https://techxplore.com/news/2026-01-ancient-board-game-tactics-ai.html
+    summary: "It's a simple law of physics: When electricity or fuel powers a
+      machine, the machine gets hotter. Finding new ways to cool machines
+      quickly and controllably can mean the difference between a functioning
+      electrical grid and a blackout or a working data center and a widespread
+      outage."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-analysis-inspired-b.jpg
     categories:
-      - Energy & Green Tech
-    publishedAt: 2026-01-05T22:12:26.000Z
+      - Engineering
+    publishedAt: 2026-01-06T18:10:05.000Z
     source: TechXplore — AI & Machine Learning
+  - title: Scientists create robots smaller than a grain of salt that can think
+    url: https://www.sciencedaily.com/releases/2026/01/260105165815.htm
+    summary: Researchers have created microscopic robots so small they’re barely
+      visible, yet smart enough to sense, decide, and move completely on their
+      own. Powered by light and equipped with tiny computers, the robots swim by
+      manipulating electric fields rather than using moving parts. They can
+      detect temperature changes, follow programmed paths, and even work
+      together in groups. The breakthrough marks the first truly autonomous
+      robots at this microscopic scale.
+    imageUrl: https://www.sciencedaily.com/images/1920/worlds-smallest-autonomous-robot.webp
+    categories: []
+    publishedAt: 2026-01-06T12:33:12.000Z
+    source: ScienceDaily — Robotics
+  - title: Hyundai and Boston Dynamics unveil humanoid robot Atlas at CES
+    url: https://techxplore.com/news/2026-01-hyundai-boston-dynamics-unveil-humanoid.html
+    summary: Hyundai-owned Boston Dynamics publicly demonstrated its humanoid robot
+      Atlas for the first time Monday at the CES tech showcase, ratcheting up a
+      competition with Tesla and other rivals to build robots that look like
+      people and do things that people do.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/hyundai-and-boston-dyn.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-01-06T09:23:44.000Z
+    source: TechXplore — Robotics
+  - title: Tiny 3D-printed light cages could unlock the quantum internet
+    url: https://www.sciencedaily.com/releases/2026/01/260106001907.htm
+    summary: A new chip-based quantum memory uses nanoprinted “light cages” to trap
+      light inside atomic vapor, enabling fast, reliable storage of quantum
+      information. The structures can be fabricated with extreme precision and
+      filled with atoms in days instead of months. Multiple memories can operate
+      side by side on a single chip, all performing nearly identically. The
+      result is a powerful, scalable building block for future quantum
+      communication and computing.
+    imageUrl: https://www.sciencedaily.com/images/1920/light-cages-for-enhanced-light-matter-interaction.webp
+    categories: []
+    publishedAt: 2026-01-06T07:14:34.000Z
+    source: ScienceDaily — Engineering
   - title: MIT scientists investigate memorization risk in the age of clinical AI
     url: https://news.mit.edu/2026/mit-scientists-investigate-memorization-risk-clinical-ai-0105
     summary: "What is patient privacy for? The Hippocratic Oath, thought to be one
@@ -41,32 +98,6 @@ articles:
     categories: []
     publishedAt: 2026-01-05T21:55:00.000Z
     source: MIT Artificial Intelligence
-  - title: Online 'brainrot' isn't ruining children's minds; it's a new way of
-      navigating the modern internet
-    url: https://techxplore.com/news/2026-01-online-brainrot-isnt-children-minds.html
-    summary: '"Brainrot" is what many people call the chaotic, fast-moving memes,
-      sounds and catchphrases that spread across TikTok, Roblox and online
-      gaming and into playgrounds. An example is the endlessly repeated chant of
-      "six-seven," which still echoes through houses and schools across the
-      country—to the bewilderment (or annoyance) of many teachers and parents.'
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/brainrot.jpg
-    categories:
-      - Internet
-    publishedAt: 2026-01-05T17:41:22.000Z
-    source: TechXplore — Computer Science
-  - title: Ultrathin polymer layer extends lifespan of anode-free lithium metal
-      batteries
-    url: https://techxplore.com/news/2026-01-ultrathin-polymer-layer-lifespan-anode.html
-    summary: Anode-free lithium metal batteries, which have attracted attention as
-      candidates for electric vehicles, drones, and next-generation
-      high-performance batteries, offer much higher energy density than
-      conventional lithium-ion batteries. However, their short lifespan has made
-      commercialization difficult.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/key-commercialization.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-01-05T16:10:01.000Z
-    source: TechXplore — Engineering
   - title: The Data Center Boom Is Concentrated in the U.S.
     url: https://spectrum.ieee.org/data-center-growth
     summary: If a data center is moving in next door, you probably live in the
@@ -93,31 +124,6 @@ articles:
       - Science / Health
     publishedAt: 2026-01-05T10:00:00.000Z
     source: WIRED science
-  - title: Physicists found hidden order in violent proton collisions
-    url: https://www.sciencedaily.com/releases/2026/01/260104202125.htm
-    summary: Inside high-energy proton collisions, quarks and gluons briefly form a
-      dense, boiling state before cooling into ordinary particles. Researchers
-      expected this transition to change how disordered the system is, but LHC
-      data tell a different story. A newly improved collision model matches
-      experiments better than older ones and reveals that the “entropy” remains
-      unchanged throughout the process. This unexpected result turns out to be a
-      direct fingerprint of quantum mechanics at work.
-    imageUrl: https://www.sciencedaily.com/images/1920/high-energy-proton-collisions-entropy.webp
-    categories: []
-    publishedAt: 2026-01-05T05:11:59.000Z
-    source: ScienceDaily — Engineering
-  - title: AI may not need massive training data after all
-    url: https://www.sciencedaily.com/releases/2025/12/251228074457.htm
-    summary: New research shows that AI doesn’t need endless training data to start
-      acting more like a human brain. When researchers redesigned AI systems to
-      better resemble biological brains, some models produced brain-like
-      activity without any training at all. This challenges today’s data-hungry
-      approach to AI development. The work suggests smarter design could
-      dramatically speed up learning while slashing costs and energy use.
-    imageUrl: https://www.sciencedaily.com/images/1920/advanced-ai-machine-learning-brain-chip.webp
-    categories: []
-    publishedAt: 2026-01-05T00:08:41.000Z
-    source: ScienceDaily — Robotics
   - title: See the Sky Like Never Before With a DIY Eyepiece
     url: https://spectrum.ieee.org/diy-astrophotography-eyepiece
     summary: When it comes to viewing nebulae, galaxies, and other deep-sky objects,
@@ -166,31 +172,6 @@ articles:
       - Drones
     publishedAt: 2026-01-01T15:00:02.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: From individuals to crews, AI brings teamwork into construction
-      productivity analysis
-    url: https://techxplore.com/news/2025-12-individuals-crews-ai-teamwork-productivity.html
-    summary: Researchers at National Taiwan University have developed an AI system
-      that recognizes construction activities at both the individual and crew
-      levels using ordinary site videos. The approach reveals how teamwork
-      shapes productivity and provides a foundation for future human–robot
-      collaboration on construction sites.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/from-individuals-to-cr.jpg
-    categories:
-      - Robotics
-    publishedAt: 2025-12-30T15:00:01.000Z
-    source: TechXplore — Robotics
-  - title: This tiny chip could change the future of quantum computing
-    url: https://www.sciencedaily.com/releases/2025/12/251226045341.htm
-    summary: A new microchip-sized device could dramatically accelerate the future
-      of quantum computing. It controls laser frequencies with extreme precision
-      while using far less power than today’s bulky systems. Crucially, it’s
-      made with standard chip manufacturing, meaning it can be mass-produced
-      instead of custom-built. This opens the door to quantum machines far
-      larger and more powerful than anything possible today.
-    imageUrl: https://www.sciencedaily.com/images/1920/quantum-computing-optical-fiber-array.webp
-    categories: []
-    publishedAt: 2025-12-26T15:38:10.000Z
-    source: ScienceDaily — Computer Science
   - title: “Wait, we have the tech skills to build that”
     url: https://news.mit.edu/2025/building-with-tech-skills-julianna-schneider-1219
     summary: Students can take many possible routes through MIT’s curriculum, which
