@@ -1,53 +1,78 @@
-date: 2026-01-07
+date: 2026-01-08
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: How smart home materials can shield us from extreme heat and cut energy
-      bills all year
-    url: https://techxplore.com/news/2026-01-smart-home-materials-shield-extreme.html
-    summary: Australia is getting hotter. Climate change is driving more frequent
-      and prolonged extreme heat waves and our homes are struggling to keep up.
-      Alarmingly, many Australian houses—especially older ones—weren't designed
-      for these harsh conditions.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/how-smart-home-materia.jpg
+  - title: Traces of Leonardo da Vinci’s DNA May Have Been Discovered on a Red Chalk
+      Drawing Called ‘Holy Child’
+    url: https://www.wired.com/story/traces-of-leonardo-da-vincis-dna-may-have-been-discovered-on-a-red-chalk-drawing-called-holy-child/
+    summary: Researchers suggest that they have recovered sequences from ancient
+      works and from letters that may belong to the Renaissance genius.
+    imageUrl: https://media.wired.com/photos/695ea94ed37fa133b3fe5e74/191:100/w_1280,c_limit/148277064
     categories:
-      - Engineering
-    publishedAt: 2026-01-06T23:00:02.000Z
-    source: TechXplore — Engineering
-  - title: AI is quick but risky for updating old software, researchers warn
-    url: https://techxplore.com/news/2026-01-ai-quick-risky-software.html
-    summary: At first glance, artificial intelligence looks like a software
-      developer's dream. A recent McKinsey & Company report found that
-      programmers generated code up to 45% faster with the help of generative
-      AI.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/-software-code.jpg
-    categories:
-      - Software
-    publishedAt: 2026-01-06T22:21:28.000Z
-    source: TechXplore — Computer Science
-  - title: Grok Is Pushing AI ‘Undressing’ Mainstream
-    url: https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/
-    summary: Paid tools that “strip” clothes from photos have been available on the
-      darker corners of the internet for years. Elon Musk’s X is now removing
-      barriers to entry—and making the results public.
-    imageUrl: https://media.wired.com/photos/695d3603b6493d17e530b8ce/191:100/w_1280,c_limit/GettyImages-2248294692.jpg
+      - Science
+      - Science / Biotech
+    publishedAt: 2026-01-07T23:23:29.000Z
+    source: WIRED science
+  - title: Grok Is Generating Sexual Content Far More Graphic Than What's on X
+    url: https://www.wired.com/story/grok-is-generating-sexual-content-far-more-graphic-than-whats-on-x/
+    summary: A WIRED review of outputs hosted on Grok’s official website shows it’s
+      being used to create violent sexual images and videos, as well as content
+      that includes apparent minors.
+    imageUrl: https://media.wired.com/photos/695d9fc69f9e2bc3b2c02552/191:100/w_1280,c_limit/sec-grok-nsfw-2199767690.jpg
     categories:
       - Security
-      - Security / Privacy
-    publishedAt: 2026-01-06T22:20:08.000Z
+    publishedAt: 2026-01-07T21:47:56.000Z
     source: WIRED (AI)
-  - title: Ancient board game tactics help AI unlock optimal cooling strategies
-    url: https://techxplore.com/news/2026-01-ancient-board-game-tactics-ai.html
-    summary: "It's a simple law of physics: When electricity or fuel powers a
-      machine, the machine gets hotter. Finding new ways to cool machines
-      quickly and controllably can mean the difference between a functioning
-      electrical grid and a blackout or a working data center and a widespread
-      outage."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-analysis-inspired-b.jpg
+  - title: Grasshopper wings inspire gliding robot design
+    url: https://techxplore.com/news/2026-01-grasshopper-wings-gliding-robot.html
+    summary: A collaboration between Princeton University engineers and
+      entomologists at the University of Illinois Urbana-Champaign began with
+      the researchers chasing grasshoppers in a hot parking lot. Their eventual
+      focus on the hindwings of one species of grasshopper, Schistocerca
+      americana, the American grasshopper, is inspiring a new approach to
+      untethered gliding flight.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/grasshopper-wings-insp.jpg
     categories:
-      - Engineering
-    publishedAt: 2026-01-06T18:10:05.000Z
+      - Robotics
+    publishedAt: 2026-01-07T21:10:01.000Z
+    source: TechXplore — Engineering
+  - title: Ten steps to designing more empathetic, human and effective educational
+      video games
+    url: https://techxplore.com/news/2026-01-ten-empathetic-human-effective-video.html
+    summary: Video games have come to be regarded as valuable educational resources.
+      Through a combination of interactive environments and learning objectives,
+      they have proven to be an effective tool in multiple fields, from school
+      education to corporate training. However, their full adoption in formal
+      education remains limited by a lack of curricular integration and clear
+      strategies to incorporate them into educational programs, a lack of
+      specific teacher training and a shortage of technological and technical
+      resources.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ten-steps-to-designing.jpg
+    categories:
+      - Consumer & Gadgets
+    publishedAt: 2026-01-07T20:31:22.000Z
+    source: TechXplore — Computer Science
+  - title: Stone Center on Inequality and Shaping the Future of Work Launches at MIT
+    url: https://news.mit.edu/2026/stone-center-inequality-shaping-future-work-launches-0107
+    summary: The James M. and Cathleen D. Stone Center on Inequality and Shaping the
+      Future of Work officially launched on Nov. 3, 2025, bringing together
+      scholars, policymakers, and practitioners to explore critical questions
+      about economic opportunity, technology, and democracy.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-stone-center-launch.jpg?itok=6BtJlLDS
+    categories: []
+    publishedAt: 2026-01-07T20:30:00.000Z
+    source: MIT Artificial Intelligence
+  - title: With some help from AI, your next move can be predicted
+    url: https://techxplore.com/news/2026-01-ai.html
+    summary: AI might know where you're going before you do. Researchers at
+      Northeastern University used large language models, the kind of advanced
+      artificial intelligence normally designed to process and generate
+      language, to predict human movement.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/metro-commute.jpg
+    categories:
+      - Automotive
+    publishedAt: 2026-01-07T20:22:20.000Z
     source: TechXplore — AI & Machine Learning
   - title: Scientists create robots smaller than a grain of salt that can think
     url: https://www.sciencedaily.com/releases/2026/01/260105165815.htm
@@ -62,17 +87,6 @@ articles:
     categories: []
     publishedAt: 2026-01-06T12:33:12.000Z
     source: ScienceDaily — Robotics
-  - title: Hyundai and Boston Dynamics unveil humanoid robot Atlas at CES
-    url: https://techxplore.com/news/2026-01-hyundai-boston-dynamics-unveil-humanoid.html
-    summary: Hyundai-owned Boston Dynamics publicly demonstrated its humanoid robot
-      Atlas for the first time Monday at the CES tech showcase, ratcheting up a
-      competition with Tesla and other rivals to build robots that look like
-      people and do things that people do.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/hyundai-and-boston-dyn.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-01-06T09:23:44.000Z
-    source: TechXplore — Robotics
   - title: Tiny 3D-printed light cages could unlock the quantum internet
     url: https://www.sciencedaily.com/releases/2026/01/260106001907.htm
     summary: A new chip-based quantum memory uses nanoprinted “light cages” to trap
@@ -86,18 +100,6 @@ articles:
     categories: []
     publishedAt: 2026-01-06T07:14:34.000Z
     source: ScienceDaily — Engineering
-  - title: MIT scientists investigate memorization risk in the age of clinical AI
-    url: https://news.mit.edu/2026/mit-scientists-investigate-memorization-risk-clinical-ai-0105
-    summary: "What is patient privacy for? The Hippocratic Oath, thought to be one
-      of the earliest and most widely known medical ethics texts in the world,
-      reads: “Whatever I see or hear in the lives of my patients, whether in
-      connection with my professional practice or not, which ought not to be
-      spoken of outside, I will keep secret, as considering all such things to
-      be private.”"
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-j-clinic-EHR-Memorization.jpg?itok=VrtzS0Gi
-    categories: []
-    publishedAt: 2026-01-05T21:55:00.000Z
-    source: MIT Artificial Intelligence
   - title: The Data Center Boom Is Concentrated in the U.S.
     url: https://spectrum.ieee.org/data-center-growth
     summary: If a data center is moving in next door, you probably live in the
@@ -114,16 +116,6 @@ articles:
       - Data centers
     publishedAt: 2026-01-05T13:00:02.000Z
     source: IEEE Spectrum — AI
-  - title: Flu Is Relentless. Crispr Might Be Able to Shut It Down
-    url: https://www.wired.com/story/crispr-flu-antivirals/
-    summary: Innovative research into the gene-editing tool targets influenza’s
-      ability to replicate—stopping it in its tracks.
-    imageUrl: https://media.wired.com/photos/6941434a6280a5114317f439/191:100/w_1280,c_limit/GettyImages-2217533380.jpg
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2026-01-05T10:00:00.000Z
-    source: WIRED science
   - title: See the Sky Like Never Before With a DIY Eyepiece
     url: https://spectrum.ieee.org/diy-astrophotography-eyepiece
     summary: When it comes to viewing nebulae, galaxies, and other deep-sky objects,
@@ -147,7 +139,7 @@ articles:
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robotic-snake-in-grassy-terrain-featuring-gears-and-yellow-accents.png?id=62651449&width=1200&height=800&coordinates=150%2C0%2C150%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/robotic-snake-in-grassy-terrain-featuring-gears-and-yellow-accents.png?id=62651449&width=1200&height=400&coordinates=0%2C220%2C0%2C220
     categories:
       - Insect robots
       - Robotics
