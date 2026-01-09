@@ -1,79 +1,120 @@
-date: 2026-01-08
+date: 2026-01-09
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Traces of Leonardo da Vinci’s DNA May Have Been Discovered on a Red Chalk
-      Drawing Called ‘Holy Child’
-    url: https://www.wired.com/story/traces-of-leonardo-da-vincis-dna-may-have-been-discovered-on-a-red-chalk-drawing-called-holy-child/
-    summary: Researchers suggest that they have recovered sequences from ancient
-      works and from letters that may belong to the Renaissance genius.
-    imageUrl: https://media.wired.com/photos/695ea94ed37fa133b3fe5e74/191:100/w_1280,c_limit/148277064
+  - title: 2.009 mechanical engineering students embrace “cycles”
+    url: https://news.mit.edu/2026/product-engineering-students-embrace-cycles-0108
+    summary: MIT’s senior capstone course 2.009 (Product Engineering Processes), an
+      iconic class known colloquially on campus as “two double-oh nine,”
+      emulates what engineers experience while working as part of a design team
+      at a product development firm. The annual prototype launch is a colorful
+      and exciting culmination of a semester’s worth of work.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/25-12-08-Final-Presentations-4173-Enhanced-NR_0.jpg?itok=KUiOhsr1
+    categories: []
+    publishedAt: 2026-01-08T22:10:00.000Z
+    source: MIT Engineering
+  - title: Decoding the Arctic to predict winter weather
+    url: https://news.mit.edu/2026/decoding-arctic-to-predict-winter-weather-0108
+    summary: Every autumn, as the Northern Hemisphere moves toward winter, Judah
+      Cohen starts to piece together a complex atmospheric puzzle. Cohen, a
+      research scientist in MIT’s Department of Civil and Environmental
+      Engineering (CEE), has spent decades studying how conditions in the Arctic
+      set the course for winter weather throughout Europe, Asia, and North
+      America. His research dates back to his postdoctoral work with Bacardi and
+      Stockholm Water Foundations Professor Dara Entekhabi that looked at snow
+      cover in the Siberian region and its connection with winter forecasting.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-Judah-Cohen-weather-map.jpg?itok=bQl3bqvA
+    categories: []
+    publishedAt: 2026-01-08T21:55:00.000Z
+    source: MIT Artificial Intelligence
+  - title: An AI approach for single-image-based 3D character animation with
+      preserved proportions
+    url: https://techxplore.com/news/2026-01-ai-approach-image-based-3d.html
+    summary: In Proceedings of the SIGGRAPH Asia 2025 Conference Papers, a research
+      team affiliated with UNIST reports a new AI technology that can animate 3D
+      characters to mimic the exact movements shown in a single 2D image, all
+      while preserving natural proportions and avoiding distortions. This
+      development could reduce the barriers to creating 3D content for the
+      metaverse, animation and gaming industries.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/novel-ai-approach-for.jpg
     categories:
-      - Science
-      - Science / Biotech
-    publishedAt: 2026-01-07T23:23:29.000Z
-    source: WIRED science
-  - title: Grok Is Generating Sexual Content Far More Graphic Than What's on X
-    url: https://www.wired.com/story/grok-is-generating-sexual-content-far-more-graphic-than-whats-on-x/
-    summary: A WIRED review of outputs hosted on Grok’s official website shows it’s
-      being used to create violent sexual images and videos, as well as content
-      that includes apparent minors.
-    imageUrl: https://media.wired.com/photos/695d9fc69f9e2bc3b2c02552/191:100/w_1280,c_limit/sec-grok-nsfw-2199767690.jpg
+      - Computer Sciences
+    publishedAt: 2026-01-08T21:00:20.000Z
+    source: TechXplore — Computer Science
+  - title: New process densifies electrolytes, stabilizing lithium anodes for
+      long-lasting all-solid-state batteries
+    url: https://techxplore.com/news/2026-01-densifies-electrolytes-stabilizing-lithium-anodes.html
+    summary: Researchers at the Paul Scherrer Institute PSI have achieved a
+      breakthrough on the path to practical application of lithium metal
+      all-solid-state batteries—the next generation of batteries that can store
+      more energy, are safer to operate, and charge faster than conventional
+      lithium-ion batteries.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-process-for-stable-1.jpg
     categories:
-      - Security
-    publishedAt: 2026-01-07T21:47:56.000Z
+      - Engineering
+    publishedAt: 2026-01-08T20:27:33.000Z
+    source: TechXplore — Engineering
+  - title: AI Devices Are Coming. Will Your Favorite Apps Be Along for the Ride?
+    url: https://www.wired.com/story/openai-amazon-operating-system-ai-apps-ads/
+    summary: Tech companies are calling AI the next platform. But some developers
+      are reluctant to let AI agents stand between them and their users.
+    imageUrl: https://media.wired.com/photos/695de0447ff06f235feecd54/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Meta-Amazon-Racing-to-Build-AI-Powered-Operating-Systems-Business.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-01-08T19:00:00.000Z
     source: WIRED (AI)
-  - title: Grasshopper wings inspire gliding robot design
-    url: https://techxplore.com/news/2026-01-grasshopper-wings-gliding-robot.html
-    summary: A collaboration between Princeton University engineers and
-      entomologists at the University of Illinois Urbana-Champaign began with
-      the researchers chasing grasshoppers in a hot parking lot. Their eventual
-      focus on the hindwings of one species of grasshopper, Schistocerca
-      americana, the American grasshopper, is inspiring a new approach to
-      untethered gliding flight.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/grasshopper-wings-insp.jpg
+  - title: Humanoid robots go for knockout in high-tech Vegas fight night
+    url: https://techxplore.com/news/2026-01-humanoid-robots-knockout-high-tech.html
+    summary: Two robots the size of schoolchildren stepped into the ring at
+      BattleBots Arena.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/robots-mirroring-movem.jpg
     categories:
       - Robotics
-    publishedAt: 2026-01-07T21:10:01.000Z
-    source: TechXplore — Engineering
-  - title: Ten steps to designing more empathetic, human and effective educational
-      video games
-    url: https://techxplore.com/news/2026-01-ten-empathetic-human-effective-video.html
-    summary: Video games have come to be regarded as valuable educational resources.
-      Through a combination of interactive environments and learning objectives,
-      they have proven to be an effective tool in multiple fields, from school
-      education to corporate training. However, their full adoption in formal
-      education remains limited by a lack of curricular integration and clear
-      strategies to incorporate them into educational programs, a lack of
-      specific teacher training and a shortage of technological and technical
-      resources.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ten-steps-to-designing.jpg
+    publishedAt: 2026-01-08T17:14:20.000Z
+    source: TechXplore — Robotics
+  - title: AI Coding Assistants Are Getting Worse
+    url: https://spectrum.ieee.org/ai-coding-degrades
+    summary: In recent months, I’ve noticed a troubling trend with AI coding
+      assistants. After two years of steady improvements, over the course of
+      2025, most of the core models reached a quality plateau, and more
+      recently, seem to be in decline. A task that might have taken five hours
+      assisted by AI, and perhaps ten hours without it, is now more commonly
+      taking seven or eight hours, or even longer. It’s reached the point where
+      I am sometimes going back and using older versions of large language
+      models (LLMs).
+    imageUrl: https://spectrum.ieee.org/media-library/an-ouroboros-against-an-abstract-wavy-background.jpg?id=62650375&width=1200&height=600&coordinates=0%2C250%2C0%2C250
     categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-01-07T20:31:22.000Z
-    source: TechXplore — Computer Science
-  - title: Stone Center on Inequality and Shaping the Future of Work Launches at MIT
-    url: https://news.mit.edu/2026/stone-center-inequality-shaping-future-work-launches-0107
-    summary: The James M. and Cathleen D. Stone Center on Inequality and Shaping the
-      Future of Work officially launched on Nov. 3, 2025, bringing together
-      scholars, policymakers, and practitioners to explore critical questions
-      about economic opportunity, technology, and democracy.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-stone-center-launch.jpg?itok=6BtJlLDS
+      - Coding
+      - Ai
+      - Llms
+    publishedAt: 2026-01-08T13:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: How 4Patriots and My Patriot Supply Cashed In on Prepping for the
+      Apocalypse
+    url: https://www.wired.com/story/true-patriots-are-cashing-in-on-the-apocalypse/
+    summary: How two big names in mainstream disaster preparedness helped sell
+      Americans on fear, anxiety, and a new generator.
+    imageUrl: https://media.wired.com/photos/695d696b6b1041816887c0fd/191:100/w_1280,c_limit/Sinna-Finals-Social-1.jpg
+    categories:
+      - The Big Story
+      - Science
+      - Science / Environment
+    publishedAt: 2026-01-08T11:00:00.000Z
+    source: WIRED science
+  - title: Physicists built a perfect conductor from ultracold atoms
+    url: https://www.sciencedaily.com/releases/2026/01/260106224635.htm
+    summary: Researchers at TU Wien have discovered a quantum system where energy
+      and mass move with perfect efficiency. In an ultracold gas of atoms
+      confined to a single line, countless collisions occur—but nothing slows
+      down. Instead of diffusing like heat in metal, motion travels cleanly and
+      undiminished, much like a Newton’s cradle. The finding reveals a striking
+      form of transport that breaks the usual rules of resistance.
+    imageUrl: https://www.sciencedaily.com/images/1920/ultracold-atoms-quantum-conduction.webp
     categories: []
-    publishedAt: 2026-01-07T20:30:00.000Z
-    source: MIT Artificial Intelligence
-  - title: With some help from AI, your next move can be predicted
-    url: https://techxplore.com/news/2026-01-ai.html
-    summary: AI might know where you're going before you do. Researchers at
-      Northeastern University used large language models, the kind of advanced
-      artificial intelligence normally designed to process and generate
-      language, to predict human movement.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/metro-commute.jpg
-    categories:
-      - Automotive
-    publishedAt: 2026-01-07T20:22:20.000Z
-    source: TechXplore — AI & Machine Learning
+    publishedAt: 2026-01-08T01:27:45.000Z
+    source: ScienceDaily — Engineering
   - title: Scientists create robots smaller than a grain of salt that can think
     url: https://www.sciencedaily.com/releases/2026/01/260105165815.htm
     summary: Researchers have created microscopic robots so small they’re barely
@@ -99,23 +140,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/light-cages-for-enhanced-light-matter-interaction.webp
     categories: []
     publishedAt: 2026-01-06T07:14:34.000Z
-    source: ScienceDaily — Engineering
-  - title: The Data Center Boom Is Concentrated in the U.S.
-    url: https://spectrum.ieee.org/data-center-growth
-    summary: If a data center is moving in next door, you probably live in the
-      United States. More than half of all upcoming global data centers—as
-      indicated by land purchased for data centers not yet announced, those
-      under construction, and those whose plans are public—will be developed in
-      the United States.
-    imageUrl: https://spectrum.ieee.org/media-library/pie-chart-of-service-distribution-showing-aws-9-94-microsoft-7-73-others-70-56.jpg?id=62624451&width=980
-    categories:
-      - Data center
-      - Data center energy
-      - Energy consumption
-      - United states
-      - Data centers
-    publishedAt: 2026-01-05T13:00:02.000Z
-    source: IEEE Spectrum — AI
+    source: ScienceDaily — Computer Science
   - title: See the Sky Like Never Before With a DIY Eyepiece
     url: https://spectrum.ieee.org/diy-astrophotography-eyepiece
     summary: When it comes to viewing nebulae, galaxies, and other deep-sky objects,
@@ -149,21 +174,6 @@ articles:
       - Quadruped robots
     publishedAt: 2026-01-02T18:00:02.000Z
     source: IEEE Spectrum — Robotics
-  - title: Tech to Track in 2026
-    url: https://spectrum.ieee.org/tech-in-2026
-    summary: Every September as we plan our January tech forecast issue, IEEE
-      Spectrum’s editors survey their beats and seek out promising projects that
-      could solve seemingly intractable problems or transform entire industries.
-    imageUrl: https://spectrum.ieee.org/media-library/futuristic-drone-like-air-taxi-on-helipad-surrounded-by-desert-landscape.jpg?id=62639193&width=1245&height=700&coordinates=0%2C56%2C0%2C57
-    categories:
-      - Technology forecast
-      - Grid-scale storage
-      - Cancer
-      - Ultrasound
-      - Radio frequency
-      - Drones
-    publishedAt: 2026-01-01T15:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: “Wait, we have the tech skills to build that”
     url: https://news.mit.edu/2025/building-with-tech-skills-julianna-schneider-1219
     summary: Students can take many possible routes through MIT’s curriculum, which
