@@ -1,8 +1,109 @@
-date: 2026-01-09
+date: 2026-01-10
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Neutron diffraction unveils the 'relay' of hardening mechanisms in
+      next-gen superalloys
+    url: https://techxplore.com/news/2026-01-neutron-diffraction-unveils-relay-hardening.html
+    summary: As the aerospace sector pursues propulsion systems that are cleaner,
+      quieter, and more efficient, materials used in turbine components face
+      increasingly demanding thermal and mechanical environments. Ni-Co-based
+      superalloys are widely regarded as prime candidates for next-generation
+      turbine disks due to their exceptional ability to retain strength under
+      extreme temperature and stress.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/neutron-diffraction-un.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-01-10T03:10:01.000Z
+    source: TechXplore — Engineering
+  - title: OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate
+      the Performance of AI Agents
+    url: https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/
+    summary: To prepare AI agents for office work, the company is asking contractors
+      to upload projects from past jobs, leaving it to them to strip out
+      confidential and personally identifiable information.
+    imageUrl: https://media.wired.com/photos/69617bedef0086e74d1bc9df/191:100/w_1280,c_limit/OpenAI-Training-Agents-Using-Work-Documents-Business-87835485.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-01-10T01:11:25.000Z
+    source: WIRED (AI)
+  - title: Meta Is Making a Big Bet on Nuclear With Oklo
+    url: https://www.wired.com/story/meta-is-making-a-big-bet-on-nuclear-with-oklo/
+    summary: Meta will finance Oklo’s purchase of uranium for its reactors. It’s a
+      massive vote of confidence for both the startup and nuclear power, but
+      challenges remain.
+    imageUrl: https://media.wired.com/photos/695fba3a1d5bd75373e81a8a/191:100/w_1280,c_limit/GettyImages-1323182197.jpg
+    categories:
+      - Science
+    publishedAt: 2026-01-09T20:59:12.000Z
+    source: WIRED science
+  - title: Discrete spatial diffusion models data while obeying scientific principles
+    url: https://techxplore.com/news/2026-01-discrete-spatial-diffusion-obeying-scientific.html
+    summary: Researchers at Los Alamos National Laboratory have developed a new
+      approach that addresses the limitations of generative AI models. Unlike
+      generative diffusion models, the team's Discrete Spatial Diffusion
+      approach honors scientific and physics principles. The team validated
+      their model on two challenging scientific applications—subsurface rock
+      microstructures and lithium-ion battery electrodes—with promising results.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-diffusion-modeling.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-01-09T19:01:23.000Z
+    source: TechXplore — Computer Science
+  - title: "Video Friday: Robots Are Everywhere at CES 2026"
+    url: https://spectrum.ieee.org/robots-ces-2026
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/a-humanoid-robot-stands-in-a-workshop-surrounded-by-yellow-safety-barriers.png?id=62698082&width=1200&height=800&coordinates=150%2C0%2C150%2C0
+    categories:
+      - Robotics
+      - Video friday
+      - Ces 2026
+      - Humanoid robots
+      - Industrial robots
+      - Human robot interaction
+    publishedAt: 2026-01-09T18:00:04.000Z
+    source: IEEE Spectrum — Robotics
+  - title: This simple design change could finally fix solid-state batteries
+    url: https://www.sciencedaily.com/releases/2026/01/260108231331.htm
+    summary: Scientists in South Korea have discovered a way to make all-solid-state
+      batteries safer and more powerful using inexpensive materials. Instead of
+      adding costly metals, they redesigned the battery’s internal structure to
+      help lithium ions move faster. This simple structural tweak boosted
+      performance by up to four times. The work points to cheaper, safer
+      batteries for phones, electric vehicles, and beyond.
+    imageUrl: https://www.sciencedaily.com/images/1920/solid-state-battery-technology.webp
+    categories: []
+    publishedAt: 2026-01-09T12:50:25.000Z
+    source: ScienceDaily — Engineering
+  - title: Stanford’s AI spots hidden disease warnings that show up while you sleep
+    url: https://www.sciencedaily.com/releases/2026/01/260109023114.htm
+    summary: Stanford researchers have developed an AI that can predict future
+      disease risk using data from just one night of sleep. The system analyzes
+      detailed physiological signals, looking for hidden patterns across the
+      brain, heart, and breathing. It successfully forecast risks for conditions
+      like cancer, dementia, and heart disease. The results suggest sleep
+      contains early health warnings doctors have largely overlooked.
+    imageUrl: https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp
+    categories: []
+    publishedAt: 2026-01-09T07:39:02.000Z
+    source: ScienceDaily — Robotics
+  - title: "3 Questions: How AI could optimize the power grid"
+    url: https://news.mit.edu/2026/3-questions-how-ai-could-optimize-power-grid-0109
+    summary: Artificial intelligence has captured headlines recently for its rapidly
+      growing energy demands, and particularly the surging electricity usage of
+      data centers that enable the training and deployment of the latest
+      generative AI models. But it’s not all bad news — some AI tools have the
+      potential to reduce some forms of energy consumption and enable cleaner
+      grids.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/MIT_AI-Power-01-update-press.jpg?itok=w4OT9btX
+    categories: []
+    publishedAt: 2026-01-09T05:00:00.000Z
+    source: MIT Artificial Intelligence
   - title: 2.009 mechanical engineering students embrace “cycles”
     url: https://news.mit.edu/2026/product-engineering-students-embrace-cycles-0108
     summary: MIT’s senior capstone course 2.009 (Product Engineering Processes), an
@@ -14,57 +115,23 @@ articles:
     categories: []
     publishedAt: 2026-01-08T22:10:00.000Z
     source: MIT Engineering
-  - title: Decoding the Arctic to predict winter weather
-    url: https://news.mit.edu/2026/decoding-arctic-to-predict-winter-weather-0108
-    summary: Every autumn, as the Northern Hemisphere moves toward winter, Judah
-      Cohen starts to piece together a complex atmospheric puzzle. Cohen, a
-      research scientist in MIT’s Department of Civil and Environmental
-      Engineering (CEE), has spent decades studying how conditions in the Arctic
-      set the course for winter weather throughout Europe, Asia, and North
-      America. His research dates back to his postdoctoral work with Bacardi and
-      Stockholm Water Foundations Professor Dara Entekhabi that looked at snow
-      cover in the Siberian region and its connection with winter forecasting.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/mit-Judah-Cohen-weather-map.jpg?itok=bQl3bqvA
-    categories: []
-    publishedAt: 2026-01-08T21:55:00.000Z
-    source: MIT Artificial Intelligence
-  - title: An AI approach for single-image-based 3D character animation with
-      preserved proportions
-    url: https://techxplore.com/news/2026-01-ai-approach-image-based-3d.html
-    summary: In Proceedings of the SIGGRAPH Asia 2025 Conference Papers, a research
-      team affiliated with UNIST reports a new AI technology that can animate 3D
-      characters to mimic the exact movements shown in a single 2D image, all
-      while preserving natural proportions and avoiding distortions. This
-      development could reduce the barriers to creating 3D content for the
-      metaverse, animation and gaming industries.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/novel-ai-approach-for.jpg
+  - title: How AI Accelerates PMUT Design for Biomedical Ultrasonic Applications
+    url: https://content.knowledgehub.wiley.com/quanscient-multiphysicsai-for-pmut-design/
+    summary: This whitepaper provides MEMS engineers, biomedical device developers,
+      and multiphysics simulation specialists with a practical AI-accelerated
+      workflow for optimizing piezoelectric micromachined ultrasonic transducers
+      (PMUTs), enabling you to explore complex design trade-offs between
+      sensitivity and bandwidth while achieving validated performance
+      improvements in minutes instead of days using standard cloud
+      infrastructure.
+    imageUrl: https://spectrum.ieee.org/media-library/quanscient-logo-in-bold-blue-purple-letters-on-a-transparent-background.png?id=62697598&width=980
     categories:
-      - Computer Sciences
-    publishedAt: 2026-01-08T21:00:20.000Z
-    source: TechXplore — Computer Science
-  - title: New process densifies electrolytes, stabilizing lithium anodes for
-      long-lasting all-solid-state batteries
-    url: https://techxplore.com/news/2026-01-densifies-electrolytes-stabilizing-lithium-anodes.html
-    summary: Researchers at the Paul Scherrer Institute PSI have achieved a
-      breakthrough on the path to practical application of lithium metal
-      all-solid-state batteries—the next generation of batteries that can store
-      more energy, are safer to operate, and charge faster than conventional
-      lithium-ion batteries.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-process-for-stable-1.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-01-08T20:27:33.000Z
-    source: TechXplore — Engineering
-  - title: AI Devices Are Coming. Will Your Favorite Apps Be Along for the Ride?
-    url: https://www.wired.com/story/openai-amazon-operating-system-ai-apps-ads/
-    summary: Tech companies are calling AI the next platform. But some developers
-      are reluctant to let AI agents stand between them and their users.
-    imageUrl: https://media.wired.com/photos/695de0447ff06f235feecd54/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Meta-Amazon-Racing-to-Build-AI-Powered-Operating-Systems-Business.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-01-08T19:00:00.000Z
-    source: WIRED (AI)
+      - Type:whitepaper
+      - Mems
+      - Artificial intelligence
+      - Pmut
+    publishedAt: 2026-01-08T22:06:42.000Z
+    source: IEEE Spectrum — AI
   - title: Humanoid robots go for knockout in high-tech Vegas fight night
     url: https://techxplore.com/news/2026-01-humanoid-robots-knockout-high-tech.html
     summary: Two robots the size of schoolchildren stepped into the ring at
@@ -84,50 +151,13 @@ articles:
       taking seven or eight hours, or even longer. It’s reached the point where
       I am sometimes going back and using older versions of large language
       models (LLMs).
-    imageUrl: https://spectrum.ieee.org/media-library/an-ouroboros-against-an-abstract-wavy-background.jpg?id=62650375&width=1200&height=600&coordinates=0%2C250%2C0%2C250
+    imageUrl: https://spectrum.ieee.org/media-library/an-ouroboros-against-an-abstract-wavy-background.jpg?id=62650375&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
       - Coding
       - Ai
       - Llms
     publishedAt: 2026-01-08T13:00:02.000Z
-    source: IEEE Spectrum — AI
-  - title: How 4Patriots and My Patriot Supply Cashed In on Prepping for the
-      Apocalypse
-    url: https://www.wired.com/story/true-patriots-are-cashing-in-on-the-apocalypse/
-    summary: How two big names in mainstream disaster preparedness helped sell
-      Americans on fear, anxiety, and a new generator.
-    imageUrl: https://media.wired.com/photos/695d696b6b1041816887c0fd/191:100/w_1280,c_limit/Sinna-Finals-Social-1.jpg
-    categories:
-      - The Big Story
-      - Science
-      - Science / Environment
-    publishedAt: 2026-01-08T11:00:00.000Z
-    source: WIRED science
-  - title: Physicists built a perfect conductor from ultracold atoms
-    url: https://www.sciencedaily.com/releases/2026/01/260106224635.htm
-    summary: Researchers at TU Wien have discovered a quantum system where energy
-      and mass move with perfect efficiency. In an ultracold gas of atoms
-      confined to a single line, countless collisions occur—but nothing slows
-      down. Instead of diffusing like heat in metal, motion travels cleanly and
-      undiminished, much like a Newton’s cradle. The finding reveals a striking
-      form of transport that breaks the usual rules of resistance.
-    imageUrl: https://www.sciencedaily.com/images/1920/ultracold-atoms-quantum-conduction.webp
-    categories: []
-    publishedAt: 2026-01-08T01:27:45.000Z
-    source: ScienceDaily — Engineering
-  - title: Scientists create robots smaller than a grain of salt that can think
-    url: https://www.sciencedaily.com/releases/2026/01/260105165815.htm
-    summary: Researchers have created microscopic robots so small they’re barely
-      visible, yet smart enough to sense, decide, and move completely on their
-      own. Powered by light and equipped with tiny computers, the robots swim by
-      manipulating electric fields rather than using moving parts. They can
-      detect temperature changes, follow programmed paths, and even work
-      together in groups. The breakthrough marks the first truly autonomous
-      robots at this microscopic scale.
-    imageUrl: https://www.sciencedaily.com/images/1920/worlds-smallest-autonomous-robot.webp
-    categories: []
-    publishedAt: 2026-01-06T12:33:12.000Z
-    source: ScienceDaily — Robotics
+    source: IEEE Spectrum — Computing & Chips
   - title: Tiny 3D-printed light cages could unlock the quantum internet
     url: https://www.sciencedaily.com/releases/2026/01/260106001907.htm
     summary: A new chip-based quantum memory uses nanoprinted “light cages” to trap
@@ -150,7 +180,7 @@ articles:
       can capture long-exposure images with astrocameras and display the results
       on a view screen or computer, which robs the immediacy of the stargazing
       experience.
-    imageUrl: https://spectrum.ieee.org/media-library/a-reflecting-telescope-can-be-seen-fitted-with-a-boxy-eyepiece.jpg?id=62609417&width=1200&height=800&coordinates=0%2C293%2C0%2C294
+    imageUrl: https://spectrum.ieee.org/media-library/a-reflecting-telescope-can-be-seen-fitted-with-a-boxy-eyepiece.jpg?id=62609417&width=1200&height=600&coordinates=0%2C460%2C0%2C460
     categories:
       - Astronomy
       - Citizen science
@@ -158,22 +188,6 @@ articles:
       - Type:departments
     publishedAt: 2026-01-04T13:00:01.000Z
     source: IEEE Spectrum — DIY
-  - title: "Video Friday: Watch Scuttle Evolve"
-    url: https://spectrum.ieee.org/video-friday-robot-farming
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robotic-snake-in-grassy-terrain-featuring-gears-and-yellow-accents.png?id=62651449&width=1200&height=400&coordinates=0%2C220%2C0%2C220
-    categories:
-      - Insect robots
-      - Robotics
-      - Video friday
-      - Legged robots
-      - Humanoid robots
-      - Quadruped robots
-    publishedAt: 2026-01-02T18:00:02.000Z
-    source: IEEE Spectrum — Robotics
   - title: “Wait, we have the tech skills to build that”
     url: https://news.mit.edu/2025/building-with-tech-skills-julianna-schneider-1219
     summary: Students can take many possible routes through MIT’s curriculum, which
