@@ -1,8 +1,34 @@
-date: 2026-01-10
+date: 2026-01-11
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Nvidia’s New Rubin Architecture Thrives on Networking
+    url: https://spectrum.ieee.org/nvidia-rubin-networking
+    summary: Earlier this week, Nvidia surprise-announced their new Vera Rubin
+      architecture (no relation to the recently unveiled telescope) at the
+      Consumer Electronics Show in Las Vegas. The new platform, set to reach
+      customers later this year, is advertised to offer a ten-fold reduction in
+      inference costs and a four-fold reduction in how many GPUs it would take
+      to train certain models, as compared to Nvidia’s Blackwell architecture.
+    imageUrl: https://spectrum.ieee.org/media-library/nvidia-s-vera-rubin-ai-supercomputer-made-up-of-several-racks-of-cpus-and-gpus.jpg?id=62697156&width=1200&height=800&coordinates=62%2C0%2C63%2C0
+    categories:
+      - Nvidia
+      - Networking
+      - Data center
+      - Ai
+    publishedAt: 2026-01-10T14:00:02.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Did that lamp just fold the laundry? Alumni rethink home robotics
+    url: https://techxplore.com/news/2026-01-lamp-laundry-alumni-rethink-home.html
+    summary: When Aaron Tan began his Ph.D. in mechanical and industrial engineering
+      at the University of Toronto in 2019, leading a robotics startup in
+      Silicon Valley was the furthest thing from his mind.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/did-that-lamp-just-fol.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-01-10T12:20:02.000Z
+    source: TechXplore — Robotics
   - title: Neutron diffraction unveils the 'relay' of hardening mechanisms in
       next-gen superalloys
     url: https://techxplore.com/news/2026-01-neutron-diffraction-unveils-relay-hardening.html
@@ -132,32 +158,6 @@ articles:
       - Pmut
     publishedAt: 2026-01-08T22:06:42.000Z
     source: IEEE Spectrum — AI
-  - title: Humanoid robots go for knockout in high-tech Vegas fight night
-    url: https://techxplore.com/news/2026-01-humanoid-robots-knockout-high-tech.html
-    summary: Two robots the size of schoolchildren stepped into the ring at
-      BattleBots Arena.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/robots-mirroring-movem.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-01-08T17:14:20.000Z
-    source: TechXplore — Robotics
-  - title: AI Coding Assistants Are Getting Worse
-    url: https://spectrum.ieee.org/ai-coding-degrades
-    summary: In recent months, I’ve noticed a troubling trend with AI coding
-      assistants. After two years of steady improvements, over the course of
-      2025, most of the core models reached a quality plateau, and more
-      recently, seem to be in decline. A task that might have taken five hours
-      assisted by AI, and perhaps ten hours without it, is now more commonly
-      taking seven or eight hours, or even longer. It’s reached the point where
-      I am sometimes going back and using older versions of large language
-      models (LLMs).
-    imageUrl: https://spectrum.ieee.org/media-library/an-ouroboros-against-an-abstract-wavy-background.jpg?id=62650375&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Coding
-      - Ai
-      - Llms
-    publishedAt: 2026-01-08T13:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: Tiny 3D-printed light cages could unlock the quantum internet
     url: https://www.sciencedaily.com/releases/2026/01/260106001907.htm
     summary: A new chip-based quantum memory uses nanoprinted “light cages” to trap
