@@ -1,8 +1,28 @@
-date: 2026-01-11
+date: 2026-01-12
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: AI pendants back in vogue at tech show after early setback
+    url: https://techxplore.com/news/2026-01-ai-pendants-vogue-tech-early.html
+    summary: Pendants and brooches packed with artificial intelligence abounded at
+      the Consumer Electronics Show, using cameras and microphones to watch and
+      listen through the day like a vigilant personal assistant.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/wearable-tech-has-stir.jpg
+    categories:
+      - Business
+    publishedAt: 2026-01-11T19:10:02.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Want to Stop Doomscrolling? You Might Need a Sleep Coach
+    url: https://www.wired.com/story/your-next-job-sleep-coach/
+    summary: Traditionally sleep coaches treat babies. But now more and more
+      anxious, screen-attached grownups are the ones who need nursing.
+    imageUrl: https://media.wired.com/photos/695e45533b190d48c28a907d/191:100/w_1280,c_limit/YNJ-sleep-coach-final.jpg
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2026-01-11T11:00:00.000Z
+    source: WIRED science
   - title: Nvidia’s New Rubin Architecture Thrives on Networking
     url: https://spectrum.ieee.org/nvidia-rubin-networking
     summary: Earlier this week, Nvidia surprise-announced their new Vera Rubin
@@ -55,16 +75,6 @@ articles:
       - Business / Artificial Intelligence
     publishedAt: 2026-01-10T01:11:25.000Z
     source: WIRED (AI)
-  - title: Meta Is Making a Big Bet on Nuclear With Oklo
-    url: https://www.wired.com/story/meta-is-making-a-big-bet-on-nuclear-with-oklo/
-    summary: Meta will finance Oklo’s purchase of uranium for its reactors. It’s a
-      massive vote of confidence for both the startup and nuclear power, but
-      challenges remain.
-    imageUrl: https://media.wired.com/photos/695fba3a1d5bd75373e81a8a/191:100/w_1280,c_limit/GettyImages-1323182197.jpg
-    categories:
-      - Science
-    publishedAt: 2026-01-09T20:59:12.000Z
-    source: WIRED science
   - title: Discrete spatial diffusion models data while obeying scientific principles
     url: https://techxplore.com/news/2026-01-discrete-spatial-diffusion-obeying-scientific.html
     summary: Researchers at Los Alamos National Laboratory have developed a new
