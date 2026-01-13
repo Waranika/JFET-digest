@@ -1,18 +1,70 @@
-date: 2026-01-12
+date: 2026-01-13
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: AI pendants back in vogue at tech show after early setback
-    url: https://techxplore.com/news/2026-01-ai-pendants-vogue-tech-early.html
-    summary: Pendants and brooches packed with artificial intelligence abounded at
-      the Consumer Electronics Show, using cameras and microphones to watch and
-      listen through the day like a vigilant personal assistant.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/wearable-tech-has-stir.jpg
+  - title: "From brain scans to alloys: Teaching AI to make sense of complex
+      research data"
+    url: https://techxplore.com/news/2026-01-brain-scans-alloys-ai-complex.html
+    summary: Artificial intelligence (AI) is increasingly used to analyze medical
+      images, materials data and scientific measurements, but many systems
+      struggle when real-world data do not match ideal conditions. Measurements
+      collected from different instruments, experiments or simulations often
+      vary widely in resolution, noise and reliability. Traditional
+      machine-learning models typically assume those differences are
+      negligible—an assumption that can limit accuracy and trustworthiness.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/from-brain-scans-to-al.jpg
     categories:
-      - Business
-    publishedAt: 2026-01-11T19:10:02.000Z
-    source: TechXplore — AI & Machine Learning
+      - Computer Sciences
+    publishedAt: 2026-01-12T21:59:21.000Z
+    source: TechXplore — Computer Science
+  - title: Novel AI method sharpens 3D X-ray vision
+    url: https://techxplore.com/news/2026-01-ai-method-sharpens-3d-ray.html
+    summary: X-ray tomography is a powerful tool that enables scientists and
+      engineers to peer inside of objects in 3D, including computer chips and
+      advanced battery materials, without performing anything invasive. It's the
+      same basic method behind medical CT scans.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/novel-ai-method-sharpe.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-01-12T21:28:21.000Z
+    source: TechXplore — Engineering
+  - title: Machine Learning System Monitors Patient Pain During Surgery
+    url: https://spectrum.ieee.org/machine-learning-measure-pain-surgery
+    summary: This article is part of our exclusive IEEE Journal Watch series in
+      partnership with IEEE Xplore.
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-womans-face-where-one-half-is-intact-and-the-other-is-segmented-into-several-triangular-pieces-a-web-of-red.jpg?id=62674391&width=1200&height=800&coordinates=62%2C0%2C63%2C0
+    categories:
+      - Journal watch
+      - Surgery
+      - Pain
+      - Machine learning
+      - Cameras
+    publishedAt: 2026-01-12T16:52:21.000Z
+    source: IEEE Spectrum — AI
+  - title: Humanoid robots or human connection? What Elon Musk's Optimus reveals
+      about our AI ambitions
+    url: https://techxplore.com/news/2026-01-humanoid-robots-human-elon-musk.html
+    summary: When Elon Musk talks about robotics, he rarely hides the ambition
+      behind the dream.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/humanoid-robot.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-01-12T15:10:38.000Z
+    source: TechXplore — Robotics
+  - title: A new crystal makes magnetism twist in surprising ways
+    url: https://www.sciencedaily.com/releases/2026/01/260112001039.htm
+    summary: Florida State University scientists have engineered a new crystal that
+      forces atomic magnets to swirl into complex, repeating patterns. The
+      effect comes from mixing two nearly identical compounds whose mismatched
+      structures create magnetic tension at the atomic level. These swirling
+      “skyrmion-like” textures are prized for their low-energy behavior and
+      stability. The discovery could help drive advances in data storage,
+      energy-efficient electronics, and quantum computing.
+    imageUrl: https://www.sciencedaily.com/images/1920/twisting-magnetism.webp
+    categories: []
+    publishedAt: 2026-01-12T13:28:51.000Z
+    source: ScienceDaily — Engineering
   - title: Want to Stop Doomscrolling? You Might Need a Sleep Coach
     url: https://www.wired.com/story/your-next-job-sleep-coach/
     summary: Traditionally sleep coaches treat babies. But now more and more
@@ -31,7 +83,7 @@ articles:
       customers later this year, is advertised to offer a ten-fold reduction in
       inference costs and a four-fold reduction in how many GPUs it would take
       to train certain models, as compared to Nvidia’s Blackwell architecture.
-    imageUrl: https://spectrum.ieee.org/media-library/nvidia-s-vera-rubin-ai-supercomputer-made-up-of-several-racks-of-cpus-and-gpus.jpg?id=62697156&width=1200&height=800&coordinates=62%2C0%2C63%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/nvidia-s-vera-rubin-ai-supercomputer-made-up-of-several-racks-of-cpus-and-gpus.jpg?id=62697156&width=1245&height=700&coordinates=0%2C62%2C0%2C63
     categories:
       - Nvidia
       - Networking
@@ -39,30 +91,6 @@ articles:
       - Ai
     publishedAt: 2026-01-10T14:00:02.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Did that lamp just fold the laundry? Alumni rethink home robotics
-    url: https://techxplore.com/news/2026-01-lamp-laundry-alumni-rethink-home.html
-    summary: When Aaron Tan began his Ph.D. in mechanical and industrial engineering
-      at the University of Toronto in 2019, leading a robotics startup in
-      Silicon Valley was the furthest thing from his mind.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/did-that-lamp-just-fol.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-01-10T12:20:02.000Z
-    source: TechXplore — Robotics
-  - title: Neutron diffraction unveils the 'relay' of hardening mechanisms in
-      next-gen superalloys
-    url: https://techxplore.com/news/2026-01-neutron-diffraction-unveils-relay-hardening.html
-    summary: As the aerospace sector pursues propulsion systems that are cleaner,
-      quieter, and more efficient, materials used in turbine components face
-      increasingly demanding thermal and mechanical environments. Ni-Co-based
-      superalloys are widely regarded as prime candidates for next-generation
-      turbine disks due to their exceptional ability to retain strength under
-      extreme temperature and stress.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/neutron-diffraction-un.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-01-10T03:10:01.000Z
-    source: TechXplore — Engineering
   - title: OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate
       the Performance of AI Agents
     url: https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/
@@ -75,26 +103,13 @@ articles:
       - Business / Artificial Intelligence
     publishedAt: 2026-01-10T01:11:25.000Z
     source: WIRED (AI)
-  - title: Discrete spatial diffusion models data while obeying scientific principles
-    url: https://techxplore.com/news/2026-01-discrete-spatial-diffusion-obeying-scientific.html
-    summary: Researchers at Los Alamos National Laboratory have developed a new
-      approach that addresses the limitations of generative AI models. Unlike
-      generative diffusion models, the team's Discrete Spatial Diffusion
-      approach honors scientific and physics principles. The team validated
-      their model on two challenging scientific applications—subsurface rock
-      microstructures and lithium-ion battery electrodes—with promising results.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-diffusion-modeling.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-01-09T19:01:23.000Z
-    source: TechXplore — Computer Science
   - title: "Video Friday: Robots Are Everywhere at CES 2026"
     url: https://spectrum.ieee.org/robots-ces-2026
     summary: Video Friday is your weekly selection of awesome robotics videos,
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/a-humanoid-robot-stands-in-a-workshop-surrounded-by-yellow-safety-barriers.png?id=62698082&width=1200&height=800&coordinates=150%2C0%2C150%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/a-humanoid-robot-stands-in-a-workshop-surrounded-by-yellow-safety-barriers.png?id=62698082&width=1245&height=700&coordinates=0%2C0%2C0%2C0
     categories:
       - Robotics
       - Video friday
@@ -104,18 +119,6 @@ articles:
       - Human robot interaction
     publishedAt: 2026-01-09T18:00:04.000Z
     source: IEEE Spectrum — Robotics
-  - title: This simple design change could finally fix solid-state batteries
-    url: https://www.sciencedaily.com/releases/2026/01/260108231331.htm
-    summary: Scientists in South Korea have discovered a way to make all-solid-state
-      batteries safer and more powerful using inexpensive materials. Instead of
-      adding costly metals, they redesigned the battery’s internal structure to
-      help lithium ions move faster. This simple structural tweak boosted
-      performance by up to four times. The work points to cheaper, safer
-      batteries for phones, electric vehicles, and beyond.
-    imageUrl: https://www.sciencedaily.com/images/1920/solid-state-battery-technology.webp
-    categories: []
-    publishedAt: 2026-01-09T12:50:25.000Z
-    source: ScienceDaily — Engineering
   - title: Stanford’s AI spots hidden disease warnings that show up while you sleep
     url: https://www.sciencedaily.com/releases/2026/01/260109023114.htm
     summary: Stanford researchers have developed an AI that can predict future
@@ -151,23 +154,6 @@ articles:
     categories: []
     publishedAt: 2026-01-08T22:10:00.000Z
     source: MIT Engineering
-  - title: How AI Accelerates PMUT Design for Biomedical Ultrasonic Applications
-    url: https://content.knowledgehub.wiley.com/quanscient-multiphysicsai-for-pmut-design/
-    summary: This whitepaper provides MEMS engineers, biomedical device developers,
-      and multiphysics simulation specialists with a practical AI-accelerated
-      workflow for optimizing piezoelectric micromachined ultrasonic transducers
-      (PMUTs), enabling you to explore complex design trade-offs between
-      sensitivity and bandwidth while achieving validated performance
-      improvements in minutes instead of days using standard cloud
-      infrastructure.
-    imageUrl: https://spectrum.ieee.org/media-library/quanscient-logo-in-bold-blue-purple-letters-on-a-transparent-background.png?id=62697598&width=980
-    categories:
-      - Type:whitepaper
-      - Mems
-      - Artificial intelligence
-      - Pmut
-    publishedAt: 2026-01-08T22:06:42.000Z
-    source: IEEE Spectrum — AI
   - title: Tiny 3D-printed light cages could unlock the quantum internet
     url: https://www.sciencedaily.com/releases/2026/01/260106001907.htm
     summary: A new chip-based quantum memory uses nanoprinted “light cages” to trap
