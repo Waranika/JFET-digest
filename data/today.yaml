@@ -1,76 +1,90 @@
-date: 2026-01-14
+date: 2026-01-15
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Perovskite-based betavoltaic battery achieves high efficiency and
-      long-term stability
-    url: https://techxplore.com/news/2026-01-perovskite-based-betavoltaic-battery-high.html
-    summary: A research team led by Professor Su-Il In of the Department of Energy
-      Science & Engineering at DGIST has achieved a breakthrough improvement in
-      the performance of the radiation absorber, a key component of
-      perovskite-based betavoltaic batteries, by applying additive engineering
-      and antisolvent process control techniques.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-develop-a.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-01-14T02:20:01.000Z
-    source: TechXplore — Engineering
-  - title: "'Rosetta stone' for database inputs reveals serious security issue"
-    url: https://techxplore.com/news/2026-01-rosetta-stone-database-reveals-issue.html
-    summary: The data inputs that enable modern search and recommendation systems
-      were thought to be secure, but an algorithm developed by Cornell Tech
-      researchers successfully teased out names, medical diagnoses and financial
-      information from encoded datasets.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/rosetta-stone-for-data.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-01-13T19:09:15.000Z
-    source: TechXplore — Computer Science
-  - title: Roblox’s AI-Powered Age Verification Is a Complete Mess
-    url: https://www.wired.com/story/robloxs-ai-powered-age-verification-is-a-complete-mess/
-    summary: Kids are being identified as adults—and vice versa—on Roblox, while
-      age-verified accounts are already being sold online.
-    imageUrl: https://media.wired.com/photos/69614fdaf0dd489f2654556d/191:100/w_1280,c_limit/Roblox-Age-Verification-Culture-2247401752.jpg
-    categories:
-      - Culture
-      - Culture / Video Games
-    publishedAt: 2026-01-13T18:54:50.000Z
-    source: WIRED (AI)
-  - title: AI could be your next line manager
-    url: https://techxplore.com/news/2026-01-ai-line.html
-    summary: AI is already doing a pretty good job at taking on some of the world's
-      workload. It has produced academic papers, enhanced space exploration and
-      developed medical treatments.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2019/4-ai.jpg
+  - title: Two Thinking Machines Lab Cofounders Are Leaving to Rejoin OpenAI
+    url: https://www.wired.com/story/thinking-machines-lab-cofounders-leave-for-openai/
+    summary: The departures are a blow for Thinking Machines Lab. Two narratives are
+      already emerging about why they happened.
+    imageUrl: https://media.wired.com/photos/696832c5bbf56c47d3d0ed29/191:100/w_1280,c_limit/Thinking%20Machines%20Cofounder%20Barret%20Zoph%20is%20Leaving%20the%20Lab%20and%20Rejoining%20OpenAI-Business-2243572881.jpg
     categories:
       - Business
-    publishedAt: 2026-01-13T18:34:35.000Z
+      - Business / Artificial Intelligence
+    publishedAt: 2026-01-15T00:40:28.000Z
+    source: WIRED (AI)
+  - title: Digital mark and data protection guidelines 'silence' on AI training
+      prevents effective competition, experts warn
+    url: https://techxplore.com/news/2026-01-digital-guidelines-silence-ai-effective.html
+    summary: A "silence" in new data guidelines risks preventing fair competition in
+      AI development and allows dominant firms to strengthen their artificial
+      intelligence, experts have warned.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2023/data.jpg
+    categories:
+      - Business
+    publishedAt: 2026-01-14T23:00:03.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Adaptive motion system helps robots achieve human-like dexterity with
-      minimal data
-    url: https://techxplore.com/news/2026-01-motion-robots-human-dexterity-minimal.html
-    summary: Despite rapid robotic automation advancements, most systems struggle to
-      adapt their pre-trained movements to dynamic environments with objects of
-      varying stiffness or weight. To tackle this challenge, researchers from
-      Japan have developed an adaptive motion reproduction system using Gaussian
-      process regression.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/bringing-human-dexteri.jpg
+  - title: Robot learns to lip sync by watching YouTube
+    url: https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html
+    summary: Almost half of our attention during face-to-face conversation focuses
+      on lip motion. Yet, robots still struggle to move their lips correctly.
+      Even the most advanced humanoids make little more than muppet mouth
+      gestures—if they have a face at all.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-robot-learns-to-lip.jpg
     categories:
       - Robotics
-    publishedAt: 2026-01-13T18:00:31.000Z
+    publishedAt: 2026-01-14T21:56:41.000Z
     source: TechXplore — Robotics
-  - title: Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric
-      Bill
-    url: https://www.wired.com/story/microsoft-has-a-plan-to-keep-its-data-centers-from-raising-your-electric-bill/
-    summary: In response to a growing backlash, Microsoft said it would take steps
-      to ensure that data centers don’t raise utility bills in surrounding areas
-      and address other public concerns.
-    imageUrl: https://media.wired.com/photos/696651b1c163ae9f4c8e4310/191:100/w_1280,c_limit/GettyImages-2243425578.jpg
+  - title: At MIT, a continued commitment to understanding intelligence
+    url: https://news.mit.edu/2026/continued-commitment-to-understanding-intelligence-0114
+    summary: The MIT Siegel Family Quest for Intelligence (SQI), a research unit in
+      the MIT Schwarzman College of Computing, brings together researchers from
+      across MIT who combine their diverse expertise to understand intelligence
+      through tightly coupled scientific inquiry and rigorous engineering. These
+      researchers engage in collaborative efforts spanning science, engineering,
+      the humanities, and more.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/mit-quest.jpg?itok=Z4AIAI6Y
+    categories: []
+    publishedAt: 2026-01-14T21:50:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Researchers highlight advancements in chemical looping fluidized bed
+      reactors
+    url: https://techxplore.com/news/2026-01-highlight-advancements-chemical-looping-fluidized.html
+    summary: Traditional techniques of converting fossil fuels for heat and power
+      generation and chemical production increase the carbon footprint, harming
+      society and the environment. To mitigate this problem, carbon capture and
+      storage technologies aimed at lowering carbon dioxide emissions and
+      encompassing renewable energy utilization, circular economy, and green
+      chemical synthesis are promising.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/jeonbuk-national-unive.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-01-14T20:15:27.000Z
+    source: TechXplore — Engineering
+  - title: "Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why
+      People Leave Certain Tasks for Later"
+    url: https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/
+    summary: New research has discovered that a neural circuit may explain
+      procrastination. Scientists were able to disrupt this connection using a
+      drug.
+    imageUrl: https://media.wired.com/photos/6967dd15f33351a63c751f1c/191:100/w_1280,c_limit/procrastinacion.jpg
     categories:
       - Science
-    publishedAt: 2026-01-13T14:48:07.000Z
+      - Science / Psychology and Neuroscience
+    publishedAt: 2026-01-14T20:09:21.000Z
     source: WIRED science
+  - title: New framework helps AI systems recover from mistakes and find optimal
+      solutions
+    url: https://techxplore.com/news/2026-01-framework-ai-recover-optimal-solutions.html
+    summary: 'If you use consumer AI systems, you have likely experienced something
+      like AI "brain fog": You are well into a conversation when suddenly the AI
+      seems to lose track of the different ideas you have been talking about and
+      how they fit together.'
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/helping-ai-systems-rec.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-01-14T12:59:21.000Z
+    source: TechXplore — Computer Science
   - title: This AI spots dangerous blood cells doctors often miss
     url: https://www.sciencedaily.com/releases/2026/01/260112214317.htm
     summary: A generative AI system can now analyze blood cells with greater
@@ -116,7 +130,7 @@ articles:
       customers later this year, is advertised to offer a tenfold reduction in
       inference costs and a fourfold reduction in how many GPUs it would take to
       train certain models, as compared to Nvidia’s Blackwell architecture.
-    imageUrl: https://spectrum.ieee.org/media-library/nvidia-s-vera-rubin-ai-supercomputer-made-up-of-several-racks-of-cpus-and-gpus.jpg?id=62697156&width=2000&height=1500&coordinates=166%2C0%2C167%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/nvidia-s-vera-rubin-ai-supercomputer-made-up-of-several-racks-of-cpus-and-gpus.jpg?id=62697156&width=1245&height=700&coordinates=0%2C62%2C0%2C63
     categories:
       - Nvidia
       - Networking
@@ -130,7 +144,7 @@ articles:
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/a-humanoid-robot-stands-in-a-workshop-surrounded-by-yellow-safety-barriers.png?id=62698082&width=1200&height=800&coordinates=150%2C0%2C150%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/a-humanoid-robot-stands-in-a-workshop-surrounded-by-yellow-safety-barriers.png?id=62698082&width=1245&height=700&coordinates=0%2C0%2C0%2C0
     categories:
       - Robotics
       - Video friday
@@ -140,18 +154,6 @@ articles:
       - Human robot interaction
     publishedAt: 2026-01-09T18:00:04.000Z
     source: IEEE Spectrum — Robotics
-  - title: "3 Questions: How AI could optimize the power grid"
-    url: https://news.mit.edu/2026/3-questions-how-ai-could-optimize-power-grid-0109
-    summary: Artificial intelligence has captured headlines recently for its rapidly
-      growing energy demands, and particularly the surging electricity usage of
-      data centers that enable the training and deployment of the latest
-      generative AI models. But it’s not all bad news — some AI tools have the
-      potential to reduce some forms of energy consumption and enable cleaner
-      grids.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/MIT_AI-Power-01-update-press.jpg?itok=w4OT9btX
-    categories: []
-    publishedAt: 2026-01-09T05:00:00.000Z
-    source: MIT Artificial Intelligence
   - title: 2.009 mechanical engineering students embrace “cycles”
     url: https://news.mit.edu/2026/product-engineering-students-embrace-cycles-0108
     summary: MIT’s senior capstone course 2.009 (Product Engineering Processes), an
