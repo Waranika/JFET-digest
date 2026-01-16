@@ -1,40 +1,79 @@
-date: 2026-01-15
+date: 2026-01-16
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Two Thinking Machines Lab Cofounders Are Leaving to Rejoin OpenAI
-    url: https://www.wired.com/story/thinking-machines-lab-cofounders-leave-for-openai/
-    summary: The departures are a blow for Thinking Machines Lab. Two narratives are
-      already emerging about why they happened.
-    imageUrl: https://media.wired.com/photos/696832c5bbf56c47d3d0ed29/191:100/w_1280,c_limit/Thinking%20Machines%20Cofounder%20Barret%20Zoph%20is%20Leaving%20the%20Lab%20and%20Rejoining%20OpenAI-Business-2243572881.jpg
+  - title: Free tool can reduce harmful engagement with AI-generated explicit images
+    url: https://techxplore.com/news/2026-01-free-tool-engagement-ai-generated.html
+    summary: A new evidence-based online educational tool aims to curb the watching,
+      sharing, and creation of AI-generated explicit imagery.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/grok-ai.jpg
+    categories:
+      - Consumer & Gadgets
+    publishedAt: 2026-01-16T00:10:06.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Sub-zero green freezer achieves zero emissions
+    url: https://techxplore.com/news/2026-01-green-freezer-emissions.html
+    summary: Researchers at the School of Engineering of The Hong Kong University of
+      Science and Technology (HKUST) have developed the world's first sub-zero
+      Celsius elastocaloric freezing device, capable of reaching temperatures as
+      low as -12℃. This represents a significant milestone in expanding green
+      solid-state elastocaloric refrigeration technology into the global
+      freezing industry, offering a promising solution to combat climate change
+      and accelerate low-carbon transformation of the global freezing market.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-sub-zero-green-fre.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-01-15T22:05:47.000Z
+    source: TechXplore — Engineering
+  - title: Inside OpenAI’s Raid on Thinking Machines Lab
+    url: https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/
+    summary: OpenAI is planning to bring over more researchers from Thinking
+      Machines Lab after nabbing two cofounders, a source familiar with the
+      situation says. Plus, the latest efforts to automate jobs with AI.
+    imageUrl: https://media.wired.com/photos/69680830efccddf04409c929/191:100/w_1280,c_limit/Model-Behavior-Why-Mercor-and-OpenAI-Contractors-Upload-Slide-Decks-from-Past-Jobs-Business.jpg
     categories:
       - Business
       - Business / Artificial Intelligence
-    publishedAt: 2026-01-15T00:40:28.000Z
+    publishedAt: 2026-01-15T21:14:23.000Z
     source: WIRED (AI)
-  - title: Digital mark and data protection guidelines 'silence' on AI training
-      prevents effective competition, experts warn
-    url: https://techxplore.com/news/2026-01-digital-guidelines-silence-ai-effective.html
-    summary: A "silence" in new data guidelines risks preventing fair competition in
-      AI development and allows dominant firms to strengthen their artificial
-      intelligence, experts have warned.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2023/data.jpg
+  - title: OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs
+    url: https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/
+    summary: Merge Labs has emerged from stealth with $252 million in funding from
+      OpenAI and others. It aims to use ultrasound to read from and write to the
+      brain.
+    imageUrl: https://media.wired.com/photos/69690ee78f59220ea2e720b9/191:100/w_1280,c_limit/sci-openai-2220468498.jpg
     categories:
-      - Business
-    publishedAt: 2026-01-14T23:00:03.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Robot learns to lip sync by watching YouTube
-    url: https://techxplore.com/news/2026-01-robot-lip-sync-youtube.html
-    summary: Almost half of our attention during face-to-face conversation focuses
-      on lip motion. Yet, robots still struggle to move their lips correctly.
-      Even the most advanced humanoids make little more than muppet mouth
-      gestures—if they have a face at all.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-robot-learns-to-lip.jpg
+      - Science
+      - Science / Biotech
+    publishedAt: 2026-01-15T18:24:51.000Z
+    source: WIRED science
+  - title: New RoboReward dataset and models automate robotic training and evaluation
+    url: https://techxplore.com/news/2026-01-roboreward-dataset-automate-robotic.html
+    summary: The advancement of artificial intelligence (AI) algorithms has opened
+      new possibilities for the development of robots that can reliably tackle
+      various everyday tasks. Training and evaluating these algorithms, however,
+      typically requires extensive efforts, as humans still need to manually
+      label training data and assess the performance of models in both
+      simulations and real-world experiments.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-dataset-and-models.jpg
     categories:
       - Robotics
-    publishedAt: 2026-01-14T21:56:41.000Z
+    publishedAt: 2026-01-15T12:30:01.000Z
     source: TechXplore — Robotics
+  - title: How everyday foam reveals the secret logic of artificial intelligence
+    url: https://www.sciencedaily.com/releases/2026/01/260114084109.htm
+    summary: Foams were once thought to behave like glass, with bubbles frozen in
+      place at the microscopic level. But new simulations reveal that foam
+      bubbles are always shifting, even while the foam keeps its overall shape.
+      Remarkably, this restless motion follows the same math used to train
+      artificial intelligence. The finding hints that learning-like behavior may
+      be a fundamental principle shared by materials, machines, and living
+      cells.
+    imageUrl: https://www.sciencedaily.com/images/1920/microscopic-bubbles-moving-in-foam.webp
+    categories: []
+    publishedAt: 2026-01-15T05:20:26.000Z
+    source: ScienceDaily — Robotics
   - title: At MIT, a continued commitment to understanding intelligence
     url: https://news.mit.edu/2026/continued-commitment-to-understanding-intelligence-0114
     summary: The MIT Siegel Family Quest for Intelligence (SQI), a research unit in
@@ -47,32 +86,6 @@ articles:
     categories: []
     publishedAt: 2026-01-14T21:50:00.000Z
     source: MIT Artificial Intelligence
-  - title: Researchers highlight advancements in chemical looping fluidized bed
-      reactors
-    url: https://techxplore.com/news/2026-01-highlight-advancements-chemical-looping-fluidized.html
-    summary: Traditional techniques of converting fossil fuels for heat and power
-      generation and chemical production increase the carbon footprint, harming
-      society and the environment. To mitigate this problem, carbon capture and
-      storage technologies aimed at lowering carbon dioxide emissions and
-      encompassing renewable energy utilization, circular economy, and green
-      chemical synthesis are promising.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/jeonbuk-national-unive.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-01-14T20:15:27.000Z
-    source: TechXplore — Engineering
-  - title: "Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why
-      People Leave Certain Tasks for Later"
-    url: https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/
-    summary: New research has discovered that a neural circuit may explain
-      procrastination. Scientists were able to disrupt this connection using a
-      drug.
-    imageUrl: https://media.wired.com/photos/6967dd15f33351a63c751f1c/191:100/w_1280,c_limit/procrastinacion.jpg
-    categories:
-      - Science
-      - Science / Psychology and Neuroscience
-    publishedAt: 2026-01-14T20:09:21.000Z
-    source: WIRED science
   - title: New framework helps AI systems recover from mistakes and find optimal
       solutions
     url: https://techxplore.com/news/2026-01-framework-ai-recover-optimal-solutions.html
@@ -95,20 +108,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/myeloblast-myeloid-white-blood-cell.webp
     categories: []
     publishedAt: 2026-01-13T13:50:24.000Z
-    source: ScienceDaily — Robotics
-  - title: This strange form of water may power giant planets’ magnetic fields
-    url: https://www.sciencedaily.com/releases/2026/01/260112214308.htm
-    summary: At extreme pressures and temperatures, water becomes superionic — a
-      solid that behaves partly like a liquid and conducts electricity. This
-      unusual form is believed to shape the magnetic fields of Uranus and
-      Neptune and may be the most common type of water in the solar system. New
-      high-precision experiments show its atomic structure is far messier than
-      expected, combining multiple crystal patterns instead of one clean
-      arrangement. The finding reshapes models of icy planets both near and far.
-    imageUrl: https://www.sciencedaily.com/images/1920/microscopic-structure-of-superionic-water.webp
-    categories: []
-    publishedAt: 2026-01-13T10:57:21.000Z
-    source: ScienceDaily — Engineering
+    source: ScienceDaily — Artificial Intelligence
   - title: Machine-Learning System Monitors Patient Pain During Surgery
     url: https://spectrum.ieee.org/machine-learning-measure-pain-surgery
     summary: This article is part of our exclusive IEEE Journal Watch series in
@@ -130,7 +130,7 @@ articles:
       customers later this year, is advertised to offer a tenfold reduction in
       inference costs and a fourfold reduction in how many GPUs it would take to
       train certain models, as compared to Nvidia’s Blackwell architecture.
-    imageUrl: https://spectrum.ieee.org/media-library/nvidia-s-vera-rubin-ai-supercomputer-made-up-of-several-racks-of-cpus-and-gpus.jpg?id=62697156&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    imageUrl: https://spectrum.ieee.org/media-library/nvidia-s-vera-rubin-ai-supercomputer-made-up-of-several-racks-of-cpus-and-gpus.jpg?id=62697156&width=1200&height=800&coordinates=62%2C0%2C63%2C0
     categories:
       - Nvidia
       - Networking
