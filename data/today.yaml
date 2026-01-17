@@ -1,53 +1,65 @@
-date: 2026-01-16
+date: 2026-01-17
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Free tool can reduce harmful engagement with AI-generated explicit images
-    url: https://techxplore.com/news/2026-01-free-tool-engagement-ai-generated.html
-    summary: A new evidence-based online educational tool aims to curb the watching,
-      sharing, and creation of AI-generated explicit imagery.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/grok-ai.jpg
-    categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-01-16T00:10:06.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Sub-zero green freezer achieves zero emissions
-    url: https://techxplore.com/news/2026-01-green-freezer-emissions.html
-    summary: Researchers at the School of Engineering of The Hong Kong University of
-      Science and Technology (HKUST) have developed the world's first sub-zero
-      Celsius elastocaloric freezing device, capable of reaching temperatures as
-      low as -12℃. This represents a significant milestone in expanding green
-      solid-state elastocaloric refrigeration technology into the global
-      freezing industry, offering a promising solution to combat climate change
-      and accelerate low-carbon transformation of the global freezing market.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-sub-zero-green-fre.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-01-15T22:05:47.000Z
-    source: TechXplore — Engineering
-  - title: Inside OpenAI’s Raid on Thinking Machines Lab
-    url: https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/
-    summary: OpenAI is planning to bring over more researchers from Thinking
-      Machines Lab after nabbing two cofounders, a source familiar with the
-      situation says. Plus, the latest efforts to automate jobs with AI.
-    imageUrl: https://media.wired.com/photos/69680830efccddf04409c929/191:100/w_1280,c_limit/Model-Behavior-Why-Mercor-and-OpenAI-Contractors-Upload-Slide-Decks-from-Past-Jobs-Business.jpg
+  - title: Thinking Machines Cofounder’s Office Relationship Preceded His Termination
+    url: https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/
+    summary: Leaders at Mira Murati’s startup believe Barret Zoph engaged in an
+      incident of “serious misconduct.” The details are now coming to light.
+    imageUrl: https://media.wired.com/photos/696a8f537c423f5d10d2153d/191:100/w_1280,c_limit/Serious-Ethical-Misconduct-at-Thinking-Machines-Business-1320133023.jpg
     categories:
       - Business
       - Business / Artificial Intelligence
-    publishedAt: 2026-01-15T21:14:23.000Z
+    publishedAt: 2026-01-17T00:40:41.000Z
     source: WIRED (AI)
-  - title: OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs
-    url: https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/
-    summary: Merge Labs has emerged from stealth with $252 million in funding from
-      OpenAI and others. It aims to use ultrasound to read from and write to the
-      brain.
-    imageUrl: https://media.wired.com/photos/69690ee78f59220ea2e720b9/191:100/w_1280,c_limit/sci-openai-2220468498.jpg
+  - title: OpenAI introducing ads to ChatGPT
+    url: https://techxplore.com/news/2026-01-openai-ads-chatgpt.html
+    summary: OpenAI announced Friday it will begin testing advertisements on ChatGPT
+      in the coming weeks, as the wildly popular artificial intelligence chatbot
+      seeks to increase revenue to cover its soaring costs.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/the-integration-of-adv.jpg
+    categories:
+      - Internet
+    publishedAt: 2026-01-16T19:21:53.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: "Video Friday: Bipedal Robot Stops Itself From Falling"
+    url: https://spectrum.ieee.org/video-friday-bipedal-robot
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/prototype-robot-next-to-a-digital-model-both-with-rounded-bodies-and-dome-shaped-heads.png?id=62822757&width=1200&height=800&coordinates=167%2C0%2C168%2C0
+    categories:
+      - Robotics
+      - Video friday
+      - Bipedal robots
+      - Humanoid robots
+      - Quadruped robots
+      - Industrial robots
+    publishedAt: 2026-01-16T18:30:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: How Does the Hive Mind Work in ‘Pluribus?
+    url: https://www.wired.com/story/how-does-the-hive-mind-work-in-pluribus/
+    summary: The “Joining” seems to connect people via radio waves. Let’s dig into
+      the physics at play.
+    imageUrl: https://media.wired.com/photos/696770c527e4d5dcaa4ce890/191:100/w_1280,c_limit/Pluribus_Photo_010804.jpg
     categories:
       - Science
-      - Science / Biotech
-    publishedAt: 2026-01-15T18:24:51.000Z
+      - Science / Physics and Math
+    publishedAt: 2026-01-16T12:00:00.000Z
     source: WIRED science
+  - title: Tougher solid electrolyte advances long-sought lithium metal batteries
+    url: https://techxplore.com/news/2026-01-tougher-solid-electrolyte-advances-sought.html
+    summary: A solid—rather than liquid—electrolyte between the opposite electrodes
+      of a battery should, in theory, enable a rechargeable lithium metal
+      battery that is safer, packs much more energy, and charges considerably
+      faster than the lithium-ion batteries commercially available today.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/tougher-solid-electrol.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-01-16T10:00:06.000Z
+    source: TechXplore — Engineering
   - title: New RoboReward dataset and models automate robotic training and evaluation
     url: https://techxplore.com/news/2026-01-roboreward-dataset-automate-robotic.html
     summary: The advancement of artificial intelligence (AI) algorithms has opened
@@ -113,7 +125,7 @@ articles:
     url: https://spectrum.ieee.org/machine-learning-measure-pain-surgery
     summary: This article is part of our exclusive IEEE Journal Watch series in
       partnership with IEEE Xplore.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-womans-face-where-one-half-is-intact-and-the-other-is-segmented-into-several-triangular-pieces-a-web-of-red.jpg?id=62674391&width=1200&height=800&coordinates=62%2C0%2C63%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-womans-face-where-one-half-is-intact-and-the-other-is-segmented-into-several-triangular-pieces-a-web-of-red.jpg?id=62674391&width=1200&height=600&coordinates=0%2C125%2C0%2C125
     categories:
       - Journal watch
       - Surgery
@@ -130,7 +142,7 @@ articles:
       customers later this year, is advertised to offer a tenfold reduction in
       inference costs and a fourfold reduction in how many GPUs it would take to
       train certain models, as compared to Nvidia’s Blackwell architecture.
-    imageUrl: https://spectrum.ieee.org/media-library/nvidia-s-vera-rubin-ai-supercomputer-made-up-of-several-racks-of-cpus-and-gpus.jpg?id=62697156&width=1200&height=800&coordinates=62%2C0%2C63%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/nvidia-s-vera-rubin-ai-supercomputer-made-up-of-several-racks-of-cpus-and-gpus.jpg?id=62697156&width=1245&height=700&coordinates=0%2C62%2C0%2C63
     categories:
       - Nvidia
       - Networking
@@ -138,22 +150,6 @@ articles:
       - Ai
     publishedAt: 2026-01-10T14:00:02.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: "Video Friday: Robots Are Everywhere at CES 2026"
-    url: https://spectrum.ieee.org/robots-ces-2026
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/a-humanoid-robot-stands-in-a-workshop-surrounded-by-yellow-safety-barriers.png?id=62698082&width=1245&height=700&coordinates=0%2C0%2C0%2C0
-    categories:
-      - Robotics
-      - Video friday
-      - Ces 2026
-      - Humanoid robots
-      - Industrial robots
-      - Human robot interaction
-    publishedAt: 2026-01-09T18:00:04.000Z
-    source: IEEE Spectrum — Robotics
   - title: 2.009 mechanical engineering students embrace “cycles”
     url: https://news.mit.edu/2026/product-engineering-students-embrace-cycles-0108
     summary: MIT’s senior capstone course 2.009 (Product Engineering Processes), an
@@ -187,7 +183,7 @@ articles:
       can capture long-exposure images with astrocameras and display the results
       on a view screen or computer, which robs the immediacy of the stargazing
       experience.
-    imageUrl: https://spectrum.ieee.org/media-library/a-reflecting-telescope-can-be-seen-fitted-with-a-boxy-eyepiece.jpg?id=62609417&width=1200&height=600&coordinates=0%2C460%2C0%2C460
+    imageUrl: https://spectrum.ieee.org/media-library/a-reflecting-telescope-can-be-seen-fitted-with-a-boxy-eyepiece.jpg?id=62609417&width=1245&height=700&coordinates=0%2C397%2C0%2C398
     categories:
       - Astronomy
       - Citizen science
