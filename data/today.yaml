@@ -1,8 +1,77 @@
-date: 2026-01-17
+date: 2026-01-18
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Engineers just created a “phonon laser” that could shrink your next
+      smartphone
+    url: https://www.sciencedaily.com/releases/2026/01/260116035319.htm
+    summary: Engineers have created a device that generates incredibly tiny,
+      earthquake-like vibrations on a microchip—and it could transform future
+      electronics. Using a new kind of “phonon laser,” the team can produce
+      ultra-fast surface waves that already play a hidden role in smartphones,
+      GPS systems, and wireless tech. Unlike today’s bulky setups, this
+      single-chip device could deliver far higher performance using less power,
+      opening the door to smaller, faster, and more efficient phones and
+      wireless devices.
+    imageUrl: https://www.sciencedaily.com/images/1920/phonon-laser-chip.webp
+    categories: []
+    publishedAt: 2026-01-17T15:43:09.000Z
+    source: ScienceDaily — Computer Science
+  - title: Soft robotic hand 'sees' around corners to achieve human-like touch
+    url: https://techxplore.com/news/2026-01-soft-robotic-corners-human.html
+    summary: To reliably complete household chores, assemble products and tackle
+      other manual tasks, robots should be able to adapt their manipulation
+      strategies based on the objects they are working with, similarly to how
+      humans leverage information they gain via the sense of touch. While humans
+      attain tactile information via nerves in their skin and muscles, robots
+      rely on sensors, devices that sense their surroundings and pick up
+      specific physical signals.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-soft-robotic-hand-de.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-01-17T15:30:03.000Z
+    source: TechXplore — Engineering
+  - title: AI maps the hidden forces shaping cancer survival worldwide
+    url: https://www.sciencedaily.com/releases/2026/01/260117053526.htm
+    summary: Researchers have turned artificial intelligence into a powerful new
+      lens for understanding why cancer survival rates differ so dramatically
+      around the world. By analyzing cancer data and health system information
+      from 185 countries, the AI model highlights which factors, such as access
+      to radiotherapy, universal health coverage, and economic strength, are
+      most closely linked to better survival in each nation.
+    imageUrl: https://www.sciencedaily.com/images/1920/dna-cancer-immunotherapy-genetics-punch.webp
+    categories: []
+    publishedAt: 2026-01-17T14:26:53.000Z
+    source: ScienceDaily — Robotics
+  - title: Are There Enough Engineers for the AI Boom?
+    url: https://spectrum.ieee.org/ai-data-centers-engineers-jobs
+    summary: The AI data center construction boom continues unabated, with the
+      demand for power in the United States potentially reaching 106 gigawatts
+      by 2035, according to a December report from research and analysis company
+      BloombergNEF. That’s a 36 percent jump from the company’s previous
+      outlook, published just seven months earlier. But there are severe
+      constraints in power availability, material, equipment, and—perhaps most
+      significantly—a lack of engineers, technicians, and skilled craftsmen that
+      could turn the data center boom into a bust.
+    imageUrl: https://spectrum.ieee.org/media-library/aero-gas-turbines-being-installed-in-a-desert-like-landscape.jpg?id=62826721&width=1200&height=400&coordinates=0%2C417%2C0%2C417
+    categories:
+      - Artificial intelligence
+      - Data centers
+      - Careers
+      - Engineering jobs
+    publishedAt: 2026-01-17T14:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: "ChatGPT's free ride is ending: Here's what OpenAI plans for advertising
+      on the chatbot"
+    url: https://techxplore.com/news/2026-01-chatgpt-free-openai-advertising-chatbot.html
+    summary: OpenAI says it will soon start showing advertisements to ChatGPT users
+      who aren't paying for a premium version of the chatbot.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/chatgpts-free-ride-is.jpg
+    categories:
+      - Internet
+    publishedAt: 2026-01-17T12:52:12.000Z
+    source: TechXplore — AI & Machine Learning
   - title: Thinking Machines Cofounder’s Office Relationship Preceded His Termination
     url: https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/
     summary: Leaders at Mira Murati’s startup believe Barret Zoph engaged in an
@@ -13,16 +82,6 @@ articles:
       - Business / Artificial Intelligence
     publishedAt: 2026-01-17T00:40:41.000Z
     source: WIRED (AI)
-  - title: OpenAI introducing ads to ChatGPT
-    url: https://techxplore.com/news/2026-01-openai-ads-chatgpt.html
-    summary: OpenAI announced Friday it will begin testing advertisements on ChatGPT
-      in the coming weeks, as the wildly popular artificial intelligence chatbot
-      seeks to increase revenue to cover its soaring costs.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/the-integration-of-adv.jpg
-    categories:
-      - Internet
-    publishedAt: 2026-01-16T19:21:53.000Z
-    source: TechXplore — AI & Machine Learning
   - title: "Video Friday: Bipedal Robot Stops Itself From Falling"
     url: https://spectrum.ieee.org/video-friday-bipedal-robot
     summary: Video Friday is your weekly selection of awesome robotics videos,
@@ -39,6 +98,19 @@ articles:
       - Industrial robots
     publishedAt: 2026-01-16T18:30:02.000Z
     source: IEEE Spectrum — Robotics
+  - title: The breakthrough that makes robot faces feel less creepy
+    url: https://www.sciencedaily.com/releases/2026/01/260116035308.htm
+    summary: Humans pay enormous attention to lips during conversation, and robots
+      have struggled badly to keep up. A new robot developed at Columbia
+      Engineering learned realistic lip movements by watching its own reflection
+      and studying human videos online. This allowed it to speak and sing with
+      synchronized facial motion, without being explicitly programmed.
+      Researchers believe this breakthrough could help robots finally cross the
+      uncanny valley.
+    imageUrl: https://www.sciencedaily.com/images/1920/lip-syncing-robot.webp
+    categories: []
+    publishedAt: 2026-01-16T15:28:30.000Z
+    source: ScienceDaily — Artificial Intelligence
   - title: How Does the Hive Mind Work in ‘Pluribus?
     url: https://www.wired.com/story/how-does-the-hive-mind-work-in-pluribus/
     summary: The “Joining” seems to connect people via radio waves. Let’s dig into
@@ -49,30 +121,6 @@ articles:
       - Science / Physics and Math
     publishedAt: 2026-01-16T12:00:00.000Z
     source: WIRED science
-  - title: Tougher solid electrolyte advances long-sought lithium metal batteries
-    url: https://techxplore.com/news/2026-01-tougher-solid-electrolyte-advances-sought.html
-    summary: A solid—rather than liquid—electrolyte between the opposite electrodes
-      of a battery should, in theory, enable a rechargeable lithium metal
-      battery that is safer, packs much more energy, and charges considerably
-      faster than the lithium-ion batteries commercially available today.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/tougher-solid-electrol.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-01-16T10:00:06.000Z
-    source: TechXplore — Engineering
-  - title: New RoboReward dataset and models automate robotic training and evaluation
-    url: https://techxplore.com/news/2026-01-roboreward-dataset-automate-robotic.html
-    summary: The advancement of artificial intelligence (AI) algorithms has opened
-      new possibilities for the development of robots that can reliably tackle
-      various everyday tasks. Training and evaluating these algorithms, however,
-      typically requires extensive efforts, as humans still need to manually
-      label training data and assess the performance of models in both
-      simulations and real-world experiments.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-dataset-and-models.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-01-15T12:30:01.000Z
-    source: TechXplore — Robotics
   - title: How everyday foam reveals the secret logic of artificial intelligence
     url: https://www.sciencedaily.com/releases/2026/01/260114084109.htm
     summary: Foams were once thought to behave like glass, with bubbles frozen in
@@ -85,7 +133,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/microscopic-bubbles-moving-in-foam.webp
     categories: []
     publishedAt: 2026-01-15T05:20:26.000Z
-    source: ScienceDaily — Robotics
+    source: ScienceDaily — Engineering
   - title: At MIT, a continued commitment to understanding intelligence
     url: https://news.mit.edu/2026/continued-commitment-to-understanding-intelligence-0114
     summary: The MIT Siegel Family Quest for Intelligence (SQI), a research unit in
@@ -110,30 +158,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-01-14T12:59:21.000Z
     source: TechXplore — Computer Science
-  - title: This AI spots dangerous blood cells doctors often miss
-    url: https://www.sciencedaily.com/releases/2026/01/260112214317.htm
-    summary: A generative AI system can now analyze blood cells with greater
-      accuracy and confidence than human experts, detecting subtle signs of
-      diseases like leukemia. It not only spots rare abnormalities but also
-      recognizes its own uncertainty, making it a powerful support tool for
-      clinicians.
-    imageUrl: https://www.sciencedaily.com/images/1920/myeloblast-myeloid-white-blood-cell.webp
-    categories: []
-    publishedAt: 2026-01-13T13:50:24.000Z
-    source: ScienceDaily — Artificial Intelligence
-  - title: Machine-Learning System Monitors Patient Pain During Surgery
-    url: https://spectrum.ieee.org/machine-learning-measure-pain-surgery
-    summary: This article is part of our exclusive IEEE Journal Watch series in
-      partnership with IEEE Xplore.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-womans-face-where-one-half-is-intact-and-the-other-is-segmented-into-several-triangular-pieces-a-web-of-red.jpg?id=62674391&width=1200&height=600&coordinates=0%2C125%2C0%2C125
-    categories:
-      - Journal watch
-      - Surgery
-      - Pain
-      - Machine learning
-      - Cameras
-    publishedAt: 2026-01-12T16:52:21.000Z
-    source: IEEE Spectrum — AI
   - title: Nvidia’s New Rubin Architecture Thrives on Networking
     url: https://spectrum.ieee.org/nvidia-rubin-networking
     summary: Earlier this week, Nvidia surprise-announced their new Vera Rubin
@@ -161,19 +185,6 @@ articles:
     categories: []
     publishedAt: 2026-01-08T22:10:00.000Z
     source: MIT Engineering
-  - title: Tiny 3D-printed light cages could unlock the quantum internet
-    url: https://www.sciencedaily.com/releases/2026/01/260106001907.htm
-    summary: A new chip-based quantum memory uses nanoprinted “light cages” to trap
-      light inside atomic vapor, enabling fast, reliable storage of quantum
-      information. The structures can be fabricated with extreme precision and
-      filled with atoms in days instead of months. Multiple memories can operate
-      side by side on a single chip, all performing nearly identically. The
-      result is a powerful, scalable building block for future quantum
-      communication and computing.
-    imageUrl: https://www.sciencedaily.com/images/1920/light-cages-for-enhanced-light-matter-interaction.webp
-    categories: []
-    publishedAt: 2026-01-06T07:14:34.000Z
-    source: ScienceDaily — Computer Science
   - title: See the Sky Like Never Before With a DIY Eyepiece
     url: https://spectrum.ieee.org/diy-astrophotography-eyepiece
     summary: When it comes to viewing nebulae, galaxies, and other deep-sky objects,
