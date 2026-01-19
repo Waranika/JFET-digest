@@ -1,8 +1,22 @@
-date: 2026-01-18
+date: 2026-01-19
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: New memristor training method slashes AI energy use by six orders of
+      magnitude
+    url: https://techxplore.com/news/2026-01-memristor-method-slashes-ai-energy.html
+    summary: In a Nature Communications study, researchers from China have developed
+      an error-aware probabilistic update (EaPU) method that aligns memristor
+      hardware's noisy updates with neural network training, slashing energy use
+      by nearly six orders of magnitude versus GPUs while boosting accuracy on
+      vision tasks. The study validates EaPU on 180 nm memristor arrays and
+      large-scale simulations.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-memristor-training-1.jpg
+    categories:
+      - Hardware
+    publishedAt: 2026-01-18T18:20:01.000Z
+    source: TechXplore — AI & Machine Learning
   - title: Engineers just created a “phonon laser” that could shrink your next
       smartphone
     url: https://www.sciencedaily.com/releases/2026/01/260116035319.htm
@@ -54,7 +68,7 @@ articles:
       constraints in power availability, material, equipment, and—perhaps most
       significantly—a lack of engineers, technicians, and skilled craftsmen that
       could turn the data center boom into a bust.
-    imageUrl: https://spectrum.ieee.org/media-library/aero-gas-turbines-being-installed-in-a-desert-like-landscape.jpg?id=62826721&width=1200&height=400&coordinates=0%2C417%2C0%2C417
+    imageUrl: https://spectrum.ieee.org/media-library/aero-gas-turbines-being-installed-in-a-desert-like-landscape.jpg?id=62826721&width=1200&height=800&coordinates=0%2C83%2C0%2C84
     categories:
       - Artificial intelligence
       - Data centers
@@ -62,16 +76,6 @@ articles:
       - Engineering jobs
     publishedAt: 2026-01-17T14:00:01.000Z
     source: IEEE Spectrum — AI
-  - title: "ChatGPT's free ride is ending: Here's what OpenAI plans for advertising
-      on the chatbot"
-    url: https://techxplore.com/news/2026-01-chatgpt-free-openai-advertising-chatbot.html
-    summary: OpenAI says it will soon start showing advertisements to ChatGPT users
-      who aren't paying for a premium version of the chatbot.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/chatgpts-free-ride-is.jpg
-    categories:
-      - Internet
-    publishedAt: 2026-01-17T12:52:12.000Z
-    source: TechXplore — AI & Machine Learning
   - title: Thinking Machines Cofounder’s Office Relationship Preceded His Termination
     url: https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/
     summary: Leaders at Mira Murati’s startup believe Barret Zoph engaged in an
