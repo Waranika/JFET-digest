@@ -1,37 +1,94 @@
-date: 2026-01-19
+date: 2026-01-20
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: New memristor training method slashes AI energy use by six orders of
-      magnitude
-    url: https://techxplore.com/news/2026-01-memristor-method-slashes-ai-energy.html
-    summary: In a Nature Communications study, researchers from China have developed
-      an error-aware probabilistic update (EaPU) method that aligns memristor
-      hardware's noisy updates with neural network training, slashing energy use
-      by nearly six orders of magnitude versus GPUs while boosting accuracy on
-      vision tasks. The study validates EaPU on 180 nm memristor arrays and
-      large-scale simulations.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-memristor-training-1.jpg
+  - title: Will Google be 'third time lucky' with new, AI-powered smart glasses?
+    url: https://techxplore.com/news/2026-01-google-lucky-ai-powered-smart.html
+    summary: It has been over a decade since Google Glass smart glasses were
+      announced in 2013, followed by their swift withdrawal—in part because of
+      low adoption. Their subsequent (and lesser known) second iteration was
+      released in 2017 and aimed at the workplace. They were withdrawn in 2023.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-glasses.jpg
     categories:
-      - Hardware
-    publishedAt: 2026-01-18T18:20:01.000Z
+      - Business
+    publishedAt: 2026-01-20T01:20:01.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Engineers just created a “phonon laser” that could shrink your next
-      smartphone
-    url: https://www.sciencedaily.com/releases/2026/01/260116035319.htm
-    summary: Engineers have created a device that generates incredibly tiny,
-      earthquake-like vibrations on a microchip—and it could transform future
-      electronics. Using a new kind of “phonon laser,” the team can produce
-      ultra-fast surface waves that already play a hidden role in smartphones,
-      GPS systems, and wireless tech. Unlike today’s bulky setups, this
-      single-chip device could deliver far higher performance using less power,
-      opening the door to smaller, faster, and more efficient phones and
-      wireless devices.
-    imageUrl: https://www.sciencedaily.com/images/1920/phonon-laser-chip.webp
+  - title: Solid-state material can store and release hydrogen using sunlight or LEDs
+    url: https://techxplore.com/news/2026-01-solid-state-material-hydrogen-sunlight.html
+    summary: Hydrogen, a clean energy source, requires a highly reliable and safe
+      storage system, which is currently lacking. Layered hydrogen silicane
+      (L-HSi) is a promising, safe, lightweight, and energy-efficient
+      solid-state hydrogen carrier with potential for practical utility. This
+      material releases hydrogen when irradiated with low-intensity
+      visible-light sources like sunlight or LEDs. L-HSi represents a new
+      direction for hydrogen carrier system research.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/layered-hydrogen-silic.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-01-19T21:21:35.000Z
+    source: TechXplore — Engineering
+  - title: AI Boosts Research Careers, but Flattens Scientific Discovery
+    url: https://spectrum.ieee.org/ai-science-research-flattens-discovery
+    summary: AI is turning scientists into publishing machines—and quietly funneling
+      them into the same crowded corners of research.
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-the-tip-of-a-pencil-breaking-the-shattered-graphite-pieces-resemble-sparkles-frequently-used-for-ai-application.jpg?id=62826545&width=1200&height=800&coordinates=0%2C208%2C0%2C209
+    categories:
+      - Scientific research
+      - Machine learning
+      - Deep learning
+      - Artificial intelligence
+      - Ai scientist
+      - Publications
+    publishedAt: 2026-01-19T14:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: Inside the mysterious collapse of dark matter halos
+    url: https://www.sciencedaily.com/releases/2026/01/260118233609.htm
+    summary: Physicists have unveiled a new way to simulate a mysterious form of
+      dark matter that can collide with itself but not with normal matter. This
+      self-interacting dark matter may trigger a dramatic collapse inside dark
+      matter halos, heating and densifying their cores in surprising ways. Until
+      now, this crucial middle ground of behavior was nearly impossible to model
+      accurately. The new code makes these simulations faster, more precise, and
+      accessible enough to run on a laptop.
+    imageUrl: https://www.sciencedaily.com/images/1920/dark-matter-halo-collapse.webp
     categories: []
-    publishedAt: 2026-01-17T15:43:09.000Z
+    publishedAt: 2026-01-19T12:52:41.000Z
     source: ScienceDaily — Computer Science
+  - title: This tiny power module could change how the world uses energy
+    url: https://www.sciencedaily.com/releases/2026/01/260118233604.htm
+    summary: As global energy demand surges—driven by AI-hungry data centers,
+      advanced manufacturing, and electrified transportation—researchers at the
+      National Renewable Energy Laboratory have unveiled a breakthrough that
+      could help squeeze far more power from existing electricity supplies.
+      Their new silicon-carbide-based power module, called ULIS, packs
+      dramatically more power into a smaller, lighter, and cheaper design while
+      wasting far less energy in the process.
+    imageUrl: https://www.sciencedaily.com/images/1920/nrel-ulis-power-module.webp
+    categories: []
+    publishedAt: 2026-01-19T12:05:39.000Z
+    source: ScienceDaily — Engineering
+  - title: The Search for Alien Artifacts Is Coming Into Focus
+    url: https://www.wired.com/story/the-search-for-alien-artifacts-is-coming-into-focus/
+    summary: From surveys of the pre-Sputnik skies to analysis of interstellar
+      visitors, scientists are rethinking how and where to look for physical
+      traces of alien technology.
+    imageUrl: https://media.wired.com/photos/6967ce15685933202e631c13/191:100/w_1280,c_limit/sci-alien-objects-1203211214.jpg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-01-19T11:00:00.000Z
+    source: WIRED science
+  - title: The Race to Build the DeepSeek of Europe Is On
+    url: https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/
+    summary: As Europe’s longstanding alliance with the US falters, its push to
+      become a self-sufficient AI superpower has become more urgent.
+    imageUrl: https://media.wired.com/photos/696af5f8760211e43e025ef8/191:100/w_1280,c_limit/DeepSeek-Europe-Race-Business-2196250439.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-01-19T07:00:00.000Z
+    source: WIRED (AI)
   - title: Soft robotic hand 'sees' around corners to achieve human-like touch
     url: https://techxplore.com/news/2026-01-soft-robotic-corners-human.html
     summary: To reliably complete household chores, assemble products and tackle
@@ -45,7 +102,7 @@ articles:
     categories:
       - Robotics
     publishedAt: 2026-01-17T15:30:03.000Z
-    source: TechXplore — Engineering
+    source: TechXplore — Robotics
   - title: AI maps the hidden forces shaping cancer survival worldwide
     url: https://www.sciencedaily.com/releases/2026/01/260117053526.htm
     summary: Researchers have turned artificial intelligence into a powerful new
@@ -58,34 +115,6 @@ articles:
     categories: []
     publishedAt: 2026-01-17T14:26:53.000Z
     source: ScienceDaily — Robotics
-  - title: Are There Enough Engineers for the AI Boom?
-    url: https://spectrum.ieee.org/ai-data-centers-engineers-jobs
-    summary: The AI data center construction boom continues unabated, with the
-      demand for power in the United States potentially reaching 106 gigawatts
-      by 2035, according to a December report from research and analysis company
-      BloombergNEF. That’s a 36 percent jump from the company’s previous
-      outlook, published just seven months earlier. But there are severe
-      constraints in power availability, material, equipment, and—perhaps most
-      significantly—a lack of engineers, technicians, and skilled craftsmen that
-      could turn the data center boom into a bust.
-    imageUrl: https://spectrum.ieee.org/media-library/aero-gas-turbines-being-installed-in-a-desert-like-landscape.jpg?id=62826721&width=1200&height=800&coordinates=0%2C83%2C0%2C84
-    categories:
-      - Artificial intelligence
-      - Data centers
-      - Careers
-      - Engineering jobs
-    publishedAt: 2026-01-17T14:00:01.000Z
-    source: IEEE Spectrum — AI
-  - title: Thinking Machines Cofounder’s Office Relationship Preceded His Termination
-    url: https://www.wired.com/story/thinking-machines-lab-cofounder-office-relationship-firing-openai/
-    summary: Leaders at Mira Murati’s startup believe Barret Zoph engaged in an
-      incident of “serious misconduct.” The details are now coming to light.
-    imageUrl: https://media.wired.com/photos/696a8f537c423f5d10d2153d/191:100/w_1280,c_limit/Serious-Ethical-Misconduct-at-Thinking-Machines-Business-1320133023.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-01-17T00:40:41.000Z
-    source: WIRED (AI)
   - title: "Video Friday: Bipedal Robot Stops Itself From Falling"
     url: https://spectrum.ieee.org/video-friday-bipedal-robot
     summary: Video Friday is your weekly selection of awesome robotics videos,
@@ -115,29 +144,6 @@ articles:
     categories: []
     publishedAt: 2026-01-16T15:28:30.000Z
     source: ScienceDaily — Artificial Intelligence
-  - title: How Does the Hive Mind Work in ‘Pluribus?
-    url: https://www.wired.com/story/how-does-the-hive-mind-work-in-pluribus/
-    summary: The “Joining” seems to connect people via radio waves. Let’s dig into
-      the physics at play.
-    imageUrl: https://media.wired.com/photos/696770c527e4d5dcaa4ce890/191:100/w_1280,c_limit/Pluribus_Photo_010804.jpg
-    categories:
-      - Science
-      - Science / Physics and Math
-    publishedAt: 2026-01-16T12:00:00.000Z
-    source: WIRED science
-  - title: How everyday foam reveals the secret logic of artificial intelligence
-    url: https://www.sciencedaily.com/releases/2026/01/260114084109.htm
-    summary: Foams were once thought to behave like glass, with bubbles frozen in
-      place at the microscopic level. But new simulations reveal that foam
-      bubbles are always shifting, even while the foam keeps its overall shape.
-      Remarkably, this restless motion follows the same math used to train
-      artificial intelligence. The finding hints that learning-like behavior may
-      be a fundamental principle shared by materials, machines, and living
-      cells.
-    imageUrl: https://www.sciencedaily.com/images/1920/microscopic-bubbles-moving-in-foam.webp
-    categories: []
-    publishedAt: 2026-01-15T05:20:26.000Z
-    source: ScienceDaily — Engineering
   - title: At MIT, a continued commitment to understanding intelligence
     url: https://news.mit.edu/2026/continued-commitment-to-understanding-intelligence-0114
     summary: The MIT Siegel Family Quest for Intelligence (SQI), a research unit in
