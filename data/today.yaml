@@ -1,34 +1,124 @@
-date: 2026-01-20
+date: 2026-01-21
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Will Google be 'third time lucky' with new, AI-powered smart glasses?
-    url: https://techxplore.com/news/2026-01-google-lucky-ai-powered-smart.html
-    summary: It has been over a decade since Google Glass smart glasses were
-      announced in 2013, followed by their swift withdrawal—in part because of
-      low adoption. Their subsequent (and lesser known) second iteration was
-      released in 2017 and aimed at the workplace. They were withdrawn in 2023.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-glasses.jpg
-    categories:
-      - Business
-    publishedAt: 2026-01-20T01:20:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Solid-state material can store and release hydrogen using sunlight or LEDs
-    url: https://techxplore.com/news/2026-01-solid-state-material-hydrogen-sunlight.html
-    summary: Hydrogen, a clean energy source, requires a highly reliable and safe
-      storage system, which is currently lacking. Layered hydrogen silicane
-      (L-HSi) is a promising, safe, lightweight, and energy-efficient
-      solid-state hydrogen carrier with potential for practical utility. This
-      material releases hydrogen when irradiated with low-intensity
-      visible-light sources like sunlight or LEDs. L-HSi represents a new
-      direction for hydrogen carrier system research.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/layered-hydrogen-silic.jpg
+  - title: Why it’s critical to move beyond overly aggregated machine-learning metrics
+    url: https://news.mit.edu/2026/why-its-critical-to-move-beyond-overly-aggregated-machine-learning-metrics-0120
+    summary: MIT researchers have identified significant examples of
+      machine-learning model failure when those models are applied to data other
+      than what they were trained on, raising questions about the need to test
+      whenever a model is deployed in a new setting.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/mit-lids-Ghassemi.jpg?itok=0Xn50RHx
+    categories: []
+    publishedAt: 2026-01-20T21:30:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Newly discovered metallic material with record thermal conductivity
+      upends assumptions about heat transport limits
+    url: https://techxplore.com/news/2026-01-newly-metallic-material-thermal-upends.html
+    summary: A UCLA-led, multi-institution research team has discovered a metallic
+      material with the highest thermal conductivity measured among metals,
+      challenging long-standing assumptions about the limits of heat transport
+      in metallic materials.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ucla-led-team-discover.jpg
     categories:
       - Engineering
-    publishedAt: 2026-01-19T21:21:35.000Z
+    publishedAt: 2026-01-20T21:00:04.000Z
     source: TechXplore — Engineering
-  - title: AI Boosts Research Careers, but Flattens Scientific Discovery
+  - title: Findings on phonetic reduction in speech could help make AI voices more
+      natural-sounding
+    url: https://techxplore.com/news/2026-01-phonetic-reduction-speech-ai-voices.html
+    summary: A speech study by a research team from The University of Texas at El
+      Paso has identified an underappreciated aspect of speech in English and
+      Spanish speakers that could lead to improvements in artificial
+      intelligence (AI) spoken dialogue systems.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/conversation-1.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-01-20T20:50:01.000Z
+    source: TechXplore — Computer Science
+  - title: A new way to “paint with light” to create radiant, color-changing items
+    url: https://news.mit.edu/2026/mit-morphochrome-paints-objects-with-light-0120
+    summary: Gemstones like precious opal are beautiful to look at and deceivingly
+      complex. As you look at such gems from different angles, you’ll see a
+      variety of tints glisten, causing you to question what color the rock
+      actually is. It’s iridescent thanks to something called structural color —
+      microscopic structures that reflect light to produce radiant
+      hues.Structural color can be found across different organisms in nature,
+      such as on the tails of peacocks and the wings of certain butterflies.
+      Scientists and artists have been working to replicate this quality, but
+      outside of the lab, it’s still very hard to recreate, causing a barrier to
+      on-demand, customizable fabrication. Instead, companies and individual
+      designers alike have resorted to adding existing color-changing objects
+      like feathers and gems to things like personal items, clothes, and
+      artwork.Now MIT Computer Science and Artificial Intelligence Laboratory
+      (CSAIL) researchers have replicated nature’s brilliance with a new optical
+      system called “MorphoChrome.” MorphoChrome allows users to design and
+      program iridescence onto everyday objects (like a glove, for example),
+      augmenting them with the structurally colored multi-color glimmer
+      reminiscent of many gemstones. You select particular colors from a color
+      wheel in the team’s software program and use their handheld device to
+      “paint” with multi-color light onto holographic film. Then, you apply that
+      painted sheet to 3D-printed objects or flexible substrates such as fashion
+      items, sporting goods, and other personal accessories, using their unique
+      epoxy resin transfer process.“We wanted to tap into the innate
+      intelligence of nature,” says MIT Department of Electrical Engineering and
+      Computer Science (EECS) PhD student and CSAIL researcher Paris Myers SM
+      ’25, who is a lead author on a recent paper presenting MorphoChrome. “In
+      the past, you couldn’t easily synthesize structural color yourself, but
+      using pigments or dyes gave you full creative expression. With our system,
+      you have full creative agency over this new material space, predictably
+      programming iridescent designs in real-time.”
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/mit-csail-morphochrome.gif?itok=KDjHMA9O
+    categories: []
+    publishedAt: 2026-01-20T20:45:00.000Z
+    source: MIT Engineering
+  - title: ‘Veronika’ Is the First Cow Known to Use a Tool
+    url: https://www.wired.com/story/veronika-is-the-first-cow-known-to-use-a-tool/
+    summary: This is the first recorded instance of a bovine using tools from her
+      environment to relieve an itch—leaving scientists astonished.
+    imageUrl: https://media.wired.com/photos/696fc7172b7fe1823a2ddda2/191:100/w_1280,c_limit/Low-Res_Veronika%20resting%20while%20using%20a%20stick%20-%20Photo%20credit%20-%20Antonio%20J%20Osuna%20Mascar%C3%B3.png
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-01-20T19:51:45.000Z
+    source: WIRED science
+  - title: A geometric twist boosts the power of robotic textiles
+    url: https://techxplore.com/news/2026-01-geometric-boosts-power-robotic-textiles.html
+    summary: By rethinking how thin metal threads are woven into a flexible textile,
+      EPFL researchers have created a lightweight fabric capable of lifting over
+      400 times its own weight. The work advances the development of wearables
+      that provide physical assistance without mechanical bulk.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-geometric-twist-boos.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-01-20T15:34:28.000Z
+    source: TechXplore — Robotics
+  - title: Unbreakable? Researchers warn quantum computers have serious security flaws
+    url: https://www.sciencedaily.com/releases/2026/01/260120000330.htm
+    summary: Quantum computers could revolutionize everything from drug discovery to
+      business analytics—but their incredible power also makes them surprisingly
+      vulnerable. New research from Penn State warns that today’s quantum
+      machines are not just futuristic tools, but potential gold mines for
+      hackers. The study reveals that weaknesses can exist not only in software,
+      but deep within the physical hardware itself, where valuable algorithms
+      and sensitive data may be exposed.
+    imageUrl: https://www.sciencedaily.com/images/1920/quantum-cryptography-encryption-key.webp
+    categories: []
+    publishedAt: 2026-01-20T14:03:36.000Z
+    source: ScienceDaily — Computer Science
+  - title: China’s AI Boyfriend Business Is Taking On a Life of Its Own
+    url: https://www.wired.com/story/china-ai-boyfriends/
+    summary: Gen Z women in China are all in on digital companionship—even setting
+      up dates with real-world versions of their AI boyfriends.
+    imageUrl: https://media.wired.com/photos/6968f91882b675266953a076/191:100/w_1280,c_limit/20251129-3105.jpg
+    categories:
+      - The Big Story
+      - Culture
+      - Culture / Digital Culture
+    publishedAt: 2026-01-20T11:00:00.000Z
+    source: WIRED (AI)
+  - title: AI Boosts Research Careers but Flattens Scientific Discovery
     url: https://spectrum.ieee.org/ai-science-research-flattens-discovery
     summary: AI is turning scientists into publishing machines—and quietly funneling
       them into the same crowded corners of research.
@@ -42,19 +132,6 @@ articles:
       - Publications
     publishedAt: 2026-01-19T14:00:02.000Z
     source: IEEE Spectrum — AI
-  - title: Inside the mysterious collapse of dark matter halos
-    url: https://www.sciencedaily.com/releases/2026/01/260118233609.htm
-    summary: Physicists have unveiled a new way to simulate a mysterious form of
-      dark matter that can collide with itself but not with normal matter. This
-      self-interacting dark matter may trigger a dramatic collapse inside dark
-      matter halos, heating and densifying their cores in surprising ways. Until
-      now, this crucial middle ground of behavior was nearly impossible to model
-      accurately. The new code makes these simulations faster, more precise, and
-      accessible enough to run on a laptop.
-    imageUrl: https://www.sciencedaily.com/images/1920/dark-matter-halo-collapse.webp
-    categories: []
-    publishedAt: 2026-01-19T12:52:41.000Z
-    source: ScienceDaily — Computer Science
   - title: This tiny power module could change how the world uses energy
     url: https://www.sciencedaily.com/releases/2026/01/260118233604.htm
     summary: As global energy demand surges—driven by AI-hungry data centers,
@@ -68,41 +145,6 @@ articles:
     categories: []
     publishedAt: 2026-01-19T12:05:39.000Z
     source: ScienceDaily — Engineering
-  - title: The Search for Alien Artifacts Is Coming Into Focus
-    url: https://www.wired.com/story/the-search-for-alien-artifacts-is-coming-into-focus/
-    summary: From surveys of the pre-Sputnik skies to analysis of interstellar
-      visitors, scientists are rethinking how and where to look for physical
-      traces of alien technology.
-    imageUrl: https://media.wired.com/photos/6967ce15685933202e631c13/191:100/w_1280,c_limit/sci-alien-objects-1203211214.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-01-19T11:00:00.000Z
-    source: WIRED science
-  - title: The Race to Build the DeepSeek of Europe Is On
-    url: https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/
-    summary: As Europe’s longstanding alliance with the US falters, its push to
-      become a self-sufficient AI superpower has become more urgent.
-    imageUrl: https://media.wired.com/photos/696af5f8760211e43e025ef8/191:100/w_1280,c_limit/DeepSeek-Europe-Race-Business-2196250439.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-01-19T07:00:00.000Z
-    source: WIRED (AI)
-  - title: Soft robotic hand 'sees' around corners to achieve human-like touch
-    url: https://techxplore.com/news/2026-01-soft-robotic-corners-human.html
-    summary: To reliably complete household chores, assemble products and tackle
-      other manual tasks, robots should be able to adapt their manipulation
-      strategies based on the objects they are working with, similarly to how
-      humans leverage information they gain via the sense of touch. While humans
-      attain tactile information via nerves in their skin and muscles, robots
-      rely on sensors, devices that sense their surroundings and pick up
-      specific physical signals.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-soft-robotic-hand-de.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-01-17T15:30:03.000Z
-    source: TechXplore — Robotics
   - title: AI maps the hidden forces shaping cancer survival worldwide
     url: https://www.sciencedaily.com/releases/2026/01/260117053526.htm
     summary: Researchers have turned artificial intelligence into a powerful new
@@ -131,43 +173,6 @@ articles:
       - Industrial robots
     publishedAt: 2026-01-16T18:30:02.000Z
     source: IEEE Spectrum — Robotics
-  - title: The breakthrough that makes robot faces feel less creepy
-    url: https://www.sciencedaily.com/releases/2026/01/260116035308.htm
-    summary: Humans pay enormous attention to lips during conversation, and robots
-      have struggled badly to keep up. A new robot developed at Columbia
-      Engineering learned realistic lip movements by watching its own reflection
-      and studying human videos online. This allowed it to speak and sing with
-      synchronized facial motion, without being explicitly programmed.
-      Researchers believe this breakthrough could help robots finally cross the
-      uncanny valley.
-    imageUrl: https://www.sciencedaily.com/images/1920/lip-syncing-robot.webp
-    categories: []
-    publishedAt: 2026-01-16T15:28:30.000Z
-    source: ScienceDaily — Artificial Intelligence
-  - title: At MIT, a continued commitment to understanding intelligence
-    url: https://news.mit.edu/2026/continued-commitment-to-understanding-intelligence-0114
-    summary: The MIT Siegel Family Quest for Intelligence (SQI), a research unit in
-      the MIT Schwarzman College of Computing, brings together researchers from
-      across MIT who combine their diverse expertise to understand intelligence
-      through tightly coupled scientific inquiry and rigorous engineering. These
-      researchers engage in collaborative efforts spanning science, engineering,
-      the humanities, and more.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/mit-quest.jpg?itok=Z4AIAI6Y
-    categories: []
-    publishedAt: 2026-01-14T21:50:00.000Z
-    source: MIT Artificial Intelligence
-  - title: New framework helps AI systems recover from mistakes and find optimal
-      solutions
-    url: https://techxplore.com/news/2026-01-framework-ai-recover-optimal-solutions.html
-    summary: 'If you use consumer AI systems, you have likely experienced something
-      like AI "brain fog": You are well into a conversation when suddenly the AI
-      seems to lose track of the different ideas you have been talking about and
-      how they fit together.'
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/helping-ai-systems-rec.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-01-14T12:59:21.000Z
-    source: TechXplore — Computer Science
   - title: Nvidia’s New Rubin Architecture Thrives on Networking
     url: https://spectrum.ieee.org/nvidia-rubin-networking
     summary: Earlier this week, Nvidia surprise-announced their new Vera Rubin
@@ -176,7 +181,7 @@ articles:
       customers later this year, is advertised to offer a tenfold reduction in
       inference costs and a fourfold reduction in how many GPUs it would take to
       train certain models, as compared to Nvidia’s Blackwell architecture.
-    imageUrl: https://spectrum.ieee.org/media-library/nvidia-s-vera-rubin-ai-supercomputer-made-up-of-several-racks-of-cpus-and-gpus.jpg?id=62697156&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    imageUrl: https://spectrum.ieee.org/media-library/nvidia-s-vera-rubin-ai-supercomputer-made-up-of-several-racks-of-cpus-and-gpus.jpg?id=62697156&width=1200&height=800&coordinates=62%2C0%2C63%2C0
     categories:
       - Nvidia
       - Networking
@@ -184,17 +189,6 @@ articles:
       - Ai
     publishedAt: 2026-01-10T14:00:02.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: 2.009 mechanical engineering students embrace “cycles”
-    url: https://news.mit.edu/2026/product-engineering-students-embrace-cycles-0108
-    summary: MIT’s senior capstone course 2.009 (Product Engineering Processes), an
-      iconic class known colloquially on campus as “two double-oh nine,”
-      emulates what engineers experience while working as part of a design team
-      at a product development firm. The annual prototype launch is a colorful
-      and exciting culmination of a semester’s worth of work.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/25-12-08-Final-Presentations-4173-Enhanced-NR_0.jpg?itok=KUiOhsr1
-    categories: []
-    publishedAt: 2026-01-08T22:10:00.000Z
-    source: MIT Engineering
   - title: See the Sky Like Never Before With a DIY Eyepiece
     url: https://spectrum.ieee.org/diy-astrophotography-eyepiece
     summary: When it comes to viewing nebulae, galaxies, and other deep-sky objects,
