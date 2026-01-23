@@ -1,59 +1,78 @@
-date: 2026-01-22
+date: 2026-01-23
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "Creative talent: Has AI knocked humans out?"
-    url: https://techxplore.com/news/2026-01-creative-talent-ai-humans.html
-    summary: Are generative artificial intelligence systems such as ChatGPT truly
-      creative? A research team led by Professor Karim Jerbi from the Department
-      of Psychology at the Université de Montréal, and including AI pioneer
-      Yoshua Bengio, also a professor at Université de Montréal, has just
-      published the largest comparative study ever conducted on the creativity
-      of large language models versus humans.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/ai-4.jpg
+  - title: Grok created three million sexualized images, research says
+    url: https://techxplore.com/news/2026-01-grok-million-sexualized-images.html
+    summary: Elon Musk's AI chatbot Grok generated an estimated three million
+      sexualized images of women and children in a matter of days, researchers
+      said Thursday, revealing the scale of the explicit content that sparked a
+      global outcry.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/groks-digital-undressi.jpg
     categories:
-      - Computer Sciences
-    publishedAt: 2026-01-21T23:30:05.000Z
+      - Machine learning & AI
+    publishedAt: 2026-01-22T20:52:37.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: AI is already writing almost one-third of new software code, study shows
+    url: https://techxplore.com/news/2026-01-ai-software-code.html
+    summary: "Generative AI is reshaping software development—and fast. A new study
+      published in Science shows that AI-assisted coding is spreading rapidly,
+      though unevenly: in the U.S., the share of new code relying on AI rose
+      from 5% in 2022 to 29% in early 2025, compared with just 12% in China. AI
+      usage is highest among less experienced programmers, but productivity
+      gains go to seasoned developers."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-is-already-writing.jpg
+    categories:
+      - Software
+    publishedAt: 2026-01-22T19:00:07.000Z
     source: TechXplore — Computer Science
-  - title: "Unlocking vast lithium stores: Faster, cleaner method extracts critical
-      mineral from low-grade brines"
-    url: https://techxplore.com/news/2026-01-vast-lithium-faster-cleaner-method.html
-    summary: "Demand for lithium is skyrocketing as factories across the world churn
-      out electric vehicles and the massive batteries that make wind turbines
-      and solar panels reliable sources of energy. Unfortunately, current
-      methods for producing lithium are slow and require high-quality feedstocks
-      that are found in relatively few locations on the planet. Ironically, the
-      environmental costs are also significant: refining the mineral behind
-      clean energy requires large amounts of land and pollutes water supplies
-      that local communities depend on."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-new-method-to-unlock-1.jpg
+  - title: Musk makes Davos debut with promise of robots for all
+    url: https://techxplore.com/news/2026-01-musk-davos-debut-robots.html
+    summary: Elon Musk sees his humanoid robots hitting the market next year, one of
+      several "optimistic" forecasts by the US tech mogul at his first-ever
+      Davos appearance on Thursday.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/who-wouldnt-want-a-rob.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-01-22T18:52:03.000Z
+    source: TechXplore — Robotics
+  - title: Microalgae could be future for sustainable architecture in Western
+      Australia
+    url: https://techxplore.com/news/2026-01-microalgae-future-sustainable-architecture-western.html
+    summary: Microalgae‑based architecture is gaining attention globally as a
+      sustainable design solution, and the concept could soon become a reality
+      in Western Australia.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/could-microalgae-be-th.jpg
     categories:
       - Engineering
-    publishedAt: 2026-01-21T22:11:55.000Z
+    publishedAt: 2026-01-22T15:06:47.000Z
     source: TechXplore — Engineering
-  - title: What We Know About the Winter Storm About to Hit the US—and What We Don’t
-    url: https://www.wired.com/story/winter-storm-about-to-hit-the-us-snow-freezing-rain/
-    summary: A huge portion of the United States is going to be hit with snow or
-      freezing rain this weekend. Exactly where, what, and how much remains
-      uncertain.
-    imageUrl: https://media.wired.com/photos/6970eb92ec79c86b7151d72f/191:100/w_1280,c_limit/GettyImages-2247293762.jpg
+  - title: How to Compute With Electron Waves
+    url: https://spectrum.ieee.org/plasmon-computing-device
+    summary: "Much has been made of the excessive power demands of AI, but solutions
+      are sparse. This has led engineers to consider completely new paradigms in
+      computing: optical, thermodynamic, reversible—the list goes on. Many of
+      these approaches require a change in the materials used for computation,
+      which would demand an overhaul in the CMOS fabrication techniques used
+      today."
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-wavy-line.jpg?id=62998822&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Plasmon
+      - Cmos
+      - Ai
+      - Computer-architecture
+    publishedAt: 2026-01-22T14:00:02.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: The US Is In For Another Bad Year of Measles Cases
+    url: https://www.wired.com/story/the-us-is-in-for-another-bad-year-of-measles-cases/
+    summary: A growing measles outbreak in South Carolina has infected more than 600
+      people since October, with hundreds more being potentially exposed.
+    imageUrl: https://media.wired.com/photos/69724bb3b8521df741e3b755/191:100/w_1280,c_limit/sci-measles-2152300012.jpg
     categories:
       - Science
-      - Science / Environment
-    publishedAt: 2026-01-21T19:03:03.000Z
+    publishedAt: 2026-01-22T11:00:00.000Z
     source: WIRED science
-  - title: The US and China Are Collaborating More Closely on AI Than You Think
-    url: https://www.wired.com/story/us-china-collaboration-neurips-papers/
-    summary: WIRED analyzed more than 5,000 papers from NeurIPS using OpenAI’s Codex
-      to understand the areas where the US and China actually work together on
-      AI research.
-    imageUrl: https://media.wired.com/photos/69710742e56cedae6f89e032/191:100/w_1280,c_limit/AI-Lab-US-China-Cutting-Edge-AI-Business.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-01-21T19:00:00.000Z
-    source: WIRED (AI)
   - title: Why AI Keeps Falling for Prompt Injection Attacks
     url: https://spectrum.ieee.org/prompt-injection-attack
     summary: "Imagine you work at a drive-through restaurant. Someone drives up and
@@ -63,26 +82,14 @@ articles:
       (LLMs) do."
     imageUrl: https://spectrum.ieee.org/media-library/cartoon-arms-holding-cash-and-burger-connected-by-tubes-to-a-machine-on-a-green-grid-background.png?id=62858670&width=1245&height=700&coordinates=0%2C109%2C0%2C110
     categories:
-      - Large language models
+      - Large-language-models
       - Llms
-      - Prompt injection attacks
-      - Ai safety
+      - Prompt-injection-attacks
+      - Ai-safety
       - Cybersecurity
-      - Agentic ai
+      - Agentic-ai
     publishedAt: 2026-01-21T13:00:02.000Z
     source: IEEE Spectrum — AI
-  - title: Handy robot can crawl and pick up objects from multiple angles
-    url: https://techxplore.com/news/2026-01-handy-robot-multiple-angles.html
-    summary: Like something out of the Addams Family, scientists have created a
-      detachable robotic hand that can crawl and grab objects. The design
-      enables tasks such as retrieving objects beyond normal reach and
-      performing multi-object handling, offering potential applications in
-      industrial, service, and exploratory robotics.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/handy-robot-can-crawl.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-01-21T10:01:35.000Z
-    source: TechXplore — Robotics
   - title: This new building material pulls carbon out of the air
     url: https://www.sciencedaily.com/releases/2026/01/260121034148.htm
     summary: A new building material developed by engineers at Worcester Polytechnic
@@ -150,29 +157,13 @@ articles:
     imageUrl: https://spectrum.ieee.org/media-library/prototype-robot-next-to-a-digital-model-both-with-rounded-bodies-and-dome-shaped-heads.png?id=62822757&width=1245&height=700&coordinates=13%2C0%2C13%2C0
     categories:
       - Robotics
-      - Video friday
-      - Bipedal robots
-      - Humanoid robots
-      - Quadruped robots
-      - Industrial robots
+      - Video-friday
+      - Bipedal-robots
+      - Humanoid-robots
+      - Quadruped-robots
+      - Industrial-robots
     publishedAt: 2026-01-16T18:30:02.000Z
     source: IEEE Spectrum — Robotics
-  - title: Nvidia’s New Rubin Architecture Thrives on Networking
-    url: https://spectrum.ieee.org/nvidia-rubin-networking
-    summary: Earlier this week, Nvidia surprise-announced their new Vera Rubin
-      architecture (no relation to the recently unveiled telescope) at the
-      Consumer Electronics Show in Las Vegas. The new platform, set to reach
-      customers later this year, is advertised to offer a tenfold reduction in
-      inference costs and a fourfold reduction in how many GPUs it would take to
-      train certain models, as compared to Nvidia’s Blackwell architecture.
-    imageUrl: https://spectrum.ieee.org/media-library/nvidia-s-vera-rubin-ai-supercomputer-made-up-of-several-racks-of-cpus-and-gpus.jpg?id=62697156&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Nvidia
-      - Networking
-      - Data center
-      - Ai
-    publishedAt: 2026-01-10T14:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: See the Sky Like Never Before With a DIY Eyepiece
     url: https://spectrum.ieee.org/diy-astrophotography-eyepiece
     summary: When it comes to viewing nebulae, galaxies, and other deep-sky objects,
