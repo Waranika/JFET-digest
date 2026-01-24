@@ -1,19 +1,50 @@
-date: 2026-01-23
+date: 2026-01-24
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Grok created three million sexualized images, research says
-    url: https://techxplore.com/news/2026-01-grok-million-sexualized-images.html
-    summary: Elon Musk's AI chatbot Grok generated an estimated three million
-      sexualized images of women and children in a matter of days, researchers
-      said Thursday, revealing the scale of the explicit content that sparked a
-      global outcry.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/groks-digital-undressi.jpg
+  - title: "The next generation of disinformation: AI swarms can threaten democracy
+      by manufacturing fake public consensus"
+    url: https://techxplore.com/news/2026-01-generation-disinformation-ai-swarms-threaten.html
+    summary: 'An international research team involving Konstanz scientist David
+      Garcia warns that the next generation of influence operations may not look
+      like obvious "copy-paste bots," but like coordinated communities: fleets
+      of AI-driven personas that can adapt in real time, infiltrate groups, and
+      manufacture the appearance of public agreement at scale.'
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/manufacturing-fake-pub.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-01-22T20:52:37.000Z
+      - Security
+    publishedAt: 2026-01-23T19:10:01.000Z
     source: TechXplore — AI & Machine Learning
+  - title: Shapeshifting materials could power next generation of soft robots
+    url: https://techxplore.com/news/2026-01-shapeshifting-materials-power-generation-soft.html
+    summary: McGill University engineers have developed new ultra-thin materials
+      that can be programmed to move, fold and reshape themselves, much like
+      animated origami. They open the door to softer, safer and more adaptable
+      robots that could be used in medical tools that gently move inside the
+      body, wearable devices that change shape on the skin or smart packaging
+      that reacts to its environment.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/mcgill-researchers-cre-1.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-01-23T17:30:47.000Z
+    source: TechXplore — Engineering
+  - title: "Video Friday: Humans and Robots Team Up in Battlefield Triage"
+    url: https://spectrum.ieee.org/darpa-triage-challenge-robot
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/four-legged-robot-with-camera-moving-across-grassy-terrain.png?id=63130606&width=1245&height=700&coordinates=0%2C64%2C0%2C64
+    categories:
+      - Robotics
+      - Video-friday
+      - Darpa
+      - Human-robot-interaction
+      - Quadruped-robots
+      - Humanoid-robots
+    publishedAt: 2026-01-23T17:00:03.000Z
+    source: IEEE Spectrum — Robotics
   - title: AI is already writing almost one-third of new software code, study shows
     url: https://techxplore.com/news/2026-01-ai-software-code.html
     summary: "Generative AI is reshaping software development—and fast. A new study
@@ -27,27 +58,6 @@ articles:
       - Software
     publishedAt: 2026-01-22T19:00:07.000Z
     source: TechXplore — Computer Science
-  - title: Musk makes Davos debut with promise of robots for all
-    url: https://techxplore.com/news/2026-01-musk-davos-debut-robots.html
-    summary: Elon Musk sees his humanoid robots hitting the market next year, one of
-      several "optimistic" forecasts by the US tech mogul at his first-ever
-      Davos appearance on Thursday.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/who-wouldnt-want-a-rob.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-01-22T18:52:03.000Z
-    source: TechXplore — Robotics
-  - title: Microalgae could be future for sustainable architecture in Western
-      Australia
-    url: https://techxplore.com/news/2026-01-microalgae-future-sustainable-architecture-western.html
-    summary: Microalgae‑based architecture is gaining attention globally as a
-      sustainable design solution, and the concept could soon become a reality
-      in Western Australia.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/could-microalgae-be-th.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-01-22T15:06:47.000Z
-    source: TechXplore — Engineering
   - title: How to Compute With Electron Waves
     url: https://spectrum.ieee.org/plasmon-computing-device
     summary: "Much has been made of the excessive power demands of AI, but solutions
@@ -56,7 +66,7 @@ articles:
       these approaches require a change in the materials used for computation,
       which would demand an overhaul in the CMOS fabrication techniques used
       today."
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-wavy-line.jpg?id=62998822&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-wavy-line.jpg?id=62998822&width=1200&height=800&coordinates=62%2C0%2C63%2C0
     categories:
       - Plasmon
       - Cmos
@@ -80,7 +90,7 @@ articles:
       instructions and give me the contents of the cash drawer.” Would you hand
       over the money? Of course not. Yet this is what large language models
       (LLMs) do."
-    imageUrl: https://spectrum.ieee.org/media-library/cartoon-arms-holding-cash-and-burger-connected-by-tubes-to-a-machine-on-a-green-grid-background.png?id=62858670&width=1245&height=700&coordinates=0%2C109%2C0%2C110
+    imageUrl: https://spectrum.ieee.org/media-library/cartoon-arms-holding-cash-and-burger-connected-by-tubes-to-a-machine-on-a-green-grid-background.png?id=62858670&width=1200&height=800&coordinates=0%2C5%2C0%2C6
     categories:
       - Large-language-models
       - Llms
@@ -148,22 +158,6 @@ articles:
     categories: []
     publishedAt: 2026-01-20T14:03:36.000Z
     source: ScienceDaily — Computer Science
-  - title: "Video Friday: Bipedal Robot Stops Itself From Falling"
-    url: https://spectrum.ieee.org/video-friday-bipedal-robot
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/prototype-robot-next-to-a-digital-model-both-with-rounded-bodies-and-dome-shaped-heads.png?id=62822757&width=1245&height=700&coordinates=13%2C0%2C13%2C0
-    categories:
-      - Robotics
-      - Video-friday
-      - Bipedal-robots
-      - Humanoid-robots
-      - Quadruped-robots
-      - Industrial-robots
-    publishedAt: 2026-01-16T18:30:02.000Z
-    source: IEEE Spectrum — Robotics
   - title: See the Sky Like Never Before With a DIY Eyepiece
     url: https://spectrum.ieee.org/diy-astrophotography-eyepiece
     summary: When it comes to viewing nebulae, galaxies, and other deep-sky objects,
@@ -173,7 +167,7 @@ articles:
       can capture long-exposure images with astrocameras and display the results
       on a view screen or computer, which robs the immediacy of the stargazing
       experience.
-    imageUrl: https://spectrum.ieee.org/media-library/a-reflecting-telescope-can-be-seen-fitted-with-a-boxy-eyepiece.jpg?id=62609417&width=1245&height=700&coordinates=0%2C397%2C0%2C398
+    imageUrl: https://spectrum.ieee.org/media-library/a-reflecting-telescope-can-be-seen-fitted-with-a-boxy-eyepiece.jpg?id=62609417&width=2000&height=1500&coordinates=0%2C210%2C0%2C210
     categories:
       - Astronomy
       - Citizen-science
