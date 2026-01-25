@@ -1,34 +1,60 @@
-date: 2026-01-24
+date: 2026-01-25
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "The next generation of disinformation: AI swarms can threaten democracy
-      by manufacturing fake public consensus"
-    url: https://techxplore.com/news/2026-01-generation-disinformation-ai-swarms-threaten.html
-    summary: 'An international research team involving Konstanz scientist David
-      Garcia warns that the next generation of influence operations may not look
-      like obvious "copy-paste bots," but like coordinated communities: fleets
-      of AI-driven personas that can adapt in real time, infiltrate groups, and
-      manufacture the appearance of public agreement at scale.'
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/manufacturing-fake-pub.jpg
+  - title: Three-in-one process recycles spent lithium batteries, captures CO₂ and
+      generates catalysts—all at room temperature
+    url: https://techxplore.com/news/2026-01-recycles-spent-lithium-batteries-captures.html
+    summary: Scientists from China have developed a new way to recycle lithium
+      batteries that is a triple win for the planet. It not only extracts nearly
+      all the lithium for reuse but also traps carbon dioxide and converts the
+      remaining metal waste into high-performance catalysts for generating green
+      energy.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-three-in-one-room-te.jpg
     categories:
-      - Security
-    publishedAt: 2026-01-23T19:10:01.000Z
+      - Engineering
+    publishedAt: 2026-01-24T18:20:02.000Z
+    source: TechXplore — Engineering
+  - title: How the use of AI for apologies could cause the 'Canadian sorry' to lose
+      its soul
+    url: https://techxplore.com/news/2026-01-ai-canadian-soul.html
+    summary: It is a stereotype that Canadians apologize for everything. We say
+      sorry when you bump into us. We say sorry for the weather. But as we
+      trudge through the gray days of winter, that national instinct for
+      politeness hits a wall of fatigue.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-01-24T18:00:01.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Shapeshifting materials could power next generation of soft robots
-    url: https://techxplore.com/news/2026-01-shapeshifting-materials-power-generation-soft.html
-    summary: McGill University engineers have developed new ultra-thin materials
-      that can be programmed to move, fold and reshape themselves, much like
-      animated origami. They open the door to softer, safer and more adaptable
-      robots that could be used in medical tools that gently move inside the
-      body, wearable devices that change shape on the skin or smart packaging
-      that reacts to its environment.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/mcgill-researchers-cre-1.jpg
+  - title: Swarms of mini robots that 'bloom' could lead to adaptive architecture
+    url: https://techxplore.com/news/2026-01-swarms-mini-robots-bloom-architecture.html
+    summary: Nature is, of course, the master engineer—been there, seen it, solved
+      it. While we struggle to design buildings that don't overheat or feel like
+      concrete cages, nature has been perfecting comfortable living structures
+      for ages. Now scientists are borrowing from the natural world again; this
+      time, to build a swarm of interconnected mini-robots that could lead to
+      buildings with dynamic facades that respond to sunlight and the people
+      inside.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/swarms-of-mini-robots.jpg
     categories:
       - Robotics
-    publishedAt: 2026-01-23T17:30:47.000Z
-    source: TechXplore — Engineering
+    publishedAt: 2026-01-24T15:50:02.000Z
+    source: TechXplore — Robotics
+  - title: "Gear News of the Week: Apple’s AI Wearable and a Phone That Can Boot
+      Android, Linux, and Windows"
+    url: https://www.wired.com/story/gear-news-of-the-week-apples-ai-wearable-and-a-phone-that-can-boot-android-linux-and-windows/
+    summary: "Plus: Asus exits the smartphone market, and Sony partners with TCL on
+      TVs."
+    imageUrl: https://media.wired.com/photos/6973e07957e4f3e5a01e8bfe/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20Apple's%20AI%20Wearable,%20a%20Phone%20That%20Can%20Boot%20Android,%20Linux,%20and%20Windows.png
+    categories:
+      - Gear
+      - Gear / Gear News and Events
+      - Gear / Products / Televisions
+      - Gear / Products / Phones
+    publishedAt: 2026-01-24T11:00:00.000Z
+    source: WIRED (AI)
   - title: "Video Friday: Humans and Robots Team Up in Battlefield Triage"
     url: https://spectrum.ieee.org/darpa-triage-challenge-robot
     summary: Video Friday is your weekly selection of awesome robotics videos,
@@ -66,7 +92,7 @@ articles:
       these approaches require a change in the materials used for computation,
       which would demand an overhaul in the CMOS fabrication techniques used
       today."
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-wavy-line.jpg?id=62998822&width=1200&height=800&coordinates=62%2C0%2C63%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-wavy-line.jpg?id=62998822&width=1200&height=600&coordinates=0%2C125%2C0%2C125
     categories:
       - Plasmon
       - Cmos
