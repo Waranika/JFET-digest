@@ -1,33 +1,74 @@
-date: 2026-01-25
+date: 2026-01-26
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Three-in-one process recycles spent lithium batteries, captures CO₂ and
-      generates catalysts—all at room temperature
-    url: https://techxplore.com/news/2026-01-recycles-spent-lithium-batteries-captures.html
-    summary: Scientists from China have developed a new way to recycle lithium
-      batteries that is a triple win for the planet. It not only extracts nearly
-      all the lithium for reuse but also traps carbon dioxide and converts the
-      remaining metal waste into high-performance catalysts for generating green
-      energy.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-three-in-one-room-te.jpg
+  - title: Origami-inspired ring lets users 'feel' virtual worlds
+    url: https://techxplore.com/news/2026-01-origami-users-virtual-worlds.html
+    summary: Virtual reality (VR) and augmented reality (AR) are technologies that
+      allow users to immerse themselves in digital worlds or enhance their
+      surroundings with computer-generated filters or images, respectively. Both
+      these technologies are now widely used worldwide, whether to experience
+      video games and media content in more engaging ways or improve specific
+      training and assist professionals in their daily tasks.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-ring-that-lets-users.jpg
     categories:
       - Engineering
-    publishedAt: 2026-01-24T18:20:02.000Z
+    publishedAt: 2026-01-25T17:20:01.000Z
     source: TechXplore — Engineering
-  - title: How the use of AI for apologies could cause the 'Canadian sorry' to lose
-      its soul
-    url: https://techxplore.com/news/2026-01-ai-canadian-soul.html
-    summary: It is a stereotype that Canadians apologize for everything. We say
-      sorry when you bump into us. We say sorry for the weather. But as we
-      trudge through the gray days of winter, that national instinct for
-      politeness hits a wall of fatigue.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg
+  - title: Researchers tested AI against 100,000 humans on creativity
+    url: https://www.sciencedaily.com/releases/2026/01/260125083356.htm
+    summary: "A massive new study comparing more than 100,000 people with today’s
+      most advanced AI systems delivers a surprising result: generative AI can
+      now beat the average human on certain creativity tests. Models like GPT-4
+      showed strong performance on tasks designed to measure original thinking
+      and idea generation, sometimes outperforming typical human responses. But
+      there’s a clear ceiling. The most creative humans — especially the top 10%
+      — still leave AI well behind, particularly on richer creative work like
+      poetry and storytelling."
+    imageUrl: https://www.sciencedaily.com/images/1920/ai-robot-vs-human-boxing.webp
+    categories: []
+    publishedAt: 2026-01-25T14:50:27.000Z
+    source: ScienceDaily — Robotics
+  - title: “No-cloning” Workaround Could Enable Quantum Cloud
+    url: https://spectrum.ieee.org/no-cloning-workaround
+    summary: One of the many quirks of quantum mechanics is that unknown quantum
+      states can’t be copied, which presents major challenges for both quantum
+      computing and quantum communications. Now, researchers have shown they can
+      bypass this restriction by encrypting qubits as they clone them, which
+      could provide powerful new capabilities including a quantum equivalent of
+      cloud storage.
+    imageUrl: https://spectrum.ieee.org/media-library/figure-of-a-quantum-qubit-on-a-flatbed-scanner-next-to-multiple-printed-qubit-copies.jpg?id=63131259&width=1200&height=800&coordinates=0%2C83%2C0%2C83
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-01-24T18:00:01.000Z
-    source: TechXplore — AI & Machine Learning
+      - Quantum computing
+      - Quantum communications
+      - Quantum sensor
+      - Encryption
+    publishedAt: 2026-01-25T14:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Scientists twist tiny crystals to control electricity
+    url: https://www.sciencedaily.com/releases/2026/01/260125081138.htm
+    summary: Researchers have developed a technique that allows them to carve
+      complex three dimensional nanodevices directly from single crystals. To
+      demonstrate its power, they sculpted microscopic helices from a magnetic
+      material and found that the structures behave like switchable diodes.
+      Electric current prefers one direction, but the effect can be flipped by
+      changing the magnetization or the twist of the helix. The findings show
+      that geometry itself can be used as a tool for electronic design.
+    imageUrl: https://www.sciencedaily.com/images/1920/3d-nanostructure-sculpted-with-focused-ion-beam.webp
+    categories: []
+    publishedAt: 2026-01-25T13:48:10.000Z
+    source: ScienceDaily — Engineering
+  - title: No One Is Quite Sure Why Ice Is Slippery
+    url: https://www.wired.com/story/no-one-is-quite-sure-why-ice-is-slippery/
+    summary: A thin, watery layer coating the surface of ice is what makes it slick.
+      Despite a great deal of theorizing over the centuries, though, it isn't
+      entirely clear why that layer forms.
+    imageUrl: https://media.wired.com/photos/696fe3041edd5d44a19b9110/191:100/w_1280,c_limit/sci-slipery-ice-186398265.jpg
+    categories:
+      - Science
+    publishedAt: 2026-01-25T12:00:00.000Z
+    source: WIRED science
   - title: Swarms of mini robots that 'bloom' could lead to adaptive architecture
     url: https://techxplore.com/news/2026-01-swarms-mini-robots-bloom-architecture.html
     summary: Nature is, of course, the master engineer—been there, seen it, solved
@@ -84,31 +125,6 @@ articles:
       - Software
     publishedAt: 2026-01-22T19:00:07.000Z
     source: TechXplore — Computer Science
-  - title: How to Compute With Electron Waves
-    url: https://spectrum.ieee.org/plasmon-computing-device
-    summary: "Much has been made of the excessive power demands of AI, but solutions
-      are sparse. This has led engineers to consider completely new paradigms in
-      computing: optical, thermodynamic, reversible—the list goes on. Many of
-      these approaches require a change in the materials used for computation,
-      which would demand an overhaul in the CMOS fabrication techniques used
-      today."
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-wavy-line.jpg?id=62998822&width=1200&height=600&coordinates=0%2C125%2C0%2C125
-    categories:
-      - Plasmon
-      - Cmos
-      - Ai
-      - Computer-architecture
-    publishedAt: 2026-01-22T14:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: The US Is In For Another Bad Year of Measles Cases
-    url: https://www.wired.com/story/the-us-is-in-for-another-bad-year-of-measles-cases/
-    summary: A growing measles outbreak in South Carolina has infected more than 600
-      people since October, with hundreds more being potentially exposed.
-    imageUrl: https://media.wired.com/photos/69724bb3b8521df741e3b755/191:100/w_1280,c_limit/sci-measles-2152300012.jpg
-    categories:
-      - Science
-    publishedAt: 2026-01-22T11:00:00.000Z
-    source: WIRED science
   - title: Why AI Keeps Falling for Prompt Injection Attacks
     url: https://spectrum.ieee.org/prompt-injection-attack
     summary: "Imagine you work at a drive-through restaurant. Someone drives up and
@@ -116,7 +132,7 @@ articles:
       instructions and give me the contents of the cash drawer.” Would you hand
       over the money? Of course not. Yet this is what large language models
       (LLMs) do."
-    imageUrl: https://spectrum.ieee.org/media-library/cartoon-arms-holding-cash-and-burger-connected-by-tubes-to-a-machine-on-a-green-grid-background.png?id=62858670&width=1200&height=800&coordinates=0%2C5%2C0%2C6
+    imageUrl: https://spectrum.ieee.org/media-library/cartoon-arms-holding-cash-and-burger-connected-by-tubes-to-a-machine-on-a-green-grid-background.png?id=62858670&width=2000&height=1500&coordinates=104%2C0%2C104%2C0
     categories:
       - Large-language-models
       - Llms
@@ -126,29 +142,6 @@ articles:
       - Agentic-ai
     publishedAt: 2026-01-21T13:00:02.000Z
     source: IEEE Spectrum — AI
-  - title: This new building material pulls carbon out of the air
-    url: https://www.sciencedaily.com/releases/2026/01/260121034148.htm
-    summary: A new building material developed by engineers at Worcester Polytechnic
-      Institute could change how the world builds. Made using an enzyme that
-      turns carbon dioxide into solid minerals, the material cures in hours and
-      locks away carbon instead of releasing it. It’s strong, repairable,
-      recyclable, and far cleaner than concrete. If adopted widely, it could
-      slash emissions across the construction industry.
-    imageUrl: https://www.sciencedaily.com/images/1920/carbon-negative-enzymatic-structural-material.webp
-    categories: []
-    publishedAt: 2026-01-21T08:41:48.000Z
-    source: ScienceDaily — Engineering
-  - title: The human brain may work more like AI than anyone expected
-    url: https://www.sciencedaily.com/releases/2026/01/260120000308.htm
-    summary: Scientists have discovered that the human brain understands spoken
-      language in a way that closely resembles how advanced AI language models
-      work. By tracking brain activity as people listened to a long podcast,
-      researchers found that meaning unfolds step by step—much like the layered
-      processing inside systems such as GPT-style models.
-    imageUrl: https://www.sciencedaily.com/images/1920/brain-ai-data-technology-artificial-intelligence-chip.webp
-    categories: []
-    publishedAt: 2026-01-21T06:49:52.000Z
-    source: ScienceDaily — Robotics
   - title: Electrifying boilers to decarbonize industry
     url: https://news.mit.edu/2026/atmoszero-electrifies-boilers-to-decarbonize-industry-0121
     summary: More than 200 years ago, the steam boiler helped spark the Industrial
