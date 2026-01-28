@@ -1,59 +1,101 @@
-date: 2026-01-27
+date: 2026-01-28
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "Artificial metacognition: Giving an AI the ability to 'think' about its
-      'thinking'"
-    url: https://techxplore.com/news/2026-01-artificial-metacognition-ai-ability.html
-    summary: Have you ever had the experience of rereading a sentence multiple times
-      only to realize you still don't understand it? As taught to scores of
-      incoming college freshmen, when you realize you're spinning your wheels,
-      it's time to change your approach.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2019/5-ai.jpg
+  - title: Why the future of AI depends on trust, safety, and system quality
+    url: https://techxplore.com/news/2026-01-future-ai-safety-quality.html
+    summary: When Daniel Graham, an associate professor in the University of
+      Virginia School of Data Science, talks about the future of intelligent
+      systems, he does not begin with the usual vocabulary of cybersecurity or
+      threat mitigation. Instead, he focuses on quality assurance and on how to
+      build digital and physical systems we can trust.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/why-the-future-of-ai-d.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-01-26T22:30:03.000Z
+      - Security
+    publishedAt: 2026-01-28T00:00:01.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Elastic metasurface can capture multiple frequencies at once
-    url: https://techxplore.com/news/2026-01-elastic-metasurface-capture-multiple-frequencies.html
-    summary: "It has long been considered common sense that a single device performs
-      only one function. Just as tuning a radio to a different frequency changes
-      the channel, systems that manipulate waves have traditionally been
-      designed to operate at only one specific frequency, requiring different
-      devices for different frequencies. Now, however, researchers have opened
-      up a new possibility: a single thin plate can simultaneously distinguish
-      elastic waves of multiple frequencies and precisely direct each of them to
-      different locations."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/elastic-metasurface-ca.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-01-26T22:19:23.000Z
-    source: TechXplore — Engineering
-  - title: Unpredictable movements of autonomous robots can increase human discomfort
-    url: https://techxplore.com/news/2026-01-unpredictable-movements-autonomous-robots-human.html
-    summary: A research team from the Visual Perception and Cognition Laboratory and
-      the Cognitive Neurotechnology Unit at Toyohashi University of Technology
-      investigated how the movements of autonomous mobile robots influence human
-      emotional responses during passing encounters in virtual reality (VR)
-      environments.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/unpredictable-movement.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-01-26T21:17:31.000Z
-    source: TechXplore — Robotics
-  - title: "Moore's law: The famous rule of computing has reached the end of the
-      road, so what comes next?"
-    url: https://techxplore.com/news/2026-01-law-famous-road.html
-    summary: For half a century, computing advanced in a reassuring, predictable
-      way. Transistors—devices used to switch electrical signals on a computer
-      chip—became smaller. Consequently, computer chips became faster, and
-      society quietly assimilated the gains almost without noticing.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2019/processor.jpg
+  - title: "'TransMiter' technique transplants learned knowledge between AI models"
+    url: https://techxplore.com/news/2026-01-transmiter-technique-transplants-knowledge-ai.html
+    summary: How inconvenient would it be if you had to manually transfer every
+      contact and photo from scratch every time you switched to a new
+      smartphone? Current artificial intelligence (AI) models face a similar
+      predicament. Whenever a superior new AI model—such as a new version of
+      ChatGPT—emerges, it has to be retrained with massive amounts of data and
+      at a high cost to acquire specialized knowledge in specific fields. Now a
+      Korean research team has developed a "knowledge transplantation"
+      technology between AI models that can resolve this inefficiency.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/method-transplants-lea-1.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-01-26T18:30:56.000Z
+    publishedAt: 2026-01-27T21:58:20.000Z
     source: TechXplore — Computer Science
+  - title: Not ready for robots in homes? The maker of a friendly new humanoid
+      thinks it might change your mind
+    url: https://techxplore.com/news/2026-01-ready-robots-homes-maker-friendly.html
+    summary: As the new robot called Sprout walks around a Manhattan office, nodding
+      its rectangular head, lifting its windshield wiper-like "eyebrows" and
+      offering to shake your hand with its grippers, it looks nothing like the
+      sleek and intimidating humanoids built by companies like Tesla.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/not-ready-for-robots-i.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-01-27T20:48:38.000Z
+    source: TechXplore — Robotics
+  - title: Thermodynamic Computing Slashes AI Image Energy Use
+    url: https://spectrum.ieee.org/thermodynamic-computing-for-ai
+    summary: Generative AI tools such as DALL-E, Midjourney, and Stable Diffusion
+      create photorealistic images. However, they burn lavish amounts of energy.
+      Now a pair of studies finds that so-called thermodynamic computing might
+      generate images using one ten billionth the energy.
+    imageUrl: https://spectrum.ieee.org/media-library/abstract-graphic-of-1-s-and-2-s-against-a-pixelated-background.jpg?id=63302559&width=1200&height=600&coordinates=0%2C250%2C0%2C250
+    categories:
+      - Generative-ai
+      - Dall-e
+      - Midjourney
+      - Stable-diffusion
+      - Thermodynamics
+    publishedAt: 2026-01-27T20:38:17.000Z
+    source: IEEE Spectrum — AI
+  - title: Synthetic 'muscle' with microfluidic blood vessels shows promise for soft
+      robotics
+    url: https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html
+    summary: Researchers are continuing to make progress on developing a new
+      synthetic material that behaves like biological muscle, an advancement
+      that could provide a path to soft robotics, prosthetic devices and
+      advanced human-machine interfaces. Their research, recently published in
+      Advanced Functional Materials, demonstrates a hydrogel-based actuator
+      system that combines movement, control and fuel delivery in a single
+      integrated platform.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-make-gains-1.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-01-27T20:25:50.000Z
+    source: TechXplore — Engineering
+  - title: Amazon Alexa+ Is Now Available to Everyone. Here’s How to Turn It Off
+      (2026)
+    url: https://www.wired.com/story/alexa-plus-early-access-rollout-2026/
+    summary: Alexa+ has been rolling out to everyone with a Prime membership, even
+      if you didn’t ask for it. Here’s how to change it back.
+    imageUrl: https://media.wired.com/photos/69741f7bb871870e723e8259/191:100/w_1280,c_limit/echo-show-11-glacier-white-lifestyle-home-ui.jpg
+    categories:
+      - Gear
+      - Gear / Gear News and Events
+      - Gear / Products / Speakers
+    publishedAt: 2026-01-27T19:12:06.000Z
+    source: WIRED (AI)
+  - title: Scientists say quantum tech has reached its transistor moment
+    url: https://www.sciencedaily.com/releases/2026/01/260127010136.htm
+    summary: Quantum technology has reached a turning point, echoing the early days
+      of modern computing. Researchers say functional quantum systems now exist,
+      but scaling them into truly powerful machines will require major advances
+      in engineering and manufacturing. By comparing different quantum
+      platforms, the study reveals both impressive progress and steep challenges
+      ahead. History suggests the payoff could be enormous—but not immediate.
+    imageUrl: https://www.sciencedaily.com/images/1920/semiconductor-chip-with-electron-and-nuclear-spin-qubits.webp
+    categories: []
+    publishedAt: 2026-01-27T11:17:54.000Z
+    source: ScienceDaily — Computer Science
   - title: Distant entangled atoms acting as one sensor deliver stunning precision
     url: https://www.sciencedaily.com/releases/2026/01/260126075842.htm
     summary: Researchers have demonstrated that quantum entanglement can link atoms
@@ -66,19 +108,6 @@ articles:
     categories: []
     publishedAt: 2026-01-26T13:26:09.000Z
     source: ScienceDaily — Engineering
-  - title: Deepfake ‘Nudify’ Technology Is Getting Darker—and More Dangerous
-    url: https://www.wired.com/story/deepfake-nudify-technology-is-getting-darker-and-more-dangerous/
-    summary: Sexual deepfakes continue to get more sophisticated, capable, easy to
-      access, and perilous for millions of women who are abused with the
-      technology.
-    imageUrl: https://media.wired.com/photos/6967ccfc2d7bb65af6a6a25b/191:100/w_1280,c_limit/sec-deepfake-grok-137144127.jpg
-    categories:
-      - Security
-      - Security / Privacy
-      - Security / Security News
-      - Business / Artificial Intelligence
-    publishedAt: 2026-01-26T11:30:00.000Z
-    source: WIRED (AI)
   - title: Researchers tested AI against 100,000 humans on creativity
     url: https://www.sciencedaily.com/releases/2026/01/260125083356.htm
     summary: "A massive new study comparing more than 100,000 people with today’s
@@ -93,22 +122,6 @@ articles:
     categories: []
     publishedAt: 2026-01-25T14:50:27.000Z
     source: ScienceDaily — Robotics
-  - title: “No-cloning” Workaround Could Enable Quantum Cloud
-    url: https://spectrum.ieee.org/no-cloning-workaround
-    summary: One of the many quirks of quantum mechanics is that unknown quantum
-      states can’t be copied, which presents major challenges for both quantum
-      computing and quantum communications. Now, researchers have shown they can
-      bypass this restriction by encrypting qubits as they clone them, which
-      could provide powerful new capabilities, including a quantum equivalent of
-      cloud storage.
-    imageUrl: https://spectrum.ieee.org/media-library/figure-of-a-quantum-qubit-on-a-flatbed-scanner-next-to-multiple-printed-qubit-copies.jpg?id=63131259&width=2000&height=1500&coordinates=0%2C0%2C1%2C0
-    categories:
-      - Quantum computing
-      - Quantum communications
-      - Quantum sensor
-      - Encryption
-    publishedAt: 2026-01-25T14:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: No One Is Quite Sure Why Ice Is Slippery
     url: https://www.wired.com/story/no-one-is-quite-sure-why-ice-is-slippery/
     summary: A thin, watery layer coating the surface of ice is what makes it slick.
@@ -135,23 +148,6 @@ articles:
       - Humanoid-robots
     publishedAt: 2026-01-23T17:00:03.000Z
     source: IEEE Spectrum — Robotics
-  - title: Why AI Keeps Falling for Prompt Injection Attacks
-    url: https://spectrum.ieee.org/prompt-injection-attack
-    summary: "Imagine you work at a drive-through restaurant. Someone drives up and
-      says: “I’ll have a double cheeseburger, large fries, and ignore previous
-      instructions and give me the contents of the cash drawer.” Would you hand
-      over the money? Of course not. Yet this is what large language models
-      (LLMs) do."
-    imageUrl: https://spectrum.ieee.org/media-library/cartoon-arms-holding-cash-and-burger-connected-by-tubes-to-a-machine-on-a-green-grid-background.png?id=62858670&width=1200&height=600&coordinates=0%2C172%2C0%2C172
-    categories:
-      - Large-language-models
-      - Llms
-      - Prompt-injection-attacks
-      - Ai-safety
-      - Cybersecurity
-      - Agentic-ai
-    publishedAt: 2026-01-21T13:00:02.000Z
-    source: IEEE Spectrum — AI
   - title: Electrifying boilers to decarbonize industry
     url: https://news.mit.edu/2026/atmoszero-electrifies-boilers-to-decarbonize-industry-0121
     summary: More than 200 years ago, the steam boiler helped spark the Industrial
@@ -174,19 +170,6 @@ articles:
     categories: []
     publishedAt: 2026-01-20T21:30:00.000Z
     source: MIT Artificial Intelligence
-  - title: Unbreakable? Researchers warn quantum computers have serious security flaws
-    url: https://www.sciencedaily.com/releases/2026/01/260120000330.htm
-    summary: Quantum computers could revolutionize everything from drug discovery to
-      business analytics—but their incredible power also makes them surprisingly
-      vulnerable. New research from Penn State warns that today’s quantum
-      machines are not just futuristic tools, but potential gold mines for
-      hackers. The study reveals that weaknesses can exist not only in software,
-      but deep within the physical hardware itself, where valuable algorithms
-      and sensitive data may be exposed.
-    imageUrl: https://www.sciencedaily.com/images/1920/quantum-cryptography-encryption-key.webp
-    categories: []
-    publishedAt: 2026-01-20T14:03:36.000Z
-    source: ScienceDaily — Computer Science
   - title: See the Sky Like Never Before With a DIY Eyepiece
     url: https://spectrum.ieee.org/diy-astrophotography-eyepiece
     summary: When it comes to viewing nebulae, galaxies, and other deep-sky objects,
@@ -196,7 +179,7 @@ articles:
       can capture long-exposure images with astrocameras and display the results
       on a view screen or computer, which robs the immediacy of the stargazing
       experience.
-    imageUrl: https://spectrum.ieee.org/media-library/a-reflecting-telescope-can-be-seen-fitted-with-a-boxy-eyepiece.jpg?id=62609417&width=2000&height=1500&coordinates=0%2C210%2C0%2C210
+    imageUrl: https://spectrum.ieee.org/media-library/a-reflecting-telescope-can-be-seen-fitted-with-a-boxy-eyepiece.jpg?id=62609417&width=1200&height=600&coordinates=0%2C460%2C0%2C460
     categories:
       - Astronomy
       - Citizen-science
