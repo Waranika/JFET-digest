@@ -1,35 +1,110 @@
-date: 2026-01-28
+date: 2026-01-29
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Why the future of AI depends on trust, safety, and system quality
-    url: https://techxplore.com/news/2026-01-future-ai-safety-quality.html
-    summary: When Daniel Graham, an associate professor in the University of
-      Virginia School of Data Science, talks about the future of intelligent
-      systems, he does not begin with the usual vocabulary of cybersecurity or
-      threat mitigation. Instead, he focuses on quality assurance and on how to
-      build digital and physical systems we can trust.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/why-the-future-of-ai-d.jpg
+  - title: Data Centers Are Driving a US Gas Boom
+    url: https://www.wired.com/story/data-centers-are-driving-a-us-gas-boom/
+    summary: Gas projects in the US pipeline explicitly linked to data centers
+      increased by almost 25 times over the past two years, according to new
+      research from Global Energy Monitor.
+    imageUrl: https://media.wired.com/photos/697902b191e2c42a13c0d351/191:100/w_1280,c_limit/sci-data-center-gas-turbine-2236733386.jpg
     categories:
-      - Security
-    publishedAt: 2026-01-28T00:00:01.000Z
+      - Science
+      - Science / Environment
+    publishedAt: 2026-01-29T00:00:00.000Z
+    source: WIRED (AI)
+  - title: Ultrahigh solid loading enables high precision ceramic parts
+    url: https://techxplore.com/news/2026-01-ultrahigh-solid-enables-high-precision.html
+    summary: National Taiwan University researchers have developed an
+      ultrahigh-solid-loading (83 vol%) yet highly flowable suspension for 3D
+      printing that produces ceramic parts with extremely low shrinkage and 100%
+      density, overcoming a major barrier in precision ceramic manufacturing.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/milestone-in-ceramic-a.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-01-28T21:58:16.000Z
+    source: TechXplore — Engineering
+  - title: AI can generate a feeling of intimacy that exceeds human connections
+    url: https://techxplore.com/news/2026-01-ai-generate-intimacy-exceeds-human.html
+    summary: People can develop emotional closeness to artificial intelligence
+      (AI)—under certain conditions, even more so than to other people. This is
+      shown by a new study conducted by a research team led by Prof. Dr. Markus
+      Heinrichs and Dr. Tobias Kleinert from the Department of Psychology at the
+      University of Freiburg and Prof. Dr. Bastian Schiller from Heidelberg
+      University's Institute of Psychology. Participants felt a sense of
+      closeness especially when they did not know that they were communicating
+      with AI. The results have been published in Communications Psychology.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/artificial-intelligenc-9.jpg
+    categories:
+      - Consumer & Gadgets
+    publishedAt: 2026-01-28T20:33:46.000Z
     source: TechXplore — AI & Machine Learning
-  - title: "'TransMiter' technique transplants learned knowledge between AI models"
-    url: https://techxplore.com/news/2026-01-transmiter-technique-transplants-knowledge-ai.html
-    summary: How inconvenient would it be if you had to manually transfer every
-      contact and photo from scratch every time you switched to a new
-      smartphone? Current artificial intelligence (AI) models face a similar
-      predicament. Whenever a superior new AI model—such as a new version of
-      ChatGPT—emerges, it has to be retrained with massive amounts of data and
-      at a high cost to acquire specialized knowledge in specific fields. Now a
-      Korean research team has developed a "knowledge transplantation"
-      technology between AI models that can resolve this inefficiency.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/method-transplants-lea-1.jpg
+  - title: Great Refractor Initiative Looks to AI to Harden Critical Code
+    url: https://spectrum.ieee.org/ai-code-rust-great-refractor
+    summary: "Many of the world’s critical IT systems remain riddled with bugs, and
+      AI tools threaten to make it easier than ever to exploit them. But AI
+      could also be part of the solution: A new initiative aims to automatically
+      convert vulnerable code into the security-focused language Rust, which
+      would eliminate the vast majority of known software vulnerabilities."
+    imageUrl: https://spectrum.ieee.org/media-library/ferris-the-crab-known-as-the-unofficial-mascot-for-rust-s-programming-language-against-an-abstract-background-of-code.jpg?id=63377544&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+    categories:
+      - Artificial-intelligence
+      - Coding
+      - Cybersecurity
+      - Rust
+    publishedAt: 2026-01-28T16:04:13.000Z
+    source: IEEE Spectrum — AI
+  - title: Great Refactor Initiative Looks to AI to Harden Critical Code
+    url: https://spectrum.ieee.org/ai-code-rust-great-refactor
+    summary: "Many of the world’s critical IT systems remain riddled with bugs, and
+      AI tools threaten to make it easier than ever to exploit them. But AI
+      could also be part of the solution: A new initiative aims to automatically
+      convert vulnerable code into the security-focused language Rust, which
+      would eliminate the vast majority of known software vulnerabilities."
+    imageUrl: https://spectrum.ieee.org/media-library/ferris-the-crab-known-as-the-unofficial-mascot-for-rust-s-programming-language-against-an-abstract-background-of-code.jpg?id=63377544&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+    categories:
+      - Artificial-intelligence
+      - Coding
+      - Cybersecurity
+      - Rust
+    publishedAt: 2026-01-28T16:04:13.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Emoticons can confuse LLMs, causing 'silent failures' in coding responses
+    url: https://techxplore.com/news/2026-01-emoticons-llms-silent-failures-coding.html
+    summary: Large language models (LLMs), artificial intelligence (AI) systems that
+      can process and generate texts in various languages, are now widely used
+      by people worldwide. These models have proved to be effective in rapidly
+      sourcing information, answering questions, creating written content for
+      specific applications and writing computer code.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/emoticons-can-confuse.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-01-27T21:58:20.000Z
+    publishedAt: 2026-01-28T12:30:01.000Z
     source: TechXplore — Computer Science
+  - title: AI that talks to itself learns faster and smarter
+    url: https://www.sciencedaily.com/releases/2026/01/260127112130.htm
+    summary: AI may learn better when it’s allowed to talk to itself. Researchers
+      showed that internal “mumbling,” combined with short-term memory, helps AI
+      adapt to new tasks, switch goals, and handle complex challenges more
+      easily. This approach boosts learning efficiency while using far less
+      training data. It could pave the way for more flexible, human-like AI
+      systems.
+    imageUrl: https://www.sciencedaily.com/images/1920/ai-robot-thinking.webp
+    categories: []
+    publishedAt: 2026-01-28T08:47:06.000Z
+    source: ScienceDaily — Robotics
+  - title: Welcome to the “most wicked” apprentice program on campus
+    url: https://news.mit.edu/2026/pappalardo-most-wicked-apprentice-program-campus-0128
+    summary: The Pappalardo Apprentice program pushes the boundaries of the
+      traditional lab experience, inviting a selected group of juniors and
+      seniors to advance their fabrication skills while also providing mentor
+      training and peer-to-peer mentoring opportunities in an environment fueled
+      by creativity, safety, and fun.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/mit-Pappalardo-posters.JPG?itok=jGPPNSFZ
+    categories: []
+    publishedAt: 2026-01-28T05:00:00.000Z
+    source: MIT Engineering
   - title: Not ready for robots in homes? The maker of a friendly new humanoid
       thinks it might change your mind
     url: https://techxplore.com/news/2026-01-ready-robots-homes-maker-friendly.html
@@ -42,60 +117,6 @@ articles:
       - Robotics
     publishedAt: 2026-01-27T20:48:38.000Z
     source: TechXplore — Robotics
-  - title: Thermodynamic Computing Slashes AI Image Energy Use
-    url: https://spectrum.ieee.org/thermodynamic-computing-for-ai
-    summary: Generative AI tools such as DALL-E, Midjourney, and Stable Diffusion
-      create photorealistic images. However, they burn lavish amounts of energy.
-      Now a pair of studies finds that so-called thermodynamic computing might
-      generate images using one ten billionth the energy.
-    imageUrl: https://spectrum.ieee.org/media-library/abstract-graphic-of-1-s-and-2-s-against-a-pixelated-background.jpg?id=63302559&width=1200&height=600&coordinates=0%2C250%2C0%2C250
-    categories:
-      - Generative-ai
-      - Dall-e
-      - Midjourney
-      - Stable-diffusion
-      - Thermodynamics
-    publishedAt: 2026-01-27T20:38:17.000Z
-    source: IEEE Spectrum — AI
-  - title: Synthetic 'muscle' with microfluidic blood vessels shows promise for soft
-      robotics
-    url: https://techxplore.com/news/2026-01-synthetic-muscle-microfluidic-blood-vessels.html
-    summary: Researchers are continuing to make progress on developing a new
-      synthetic material that behaves like biological muscle, an advancement
-      that could provide a path to soft robotics, prosthetic devices and
-      advanced human-machine interfaces. Their research, recently published in
-      Advanced Functional Materials, demonstrates a hydrogel-based actuator
-      system that combines movement, control and fuel delivery in a single
-      integrated platform.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-make-gains-1.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-01-27T20:25:50.000Z
-    source: TechXplore — Engineering
-  - title: Amazon Alexa+ Is Now Available to Everyone. Here’s How to Turn It Off
-      (2026)
-    url: https://www.wired.com/story/alexa-plus-early-access-rollout-2026/
-    summary: Alexa+ has been rolling out to everyone with a Prime membership, even
-      if you didn’t ask for it. Here’s how to change it back.
-    imageUrl: https://media.wired.com/photos/69741f7bb871870e723e8259/191:100/w_1280,c_limit/echo-show-11-glacier-white-lifestyle-home-ui.jpg
-    categories:
-      - Gear
-      - Gear / Gear News and Events
-      - Gear / Products / Speakers
-    publishedAt: 2026-01-27T19:12:06.000Z
-    source: WIRED (AI)
-  - title: Scientists say quantum tech has reached its transistor moment
-    url: https://www.sciencedaily.com/releases/2026/01/260127010136.htm
-    summary: Quantum technology has reached a turning point, echoing the early days
-      of modern computing. Researchers say functional quantum systems now exist,
-      but scaling them into truly powerful machines will require major advances
-      in engineering and manufacturing. By comparing different quantum
-      platforms, the study reveals both impressive progress and steep challenges
-      ahead. History suggests the payoff could be enormous—but not immediate.
-    imageUrl: https://www.sciencedaily.com/images/1920/semiconductor-chip-with-electron-and-nuclear-spin-qubits.webp
-    categories: []
-    publishedAt: 2026-01-27T11:17:54.000Z
-    source: ScienceDaily — Computer Science
   - title: Distant entangled atoms acting as one sensor deliver stunning precision
     url: https://www.sciencedaily.com/releases/2026/01/260126075842.htm
     summary: Researchers have demonstrated that quantum entanglement can link atoms
@@ -108,37 +129,13 @@ articles:
     categories: []
     publishedAt: 2026-01-26T13:26:09.000Z
     source: ScienceDaily — Engineering
-  - title: Researchers tested AI against 100,000 humans on creativity
-    url: https://www.sciencedaily.com/releases/2026/01/260125083356.htm
-    summary: "A massive new study comparing more than 100,000 people with today’s
-      most advanced AI systems delivers a surprising result: generative AI can
-      now beat the average human on certain creativity tests. Models like GPT-4
-      showed strong performance on tasks designed to measure original thinking
-      and idea generation, sometimes outperforming typical human responses. But
-      there’s a clear ceiling. The most creative humans — especially the top 10%
-      — still leave AI well behind, particularly on richer creative work like
-      poetry and storytelling."
-    imageUrl: https://www.sciencedaily.com/images/1920/ai-robot-vs-human-boxing.webp
-    categories: []
-    publishedAt: 2026-01-25T14:50:27.000Z
-    source: ScienceDaily — Robotics
-  - title: No One Is Quite Sure Why Ice Is Slippery
-    url: https://www.wired.com/story/no-one-is-quite-sure-why-ice-is-slippery/
-    summary: A thin, watery layer coating the surface of ice is what makes it slick.
-      Despite a great deal of theorizing over the centuries, though, it isn't
-      entirely clear why that layer forms.
-    imageUrl: https://media.wired.com/photos/696fe3041edd5d44a19b9110/191:100/w_1280,c_limit/sci-slipery-ice-186398265.jpg
-    categories:
-      - Science
-    publishedAt: 2026-01-25T12:00:00.000Z
-    source: WIRED science
   - title: "Video Friday: Humans and Robots Team Up in Battlefield Triage"
     url: https://spectrum.ieee.org/darpa-triage-challenge-robot
     summary: Video Friday is your weekly selection of awesome robotics videos,
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/four-legged-robot-with-camera-moving-across-grassy-terrain.png?id=63130606&width=1245&height=700&coordinates=0%2C64%2C0%2C64
+    imageUrl: https://spectrum.ieee.org/media-library/four-legged-robot-with-camera-moving-across-grassy-terrain.png?id=63130606&width=2000&height=1500&coordinates=164%2C0%2C165%2C0
     categories:
       - Robotics
       - Video-friday
@@ -148,18 +145,6 @@ articles:
       - Humanoid-robots
     publishedAt: 2026-01-23T17:00:03.000Z
     source: IEEE Spectrum — Robotics
-  - title: Electrifying boilers to decarbonize industry
-    url: https://news.mit.edu/2026/atmoszero-electrifies-boilers-to-decarbonize-industry-0121
-    summary: More than 200 years ago, the steam boiler helped spark the Industrial
-      Revolution. Since then, steam has been the lifeblood of industrial
-      activity around the world. Today the production of steam — created by
-      burning gas, oil, or coal to boil water — accounts for a significant
-      percentage of global energy use in manufacturing, powering the creation of
-      paper, chemicals, pharmaceuticals, food, and more.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/MIT_AtmosZero-01-press.jpg?itok=_knrCUqK
-    categories: []
-    publishedAt: 2026-01-21T05:00:00.000Z
-    source: MIT Engineering
   - title: Why it’s critical to move beyond overly aggregated machine-learning metrics
     url: https://news.mit.edu/2026/why-its-critical-to-move-beyond-overly-aggregated-machine-learning-metrics-0120
     summary: MIT researchers have identified significant examples of
@@ -179,7 +164,7 @@ articles:
       can capture long-exposure images with astrocameras and display the results
       on a view screen or computer, which robs the immediacy of the stargazing
       experience.
-    imageUrl: https://spectrum.ieee.org/media-library/a-reflecting-telescope-can-be-seen-fitted-with-a-boxy-eyepiece.jpg?id=62609417&width=1200&height=600&coordinates=0%2C460%2C0%2C460
+    imageUrl: https://spectrum.ieee.org/media-library/a-reflecting-telescope-can-be-seen-fitted-with-a-boxy-eyepiece.jpg?id=62609417&width=1200&height=800&coordinates=0%2C293%2C0%2C294
     categories:
       - Astronomy
       - Citizen-science
