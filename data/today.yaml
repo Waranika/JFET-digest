@@ -1,60 +1,73 @@
-date: 2026-01-29
+date: 2026-01-30
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Data Centers Are Driving a US Gas Boom
-    url: https://www.wired.com/story/data-centers-are-driving-a-us-gas-boom/
-    summary: Gas projects in the US pipeline explicitly linked to data centers
-      increased by almost 25 times over the past two years, according to new
-      research from Global Energy Monitor.
-    imageUrl: https://media.wired.com/photos/697902b191e2c42a13c0d351/191:100/w_1280,c_limit/sci-data-center-gas-turbine-2236733386.jpg
+  - title: Human-led AI opens tech jobs for refugees
+    url: https://techxplore.com/news/2026-01-human-ai-tech-jobs-refugees.html
+    summary: AI can help displaced people avoid exploitation, but humans must call
+      the shots, warn experts. For Susan Achiech, life began in Kenya's Kakuma
+      refugee camp, where her South Sudanese parents fled to for safety in the
+      early 1990s. Now 26, she lives in Canada, running her own gaming company,
+      Tech Femme Algorithms, while working as an insurance advisor and studying
+      gaming programming.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/human-led-ai-opens-tec.jpg
     categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-01-29T00:00:00.000Z
-    source: WIRED (AI)
-  - title: Ultrahigh solid loading enables high precision ceramic parts
-    url: https://techxplore.com/news/2026-01-ultrahigh-solid-enables-high-precision.html
-    summary: National Taiwan University researchers have developed an
-      ultrahigh-solid-loading (83 vol%) yet highly flowable suspension for 3D
-      printing that produces ceramic parts with extremely low shrinkage and 100%
-      density, overcoming a major barrier in precision ceramic manufacturing.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/milestone-in-ceramic-a.jpg
+      - Business
+    publishedAt: 2026-01-30T04:20:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: When Will AI Agents Be Ready for Autonomous Business Operations?
+    url: https://spectrum.ieee.org/ai-agent-benchmarks
+    summary: AI agents abound—and they’re increasingly gaining autonomy. From
+      navigating the web to recursively improving its own coding skills, agentic
+      AI promises to reorder the online economy and redefine the internet.
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-punch-cards-with-some-shaped-like-chatbot-faces-on-a-wall-next-to-a-time-clock.jpg?id=63522131&width=1200&height=800&coordinates=0%2C67%2C0%2C67
+    categories:
+      - Agentic-ai
+      - Ai-agents
+      - Fujitsu
+      - Large-language-models
+    publishedAt: 2026-01-29T21:55:23.000Z
+    source: IEEE Spectrum — AI
+  - title: Can desert sand be used to build houses and roads?
+    url: https://techxplore.com/news/2026-01-sand-houses-roads.html
+    summary: "The world may be running out of sand suitable for concrete.
+      Researchers are therefore testing a possible solution for using desert
+      sand as a material. Ren Wei and several researchers at NTNU and the
+      University of Tokyo have made a prototype of a new material: botanical
+      sand concrete. It combines desert sand with plant-based additives and is
+      made by pressing desert sand and tiny pieces of wood together, along with
+      heat. Their paper is published in the Journal of Building Engineering."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/can-desert-sand-be-use.jpg
     categories:
       - Engineering
-    publishedAt: 2026-01-28T21:58:16.000Z
+    publishedAt: 2026-01-29T20:24:21.000Z
     source: TechXplore — Engineering
-  - title: AI can generate a feeling of intimacy that exceeds human connections
-    url: https://techxplore.com/news/2026-01-ai-generate-intimacy-exceeds-human.html
-    summary: People can develop emotional closeness to artificial intelligence
-      (AI)—under certain conditions, even more so than to other people. This is
-      shown by a new study conducted by a research team led by Prof. Dr. Markus
-      Heinrichs and Dr. Tobias Kleinert from the Department of Psychology at the
-      University of Freiburg and Prof. Dr. Bastian Schiller from Heidelberg
-      University's Institute of Psychology. Participants felt a sense of
-      closeness especially when they did not know that they were communicating
-      with AI. The results have been published in Communications Psychology.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/artificial-intelligenc-9.jpg
+  - title: Scientists found a way to cool quantum computers using noise
+    url: https://www.sciencedaily.com/releases/2026/01/260129080418.htm
+    summary: Quantum computers need extreme cold to work, but the very systems that
+      keep them cold also create noise that can destroy fragile quantum
+      information. Scientists in Sweden have now flipped that problem on its
+      head by building a tiny quantum refrigerator that actually uses noise to
+      drive cooling instead of fighting it. By carefully steering heat at
+      unimaginably small scales, the device can act as a refrigerator, heat
+      engine, or energy amplifier inside quantum circuits.
+    imageUrl: https://www.sciencedaily.com/images/1920/quantum-refrigerator-in-superconducting-quantum-circuit-schematic.webp
+    categories: []
+    publishedAt: 2026-01-29T13:42:30.000Z
+    source: ScienceDaily — Robotics
+  - title: This Chinese Startup Wants to Build a New Brain-Computer Interface—No
+      Implant Required
+    url: https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/
+    summary: Gestala is the latest company to emerge from China’s burgeoning
+      brain-computer interface industry. It plans to access the brain with
+      noninvasive ultrasound technology.
+    imageUrl: https://media.wired.com/photos/697b169865447f8ad5aa29e7/191:100/w_1280,c_limit/ScienceSourceImages_2524088_WebRes.jpg
     categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-01-28T20:33:46.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Great Refractor Initiative Looks to AI to Harden Critical Code
-    url: https://spectrum.ieee.org/ai-code-rust-great-refractor
-    summary: "Many of the world’s critical IT systems remain riddled with bugs, and
-      AI tools threaten to make it easier than ever to exploit them. But AI
-      could also be part of the solution: A new initiative aims to automatically
-      convert vulnerable code into the security-focused language Rust, which
-      would eliminate the vast majority of known software vulnerabilities."
-    imageUrl: https://spectrum.ieee.org/media-library/ferris-the-crab-known-as-the-unofficial-mascot-for-rust-s-programming-language-against-an-abstract-background-of-code.jpg?id=63377544&width=1200&height=800&coordinates=0%2C83%2C0%2C84
-    categories:
-      - Artificial-intelligence
-      - Coding
-      - Cybersecurity
-      - Rust
-    publishedAt: 2026-01-28T16:04:13.000Z
-    source: IEEE Spectrum — AI
+      - Science
+      - Science / Biotech
+    publishedAt: 2026-01-29T11:30:00.000Z
+    source: WIRED science
   - title: Great Refactor Initiative Looks to AI to Harden Critical Code
     url: https://spectrum.ieee.org/ai-code-rust-great-refactor
     summary: "Many of the world’s critical IT systems remain riddled with bugs, and
@@ -62,7 +75,7 @@ articles:
       could also be part of the solution: A new initiative aims to automatically
       convert vulnerable code into the security-focused language Rust, which
       would eliminate the vast majority of known software vulnerabilities."
-    imageUrl: https://spectrum.ieee.org/media-library/ferris-the-crab-known-as-the-unofficial-mascot-for-rust-s-programming-language-against-an-abstract-background-of-code.jpg?id=63377544&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+    imageUrl: https://spectrum.ieee.org/media-library/ferris-the-crab-known-as-the-unofficial-mascot-for-rust-s-programming-language-against-an-abstract-background-of-code.jpg?id=63377544&width=1200&height=400&coordinates=0%2C417%2C0%2C417
     categories:
       - Artificial-intelligence
       - Coding
@@ -82,18 +95,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-01-28T12:30:01.000Z
     source: TechXplore — Computer Science
-  - title: AI that talks to itself learns faster and smarter
-    url: https://www.sciencedaily.com/releases/2026/01/260127112130.htm
-    summary: AI may learn better when it’s allowed to talk to itself. Researchers
-      showed that internal “mumbling,” combined with short-term memory, helps AI
-      adapt to new tasks, switch goals, and handle complex challenges more
-      easily. This approach boosts learning efficiency while using far less
-      training data. It could pave the way for more flexible, human-like AI
-      systems.
-    imageUrl: https://www.sciencedaily.com/images/1920/ai-robot-thinking.webp
-    categories: []
-    publishedAt: 2026-01-28T08:47:06.000Z
-    source: ScienceDaily — Robotics
   - title: Welcome to the “most wicked” apprentice program on campus
     url: https://news.mit.edu/2026/pappalardo-most-wicked-apprentice-program-campus-0128
     summary: The Pappalardo Apprentice program pushes the boundaries of the
