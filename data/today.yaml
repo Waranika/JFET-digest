@@ -1,27 +1,101 @@
-date: 2026-01-30
+date: 2026-01-31
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Human-led AI opens tech jobs for refugees
-    url: https://techxplore.com/news/2026-01-human-ai-tech-jobs-refugees.html
-    summary: AI can help displaced people avoid exploitation, but humans must call
-      the shots, warn experts. For Susan Achiech, life began in Kenya's Kakuma
-      refugee camp, where her South Sudanese parents fled to for safety in the
-      early 1990s. Now 26, she lives in Canada, running her own gaming company,
-      Tech Femme Algorithms, while working as an insurance advisor and studying
-      gaming programming.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/human-led-ai-opens-tec.jpg
+  - title: The philosophical puzzle of rational artificial intelligence
+    url: https://news.mit.edu/2026/philosophical-puzzle-rational-artificial-intelligence-0130
+    summary: To what extent can an artificial system be rational?
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/Leslie-Kaelbling-MIT-00.jpg?itok=Mx-0HAqW
+    categories: []
+    publishedAt: 2026-01-30T21:50:00.000Z
+    source: MIT Artificial Intelligence
+  - title: I Let Google’s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn’t Quite
+      Click
+    url: https://www.wired.com/story/google-chrome-auto-browse-hands-on/
+    summary: Auto Browse can shop for clothes, plan a trip, and buy tickets for you.
+      Or at least, that’s the idea.
+    imageUrl: https://media.wired.com/photos/697bbc49f1ca01d1f3ba29fd/191:100/w_1280,c_limit/chrome_rollercoaster%20(1).png
     categories:
-      - Business
-    publishedAt: 2026-01-30T04:20:01.000Z
+      - Gear
+      - Gear / Reviews
+    publishedAt: 2026-01-30T20:41:49.000Z
+    source: WIRED (AI)
+  - title: New study unveils ultra-high sensitivity broadband flexible photodetectors
+    url: https://techxplore.com/news/2026-01-unveils-ultra-high-sensitivity-broadband.html
+    summary: A research team, affiliated with UNIST, has unveiled a flexible
+      photodetector, capable of converting light across a broad spectrum—from
+      visible to near-infrared—into electrical signals. This innovation promises
+      significant advancements in technologies that require simultaneous
+      detection of object colors and internal structures or materials.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-study-unveils-ultr.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-01-30T19:07:38.000Z
+    source: TechXplore — Engineering
+  - title: Ode to Very Small Devices
+    url: https://spectrum.ieee.org/poetry-for-engineers-ode
+    summary: "As fairies for the Irish or leeks for Welsh,it’s the secret lives of
+      small hidden machines,their junctures, and networks that inspire me:Mystic
+      hidden functionaries that makeour made world live, brave little servo
+      motors,whose couplers, whose eccentric fire-filledsensors are encased in
+      bakelite with brassscrews, who stare with red eyes, who gauge moisture,who
+      notice tiny motions and respond,whose cooling fans call out in
+      white-noiseregisters like older folk singers–I canalmost hear their
+      earlier songs, their strong voicesnow yelps, their thumps, their throbs,
+      their hum, their chant–,they click, they whir, they are sent
+      spinninginside like teen girls giggling over boy bands.Most of all: ones
+      waiting silently, concealingthe surprise of their purpose, tasks not yet
+      known,their true natures found only in connections."
+    imageUrl: https://spectrum.ieee.org/media-library/anthropomorphized-miniature-gadgets-standing-on-the-heads-of-two-hex-bolts.jpg?id=63525887&width=1245&height=700&coordinates=0%2C128%2C0%2C129
+    categories:
+      - Poetry
+      - Robotics
+      - Type:departments
+      - Verse-becomes-electric
+    publishedAt: 2026-01-30T19:02:06.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Say what's on your mind, and AI can tell what kind of person you are
+    url: https://techxplore.com/news/2026-01-mind-ai-kind-person.html
+    summary: If you say a few words, generative AI will understand who you are—maybe
+      even better than your close family and friends. A new University of
+      Michigan study found that widely available generative AI models (e.g.,
+      ChatGPT, Claude, LLaMa) can predict personality, key behaviors and daily
+      emotions as or even more accurately than those closest to you. The
+      findings appear in the journal Nature Human Behavior.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/say-whats-on-your-mind.jpg
+    categories:
+      - Consumer & Gadgets
+    publishedAt: 2026-01-30T17:32:25.000Z
     source: TechXplore — AI & Machine Learning
+  - title: A breakthrough that could make ships nearly unsinkable
+    url: https://www.sciencedaily.com/releases/2026/01/260130041105.htm
+    summary: Researchers have found a way to make ordinary aluminum tubes float
+      indefinitely, even when submerged for long periods or punched full of
+      holes. By engineering the metal’s surface to repel water, the tubes trap
+      air inside and refuse to sink, even in rough conditions. The technology
+      could eventually be scaled up into floating platforms, ships, or even
+      wave-powered energy systems.
+    imageUrl: https://www.sciencedaily.com/images/1920/unsinkable-metal-tube-filled-with-holes.webp
+    categories: []
+    publishedAt: 2026-01-30T12:58:57.000Z
+    source: ScienceDaily — Engineering
+  - title: Microdosing for Depression Appears to Work About as Well as Drinking Coffee
+    url: https://www.wired.com/story/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee/
+    summary: For years, people from CEOs to novelists have taken tiny amounts of
+      psychedelics to support well-being. New research shows that benefits for
+      depression may be attributable to a placebo effect.
+    imageUrl: https://media.wired.com/photos/697805672a38a4db0244a583/191:100/w_1280,c_limit/science_microdosing_placebo.jpg
+    categories:
+      - Science
+    publishedAt: 2026-01-30T11:00:00.000Z
+    source: WIRED science
   - title: When Will AI Agents Be Ready for Autonomous Business Operations?
     url: https://spectrum.ieee.org/ai-agent-benchmarks
     summary: AI agents abound—and they’re increasingly gaining autonomy. From
       navigating the web to recursively improving its own coding skills, agentic
       AI promises to reorder the online economy and redefine the internet.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-punch-cards-with-some-shaped-like-chatbot-faces-on-a-wall-next-to-a-time-clock.jpg?id=63522131&width=1200&height=800&coordinates=0%2C67%2C0%2C67
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-punch-cards-with-some-shaped-like-chatbot-faces-on-a-wall-next-to-a-time-clock.jpg?id=63522131&width=1200&height=600&coordinates=0%2C200%2C0%2C200
     categories:
       - Agentic-ai
       - Ai-agents
@@ -29,20 +103,6 @@ articles:
       - Large-language-models
     publishedAt: 2026-01-29T21:55:23.000Z
     source: IEEE Spectrum — AI
-  - title: Can desert sand be used to build houses and roads?
-    url: https://techxplore.com/news/2026-01-sand-houses-roads.html
-    summary: "The world may be running out of sand suitable for concrete.
-      Researchers are therefore testing a possible solution for using desert
-      sand as a material. Ren Wei and several researchers at NTNU and the
-      University of Tokyo have made a prototype of a new material: botanical
-      sand concrete. It combines desert sand with plant-based additives and is
-      made by pressing desert sand and tiny pieces of wood together, along with
-      heat. Their paper is published in the Journal of Building Engineering."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/can-desert-sand-be-use.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-01-29T20:24:21.000Z
-    source: TechXplore — Engineering
   - title: Scientists found a way to cool quantum computers using noise
     url: https://www.sciencedaily.com/releases/2026/01/260129080418.htm
     summary: Quantum computers need extreme cold to work, but the very systems that
@@ -56,18 +116,6 @@ articles:
     categories: []
     publishedAt: 2026-01-29T13:42:30.000Z
     source: ScienceDaily — Robotics
-  - title: This Chinese Startup Wants to Build a New Brain-Computer Interface—No
-      Implant Required
-    url: https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/
-    summary: Gestala is the latest company to emerge from China’s burgeoning
-      brain-computer interface industry. It plans to access the brain with
-      noninvasive ultrasound technology.
-    imageUrl: https://media.wired.com/photos/697b169865447f8ad5aa29e7/191:100/w_1280,c_limit/ScienceSourceImages_2524088_WebRes.jpg
-    categories:
-      - Science
-      - Science / Biotech
-    publishedAt: 2026-01-29T11:30:00.000Z
-    source: WIRED science
   - title: Great Refactor Initiative Looks to AI to Harden Critical Code
     url: https://spectrum.ieee.org/ai-code-rust-great-refactor
     summary: "Many of the world’s critical IT systems remain riddled with bugs, and
@@ -75,7 +123,7 @@ articles:
       could also be part of the solution: A new initiative aims to automatically
       convert vulnerable code into the security-focused language Rust, which
       would eliminate the vast majority of known software vulnerabilities."
-    imageUrl: https://spectrum.ieee.org/media-library/ferris-the-crab-known-as-the-unofficial-mascot-for-rust-s-programming-language-against-an-abstract-background-of-code.jpg?id=63377544&width=1200&height=400&coordinates=0%2C417%2C0%2C417
+    imageUrl: https://spectrum.ieee.org/media-library/ferris-the-crab-known-as-the-unofficial-mascot-for-rust-s-programming-language-against-an-abstract-background-of-code.jpg?id=63377544&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
       - Artificial-intelligence
       - Coding
@@ -118,44 +166,6 @@ articles:
       - Robotics
     publishedAt: 2026-01-27T20:48:38.000Z
     source: TechXplore — Robotics
-  - title: Distant entangled atoms acting as one sensor deliver stunning precision
-    url: https://www.sciencedaily.com/releases/2026/01/260126075842.htm
-    summary: Researchers have demonstrated that quantum entanglement can link atoms
-      across space to improve measurement accuracy. By splitting an entangled
-      group of atoms into separate clouds, they were able to measure
-      electromagnetic fields more precisely than before. The technique takes
-      advantage of quantum connections acting at a distance. It could enhance
-      tools such as atomic clocks and gravity sensors.
-    imageUrl: https://www.sciencedaily.com/images/1920/entangled-atomic-clouds.webp
-    categories: []
-    publishedAt: 2026-01-26T13:26:09.000Z
-    source: ScienceDaily — Engineering
-  - title: "Video Friday: Humans and Robots Team Up in Battlefield Triage"
-    url: https://spectrum.ieee.org/darpa-triage-challenge-robot
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/four-legged-robot-with-camera-moving-across-grassy-terrain.png?id=63130606&width=2000&height=1500&coordinates=164%2C0%2C165%2C0
-    categories:
-      - Robotics
-      - Video-friday
-      - Darpa
-      - Human-robot-interaction
-      - Quadruped-robots
-      - Humanoid-robots
-    publishedAt: 2026-01-23T17:00:03.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Why it’s critical to move beyond overly aggregated machine-learning metrics
-    url: https://news.mit.edu/2026/why-its-critical-to-move-beyond-overly-aggregated-machine-learning-metrics-0120
-    summary: MIT researchers have identified significant examples of
-      machine-learning model failure when those models are applied to data other
-      than what they were trained on, raising questions about the need to test
-      whenever a model is deployed in a new setting.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/mit-lids-Ghassemi.jpg?itok=0Xn50RHx
-    categories: []
-    publishedAt: 2026-01-20T21:30:00.000Z
-    source: MIT Artificial Intelligence
   - title: See the Sky Like Never Before With a DIY Eyepiece
     url: https://spectrum.ieee.org/diy-astrophotography-eyepiece
     summary: When it comes to viewing nebulae, galaxies, and other deep-sky objects,
