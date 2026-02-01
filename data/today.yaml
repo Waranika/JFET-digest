@@ -1,8 +1,76 @@
-date: 2026-01-31
+date: 2026-02-01
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Geometry behind how AI agents learn revealed
+    url: https://techxplore.com/news/2026-01-geometry-ai-agents-revealed.html
+    summary: A new study from the University at Albany shows that artificial
+      intelligence systems may organize information in far more intricate ways
+      than previously thought. The study, "Exploring the Stratified Space
+      Structure of an RL Game with the Volume Growth Transform," has been
+      published online through arXiv.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/geometry-behind-how-ai.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-01-31T18:40:02.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Taking the heat out of industrial chemical separations
+    url: https://techxplore.com/news/2026-01-industrial-chemical.html
+    summary: "The modern world runs on chemicals and fuels that require a huge
+      amount of energy to produce: Industrial chemical separation accounts for
+      10% to 15% of the world's total energy consumption. That's because most
+      separations today rely on heat to boil off unwanted materials and isolate
+      compounds."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/taking-the-heat-out-of.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-01-31T18:30:01.000Z
+    source: TechXplore — Engineering
+  - title: Training four-legged robots as if they were dogs
+    url: https://techxplore.com/news/2026-01-legged-robots-dogs.html
+    summary: Over the next decades, robots are expected to make their way into a
+      growing number of households, public spaces, and professional
+      environments. Many of the most advanced and promising robots designed to
+      date are so-called legged robots, which consist of a central body
+      structure with limbs attached to it.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/training-four-legged-r.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-01-31T15:50:01.000Z
+    source: TechXplore — Robotics
+  - title: Explore the Stratosphere With a DIY Pico balloon
+    url: https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon
+    summary: "There’s an interesting development in amateur ballooning: using
+      so-called superpressure balloons, which float high in the atmosphere
+      indefinitely rather than simply going up and up and then popping like a
+      normal weather balloon. Superpressure balloons can last for months and
+      travel long distances, potentially circumnavigating the globe, all the
+      while reporting their position."
+    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1245&height=700&coordinates=0%2C566%2C0%2C567
+    categories:
+      - Amateur radio
+      - Amateur science
+      - Ham radio
+      - Pico balloon
+      - Pico ballooning
+      - Type:departments
+    publishedAt: 2026-01-31T14:00:02.000Z
+    source: IEEE Spectrum — DIY
+  - title: Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims
+    url: https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/
+    summary: "Plus: AI agent OpenClaw gives cybersecurity experts the willies, China
+      executes 11 scam compound bosses, a $40 million crypto theft has an
+      unexpected alleged culprit, and more."
+    imageUrl: https://media.wired.com/photos/694af897996cb37f65fe2d98/191:100/w_1280,c_limit/1_New_Epstein_GettyImages-2252159204.jpg
+    categories:
+      - Security
+      - Security / Cyberattacks and Hacks
+      - Security / National Security
+      - Security / Privacy
+      - Security / Security News
+    publishedAt: 2026-01-31T11:30:00.000Z
+    source: WIRED (AI)
   - title: The philosophical puzzle of rational artificial intelligence
     url: https://news.mit.edu/2026/philosophical-puzzle-rational-artificial-intelligence-0130
     summary: To what extent can an artificial system be rational?
@@ -10,29 +78,6 @@ articles:
     categories: []
     publishedAt: 2026-01-30T21:50:00.000Z
     source: MIT Artificial Intelligence
-  - title: I Let Google’s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn’t Quite
-      Click
-    url: https://www.wired.com/story/google-chrome-auto-browse-hands-on/
-    summary: Auto Browse can shop for clothes, plan a trip, and buy tickets for you.
-      Or at least, that’s the idea.
-    imageUrl: https://media.wired.com/photos/697bbc49f1ca01d1f3ba29fd/191:100/w_1280,c_limit/chrome_rollercoaster%20(1).png
-    categories:
-      - Gear
-      - Gear / Reviews
-    publishedAt: 2026-01-30T20:41:49.000Z
-    source: WIRED (AI)
-  - title: New study unveils ultra-high sensitivity broadband flexible photodetectors
-    url: https://techxplore.com/news/2026-01-unveils-ultra-high-sensitivity-broadband.html
-    summary: A research team, affiliated with UNIST, has unveiled a flexible
-      photodetector, capable of converting light across a broad spectrum—from
-      visible to near-infrared—into electrical signals. This innovation promises
-      significant advancements in technologies that require simultaneous
-      detection of object colors and internal structures or materials.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-study-unveils-ultr.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-01-30T19:07:38.000Z
-    source: TechXplore — Engineering
   - title: Ode to Very Small Devices
     url: https://spectrum.ieee.org/poetry-for-engineers-ode
     summary: "As fairies for the Irish or leeks for Welsh,it’s the secret lives of
@@ -55,19 +100,6 @@ articles:
       - Verse-becomes-electric
     publishedAt: 2026-01-30T19:02:06.000Z
     source: IEEE Spectrum — Robotics
-  - title: Say what's on your mind, and AI can tell what kind of person you are
-    url: https://techxplore.com/news/2026-01-mind-ai-kind-person.html
-    summary: If you say a few words, generative AI will understand who you are—maybe
-      even better than your close family and friends. A new University of
-      Michigan study found that widely available generative AI models (e.g.,
-      ChatGPT, Claude, LLaMa) can predict personality, key behaviors and daily
-      emotions as or even more accurately than those closest to you. The
-      findings appear in the journal Nature Human Behavior.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/say-whats-on-your-mind.jpg
-    categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-01-30T17:32:25.000Z
-    source: TechXplore — AI & Machine Learning
   - title: A breakthrough that could make ships nearly unsinkable
     url: https://www.sciencedaily.com/releases/2026/01/260130041105.htm
     summary: Researchers have found a way to make ordinary aluminum tubes float
@@ -154,35 +186,6 @@ articles:
     categories: []
     publishedAt: 2026-01-28T05:00:00.000Z
     source: MIT Engineering
-  - title: Not ready for robots in homes? The maker of a friendly new humanoid
-      thinks it might change your mind
-    url: https://techxplore.com/news/2026-01-ready-robots-homes-maker-friendly.html
-    summary: As the new robot called Sprout walks around a Manhattan office, nodding
-      its rectangular head, lifting its windshield wiper-like "eyebrows" and
-      offering to shake your hand with its grippers, it looks nothing like the
-      sleek and intimidating humanoids built by companies like Tesla.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/not-ready-for-robots-i.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-01-27T20:48:38.000Z
-    source: TechXplore — Robotics
-  - title: See the Sky Like Never Before With a DIY Eyepiece
-    url: https://spectrum.ieee.org/diy-astrophotography-eyepiece
-    summary: When it comes to viewing nebulae, galaxies, and other deep-sky objects,
-      amateur astronomers on a budget have had two options. They can view with
-      the naked eye through a telescope and perceive these spectacular objects
-      as faint smudges that don’t even begin to capture their majesty, or they
-      can capture long-exposure images with astrocameras and display the results
-      on a view screen or computer, which robs the immediacy of the stargazing
-      experience.
-    imageUrl: https://spectrum.ieee.org/media-library/a-reflecting-telescope-can-be-seen-fitted-with-a-boxy-eyepiece.jpg?id=62609417&width=1200&height=800&coordinates=0%2C293%2C0%2C294
-    categories:
-      - Astronomy
-      - Citizen-science
-      - Remote-sensing
-      - Type-departments
-    publishedAt: 2026-01-04T13:00:01.000Z
-    source: IEEE Spectrum — DIY
   - title: “Wait, we have the tech skills to build that”
     url: https://news.mit.edu/2025/building-with-tech-skills-julianna-schneider-1219
     summary: Students can take many possible routes through MIT’s curriculum, which
