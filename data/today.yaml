@@ -1,20 +1,55 @@
-date: 2026-02-01
+date: 2026-02-02
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Geometry behind how AI agents learn revealed
-    url: https://techxplore.com/news/2026-01-geometry-ai-agents-revealed.html
-    summary: A new study from the University at Albany shows that artificial
-      intelligence systems may organize information in far more intricate ways
-      than previously thought. The study, "Exploring the Stratified Space
-      Structure of an RL Game with the Volume Growth Transform," has been
-      published online through arXiv.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/geometry-behind-how-ai.jpg
+  - title: Inner 'self-talk' helps AI models learn, adapt and multitask more easily
+    url: https://techxplore.com/news/2026-01-ai-multitask-easily.html
+    summary: Talking to oneself is a trait which feels inherently human. Our inner
+      monologs help us organize our thoughts, make decisions, and understand our
+      emotions. But it's not just humans who can reap the benefits of such
+      self-talk.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-learns-better-when.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-01-31T18:40:02.000Z
-    source: TechXplore — AI & Machine Learning
+      - Computer Sciences
+    publishedAt: 2026-02-01T16:50:01.000Z
+    source: TechXplore — Computer Science
+  - title: “Existential risk” – Why scientists are racing to define consciousness
+    url: https://www.sciencedaily.com/releases/2026/01/260131084626.htm
+    summary: Scientists warn that rapid advances in AI and neurotechnology are
+      outpacing our understanding of consciousness, creating serious ethical
+      risks. New research argues that developing scientific tests for awareness
+      could transform medicine, animal welfare, law, and AI development. But
+      identifying consciousness in machines, brain organoids, or patients could
+      also force society to rethink responsibility, rights, and moral
+      boundaries. The question of what it means to be conscious has never been
+      more urgent—or more unsettling.
+    imageUrl: https://www.sciencedaily.com/images/1920/enlightenment-psychedelic-consciousness.webp
+    categories: []
+    publishedAt: 2026-02-01T13:49:46.000Z
+    source: ScienceDaily — Artificial Intelligence
+  - title: This AI app can tell which dinosaur made a footprint
+    url: https://www.sciencedaily.com/releases/2026/02/260201062455.htm
+    summary: Dinosaur footprints have always been mysterious, but a new AI app is
+      cracking their secrets. DinoTracker analyzes photos of fossil tracks and
+      predicts which dinosaur made them, with accuracy rivaling human experts.
+      Along the way, it uncovered footprints that look strikingly
+      bird-like—dating back more than 200 million years. That discovery could
+      push the origin of birds much deeper into prehistory.
+    imageUrl: https://www.sciencedaily.com/images/1920/jurassic-dinosaur-footprint-photogrammetric-model-contours.webp
+    categories: []
+    publishedAt: 2026-02-01T13:37:50.000Z
+    source: ScienceDaily — Robotics
+  - title: How to Use Physics to Escape an Ice Bowl
+    url: https://www.wired.com/story/how-to-use-physics-to-escape-an-ice-bowl/
+    summary: Here are three smart tricks, based on an understanding of frictional
+      forces, to beat a slippery slope.
+    imageUrl: https://media.wired.com/photos/697d39dd288c1dafebd263ee/191:100/w_1280,c_limit/Using-Physics-to-Escape-Ice-Bowl-Science-2248980379.jpg
+    categories:
+      - Science
+      - Science / Physics and Math
+    publishedAt: 2026-02-01T12:00:00.000Z
+    source: WIRED science
   - title: Taking the heat out of industrial chemical separations
     url: https://techxplore.com/news/2026-01-industrial-chemical.html
     summary: "The modern world runs on chemicals and fuels that require a huge
@@ -112,16 +147,6 @@ articles:
     categories: []
     publishedAt: 2026-01-30T12:58:57.000Z
     source: ScienceDaily — Engineering
-  - title: Microdosing for Depression Appears to Work About as Well as Drinking Coffee
-    url: https://www.wired.com/story/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee/
-    summary: For years, people from CEOs to novelists have taken tiny amounts of
-      psychedelics to support well-being. New research shows that benefits for
-      depression may be attributable to a placebo effect.
-    imageUrl: https://media.wired.com/photos/697805672a38a4db0244a583/191:100/w_1280,c_limit/science_microdosing_placebo.jpg
-    categories:
-      - Science
-    publishedAt: 2026-01-30T11:00:00.000Z
-    source: WIRED science
   - title: When Will AI Agents Be Ready for Autonomous Business Operations?
     url: https://spectrum.ieee.org/ai-agent-benchmarks
     summary: AI agents abound—and they’re increasingly gaining autonomy. From
@@ -147,7 +172,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/quantum-refrigerator-in-superconducting-quantum-circuit-schematic.webp
     categories: []
     publishedAt: 2026-01-29T13:42:30.000Z
-    source: ScienceDaily — Robotics
+    source: ScienceDaily — Computer Science
   - title: Great Refactor Initiative Looks to AI to Harden Critical Code
     url: https://spectrum.ieee.org/ai-code-rust-great-refactor
     summary: "Many of the world’s critical IT systems remain riddled with bugs, and
@@ -163,18 +188,6 @@ articles:
       - Rust
     publishedAt: 2026-01-28T16:04:13.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Emoticons can confuse LLMs, causing 'silent failures' in coding responses
-    url: https://techxplore.com/news/2026-01-emoticons-llms-silent-failures-coding.html
-    summary: Large language models (LLMs), artificial intelligence (AI) systems that
-      can process and generate texts in various languages, are now widely used
-      by people worldwide. These models have proved to be effective in rapidly
-      sourcing information, answering questions, creating written content for
-      specific applications and writing computer code.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/emoticons-can-confuse.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-01-28T12:30:01.000Z
-    source: TechXplore — Computer Science
   - title: Welcome to the “most wicked” apprentice program on campus
     url: https://news.mit.edu/2026/pappalardo-most-wicked-apprentice-program-campus-0128
     summary: The Pappalardo Apprentice program pushes the boundaries of the
