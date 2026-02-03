@@ -1,8 +1,118 @@
-date: 2026-02-02
+date: 2026-02-03
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Your future home might be framed with printed plastic
+    url: https://news.mit.edu/2026/your-future-home-might-be-framed-with-printed-plastic-0203
+    summary: The plastic bottle you just tossed in the recycling bin could provide
+      structural support for your future house.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-RecycledFlooring-01a-press.jpg?itok=SDDHpxiS
+    categories: []
+    publishedAt: 2026-02-03T05:00:00.000Z
+    source: MIT Engineering
+  - title: Multi-layer flax fiber fabric developed for alternative seating furniture
+      with flexible geometries
+    url: https://techxplore.com/news/2026-02-multi-layer-flax-fiber-fabric.html
+    summary: Seating furniture is frequently not designed for long-term use or
+      simple assembly and disassembly and has a tendency to break after just one
+      move. This does not apply to the benches, chairs, and stools that were
+      created as part of the LinumTube cooperation project led by Fraunhofer
+      WKI. The goal of the project consortium was to develop ecologically
+      sustainable seating furniture for the circular economy.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/multi-layer-flax-fiber.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-02-03T01:20:01.000Z
+    source: TechXplore — Engineering
+  - title: Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable
+      Private Company
+    url: https://www.wired.com/story/spacex-acquires-xai-elon-musk/
+    summary: By fusing SpaceX and xAI—which acquired X last year—Elon Musk tightens
+      his grip over technologies that shape national security, social media, and
+      artificial intelligence.
+    imageUrl: https://media.wired.com/photos/69811faf5fea9b4898ac924e/191:100/w_1280,c_limit/SpaceX-Aquires-xAI-Business-2256970109.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-02-02T23:07:19.000Z
+    source: WIRED (AI)
+  - title: New AI system fixes 3D printing defects in real time
+    url: https://techxplore.com/news/2026-02-ai-3d-defects-real.html
+    summary: Additive manufacturing has revolutionized manufacturing by enabling
+      customized, cost-effective products with minimal waste. However, with the
+      majority of 3D printers operating on open-loop systems, they are
+      notoriously prone to failure. Minor changes, like adjustments to nozzle
+      size or print speed, can lead to print errors that mechanically weaken the
+      part under production.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-saves-3d-prints-in-2.jpg
+    categories:
+      - Hi Tech & Innovation
+    publishedAt: 2026-02-02T21:43:27.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: HHS Is Using AI Tools From Palantir to Target ‘DEI’ and ‘Gender Ideology’
+      in Grants
+    url: https://www.wired.com/story/hhs-is-using-ai-tools-from-palantir-to-target-dei-and-gender-ideology-in-grants/
+    summary: Since March of 2025, the Department of Health and Human Services has
+      been using tools from Palantir and the startup Credal AI to weed out
+      perceived alignment with “DEI” or “gender ideology.”
+    imageUrl: https://media.wired.com/photos/697d34ebbf7f7d94e7772911/191:100/w_1280,c_limit/HHS-Using-Palantirs-AI-to-Target-DEI-Science-2256813198.jpg
+    categories:
+      - Science
+    publishedAt: 2026-02-02T20:56:41.000Z
+    source: WIRED science
+  - title: A mathematical framework for optimizing robotic joints
+    url: https://techxplore.com/news/2026-02-mathematical-framework-optimizing-robotic-joints.html
+    summary: Consider the marvelous physics of the human knee. The largest hinge
+      joint in the body, it has two rounded bones held together by ligaments
+      that not only swing like a door, but also roll and glide over each other,
+      allowing the knee to flex, extend, and balance.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/optimizing-robotic-joi.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-02-02T20:00:37.000Z
+    source: TechXplore — Robotics
+  - title: Brain-like Computers Can Do Math, Too
+    url: https://spectrum.ieee.org/neuromorphic-math
+    summary: Computer scientists often assume that the brain works by
+      approximations, and therefore that computing hardware inspired by the
+      brain won’t be as good at complex math as traditional hardware.
+      Researchers at Sandia National Laboratories are pushing back against this
+      premise. In a paper published in Nature Machine Intelligence last
+      November, they show that neuromorphic hardware built by Intel can solve
+      differential equations using one of the most important methods in
+      scientific computing, the finite element method.
+    imageUrl: https://spectrum.ieee.org/media-library/brad-theilman-leaning-over-a-crate-of-neuromorphic-computers-in-a-lab.jpg?id=63387432&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+    categories:
+      - Sandia national laboratories
+      - Energy efficiency
+      - Neuromorphic
+      - Computing
+      - Neuromorphic-computing
+    publishedAt: 2026-02-02T16:00:02.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: How generative AI can help scientists synthesize complex materials
+    url: https://news.mit.edu/2026/how-generative-ai-can-help-scientists-synthesize-complex-materials-0202
+    summary: Generative artificial intelligence models have been used to create
+      enormous libraries of theoretical materials that could help solve all
+      kinds of problems. Now, scientists just have to figure out how to make
+      them.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/MIT-DiffSyn-01.jpg?itok=7TQIoUod
+    categories: []
+    publishedAt: 2026-02-02T10:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: A tiny light trap could unlock million qubit quantum computers
+    url: https://www.sciencedaily.com/releases/2026/02/260201223737.htm
+    summary: A new light-based breakthrough could help quantum computers finally
+      scale up. Stanford researchers created miniature optical cavities that
+      efficiently collect light from individual atoms, allowing many qubits to
+      be read at once. The team has already demonstrated working arrays with
+      dozens and even hundreds of cavities. The approach could eventually
+      support massive quantum networks with millions of qubits.
+    imageUrl: https://www.sciencedaily.com/images/1920/large-qubit-array.webp
+    categories: []
+    publishedAt: 2026-02-02T05:01:14.000Z
+    source: ScienceDaily — Computer Science
   - title: Inner 'self-talk' helps AI models learn, adapt and multitask more easily
     url: https://techxplore.com/news/2026-01-ai-multitask-easily.html
     summary: Talking to oneself is a trait which feels inherently human. Our inner
@@ -14,20 +124,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-02-01T16:50:01.000Z
     source: TechXplore — Computer Science
-  - title: “Existential risk” – Why scientists are racing to define consciousness
-    url: https://www.sciencedaily.com/releases/2026/01/260131084626.htm
-    summary: Scientists warn that rapid advances in AI and neurotechnology are
-      outpacing our understanding of consciousness, creating serious ethical
-      risks. New research argues that developing scientific tests for awareness
-      could transform medicine, animal welfare, law, and AI development. But
-      identifying consciousness in machines, brain organoids, or patients could
-      also force society to rethink responsibility, rights, and moral
-      boundaries. The question of what it means to be conscious has never been
-      more urgent—or more unsettling.
-    imageUrl: https://www.sciencedaily.com/images/1920/enlightenment-psychedelic-consciousness.webp
-    categories: []
-    publishedAt: 2026-02-01T13:49:46.000Z
-    source: ScienceDaily — Artificial Intelligence
   - title: This AI app can tell which dinosaur made a footprint
     url: https://www.sciencedaily.com/releases/2026/02/260201062455.htm
     summary: Dinosaur footprints have always been mysterious, but a new AI app is
@@ -40,40 +136,6 @@ articles:
     categories: []
     publishedAt: 2026-02-01T13:37:50.000Z
     source: ScienceDaily — Robotics
-  - title: How to Use Physics to Escape an Ice Bowl
-    url: https://www.wired.com/story/how-to-use-physics-to-escape-an-ice-bowl/
-    summary: Here are three smart tricks, based on an understanding of frictional
-      forces, to beat a slippery slope.
-    imageUrl: https://media.wired.com/photos/697d39dd288c1dafebd263ee/191:100/w_1280,c_limit/Using-Physics-to-Escape-Ice-Bowl-Science-2248980379.jpg
-    categories:
-      - Science
-      - Science / Physics and Math
-    publishedAt: 2026-02-01T12:00:00.000Z
-    source: WIRED science
-  - title: Taking the heat out of industrial chemical separations
-    url: https://techxplore.com/news/2026-01-industrial-chemical.html
-    summary: "The modern world runs on chemicals and fuels that require a huge
-      amount of energy to produce: Industrial chemical separation accounts for
-      10% to 15% of the world's total energy consumption. That's because most
-      separations today rely on heat to boil off unwanted materials and isolate
-      compounds."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/taking-the-heat-out-of.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-01-31T18:30:01.000Z
-    source: TechXplore — Engineering
-  - title: Training four-legged robots as if they were dogs
-    url: https://techxplore.com/news/2026-01-legged-robots-dogs.html
-    summary: Over the next decades, robots are expected to make their way into a
-      growing number of households, public spaces, and professional
-      environments. Many of the most advanced and promising robots designed to
-      date are so-called legged robots, which consist of a central body
-      structure with limbs attached to it.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/training-four-legged-r.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-01-31T15:50:01.000Z
-    source: TechXplore — Robotics
   - title: Explore the Stratosphere With a DIY Pico balloon
     url: https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon
     summary: "There’s an interesting development in amateur ballooning: using
@@ -82,7 +144,7 @@ articles:
       normal weather balloon. Superpressure balloons can last for months and
       travel long distances, potentially circumnavigating the globe, all the
       while reporting their position."
-    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1245&height=700&coordinates=0%2C566%2C0%2C567
+    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1200&height=800&coordinates=0%2C462%2C0%2C463
     categories:
       - Amateur radio
       - Amateur science
@@ -92,27 +154,6 @@ articles:
       - Type:departments
     publishedAt: 2026-01-31T14:00:02.000Z
     source: IEEE Spectrum — DIY
-  - title: Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims
-    url: https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/
-    summary: "Plus: AI agent OpenClaw gives cybersecurity experts the willies, China
-      executes 11 scam compound bosses, a $40 million crypto theft has an
-      unexpected alleged culprit, and more."
-    imageUrl: https://media.wired.com/photos/694af897996cb37f65fe2d98/191:100/w_1280,c_limit/1_New_Epstein_GettyImages-2252159204.jpg
-    categories:
-      - Security
-      - Security / Cyberattacks and Hacks
-      - Security / National Security
-      - Security / Privacy
-      - Security / Security News
-    publishedAt: 2026-01-31T11:30:00.000Z
-    source: WIRED (AI)
-  - title: The philosophical puzzle of rational artificial intelligence
-    url: https://news.mit.edu/2026/philosophical-puzzle-rational-artificial-intelligence-0130
-    summary: To what extent can an artificial system be rational?
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/Leslie-Kaelbling-MIT-00.jpg?itok=Mx-0HAqW
-    categories: []
-    publishedAt: 2026-01-30T21:50:00.000Z
-    source: MIT Artificial Intelligence
   - title: Ode to Very Small Devices
     url: https://spectrum.ieee.org/poetry-for-engineers-ode
     summary: "As fairies for the Irish or leeks for Welsh,it’s the secret lives of
@@ -147,58 +188,6 @@ articles:
     categories: []
     publishedAt: 2026-01-30T12:58:57.000Z
     source: ScienceDaily — Engineering
-  - title: When Will AI Agents Be Ready for Autonomous Business Operations?
-    url: https://spectrum.ieee.org/ai-agent-benchmarks
-    summary: AI agents abound—and they’re increasingly gaining autonomy. From
-      navigating the web to recursively improving its own coding skills, agentic
-      AI promises to reorder the online economy and redefine the internet.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-punch-cards-with-some-shaped-like-chatbot-faces-on-a-wall-next-to-a-time-clock.jpg?id=63522131&width=1200&height=600&coordinates=0%2C200%2C0%2C200
-    categories:
-      - Agentic-ai
-      - Ai-agents
-      - Fujitsu
-      - Large-language-models
-    publishedAt: 2026-01-29T21:55:23.000Z
-    source: IEEE Spectrum — AI
-  - title: Scientists found a way to cool quantum computers using noise
-    url: https://www.sciencedaily.com/releases/2026/01/260129080418.htm
-    summary: Quantum computers need extreme cold to work, but the very systems that
-      keep them cold also create noise that can destroy fragile quantum
-      information. Scientists in Sweden have now flipped that problem on its
-      head by building a tiny quantum refrigerator that actually uses noise to
-      drive cooling instead of fighting it. By carefully steering heat at
-      unimaginably small scales, the device can act as a refrigerator, heat
-      engine, or energy amplifier inside quantum circuits.
-    imageUrl: https://www.sciencedaily.com/images/1920/quantum-refrigerator-in-superconducting-quantum-circuit-schematic.webp
-    categories: []
-    publishedAt: 2026-01-29T13:42:30.000Z
-    source: ScienceDaily — Computer Science
-  - title: Great Refactor Initiative Looks to AI to Harden Critical Code
-    url: https://spectrum.ieee.org/ai-code-rust-great-refactor
-    summary: "Many of the world’s critical IT systems remain riddled with bugs, and
-      AI tools threaten to make it easier than ever to exploit them. But AI
-      could also be part of the solution: A new initiative aims to automatically
-      convert vulnerable code into the security-focused language Rust, which
-      would eliminate the vast majority of known software vulnerabilities."
-    imageUrl: https://spectrum.ieee.org/media-library/ferris-the-crab-known-as-the-unofficial-mascot-for-rust-s-programming-language-against-an-abstract-background-of-code.jpg?id=63377544&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Artificial-intelligence
-      - Coding
-      - Cybersecurity
-      - Rust
-    publishedAt: 2026-01-28T16:04:13.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: Welcome to the “most wicked” apprentice program on campus
-    url: https://news.mit.edu/2026/pappalardo-most-wicked-apprentice-program-campus-0128
-    summary: The Pappalardo Apprentice program pushes the boundaries of the
-      traditional lab experience, inviting a selected group of juniors and
-      seniors to advance their fabrication skills while also providing mentor
-      training and peer-to-peer mentoring opportunities in an environment fueled
-      by creativity, safety, and fun.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/mit-Pappalardo-posters.JPG?itok=jGPPNSFZ
-    categories: []
-    publishedAt: 2026-01-28T05:00:00.000Z
-    source: MIT Engineering
   - title: “Wait, we have the tech skills to build that”
     url: https://news.mit.edu/2025/building-with-tech-skills-julianna-schneider-1219
     summary: Students can take many possible routes through MIT’s curriculum, which
