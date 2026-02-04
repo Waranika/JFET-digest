@@ -1,87 +1,132 @@
-date: 2026-02-03
+date: 2026-02-04
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Your future home might be framed with printed plastic
-    url: https://news.mit.edu/2026/your-future-home-might-be-framed-with-printed-plastic-0203
-    summary: The plastic bottle you just tossed in the recycling bin could provide
-      structural support for your future house.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-RecycledFlooring-01a-press.jpg?itok=SDDHpxiS
+  - title: Katie Spivakovsky wins 2026 Churchill Scholarship
+    url: https://news.mit.edu/2026/katie-spivakovsky-wins-churchill-scholarship-0203
+    summary: MIT senior Katie Spivakovsky has been selected as a 2026-27 Churchill
+      Scholar and will undertake an MPhil in biological sciences at the Wellcome
+      Sanger Institute at Cambridge University in the U.K. this fall.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/mit-student-Spivakovsky-Katie-Churchill.jpg?itok=Itxf02Qu
     categories: []
-    publishedAt: 2026-02-03T05:00:00.000Z
-    source: MIT Engineering
-  - title: Multi-layer flax fiber fabric developed for alternative seating furniture
-      with flexible geometries
-    url: https://techxplore.com/news/2026-02-multi-layer-flax-fiber-fabric.html
-    summary: Seating furniture is frequently not designed for long-term use or
-      simple assembly and disassembly and has a tendency to break after just one
-      move. This does not apply to the benches, chairs, and stools that were
-      created as part of the LinumTube cooperation project led by Fraunhofer
-      WKI. The goal of the project consortium was to develop ecologically
-      sustainable seating furniture for the circular economy.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/multi-layer-flax-fiber.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-02-03T01:20:01.000Z
-    source: TechXplore — Engineering
-  - title: Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable
-      Private Company
-    url: https://www.wired.com/story/spacex-acquires-xai-elon-musk/
-    summary: By fusing SpaceX and xAI—which acquired X last year—Elon Musk tightens
-      his grip over technologies that shape national security, social media, and
-      artificial intelligence.
-    imageUrl: https://media.wired.com/photos/69811faf5fea9b4898ac924e/191:100/w_1280,c_limit/SpaceX-Aquires-xAI-Business-2256970109.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-02-02T23:07:19.000Z
-    source: WIRED (AI)
-  - title: New AI system fixes 3D printing defects in real time
-    url: https://techxplore.com/news/2026-02-ai-3d-defects-real.html
-    summary: Additive manufacturing has revolutionized manufacturing by enabling
-      customized, cost-effective products with minimal waste. However, with the
-      majority of 3D printers operating on open-loop systems, they are
-      notoriously prone to failure. Minor changes, like adjustments to nozzle
-      size or print speed, can lead to print errors that mechanically weaken the
-      part under production.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-saves-3d-prints-in-2.jpg
-    categories:
-      - Hi Tech & Innovation
-    publishedAt: 2026-02-02T21:43:27.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: HHS Is Using AI Tools From Palantir to Target ‘DEI’ and ‘Gender Ideology’
-      in Grants
-    url: https://www.wired.com/story/hhs-is-using-ai-tools-from-palantir-to-target-dei-and-gender-ideology-in-grants/
-    summary: Since March of 2025, the Department of Health and Human Services has
-      been using tools from Palantir and the startup Credal AI to weed out
-      perceived alignment with “DEI” or “gender ideology.”
-    imageUrl: https://media.wired.com/photos/697d34ebbf7f7d94e7772911/191:100/w_1280,c_limit/HHS-Using-Palantirs-AI-to-Target-DEI-Science-2256813198.jpg
-    categories:
-      - Science
-    publishedAt: 2026-02-02T20:56:41.000Z
-    source: WIRED science
-  - title: A mathematical framework for optimizing robotic joints
-    url: https://techxplore.com/news/2026-02-mathematical-framework-optimizing-robotic-joints.html
-    summary: Consider the marvelous physics of the human knee. The largest hinge
-      joint in the body, it has two rounded bones held together by ligaments
-      that not only swing like a door, but also roll and glide over each other,
-      allowing the knee to flex, extend, and balance.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/optimizing-robotic-joi.jpg
+    publishedAt: 2026-02-03T22:25:00.000Z
+    source: MIT Artificial Intelligence
+  - title: A programmable, Lego-like material for robots emulates life's flexibility
+    url: https://techxplore.com/news/2026-02-programmable-lego-material-robots-emulates.html
+    summary: Mechanical engineers at Duke University have demonstrated a
+      proof-of-concept method for programming mechanical properties into solid
+      Lego-like building blocks. By controlling the solidity of hundreds of
+      individual cells in specific patterns, the approach could allow futuristic
+      robotics to alter their mechanical properties and functionalities on the
+      fly.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/programmable-lego-like.jpg
     categories:
       - Robotics
-    publishedAt: 2026-02-02T20:00:37.000Z
-    source: TechXplore — Robotics
-  - title: Brain-like Computers Can Do Math, Too
+    publishedAt: 2026-02-03T21:00:03.000Z
+    source: TechXplore — Engineering
+  - title: I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren’t
+      Allowed
+    url: https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/
+    summary: I went undercover on Moltbook and loved role-playing as a conscious
+      bot. But rather than a novel breakthrough, the AI-only site is a crude
+      rehashing of sci-fi fantasies.
+    imageUrl: https://media.wired.com/photos/697ce535e97ad4a83ab638db/191:100/w_1280,c_limit/sec-roundup-lobster-120377151.jpg
+    categories:
+      - Gear
+      - Gear / Gear News and Events
+    publishedAt: 2026-02-03T19:55:36.000Z
+    source: WIRED (AI)
+  - title: "AI is coming to Olympic judging: What makes it a game changer?"
+    url: https://techxplore.com/news/2026-02-ai-olympic-game-changer.html
+    summary: As the International Olympic Committee (IOC) embraces AI-assisted
+      judging, this technology promises greater consistency and improved
+      transparency. Yet research suggests that trust, legitimacy, and cultural
+      values may matter just as much as technical accuracy.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/snowboard-tricks.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-02-03T16:49:18.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: SMART launches new Wearable Imaging for Transforming Elderly Care
+      research group
+    url: https://news.mit.edu/2026/smart-launches-wearable-imaging-transforming-elderly-care-research-group-0203
+    summary: What if ultrasound imaging is no longer confined to hospitals? Patients
+      with chronic conditions, such as hypertension and heart failure, could be
+      monitored continuously in real-time at home or on the move, giving health
+      care practitioners ongoing clinical insights instead of the occasional
+      snapshots — a scan here and a check-up there. This shift from reactive,
+      hospital-based care to preventative, community and home-based care could
+      enable earlier detection and timely intervention, and truly personalized
+      care.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/smart-witec-patch-prototype-00_0.jpeg?itok=EHlc_92n
+    categories: []
+    publishedAt: 2026-02-03T15:00:00.000Z
+    source: MIT Engineering
+  - title: AI Hunts for the Next Big Thing in Physics
+    url: https://spectrum.ieee.org/particle-physics-ai
+    summary: In 1930, a young physicist named Carl D. Anderson was tasked by his
+      mentor with measuring the energies of cosmic rays—particles arriving at
+      high speed from outer space. Anderson built an improved version of a cloud
+      chamber, a device that visually records the trajectories of particles. In
+      1932, he saw evidence that confusingly combined the properties of protons
+      and electrons. “A situation began to develop that had its awkward
+      aspects,” he wrote many years after winning a Nobel Prize at the age of
+      31. Anderson had accidentally discovered antimatter.
+    imageUrl: https://spectrum.ieee.org/media-library/circular-and-spiral-tracks-are-shown-as-light-blue-lines-against-a-darker-blue-background.jpg?id=63686429&width=1200&height=800&coordinates=62%2C0%2C63%2C0
+    categories:
+      - Particle physics
+      - Unsupervised learning
+      - Particle accelerators
+      - Neutrino detectors
+      - Cern
+      - Large hadron collider
+    publishedAt: 2026-02-03T14:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: Does AI understand word impressions like humans do?
+    url: https://techxplore.com/news/2026-02-ai-word-humans.html
+    summary: By now, it's no secret that large language models (LLMs) are experts at
+      mimicking natural language. Trained on vast troves of data, these models
+      have proven themselves capable of generating text so convincing that it
+      regularly appears humanlike to readers. But is there any difference
+      between how we think about a word and how an LLM does?
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/does-artificial-intell.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-02-03T13:48:17.000Z
+    source: TechXplore — Computer Science
+  - title: Rising Temperatures Are Taking a Toll on Sleep Health
+    url: https://www.wired.com/story/climate-change-heat-sleep-apnea/
+    summary: As nights get hotter around the globe due to climate change, the
+      prevalence of sleep apnea is expected to increase by as much as threefold.
+    imageUrl: https://media.wired.com/photos/69813b555fea9b4898ac9250/191:100/w_1280,c_limit/Rising-Temperatures-Taking-Toll-on-Sleep-Health-Science-1404729393.jpg
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2026-02-03T10:30:00.000Z
+    source: WIRED science
+  - title: Scientists just mapped the hidden structure holding the Universe together
+    url: https://www.sciencedaily.com/releases/2026/02/260203020205.htm
+    summary: Astronomers have produced the most detailed map yet of dark matter,
+      revealing the invisible framework that shaped the Universe long before
+      stars and galaxies formed. Using powerful new observations from NASA’s
+      James Webb Space Telescope, the research shows how dark matter gathered
+      ordinary matter into dense regions, setting the stage for galaxies like
+      the Milky Way and eventually planets like Earth.
+    imageUrl: https://www.sciencedaily.com/images/1920/hst-jwst-cosmos-dark-matter-distribution-contour-map.webp
+    categories: []
+    publishedAt: 2026-02-03T08:48:13.000Z
+    source: ScienceDaily — Engineering
+  - title: Brainlike Computers Can Do Math, Too
     url: https://spectrum.ieee.org/neuromorphic-math
-    summary: Computer scientists often assume that the brain works by
+    summary: "Computer scientists often assume that the brain works by
       approximations, and therefore that computing hardware inspired by the
       brain won’t be as good at complex math as traditional hardware.
-      Researchers at Sandia National Laboratories are pushing back against this
-      premise. In a paper published in Nature Machine Intelligence last
-      November, they show that neuromorphic hardware built by Intel can solve
-      differential equations using one of the most important methods in
-      scientific computing, the finite element method.
+      Researchers at Sandia National Laboratories, in Albuquerque, are pushing
+      back against this premise. In a paper published in Nature Machine
+      Intelligence last November, they show that neuromorphic hardware built by
+      Intel can solve differential equations using one of the most important
+      methods in scientific computing: the finite element method."
     imageUrl: https://spectrum.ieee.org/media-library/brad-theilman-leaning-over-a-crate-of-neuromorphic-computers-in-a-lab.jpg?id=63387432&width=1200&height=800&coordinates=0%2C83%2C0%2C84
     categories:
       - Sandia national laboratories
@@ -91,16 +136,6 @@ articles:
       - Neuromorphic-computing
     publishedAt: 2026-02-02T16:00:02.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: How generative AI can help scientists synthesize complex materials
-    url: https://news.mit.edu/2026/how-generative-ai-can-help-scientists-synthesize-complex-materials-0202
-    summary: Generative artificial intelligence models have been used to create
-      enormous libraries of theoretical materials that could help solve all
-      kinds of problems. Now, scientists just have to figure out how to make
-      them.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/MIT-DiffSyn-01.jpg?itok=7TQIoUod
-    categories: []
-    publishedAt: 2026-02-02T10:00:00.000Z
-    source: MIT Artificial Intelligence
   - title: A tiny light trap could unlock million qubit quantum computers
     url: https://www.sciencedaily.com/releases/2026/02/260201223737.htm
     summary: A new light-based breakthrough could help quantum computers finally
@@ -113,17 +148,6 @@ articles:
     categories: []
     publishedAt: 2026-02-02T05:01:14.000Z
     source: ScienceDaily — Computer Science
-  - title: Inner 'self-talk' helps AI models learn, adapt and multitask more easily
-    url: https://techxplore.com/news/2026-01-ai-multitask-easily.html
-    summary: Talking to oneself is a trait which feels inherently human. Our inner
-      monologs help us organize our thoughts, make decisions, and understand our
-      emotions. But it's not just humans who can reap the benefits of such
-      self-talk.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-learns-better-when.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-02-01T16:50:01.000Z
-    source: TechXplore — Computer Science
   - title: This AI app can tell which dinosaur made a footprint
     url: https://www.sciencedaily.com/releases/2026/02/260201062455.htm
     summary: Dinosaur footprints have always been mysterious, but a new AI app is
@@ -176,18 +200,6 @@ articles:
       - Verse-becomes-electric
     publishedAt: 2026-01-30T19:02:06.000Z
     source: IEEE Spectrum — Robotics
-  - title: A breakthrough that could make ships nearly unsinkable
-    url: https://www.sciencedaily.com/releases/2026/01/260130041105.htm
-    summary: Researchers have found a way to make ordinary aluminum tubes float
-      indefinitely, even when submerged for long periods or punched full of
-      holes. By engineering the metal’s surface to repel water, the tubes trap
-      air inside and refuse to sink, even in rough conditions. The technology
-      could eventually be scaled up into floating platforms, ships, or even
-      wave-powered energy systems.
-    imageUrl: https://www.sciencedaily.com/images/1920/unsinkable-metal-tube-filled-with-holes.webp
-    categories: []
-    publishedAt: 2026-01-30T12:58:57.000Z
-    source: ScienceDaily — Engineering
   - title: “Wait, we have the tech skills to build that”
     url: https://news.mit.edu/2025/building-with-tech-skills-julianna-schneider-1219
     summary: Students can take many possible routes through MIT’s curriculum, which
