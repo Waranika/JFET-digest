@@ -1,17 +1,93 @@
-date: 2026-02-04
+date: 2026-02-05
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Katie Spivakovsky wins 2026 Churchill Scholarship
-    url: https://news.mit.edu/2026/katie-spivakovsky-wins-churchill-scholarship-0203
-    summary: MIT senior Katie Spivakovsky has been selected as a 2026-27 Churchill
-      Scholar and will undertake an MPhil in biological sciences at the Wellcome
-      Sanger Institute at Cambridge University in the U.K. this fall.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/mit-student-Spivakovsky-Katie-Churchill.jpg?itok=Itxf02Qu
+  - title: New design tool 3D-prints woven metamaterials that stretch and fail
+      predictably
+    url: https://techxplore.com/news/2026-02-tool-3d-woven-metamaterials.html
+    summary: Metamaterials—materials whose properties are primarily dictated by
+      their internal microstructure, and not their chemical makeup—have been
+      redefining the engineering materials space for the last decade. To date,
+      however, most metamaterials have been lightweight options designed for
+      stiffness and strength.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/3d-printed-metamateria.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-02-04T22:00:01.000Z
+    source: TechXplore — Engineering
+  - title: Measles Is Causing Brain Swelling in Children in South Carolina
+    url: https://www.wired.com/story/measles-is-causing-brain-swelling-in-children-in-south-carolina/
+    summary: In the ongoing measles outbreak in South Carolina that has infected
+      more than 800 people, some children have developed a rare but serious
+      complication called encephalitis.
+    imageUrl: https://media.wired.com/photos/698395e087ec5034b0c0037c/191:100/w_1280,c_limit/Measles-Cases-Leading-to-Encephalitis-Science-1339206252.jpg
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2026-02-04T21:15:18.000Z
+    source: WIRED science
+  - title: "'Discovery learning' AI tool predicts battery cycle life with just a few
+      days' data"
+    url: https://techxplore.com/news/2026-02-discovery-ai-tool-battery-life.html
+    summary: An agentic AI tool for battery researchers harnesses data from previous
+      battery designs to predict the cycle life of new battery concepts. With
+      information from just 50 cycles, the tool—developed at University of
+      Michigan Engineering—can predict how many charge-discharge cycles the
+      battery can undergo before its capacity drops below 90% of its design
+      capacity.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/discovery-learning-ai-1.jpg
+    categories:
+      - Energy & Green Tech
+    publishedAt: 2026-02-04T20:28:43.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: A New AI Math Startup Just Cracked 4 Previously Unsolved Problems
+    url: https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/
+    summary: Axiom says its AI found solutions to several long-standing math
+      problems, a sign of the technology’s steadily advancing reasoning
+      capabilities.
+    imageUrl: https://media.wired.com/photos/69826734b1483a13eb667d4f/191:100/w_1280,c_limit/AI-Lab-Axiom-Solves-Previously-Unsolvable-Math-Problem-Business.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-02-04T19:00:00.000Z
+    source: WIRED (AI)
+  - title: Brian Hedden named co-associate dean of Social and Ethical
+      Responsibilities of Computing
+    url: https://news.mit.edu/2026/brian-hedden-named-co-associate-dean-serc-0204
+    summary: Brian Hedden PhD ’12 has been appointed co-associate dean of the Social
+      and Ethical Responsibilities of Computing (SERC) at MIT, a cross-cutting
+      initiative in the MIT Schwarzman College of Computing, effective Jan. 16.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/brian-hedden-mit-00.png?itok=2WboLoHT
     categories: []
-    publishedAt: 2026-02-03T22:25:00.000Z
+    publishedAt: 2026-02-04T18:25:00.000Z
     source: MIT Artificial Intelligence
+  - title: 3D-printed metamaterials that stretch and fail by design
+    url: https://news.mit.edu/2026/3d-printed-metamaterials-stretch-and-fail-design-0204
+    summary: Metamaterials — materials whose properties are primarily dictated by
+      their internal microstructure, and not their chemical makeup — have been
+      redefining the engineering materials space for the last decade. To date,
+      however, most metamaterials have been lightweight options designed for
+      stiffness and strength.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/mit-MechE-metamaterial.jpg?itok=HN_ir77T
+    categories: []
+    publishedAt: 2026-02-04T17:35:00.000Z
+    source: MIT Engineering
+  - title: AlphaGenome Deciphers Non-Coding DNA for Gene Regulation
+    url: https://spectrum.ieee.org/alphagenome-ai-gene-regulation
+    summary: "When AlphaFold solved the protein-folding problem in 2020, it showed
+      that artificial intelligence could crack one of biology’s deepest
+      mysteries: how a string of amino acids folds itself into a working
+      molecular machine."
+    imageUrl: https://spectrum.ieee.org/media-library/model-overview-of-alphagenome-1-megabyte-of-dna-sequence-is-broken-into-chunks-processed-across-devices-the-core-architecture.jpg?id=63769373&width=1200&height=400&coordinates=0%2C417%2C0%2C417
+    categories:
+      - Google deepmind
+      - Genomics
+      - Protein-folding
+      - Dna
+      - Ai tools
+    publishedAt: 2026-02-04T15:00:02.000Z
+    source: IEEE Spectrum — AI
   - title: A programmable, Lego-like material for robots emulates life's flexibility
     url: https://techxplore.com/news/2026-02-programmable-lego-material-robots-emulates.html
     summary: Mechanical engineers at Duke University have demonstrated a
@@ -24,65 +100,7 @@ articles:
     categories:
       - Robotics
     publishedAt: 2026-02-03T21:00:03.000Z
-    source: TechXplore — Engineering
-  - title: I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren’t
-      Allowed
-    url: https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/
-    summary: I went undercover on Moltbook and loved role-playing as a conscious
-      bot. But rather than a novel breakthrough, the AI-only site is a crude
-      rehashing of sci-fi fantasies.
-    imageUrl: https://media.wired.com/photos/697ce535e97ad4a83ab638db/191:100/w_1280,c_limit/sec-roundup-lobster-120377151.jpg
-    categories:
-      - Gear
-      - Gear / Gear News and Events
-    publishedAt: 2026-02-03T19:55:36.000Z
-    source: WIRED (AI)
-  - title: "AI is coming to Olympic judging: What makes it a game changer?"
-    url: https://techxplore.com/news/2026-02-ai-olympic-game-changer.html
-    summary: As the International Olympic Committee (IOC) embraces AI-assisted
-      judging, this technology promises greater consistency and improved
-      transparency. Yet research suggests that trust, legitimacy, and cultural
-      values may matter just as much as technical accuracy.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/snowboard-tricks.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-02-03T16:49:18.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: SMART launches new Wearable Imaging for Transforming Elderly Care
-      research group
-    url: https://news.mit.edu/2026/smart-launches-wearable-imaging-transforming-elderly-care-research-group-0203
-    summary: What if ultrasound imaging is no longer confined to hospitals? Patients
-      with chronic conditions, such as hypertension and heart failure, could be
-      monitored continuously in real-time at home or on the move, giving health
-      care practitioners ongoing clinical insights instead of the occasional
-      snapshots — a scan here and a check-up there. This shift from reactive,
-      hospital-based care to preventative, community and home-based care could
-      enable earlier detection and timely intervention, and truly personalized
-      care.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/smart-witec-patch-prototype-00_0.jpeg?itok=EHlc_92n
-    categories: []
-    publishedAt: 2026-02-03T15:00:00.000Z
-    source: MIT Engineering
-  - title: AI Hunts for the Next Big Thing in Physics
-    url: https://spectrum.ieee.org/particle-physics-ai
-    summary: In 1930, a young physicist named Carl D. Anderson was tasked by his
-      mentor with measuring the energies of cosmic rays—particles arriving at
-      high speed from outer space. Anderson built an improved version of a cloud
-      chamber, a device that visually records the trajectories of particles. In
-      1932, he saw evidence that confusingly combined the properties of protons
-      and electrons. “A situation began to develop that had its awkward
-      aspects,” he wrote many years after winning a Nobel Prize at the age of
-      31. Anderson had accidentally discovered antimatter.
-    imageUrl: https://spectrum.ieee.org/media-library/circular-and-spiral-tracks-are-shown-as-light-blue-lines-against-a-darker-blue-background.jpg?id=63686429&width=1200&height=800&coordinates=62%2C0%2C63%2C0
-    categories:
-      - Particle physics
-      - Unsupervised learning
-      - Particle accelerators
-      - Neutrino detectors
-      - Cern
-      - Large hadron collider
-    publishedAt: 2026-02-03T14:00:02.000Z
-    source: IEEE Spectrum — AI
+    source: TechXplore — Robotics
   - title: Does AI understand word impressions like humans do?
     url: https://techxplore.com/news/2026-02-ai-word-humans.html
     summary: By now, it's no secret that large language models (LLMs) are experts at
@@ -95,16 +113,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-02-03T13:48:17.000Z
     source: TechXplore — Computer Science
-  - title: Rising Temperatures Are Taking a Toll on Sleep Health
-    url: https://www.wired.com/story/climate-change-heat-sleep-apnea/
-    summary: As nights get hotter around the globe due to climate change, the
-      prevalence of sleep apnea is expected to increase by as much as threefold.
-    imageUrl: https://media.wired.com/photos/69813b555fea9b4898ac9250/191:100/w_1280,c_limit/Rising-Temperatures-Taking-Toll-on-Sleep-Health-Science-1404729393.jpg
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2026-02-03T10:30:00.000Z
-    source: WIRED science
   - title: Scientists just mapped the hidden structure holding the Universe together
     url: https://www.sciencedaily.com/releases/2026/02/260203020205.htm
     summary: Astronomers have produced the most detailed map yet of dark matter,
@@ -168,7 +176,7 @@ articles:
       normal weather balloon. Superpressure balloons can last for months and
       travel long distances, potentially circumnavigating the globe, all the
       while reporting their position."
-    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1200&height=800&coordinates=0%2C462%2C0%2C463
+    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1245&height=700&coordinates=0%2C566%2C0%2C567
     categories:
       - Amateur radio
       - Amateur science
