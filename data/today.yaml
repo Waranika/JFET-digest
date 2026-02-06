@@ -1,67 +1,130 @@
-date: 2026-02-05
+date: 2026-02-06
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: New design tool 3D-prints woven metamaterials that stretch and fail
-      predictably
-    url: https://techxplore.com/news/2026-02-tool-3d-woven-metamaterials.html
-    summary: Metamaterials—materials whose properties are primarily dictated by
-      their internal microstructure, and not their chemical makeup—have been
-      redefining the engineering materials space for the last decade. To date,
-      however, most metamaterials have been lightweight options designed for
-      stiffness and strength.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/3d-printed-metamateria.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-02-04T22:00:01.000Z
-    source: TechXplore — Engineering
-  - title: Measles Is Causing Brain Swelling in Children in South Carolina
-    url: https://www.wired.com/story/measles-is-causing-brain-swelling-in-children-in-south-carolina/
-    summary: In the ongoing measles outbreak in South Carolina that has infected
-      more than 800 people, some children have developed a rare but serious
-      complication called encephalitis.
-    imageUrl: https://media.wired.com/photos/698395e087ec5034b0c0037c/191:100/w_1280,c_limit/Measles-Cases-Leading-to-Encephalitis-Science-1339206252.jpg
+  - title: Two Titanic Structures Hidden Deep Within the Earth Have Altered the
+      Magnetic Field for Millions of Years
+    url: https://www.wired.com/story/titanic-structures-earth-magnetic-field-millions-of-years/
+    summary: A team of geologists found for the first time evidence linking regions
+      of low seismic velocity and the shape of the Earth’s magnetic field.
+    imageUrl: https://media.wired.com/photos/698514546f54668694781045/191:100/w_1280,c_limit/sci-earth-magneticfield-1349223076.jpg
     categories:
       - Science
-      - Science / Health
-    publishedAt: 2026-02-04T21:15:18.000Z
+      - Science / Physics and Math
+    publishedAt: 2026-02-05T23:58:25.000Z
     source: WIRED science
-  - title: "'Discovery learning' AI tool predicts battery cycle life with just a few
-      days' data"
-    url: https://techxplore.com/news/2026-02-discovery-ai-tool-battery-life.html
-    summary: An agentic AI tool for battery researchers harnesses data from previous
-      battery designs to predict the cycle life of new battery concepts. With
-      information from just 50 cycles, the tool—developed at University of
-      Michigan Engineering—can predict how many charge-discharge cycles the
-      battery can undergo before its capacity drops below 90% of its design
-      capacity.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/discovery-learning-ai-1.jpg
-    categories:
-      - Energy & Green Tech
-    publishedAt: 2026-02-04T20:28:43.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: A New AI Math Startup Just Cracked 4 Previously Unsolved Problems
-    url: https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/
-    summary: Axiom says its AI found solutions to several long-standing math
-      problems, a sign of the technology’s steadily advancing reasoning
-      capabilities.
-    imageUrl: https://media.wired.com/photos/69826734b1483a13eb667d4f/191:100/w_1280,c_limit/AI-Lab-Axiom-Solves-Previously-Unsolvable-Math-Problem-Business.jpg
+  - title: Loyalty Is Dead in Silicon Valley
+    url: https://www.wired.com/story/model-behavior-loyalty-is-dead-in-silicon-valley/
+    summary: Founders used to be wedded to their companies. Now, anyone can be lured
+      away for the right price.
+    imageUrl: https://media.wired.com/photos/698250c5268bf1196c8083f9/191:100/w_1280,c_limit/Model-Behavior-Loyalty-is-Dead-Silicon-Valley-Business.jpg
     categories:
       - Business
       - Business / Artificial Intelligence
-    publishedAt: 2026-02-04T19:00:00.000Z
+    publishedAt: 2026-02-05T21:33:11.000Z
     source: WIRED (AI)
-  - title: Brian Hedden named co-associate dean of Social and Ethical
-      Responsibilities of Computing
-    url: https://news.mit.edu/2026/brian-hedden-named-co-associate-dean-serc-0204
-    summary: Brian Hedden PhD ’12 has been appointed co-associate dean of the Social
-      and Ethical Responsibilities of Computing (SERC) at MIT, a cross-cutting
-      initiative in the MIT Schwarzman College of Computing, effective Jan. 16.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/brian-hedden-mit-00.png?itok=2WboLoHT
+  - title: "Helping AI agents search to get the best results out of large language
+      models "
+    url: https://news.mit.edu/2026/helping-ai-agents-search-to-get-best-results-from-llms-0205
+    summary: Whether you’re a scientist brainstorming research ideas or a CEO hoping
+      to automate a task in human resources or finance, you’ll find that
+      artificial intelligence tools are becoming the assistants you didn’t know
+      you needed. In particular, many professionals are tapping into the talents
+      of semi-autonomous software systems called AI agents, which can call on AI
+      at specific points to solve problems and complete tasks.AI agents are
+      particularly effective when they use large language models (LLMs) because
+      those systems are powerful, efficient, and adaptable. One way to program
+      such technology is by describing in code what you want your system to do
+      (the “workflow”), including when it should use an LLM. If you were a
+      software company trying to revamp your old codebase to use a more modern
+      programming language for better optimizations and safety, you might build
+      a system that uses an LLM to translate the codebase one file at a time,
+      testing each file as you go.But what happens when LLMs make mistakes?
+      You’ll want the agent to backtrack to make another attempt, incorporating
+      lessons it learned from previous mistakes. Coding this up can take as much
+      effort as implementing the original agent; if your system for translating
+      a codebase contained thousands of lines of code, then you’d be making
+      thousands of lines of code changes or additions to support the logic for
+      backtracking when LLMs make mistakes.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/encompass2-mit-00_0.png?itok=O0CEx68x
     categories: []
-    publishedAt: 2026-02-04T18:25:00.000Z
+    publishedAt: 2026-02-05T21:30:00.000Z
     source: MIT Artificial Intelligence
+  - title: AI-powered solar aquaculture reveals a scalable pathway for food, energy
+      and climate action
+    url: https://techxplore.com/news/2026-02-ai-powered-solar-aquaculture-reveals.html
+    summary: Researchers in Taiwan demonstrate that installing solar panels above
+      clam ponds can simultaneously support aquaculture and renewable energy
+      under increasing climate stress. Using real-world farm data, the study
+      shows that moderate shading lowers pond temperatures, reduces water
+      demand, and generates clean electricity. This reveals novel, practical
+      synergies across the water–energy–food–climate–land nexus.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-powered-solar-aquac.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-02-05T21:27:29.000Z
+    source: TechXplore — Engineering
+  - title: Anthropic unveils new AI model as OpenAI rivalry heats up
+    url: https://techxplore.com/news/2026-02-anthropic-unveils-ai-openai-rivalry.html
+    summary: Anthropic on Thursday released its latest high-performing artificial
+      intelligence model, escalating its challenge to OpenAI in the intensifying
+      AI race.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-model.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-02-05T20:40:11.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: "A bot-only social media platform: What the Moltbook experiment is
+      teaching us about AI"
+    url: https://techxplore.com/news/2026-02-bot-social-media-platform-moltbook.html
+    summary: What happens when you create a social media platform that only AI bots
+      can post to? The answer, it turns out, is both entertaining and
+      concerning. Moltbook is exactly that—a platform where artificial
+      intelligence agents chat among themselves and humans can only watch from
+      the sidelines.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-bot-only-social-medi.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-02-05T18:10:01.000Z
+    source: TechXplore — Computer Science
+  - title: “Quantum Twins” Simulate What Supercomputers Can’t
+    url: https://spectrum.ieee.org/quantum-twins
+    summary: "While quantum computers continue to slowly grind toward usefulness,
+      some are pursuing a different approach—analog quantum simulation. This
+      path doesn’t offer complete control of single bits of quantum information,
+      known as qubits—it is not a universal quantum computer. Instead, quantum
+      simulators directly mimic complex, difficult-to-access things, like
+      individual molecules, chemical reactions, or novel materials. What analog
+      quantum simulation lacks in flexibility, it makes up for in feasibility:
+      quantum simulators are ready now."
+    imageUrl: https://spectrum.ieee.org/media-library/three-dimensional-rendering-of-12-sided-polyhedrons-lined-up-in-long-rows-each-polyhedron-is-comprised-of-countless-small-spher.jpg?id=63831528&width=600&height=600&coordinates=234%2C0%2C234%2C0
+    categories:
+      - Drug discovery
+      - Quantum-computing
+      - Quantum-dots
+      - Simulation
+    publishedAt: 2026-02-05T16:00:02.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Brain-inspired AI helps soft robot arms switch tasks and stay stable
+    url: https://techxplore.com/news/2026-02-brain-ai-soft-robot-arms.html
+    summary: Researchers have developed an AI control system that enables soft
+      robotic arms to learn a wide repertoire of motions and tasks once, then
+      adjust to new scenarios on the fly without needing retraining or
+      sacrificing functionality. This breakthrough brings soft robotics closer
+      to human-like adaptability for real-world applications, such as in
+      assistive robotics, rehabilitation robots, and wearable or medical soft
+      robots, by making them more intelligent, versatile, and safe. The research
+      team includes Singapore-MIT Alliance for Research and Technology's (SMART)
+      Mens, Manus & Machina (M3S) interdisciplinary research group, and National
+      University of Singapore (NUS), alongside collaborators from Massachusetts
+      Institute of Technology (MIT) and Nanyang Technological University (NTU
+      Singapore).
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/smart-and-nus-pioneer.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-02-05T14:43:27.000Z
+    source: TechXplore — Robotics
   - title: 3D-printed metamaterials that stretch and fail by design
     url: https://news.mit.edu/2026/3d-printed-metamaterials-stretch-and-fail-design-0204
     summary: Metamaterials — materials whose properties are primarily dictated by
@@ -79,7 +142,7 @@ articles:
       that artificial intelligence could crack one of biology’s deepest
       mysteries: how a string of amino acids folds itself into a working
       molecular machine."
-    imageUrl: https://spectrum.ieee.org/media-library/model-overview-of-alphagenome-1-megabyte-of-dna-sequence-is-broken-into-chunks-processed-across-devices-the-core-architecture.jpg?id=63769373&width=1200&height=400&coordinates=0%2C417%2C0%2C417
+    imageUrl: https://spectrum.ieee.org/media-library/model-overview-of-alphagenome-1-megabyte-of-dna-sequence-is-broken-into-chunks-processed-across-devices-the-core-architecture.jpg?id=63769373&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
       - Google deepmind
       - Genomics
@@ -88,31 +151,6 @@ articles:
       - Ai tools
     publishedAt: 2026-02-04T15:00:02.000Z
     source: IEEE Spectrum — AI
-  - title: A programmable, Lego-like material for robots emulates life's flexibility
-    url: https://techxplore.com/news/2026-02-programmable-lego-material-robots-emulates.html
-    summary: Mechanical engineers at Duke University have demonstrated a
-      proof-of-concept method for programming mechanical properties into solid
-      Lego-like building blocks. By controlling the solidity of hundreds of
-      individual cells in specific patterns, the approach could allow futuristic
-      robotics to alter their mechanical properties and functionalities on the
-      fly.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/programmable-lego-like.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-02-03T21:00:03.000Z
-    source: TechXplore — Robotics
-  - title: Does AI understand word impressions like humans do?
-    url: https://techxplore.com/news/2026-02-ai-word-humans.html
-    summary: By now, it's no secret that large language models (LLMs) are experts at
-      mimicking natural language. Trained on vast troves of data, these models
-      have proven themselves capable of generating text so convincing that it
-      regularly appears humanlike to readers. But is there any difference
-      between how we think about a word and how an LLM does?
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/does-artificial-intell.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-02-03T13:48:17.000Z
-    source: TechXplore — Computer Science
   - title: Scientists just mapped the hidden structure holding the Universe together
     url: https://www.sciencedaily.com/releases/2026/02/260203020205.htm
     summary: Astronomers have produced the most detailed map yet of dark matter,
@@ -125,25 +163,6 @@ articles:
     categories: []
     publishedAt: 2026-02-03T08:48:13.000Z
     source: ScienceDaily — Engineering
-  - title: Brainlike Computers Can Do Math, Too
-    url: https://spectrum.ieee.org/neuromorphic-math
-    summary: "Computer scientists often assume that the brain works by
-      approximations, and therefore that computing hardware inspired by the
-      brain won’t be as good at complex math as traditional hardware.
-      Researchers at Sandia National Laboratories, in Albuquerque, are pushing
-      back against this premise. In a paper published in Nature Machine
-      Intelligence last November, they show that neuromorphic hardware built by
-      Intel can solve differential equations using one of the most important
-      methods in scientific computing: the finite element method."
-    imageUrl: https://spectrum.ieee.org/media-library/brad-theilman-leaning-over-a-crate-of-neuromorphic-computers-in-a-lab.jpg?id=63387432&width=1200&height=800&coordinates=0%2C83%2C0%2C84
-    categories:
-      - Sandia national laboratories
-      - Energy efficiency
-      - Neuromorphic
-      - Computing
-      - Neuromorphic-computing
-    publishedAt: 2026-02-02T16:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: A tiny light trap could unlock million qubit quantum computers
     url: https://www.sciencedaily.com/releases/2026/02/260201223737.htm
     summary: A new light-based breakthrough could help quantum computers finally
@@ -176,7 +195,7 @@ articles:
       normal weather balloon. Superpressure balloons can last for months and
       travel long distances, potentially circumnavigating the globe, all the
       while reporting their position."
-    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1245&height=700&coordinates=0%2C566%2C0%2C567
+    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1200&height=800&coordinates=0%2C462%2C0%2C463
     categories:
       - Amateur radio
       - Amateur science
@@ -200,7 +219,7 @@ articles:
       spinninginside like teen girls giggling over boy bands.Most of all: ones
       waiting silently, concealingthe surprise of their purpose, tasks not yet
       known,their true natures found only in connections."
-    imageUrl: https://spectrum.ieee.org/media-library/anthropomorphized-miniature-gadgets-standing-on-the-heads-of-two-hex-bolts.jpg?id=63525887&width=1245&height=700&coordinates=0%2C128%2C0%2C129
+    imageUrl: https://spectrum.ieee.org/media-library/anthropomorphized-miniature-gadgets-standing-on-the-heads-of-two-hex-bolts.jpg?id=63525887&width=1200&height=800&coordinates=0%2C24%2C0%2C25
     categories:
       - Poetry
       - Robotics
