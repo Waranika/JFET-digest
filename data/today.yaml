@@ -1,45 +1,82 @@
-date: 2026-02-07
+date: 2026-02-08
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Why comparisons between AI and human intelligence miss the point
-    url: https://techxplore.com/news/2026-02-comparisons-ai-human-intelligence.html
-    summary: Claims that artificial intelligence (AI) is on the verge of surpassing
-      human intelligence have become commonplace. According to some
-      commentators, rapid advances in large language models signal an imminent
-      tipping point—often framed as "superintelligence"—that will fundamentally
-      reshape society.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/human-intelligence.jpg
+  - title: China ramps up energy boom flagged by Musk as key to AI race
+    url: https://techxplore.com/news/2026-02-china-ramps-energy-boom-flagged.html
+    summary: New data on China's relentless energy installations underscore warnings
+      from Elon Musk and Jensen Huang that the nation's world-beating power
+      network will deliver a major advantage over the U.S. in the race to
+      dominate artificial intelligence.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2020/china.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-02-06T19:20:04.000Z
+      - Energy & Green Tech
+    publishedAt: 2026-02-07T22:00:06.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Stabilized iron catalyst could replace platinum in hydrogen fuel cells
-    url: https://techxplore.com/news/2026-02-stabilized-iron-catalyst-platinum-hydrogen.html
-    summary: Japan and California have embraced hydrogen fuel-cell technologies, a
-      form of renewable energy that can be used in vehicles and for supplying
-      clean energy to manufacturing sectors. But the technology remains
-      expensive due to its reliance on precious metals such as platinum.
-      Engineers at Washington University in St. Louis are working on this
-      challenge, finding ways to stabilize ubiquitous iron components for use in
-      fuel cells to replace the expensive platinum metals, which would make
-      hydrogen fuel-cell vehicles more affordable.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/making-hydrogen-fuel-c.jpg
+  - title: Is artificial general intelligence already here? A new case that today's
+      LLMs meet key tests
+    url: https://techxplore.com/news/2026-02-artificial-general-intelligence-case-today.html
+    summary: Will artificial intelligence ever be able to reason, learn, and solve
+      problems at levels comparable to humans? Experts at the University of
+      California San Diego believe the answer is yes—and that such artificial
+      general intelligence has already arrived. This debate is tackled by four
+      faculty members spanning humanities, social sciences, and data science in
+      a recently published Comment invited by Nature.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/ai-brain.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-02-07T20:00:01.000Z
+    source: TechXplore — Computer Science
+  - title: City skylines need an upgrade in the face of climate stress
+    url: https://techxplore.com/news/2026-02-city-skylines-climate-stress.html
+    summary: When structural engineers design a building, they aren't just stacking
+      floors; they are calculating how to win a complex battle against nature.
+      Every building is built to withstand a specific "budget" of environmental
+      stress—the weight of record snowfalls, the push of powerful winds, and the
+      expansion caused by summer heat.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/city-skyline.jpg
     categories:
       - Engineering
-    publishedAt: 2026-02-06T19:00:08.000Z
+    publishedAt: 2026-02-07T14:30:03.000Z
     source: TechXplore — Engineering
-  - title: New York Is the Latest State to Consider a Data Center Pause
-    url: https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/
-    summary: Red and blue states alike have introduced legislation in recent weeks
-      that would halt data center development, citing concerns from climate to
-      high energy prices.
-    imageUrl: https://media.wired.com/photos/6985ffc322e26927f08c23c1/191:100/w_1280,c_limit/sci-ny-datacenters-2163725750.jpg
+  - title: Robots that keep moving when flipped? Sea star tube feet offer a blueprint
+    url: https://techxplore.com/news/2026-02-robots-flipped-sea-star-tube.html
+    summary: Ever feel run off your feet? Spare a thought for sea stars, creatures
+      whose movement involves the coordination of hundreds of tiny tube feet to
+      navigate complex environments—despite the lack of a central "brain."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-study-reveals-how-1.jpg
     categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-02-06T18:58:46.000Z
+      - Robotics
+    publishedAt: 2026-02-07T14:00:05.000Z
+    source: TechXplore — Robotics
+  - title: Low-Vision Programmers Can Now Design 3D Models Independently
+    url: https://spectrum.ieee.org/3d-modeling-blind-programmers
+    summary: Most 3D design software requires visual dragging and rotating—posing a
+      challenge for blind and low-vision users. As a result, a range of hardware
+      design, robotics, coding, and engineering work is inaccessible to
+      interested programmers. A visually-impaired programmer might write great
+      code. But because of the lack of accessible modeling software, the coder
+      can’t model, design, and verify physical and virtual components of their
+      system.
+    imageUrl: https://spectrum.ieee.org/media-library/a-college-student-programming-a-three-dimensional-model-on-a-laptop.jpg?id=63136292&width=1245&height=700&coordinates=0%2C469%2C0%2C469
+    categories:
+      - Assistive tech
+      - Coding
+      - Cognitive load
+      - Programming
+      - Screen readers
+    publishedAt: 2026-02-07T14:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: The Technologies Changing How You’ll Watch the 2026 Winter Olympic Games
+    url: https://www.wired.com/story/the-technologies-changing-how-youll-watch-the-2026-winter-olympic-games/
+    summary: From drones with “first-person” visualization to real-time 360-degree
+      replays and Olympics GPT, get ready to immerse yourself in the Winter
+      Games in Milan and Cortina.
+    imageUrl: https://media.wired.com/photos/698655d97cbb83907b42da12/191:100/w_1280,c_limit/Technologies-Changing-How-Youll-Watch-Winter-Olympic-Games-Gear-2259908698.jpg
+    categories:
+      - Gear
+    publishedAt: 2026-02-07T12:00:00.000Z
     source: WIRED (AI)
   - title: “This is science!” – MIT president talks about the importance of
       America’s research enterprise on GBH’s Boston Public Radio
@@ -67,24 +104,6 @@ articles:
     categories: []
     publishedAt: 2026-02-06T16:09:31.000Z
     source: ScienceDaily — Artificial Intelligence
-  - title: "AI-powered companionship: Harnessing music and empathetic speech in
-      robots to combat loneliness"
-    url: https://techxplore.com/news/2026-02-ai-powered-companionship-harnessing-music.html
-    summary: Loneliness has a critical impact on the mental health of citizens,
-      particularly among the elderly. Robots capable of perceiving and
-      responding to human emotions can serve as heart-warming companions to help
-      lift the spirits. A research team at The Hong Kong Polytechnic University
-      (PolyU) has discovered that the combined power of music and empathetic
-      speech in robots with artificial intelligence (AI) could foster a stronger
-      bond between humans and machines. These findings underscore the importance
-      of a multimodal approach in designing empathetic robots, offering
-      significant implications for their application in health support, elder
-      care, education and beyond.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-powered-companionsh.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-02-06T15:29:05.000Z
-    source: TechXplore — Robotics
   - title: A clever quantum trick brings practical quantum computers closer
     url: https://www.sciencedaily.com/releases/2026/02/260206012208.htm
     summary: Quantum computers struggle because their qubits are incredibly easy to
@@ -98,44 +117,24 @@ articles:
     categories: []
     publishedAt: 2026-02-06T14:10:15.000Z
     source: ScienceDaily — Computer Science
-  - title: "A bot-only social media platform: What the Moltbook experiment is
-      teaching us about AI"
-    url: https://techxplore.com/news/2026-02-bot-social-media-platform-moltbook.html
-    summary: What happens when you create a social media platform that only AI bots
-      can post to? The answer, it turns out, is both entertaining and
-      concerning. Moltbook is exactly that—a platform where artificial
-      intelligence agents chat among themselves and humans can only watch from
-      the sidelines.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-bot-only-social-medi.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-02-05T18:10:01.000Z
-    source: TechXplore — Computer Science
-  - title: “Quantum Twins” Simulate What Supercomputers Can’t
-    url: https://spectrum.ieee.org/quantum-twins
-    summary: "While quantum computers continue to slowly grind toward usefulness,
-      some are pursuing a different approach—analog quantum simulation. This
-      path doesn’t offer complete control of single bits of quantum information,
-      known as qubits—it is not a universal quantum computer. Instead, quantum
-      simulators directly mimic complex, difficult-to-access things, like
-      individual molecules, chemical reactions, or novel materials. What analog
-      quantum simulation lacks in flexibility, it makes up for in feasibility:
-      quantum simulators are ready now."
-    imageUrl: https://spectrum.ieee.org/media-library/three-dimensional-rendering-of-12-sided-polyhedrons-lined-up-in-long-rows-each-polyhedron-is-comprised-of-countless-small-spher.jpg?id=63831528&width=1200&height=600&coordinates=0%2C235%2C0%2C235
-    categories:
-      - Drug discovery
-      - Quantum-computing
-      - Quantum-dots
-      - Simulation
-    publishedAt: 2026-02-05T16:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
+  - title: This tiny molecular trick makes spider silk almost unbreakable
+    url: https://www.sciencedaily.com/releases/2026/02/260206012210.htm
+    summary: Scientists have cracked a key mystery behind spider silk’s legendary
+      strength and flexibility. They discovered that tiny molecular interactions
+      act like natural glue, holding silk proteins together as they transform
+      from liquid into incredibly tough fibers. This same process helps create
+      silk that’s stronger than steel by weight and tougher than Kevlar.
+    imageUrl: https://www.sciencedaily.com/images/1920/strong-spider-web.webp
+    categories: []
+    publishedAt: 2026-02-06T06:22:10.000Z
+    source: ScienceDaily — Engineering
   - title: AlphaGenome Deciphers Non-Coding DNA for Gene Regulation
     url: https://spectrum.ieee.org/alphagenome-ai-gene-regulation
     summary: "When AlphaFold solved the protein-folding problem in 2020, it showed
       that artificial intelligence could crack one of biology’s deepest
       mysteries: how a string of amino acids folds itself into a working
       molecular machine."
-    imageUrl: https://spectrum.ieee.org/media-library/model-overview-of-alphagenome-1-megabyte-of-dna-sequence-is-broken-into-chunks-processed-across-devices-the-core-architecture.jpg?id=63769373&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+    imageUrl: https://spectrum.ieee.org/media-library/model-overview-of-alphagenome-1-megabyte-of-dna-sequence-is-broken-into-chunks-processed-across-devices-the-core-architecture.jpg?id=63769373&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
       - Google deepmind
       - Genomics
@@ -144,18 +143,6 @@ articles:
       - Ai tools
     publishedAt: 2026-02-04T15:00:02.000Z
     source: IEEE Spectrum — AI
-  - title: Scientists just mapped the hidden structure holding the Universe together
-    url: https://www.sciencedaily.com/releases/2026/02/260203020205.htm
-    summary: Astronomers have produced the most detailed map yet of dark matter,
-      revealing the invisible framework that shaped the Universe long before
-      stars and galaxies formed. Using powerful new observations from NASA’s
-      James Webb Space Telescope, the research shows how dark matter gathered
-      ordinary matter into dense regions, setting the stage for galaxies like
-      the Milky Way and eventually planets like Earth.
-    imageUrl: https://www.sciencedaily.com/images/1920/hst-jwst-cosmos-dark-matter-distribution-contour-map.webp
-    categories: []
-    publishedAt: 2026-02-03T08:48:13.000Z
-    source: ScienceDaily — Engineering
   - title: This AI app can tell which dinosaur made a footprint
     url: https://www.sciencedaily.com/releases/2026/02/260201062455.htm
     summary: Dinosaur footprints have always been mysterious, but a new AI app is
