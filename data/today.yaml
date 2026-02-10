@@ -1,30 +1,123 @@
-date: 2026-02-09
+date: 2026-02-10
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "Study: Platforms that rank the latest LLMs can be unreliable"
-    url: https://news.mit.edu/2026/study-platforms-rank-latest-llms-can-be-unreliable-0209
-    summary: A firm that wants to use a large language model (LLM) to summarize
-      sales reports or triage customer inquiries can choose between hundreds of
-      unique LLMs with dozens of model variations, each with slightly different
-      performance.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-LLM-Rankings-01-press.jpg?itok=sfZTuiuE
+  - title: "3 Questions: Using AI to help Olympic skaters land a quint"
+    url: https://news.mit.edu/2026/3-questions-using-ai-help-olympic-skaters-land-quint-0210
+    summary: Olympic figure skating looks effortless. Athletes sail across the ice,
+      then soar into the air, spinning like a top, before landing on a single
+      blade just 4-5 millimeters wide. To help figure skaters land quadruple
+      axels, Salchows, Lutzes, and maybe even the elusive quintuple without
+      looking the least bit stressed, Jerry Lu MFin ’24 developed an optical
+      tracking system called OOFSkate that uses artificial intelligence to
+      analyze video of a figure skater’s jump and make recommendations on how to
+      improve. Lu, a former researcher at the MIT Sports Lab, has been aiding
+      elite skaters on Team USA with their technical performance and will be
+      working with NBC Sports during the 2026 Winter Olympics to help
+      commentators and TV viewers make better sense of the complex scoring
+      system in figure skating, snowboarding, and skiing. He’ll be applying AI
+      technologies to explain nuanced judging decisions and demonstrate just how
+      technically challenging these sports can be.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT_Jerry-Lu-Anette-Hosoi_01-PRESS.jpg?itok=_vfn9PGN
     categories: []
-    publishedAt: 2026-02-09T05:00:00.000Z
+    publishedAt: 2026-02-10T05:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: Will AI put me out of a job? How artificial intelligence is being used in
-      casino gaming
-    url: https://techxplore.com/news/2026-02-ai-job-artificial-intelligence-casino.html
-    summary: Will artificial intelligence put me out of a job? That's the lingering
-      fear some employees in the gaming industry are contemplating as rapidly
-      evolving technology is deployed in workplaces across the globe, including
-      in casino environments.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/casino-1.jpg
+  - title: "Harnessing degradation: Researchers pave way for more precise,
+      responsive shape morphing implants"
+    url: https://techxplore.com/news/2026-02-harnessing-degradation-pave-precise-responsive.html
+    summary: An international research team has demonstrated a new approach to
+      4D-printed shape-morphing implants that opens the door to increasingly
+      personalized health care.  The findings, outlined in the journal Additive
+      Manufacturing, highlight how material degradation can be used to trigger
+      controlled shape change of implanted material.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/harnessing-degradation.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-02-09T22:50:05.000Z
+    source: TechXplore — Engineering
+  - title: "AI decision aids aren't neutral: Why some users become easier to mislead"
+    url: https://techxplore.com/news/2026-02-ai-decision-aids-neutral-users.html
+    summary: Guidance based on artificial intelligence (AI) may be uniquely placed
+      to foster biases in humans, leading to less effective decision making, say
+      researchers, who found that people with a positive view of AI may be at
+      higher risk of being misled by AI tools. The study, titled "Examining
+      Human Reliance on Artificial Intelligence in Decision Making," is
+      published in Scientific Reports.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/why-relying-on-ai-may.jpg
+    categories:
+      - Consumer & Gadgets
+    publishedAt: 2026-02-09T21:42:43.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Rotating nozzle 3D printing creates air-powered soft robots with preset
+      bends
+    url: https://techxplore.com/news/2026-02-rotating-nozzle-3d-air-powered.html
+    summary: Soft robots made out of flexible, biocompatible materials are in high
+      demand in industries from health care to manufacturing, but precisely
+      designing and controlling such robots for specific purposes is a perennial
+      challenge. What if you could 3D print a soft robot with predictable
+      shape-morphing capabilities already built in? Harvard 3D printing experts
+      have shown it's possible.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/3d-printing-soft-robot-1.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-02-09T20:40:51.000Z
+    source: TechXplore — Robotics
+  - title: Small modular reactors gain competitive edge with new digital twin
+    url: https://techxplore.com/news/2026-02-small-modular-reactors-gain-competitive.html
+    summary: Advanced nuclear is within reach—and a new digital twin reveals how
+      smarter plant operations can enhance the economic viability and safety of
+      small modular reactors, or SMRs. In collaboration with the University of
+      Tennessee and GE Vernova Hitachi, researchers at Oak Ridge National
+      Laboratory recently published research in the journal Nuclear Science and
+      Engineering on a new risk-informed digital twin designed to enhance
+      operational decision-making for the GE Vernova Hitachi BWRX-300 SMR
+      design.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/small-modular-reactors.jpg
+    categories:
+      - Energy & Green Tech
+    publishedAt: 2026-02-09T14:38:33.000Z
+    source: TechXplore — Computer Science
+  - title: New Devices Might Scale the Memory Wall
+    url: https://spectrum.ieee.org/ai-and-memory-wall
+    summary: The hunt is on for anything that can surmount AI’s perennial memory
+      wall–even quick models are bogged down by the time and energy needed to
+      carry data between processor and memory. Resistive RAM (RRAM)could
+      circumvent the wall by allowing computation to happen in the memory
+      itself. Unfortunately, most types of this nonvolatile memory are too
+      unstable and unwieldy for that purpose.
+    imageUrl: https://spectrum.ieee.org/media-library/scanning-electron-microscope-image-of-the-top-of-a-three-dimensional-bulk-resistive-ram.jpg?id=63929015&width=1245&height=700&coordinates=0%2C97%2C0%2C98
+    categories:
+      - Analog-ai
+      - Machine-learning
+      - Memristors
+      - Nonvolatile memory
+      - Resistive ram
+      - Rram
+    publishedAt: 2026-02-09T13:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: No Company Has Admitted to Replacing Workers With AI in New York
+    url: https://www.wired.com/story/no-company-has-admitted-to-replacing-workers-with-ai-in-new-york/
+    summary: New York state has required companies to disclose if “technological
+      innovation or automation” was the cause of job loss for nearly a year. So
+      far, none has.
+    imageUrl: https://media.wired.com/photos/6983b56827e294ea7eb1b76d/191:100/w_1280,c_limit/Companies-Wont-Admit-to-Replacing-Workers-with-AI-Business.jpg
     categories:
       - Business
-    publishedAt: 2026-02-08T21:00:03.000Z
-    source: TechXplore — AI & Machine Learning
+      - Business / Artificial Intelligence
+    publishedAt: 2026-02-09T12:00:00.000Z
+    source: WIRED (AI)
+  - title: This Startup Thinks It Can Make Rocket Fuel From Water. Stop Laughing
+    url: https://www.wired.com/story/general-galactic-water-rocket-fuel-test/
+    summary: General Galactic, cofounded by a former SpaceX engineer, plans to test
+      its water-based propellant this fall. If successful, it could help usher
+      in a new era of space travel. That's a big “if.”
+    imageUrl: https://media.wired.com/photos/6986234e6384a6dbf6833107/191:100/w_1280,c_limit/CRS-13_launch-sky-view-scaled-1.jpg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-02-09T10:30:00.000Z
+    source: WIRED science
   - title: Scientists finally solve a 100-year-old mystery in the air we breathe
     url: https://www.sciencedaily.com/releases/2026/02/260208011019.htm
     summary: "Scientists at the University of Warwick have cracked a long-standing
@@ -39,86 +132,22 @@ articles:
     categories: []
     publishedAt: 2026-02-08T18:38:35.000Z
     source: ScienceDaily — Engineering
-  - title: Humidity-resistant hydrogen sensor can improve safety in large-scale
-      clean energy
-    url: https://techxplore.com/news/2026-02-humidity-resistant-hydrogen-sensor-safety.html
-    summary: Wherever hydrogen is present, safety sensors are required to detect
-      leaks and prevent the formation of flammable oxyhydrogen gas when hydrogen
-      is mixed with air. It is therefore a challenge that today's sensors do not
-      work optimally in humid environments—because where there is hydrogen,
-      there is very often humidity. Now, researchers at Chalmers University of
-      Technology, Sweden, are presenting a new sensor that is well suited to
-      humid environments—and actually performs better the more humid it gets.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/humidity-resistant-hyd-1.jpg
+  - title: "Video Friday: Autonomous Robots Learn By Doing in This Factory"
+    url: https://spectrum.ieee.org/autonomous-warehouse-robots
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/robotic-arms-on-mobile-bases-sort-crates-on-a-conveyor-belt-in-a-warehouse.png?id=63907821&width=1245&height=700&coordinates=0%2C55%2C0%2C55
     categories:
-      - Engineering
-    publishedAt: 2026-02-08T15:00:02.000Z
-    source: TechXplore — Engineering
-  - title: Is artificial general intelligence already here? A new case that today's
-      LLMs meet key tests
-    url: https://techxplore.com/news/2026-02-artificial-general-intelligence-case-today.html
-    summary: Will artificial intelligence ever be able to reason, learn, and solve
-      problems at levels comparable to humans? Experts at the University of
-      California San Diego believe the answer is yes—and that such artificial
-      general intelligence has already arrived. This debate is tackled by four
-      faculty members spanning humanities, social sciences, and data science in
-      a recently published Comment invited by Nature.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/ai-brain.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-02-07T20:00:01.000Z
-    source: TechXplore — Computer Science
-  - title: Robots that keep moving when flipped? Sea star tube feet offer a blueprint
-    url: https://techxplore.com/news/2026-02-robots-flipped-sea-star-tube.html
-    summary: Ever feel run off your feet? Spare a thought for sea stars, creatures
-      whose movement involves the coordination of hundreds of tiny tube feet to
-      navigate complex environments—despite the lack of a central "brain."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-study-reveals-how-1.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-02-07T14:00:05.000Z
-    source: TechXplore — Robotics
-  - title: Low-Vision Programmers Can Now Design 3D Models Independently
-    url: https://spectrum.ieee.org/3d-modeling-blind-programmers
-    summary: Most 3D design software requires visual dragging and rotating—posing a
-      challenge for blind and low-vision users. As a result, a range of hardware
-      design, robotics, coding, and engineering work is inaccessible to
-      interested programmers. A visually-impaired programmer might write great
-      code. But because of the lack of accessible modeling software, the coder
-      can’t model, design, and verify physical and virtual components of their
-      system.
-    imageUrl: https://spectrum.ieee.org/media-library/a-college-student-programming-a-three-dimensional-model-on-a-laptop.jpg?id=63136292&width=1245&height=700&coordinates=0%2C469%2C0%2C469
-    categories:
-      - Assistive tech
-      - Coding
-      - Cognitive load
-      - Programming
-      - Screen readers
-    publishedAt: 2026-02-07T14:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: The Technologies Changing How You’ll Watch the 2026 Winter Olympic Games
-    url: https://www.wired.com/story/the-technologies-changing-how-youll-watch-the-2026-winter-olympic-games/
-    summary: From drones with “first-person” visualization to real-time 360-degree
-      replays and Olympics GPT, get ready to immerse yourself in the Winter
-      Games in Milan and Cortina.
-    imageUrl: https://media.wired.com/photos/698655d97cbb83907b42da12/191:100/w_1280,c_limit/Technologies-Changing-How-Youll-Watch-Winter-Olympic-Games-Gear-2259908698.jpg
-    categories:
-      - Gear
-    publishedAt: 2026-02-07T12:00:00.000Z
-    source: WIRED (AI)
-  - title: “This is science!” – MIT president talks about the importance of
-      America’s research enterprise on GBH’s Boston Public Radio
-    url: https://news.mit.edu/2026/science-mit-president-talks-about-importance-americas-research-enterprise-gbhs-boston-public
-    summary: In a wide-ranging live conversation, MIT President Sally Kornbluth
-      joined Jim Braude and Margery Eagan live in studio for GBH’s Boston Public
-      Radio on Thursday, February 5. They talked about MIT, the pressures facing
-      America’s research enterprise, the importance of science, that
-      Congressional hearing on antisemitism in 2023, and more – including
-      Sally’s experience as a Type 1 diabetic.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/Sally%20Kornbluth%20GBH_0.png?itok=ijERDelJ
-    categories: []
-    publishedAt: 2026-02-06T17:38:22.000Z
-    source: MIT Engineering
+      - Video-friday
+      - Autonomous-robots
+      - Humanoid-robots
+      - Industrial-robots
+      - Robot-ai
+      - Perseverance-rover
+    publishedAt: 2026-02-06T17:00:02.000Z
+    source: IEEE Spectrum — Robotics
   - title: Scientists create smart synthetic skin that can hide images and change
       shape
     url: https://www.sciencedaily.com/releases/2026/02/260206034836.htm
@@ -145,21 +174,6 @@ articles:
     categories: []
     publishedAt: 2026-02-06T14:10:15.000Z
     source: ScienceDaily — Computer Science
-  - title: AlphaGenome Deciphers Non-Coding DNA for Gene Regulation
-    url: https://spectrum.ieee.org/alphagenome-ai-gene-regulation
-    summary: "When AlphaFold solved the protein-folding problem in 2020, it showed
-      that artificial intelligence could crack one of biology’s deepest
-      mysteries: how a string of amino acids folds itself into a working
-      molecular machine."
-    imageUrl: https://spectrum.ieee.org/media-library/model-overview-of-alphagenome-1-megabyte-of-dna-sequence-is-broken-into-chunks-processed-across-devices-the-core-architecture.jpg?id=63769373&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Google deepmind
-      - Genomics
-      - Protein-folding
-      - Dna
-      - Ai tools
-    publishedAt: 2026-02-04T15:00:02.000Z
-    source: IEEE Spectrum — AI
   - title: This AI app can tell which dinosaur made a footprint
     url: https://www.sciencedaily.com/releases/2026/02/260201062455.htm
     summary: Dinosaur footprints have always been mysterious, but a new AI app is
@@ -190,28 +204,6 @@ articles:
       - Type:departments
     publishedAt: 2026-01-31T14:00:02.000Z
     source: IEEE Spectrum — DIY
-  - title: Ode to Very Small Devices
-    url: https://spectrum.ieee.org/poetry-for-engineers-ode
-    summary: "As fairies for the Irish or leeks for Welsh,it’s the secret lives of
-      small hidden machines,their junctures, and networks that inspire me:Mystic
-      hidden functionaries that makeour made world live, brave little servo
-      motors,whose couplers, whose eccentric fire-filledsensors are encased in
-      bakelite with brassscrews, who stare with red eyes, who gauge moisture,who
-      notice tiny motions and respond,whose cooling fans call out in
-      white-noiseregisters like older folk singers–I canalmost hear their
-      earlier songs, their strong voicesnow yelps, their thumps, their throbs,
-      their hum, their chant–,they click, they whir, they are sent
-      spinninginside like teen girls giggling over boy bands.Most of all: ones
-      waiting silently, concealingthe surprise of their purpose, tasks not yet
-      known,their true natures found only in connections."
-    imageUrl: https://spectrum.ieee.org/media-library/anthropomorphized-miniature-gadgets-standing-on-the-heads-of-two-hex-bolts.jpg?id=63525887&width=2000&height=1500&coordinates=78%2C0%2C79%2C0
-    categories:
-      - Poetry
-      - Robotics
-      - Type:departments
-      - Verse-becomes-electric
-    publishedAt: 2026-01-30T19:02:06.000Z
-    source: IEEE Spectrum — Robotics
   - title: “Wait, we have the tech skills to build that”
     url: https://news.mit.edu/2025/building-with-tech-skills-julianna-schneider-1219
     summary: Students can take many possible routes through MIT’s curriculum, which
