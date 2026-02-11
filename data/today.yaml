@@ -1,54 +1,141 @@
-date: 2026-02-10
+date: 2026-02-11
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "3 Questions: Using AI to help Olympic skaters land a quint"
-    url: https://news.mit.edu/2026/3-questions-using-ai-help-olympic-skaters-land-quint-0210
-    summary: Olympic figure skating looks effortless. Athletes sail across the ice,
-      then soar into the air, spinning like a top, before landing on a single
-      blade just 4-5 millimeters wide. To help figure skaters land quadruple
-      axels, Salchows, Lutzes, and maybe even the elusive quintuple without
-      looking the least bit stressed, Jerry Lu MFin ’24 developed an optical
-      tracking system called OOFSkate that uses artificial intelligence to
-      analyze video of a figure skater’s jump and make recommendations on how to
-      improve. Lu, a former researcher at the MIT Sports Lab, has been aiding
-      elite skaters on Team USA with their technical performance and will be
-      working with NBC Sports during the 2026 Winter Olympics to help
-      commentators and TV viewers make better sense of the complex scoring
-      system in figure skating, snowboarding, and skiing. He’ll be applying AI
-      technologies to explain nuanced judging decisions and demonstrate just how
-      technically challenging these sports can be.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT_Jerry-Lu-Anette-Hosoi_01-PRESS.jpg?itok=_vfn9PGN
-    categories: []
-    publishedAt: 2026-02-10T05:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: "Harnessing degradation: Researchers pave way for more precise,
-      responsive shape morphing implants"
-    url: https://techxplore.com/news/2026-02-harnessing-degradation-pave-precise-responsive.html
-    summary: An international research team has demonstrated a new approach to
-      4D-printed shape-morphing implants that opens the door to increasingly
-      personalized health care.  The findings, outlined in the journal Additive
-      Manufacturing, highlight how material degradation can be used to trigger
-      controlled shape change of implanted material.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/harnessing-degradation.jpg
+  - title: Why I'm building an office out of straw
+    url: https://techxplore.com/news/2026-02-im-office-straw.html
+    summary: When we moved into our house, there was a shed in the garden. Its
+      timbers were rotten, the floor had long since disappeared into the ground,
+      there was no door, the window had fallen out and various creatures had
+      moved in.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/why-im-building-an-off.jpg
     categories:
       - Engineering
-    publishedAt: 2026-02-09T22:50:05.000Z
+    publishedAt: 2026-02-11T01:50:01.000Z
     source: TechXplore — Engineering
-  - title: "AI decision aids aren't neutral: Why some users become easier to mislead"
-    url: https://techxplore.com/news/2026-02-ai-decision-aids-neutral-users.html
-    summary: Guidance based on artificial intelligence (AI) may be uniquely placed
-      to foster biases in humans, leading to less effective decision making, say
-      researchers, who found that people with a positive view of AI may be at
-      higher risk of being misled by AI tools. The study, titled "Examining
-      Human Reliance on Artificial Intelligence in Decision Making," is
-      published in Scientific Reports.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/why-relying-on-ai-may.jpg
+  - title: AI algorithm enables tracking of vital white matter pathways
+    url: https://news.mit.edu/2026/new-window-on-brainstem-ai-algorithm-enables-tracking-white-matter-pathways-0210
+    summary: The signals that drive many of the brain and body’s most essential
+      functions — consciousness, sleep, breathing, heart rate, and motion —
+      course through bundles of “white matter” fibers in the brainstem, but
+      imaging systems so far have been unable to finely resolve these crucial
+      neural cables. That has left researchers and doctors with little
+      capability to assess how they are affected by trauma or neurodegeneration.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/mit-picower-brain-imaging.jpg?itok=Z83SrzkF
+    categories: []
+    publishedAt: 2026-02-10T22:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Magnetic mixer improves 3D bioprinting
+    url: https://news.mit.edu/2026/magnetic-mixer-improves-3d-bioprinting-0210
+    summary: 3D bioprinting, in which living tissues are printed with cells mixed
+      into soft hydrogels, or “bio-inks,” is widely used in the field of
+      bioengineering for modeling or replacing the tissues in our bodies. The
+      print quality and reproducibility of tissues, however, can face
+      challenges. One of the most significant challenges is created simply by
+      gravity — cells naturally sink to the bottom of the bioink-extruding
+      printer syringe because the cells are heavier than the hydrogel around
+      them.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/mit-meche-magmix.jpg?itok=9g5aUJx9
+    categories: []
+    publishedAt: 2026-02-10T21:35:00.000Z
+    source: MIT Robotics
+  - title: "Reasoning: A smarter way for AI to understand text and images"
+    url: https://techxplore.com/news/2026-02-smarter-ai-text-images.html
+    summary: Engineers at the University of California San Diego have developed a
+      new way to train artificial intelligence systems to solve complex problems
+      more reliably, particularly those that require interpreting both text and
+      images. In widely used tests to evaluate mathematical reasoning, AI models
+      trained with this method outperformed others in solving math word problems
+      containing visual elements like charts and diagrams.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-smarter-way-for-ai-t.jpg
     categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-02-09T21:42:43.000Z
+      - Machine learning & AI
+    publishedAt: 2026-02-10T21:05:27.000Z
     source: TechXplore — AI & Machine Learning
+  - title: The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure
+      Skating
+    url: https://www.wired.com/story/2026-winter-olympics-figure-skating-quadruple-axel-science/
+    summary: Are you speechless watching US figure skater Ilia Malinin on the ice?
+      Science explains how it’s possible the Quad God can do more than four full
+      rotations in the air.
+    imageUrl: https://media.wired.com/photos/698b3cd3746dbeb7faca18ab/191:100/w_1280,c_limit/2260607114
+    categories:
+      - Science
+    publishedAt: 2026-02-10T20:45:00.000Z
+    source: WIRED science
+  - title: RFK Jr. Says Americans Need More Protein. His Grok-Powered Food Website
+      Disagrees
+    url: https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/
+    summary: The site Realfood.gov uses Elon Musk’s Grok chatbot to dispense
+      nutrition information—some of which contradicts the government’s new
+      guidelines.
+    imageUrl: https://media.wired.com/photos/698a07662a7b7560182df447/191:100/w_1280,c_limit/GettyImages-2254661498.jpg
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2026-02-10T20:30:28.000Z
+    source: WIRED (AI)
+  - title: Startups Are Betting on Orbital Growth for Advanced Electronics
+    url: https://spectrum.ieee.org/in-orbit-manufacturing
+    summary: This past December, the U.K. start-up Space Forge turned on an orbital
+      furnace aboard its ForgeStar-1 satellite, producing a stream of super-hot
+      plasma that could someday enable production of near-ideal semiconductor
+      crystals in orbit. Hailed as a breakthrough in orbital manufacturing, the
+      milestone is a first for a free-flying commercial satellite and a payload
+      not operated by humans.
+    imageUrl: https://spectrum.ieee.org/media-library/a-group-of-people-in-blue-bunny-suits-pose-around-a-satellite-manufacturing-model-in-their-lab.jpg?id=63305822&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Electronic components
+      - Gallium nitride
+      - Semiconductor production
+      - Semiconductor-manufacturing
+      - Silicon carbide
+    publishedAt: 2026-02-10T18:27:48.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: How and When the Memory Chip Shortage Will End
+    url: https://spectrum.ieee.org/dram-shortage
+    summary: If it feels these days as if everything in technology is about AI,
+      that’s because it is. And nowhere is that more true than in the market for
+      computer memory. Demand, and profitability, for the type of DRAM used to
+      feed GPUs and other accelerators in AI data centers is so huge that it’s
+      diverting away supply of memory for other uses and causing prices to
+      skyrocket. According to Counterpoint Research, DRAM prices have risen
+      80-90 precent so far this quarter.
+    imageUrl: https://spectrum.ieee.org/media-library/sk-hynix-inc-s-12-layer-hbm4-memory-chips-on-display.jpg?id=63918122&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+    categories:
+      - Ai hardware
+      - Computer memory
+      - Dram
+      - Hbm
+      - Data-centers
+    publishedAt: 2026-02-10T14:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: AI reads brain MRIs in seconds and flags emergencies
+    url: https://www.sciencedaily.com/releases/2026/02/260210005419.htm
+    summary: Researchers at the University of Michigan have created an AI system
+      that can interpret brain MRI scans in just seconds, accurately identifying
+      a wide range of neurological conditions and determining which cases need
+      urgent care. Trained on hundreds of thousands of real-world scans along
+      with patient histories, the model achieved accuracy as high as 97.5% and
+      outperformed other advanced AI tools.
+    imageUrl: https://www.sciencedaily.com/images/1920/futuristic-red-digital-brain.webp
+    categories: []
+    publishedAt: 2026-02-10T06:04:12.000Z
+    source: ScienceDaily — Robotics
+  - title: Physicists discover what controls the speed of quantum time
+    url: https://www.sciencedaily.com/releases/2026/02/260209221713.htm
+    summary: Time may feel smooth and continuous, but at the quantum level it
+      behaves very differently. Physicists have now found a way to measure how
+      long ultrafast quantum events actually last, without relying on any
+      external clock. By tracking subtle changes in electrons as they absorb
+      light and escape a material, researchers discovered that these transitions
+      are not instantaneous and that their duration depends strongly on the
+      atomic structure of the material involved.
+    imageUrl: https://www.sciencedaily.com/images/1920/physics-flow-of-time.webp
+    categories: []
+    publishedAt: 2026-02-10T03:21:59.000Z
+    source: ScienceDaily — Engineering
   - title: Rotating nozzle 3D printing creates air-powered soft robots with preset
       bends
     url: https://techxplore.com/news/2026-02-rotating-nozzle-3d-air-powered.html
@@ -78,60 +165,6 @@ articles:
       - Energy & Green Tech
     publishedAt: 2026-02-09T14:38:33.000Z
     source: TechXplore — Computer Science
-  - title: New Devices Might Scale the Memory Wall
-    url: https://spectrum.ieee.org/ai-and-memory-wall
-    summary: The hunt is on for anything that can surmount AI’s perennial memory
-      wall–even quick models are bogged down by the time and energy needed to
-      carry data between processor and memory. Resistive RAM (RRAM)could
-      circumvent the wall by allowing computation to happen in the memory
-      itself. Unfortunately, most types of this nonvolatile memory are too
-      unstable and unwieldy for that purpose.
-    imageUrl: https://spectrum.ieee.org/media-library/scanning-electron-microscope-image-of-the-top-of-a-three-dimensional-bulk-resistive-ram.jpg?id=63929015&width=1245&height=700&coordinates=0%2C97%2C0%2C98
-    categories:
-      - Analog-ai
-      - Machine-learning
-      - Memristors
-      - Nonvolatile memory
-      - Resistive ram
-      - Rram
-    publishedAt: 2026-02-09T13:00:02.000Z
-    source: IEEE Spectrum — AI
-  - title: No Company Has Admitted to Replacing Workers With AI in New York
-    url: https://www.wired.com/story/no-company-has-admitted-to-replacing-workers-with-ai-in-new-york/
-    summary: New York state has required companies to disclose if “technological
-      innovation or automation” was the cause of job loss for nearly a year. So
-      far, none has.
-    imageUrl: https://media.wired.com/photos/6983b56827e294ea7eb1b76d/191:100/w_1280,c_limit/Companies-Wont-Admit-to-Replacing-Workers-with-AI-Business.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-02-09T12:00:00.000Z
-    source: WIRED (AI)
-  - title: This Startup Thinks It Can Make Rocket Fuel From Water. Stop Laughing
-    url: https://www.wired.com/story/general-galactic-water-rocket-fuel-test/
-    summary: General Galactic, cofounded by a former SpaceX engineer, plans to test
-      its water-based propellant this fall. If successful, it could help usher
-      in a new era of space travel. That's a big “if.”
-    imageUrl: https://media.wired.com/photos/6986234e6384a6dbf6833107/191:100/w_1280,c_limit/CRS-13_launch-sky-view-scaled-1.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-02-09T10:30:00.000Z
-    source: WIRED science
-  - title: Scientists finally solve a 100-year-old mystery in the air we breathe
-    url: https://www.sciencedaily.com/releases/2026/02/260208011019.htm
-    summary: "Scientists at the University of Warwick have cracked a long-standing
-      problem in air pollution science: how to predict the movement of
-      irregularly shaped nanoparticles as they drift through the air we breathe.
-      These tiny particles — from soot and microplastics to viruses — are linked
-      to serious health risks, yet most models still treat them as perfect
-      spheres for simplicity. By reworking a century-old formula, researchers
-      have created the first simple, accurate way to predict how particles of
-      almost any shape behave."
-    imageUrl: https://www.sciencedaily.com/images/1920/aerosol-breathing-particles.webp
-    categories: []
-    publishedAt: 2026-02-08T18:38:35.000Z
-    source: ScienceDaily — Engineering
   - title: "Video Friday: Autonomous Robots Learn By Doing in This Factory"
     url: https://spectrum.ieee.org/autonomous-warehouse-robots
     summary: Video Friday is your weekly selection of awesome robotics videos,
@@ -148,19 +181,6 @@ articles:
       - Perseverance-rover
     publishedAt: 2026-02-06T17:00:02.000Z
     source: IEEE Spectrum — Robotics
-  - title: Scientists create smart synthetic skin that can hide images and change
-      shape
-    url: https://www.sciencedaily.com/releases/2026/02/260206034836.htm
-    summary: Inspired by the shape-shifting skin of octopuses, Penn State
-      researchers developed a smart hydrogel that can change appearance,
-      texture, and shape on command. The material is programmed using a special
-      printing technique that embeds digital instructions directly into the
-      skin. Images and information can remain invisible until triggered by heat,
-      liquids, or stretching.
-    imageUrl: https://www.sciencedaily.com/images/1920/cephalopod-inspired-smart-skin-material.webp
-    categories: []
-    publishedAt: 2026-02-06T16:09:31.000Z
-    source: ScienceDaily — Artificial Intelligence
   - title: A clever quantum trick brings practical quantum computers closer
     url: https://www.sciencedaily.com/releases/2026/02/260206012208.htm
     summary: Quantum computers struggle because their qubits are incredibly easy to
@@ -174,18 +194,6 @@ articles:
     categories: []
     publishedAt: 2026-02-06T14:10:15.000Z
     source: ScienceDaily — Computer Science
-  - title: This AI app can tell which dinosaur made a footprint
-    url: https://www.sciencedaily.com/releases/2026/02/260201062455.htm
-    summary: Dinosaur footprints have always been mysterious, but a new AI app is
-      cracking their secrets. DinoTracker analyzes photos of fossil tracks and
-      predicts which dinosaur made them, with accuracy rivaling human experts.
-      Along the way, it uncovered footprints that look strikingly
-      bird-like—dating back more than 200 million years. That discovery could
-      push the origin of birds much deeper into prehistory.
-    imageUrl: https://www.sciencedaily.com/images/1920/jurassic-dinosaur-footprint-photogrammetric-model-contours.webp
-    categories: []
-    publishedAt: 2026-02-01T13:37:50.000Z
-    source: ScienceDaily — Robotics
   - title: Explore the Stratosphere With a DIY Pico balloon
     url: https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon
     summary: "There’s an interesting development in amateur ballooning: using
@@ -194,7 +202,7 @@ articles:
       normal weather balloon. Superpressure balloons can last for months and
       travel long distances, potentially circumnavigating the globe, all the
       while reporting their position."
-    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1200&height=800&coordinates=0%2C462%2C0%2C463
+    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1200&height=600&coordinates=0%2C629%2C0%2C629
     categories:
       - Amateur radio
       - Amateur science
@@ -204,13 +212,3 @@ articles:
       - Type:departments
     publishedAt: 2026-01-31T14:00:02.000Z
     source: IEEE Spectrum — DIY
-  - title: “Wait, we have the tech skills to build that”
-    url: https://news.mit.edu/2025/building-with-tech-skills-julianna-schneider-1219
-    summary: Students can take many possible routes through MIT’s curriculum, which
-      can zigag through different departments, linking classes and disciplines
-      in unexpected ways. With so many options, charting an academic path can be
-      overwhelming, but a new tool called NerdXing is here to help.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202512/MIT-Julia-Schneider-01-press.jpg?itok=HEkpAr0G
-    categories: []
-    publishedAt: 2025-12-19T05:00:00.000Z
-    source: MIT Robotics
