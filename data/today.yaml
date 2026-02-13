@@ -1,76 +1,94 @@
-date: 2026-02-12
+date: 2026-02-13
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Accelerating science with AI and simulations
-    url: https://news.mit.edu/2026/accelerating-science-ai-and-simulations-rafael-gomez-bombarelli-0212
-    summary: For more than a decade, MIT Associate Professor Rafael Gómez-Bombarelli
-      has used artificial intelligence to create new materials. As the
-      technology has expanded, so have his ambitions.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-Rafael-Gomez-Bombarelli-01-press.jpg?itok=vCsnmt-Q
+  - title: A new way to make steel could reduce America’s reliance on imports
+    url: https://news.mit.edu/2026/new-way-make-steel-could-reduce-americas-reliance-imports-0213
+    summary: America has been making steel from iron ore the same way for hundreds
+      of years. Unfortunately, it hasn’t been making enough of it. Today the
+      U.S. is the world’s largest steel importer, relying on other countries to
+      produce a material that serves as the backbone of our society.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-Hertha-01-press.jpg?itok=5ym7THGJ
     categories: []
-    publishedAt: 2026-02-12T05:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Study of Buddhist Monks Finds Meditation Alters Brain Activity
-    url: https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/
-    summary: Meditation isn’t thinking about nothing. New research reinforces that
-      it’s a mind-altering, dynamic state that promotes focus, learning, and
-      well-being.
-    imageUrl: https://media.wired.com/photos/698bcacf1cd27f239f17a259/191:100/w_1280,c_limit/monje.jpg
+    publishedAt: 2026-02-13T05:00:00.000Z
+    source: MIT Engineering
+  - title: "Turning down the heat: Researcher identifies better way to remove heat
+      from AI data centers"
+    url: https://techxplore.com/news/2026-02-ai-centers.html
+    summary: A University of Houston professor has taken on the global challenge of
+      reducing the staggering amount of heat generated in artificial
+      intelligence data centers. Hadi Ghasemi, J. Willard Gibbs Distinguished
+      Professor of Mechanical & Aerospace Engineering, has found that thin films
+      designed into tree-like, or branched shapes release heat at least three
+      times better than today's best methods.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/turning-down-the-heat.jpg
     categories:
-      - Science
-      - Science / Psychology and Neuroscience
-    publishedAt: 2026-02-11T22:35:39.000Z
-    source: WIRED science
-  - title: An assistive robot learns to set and clear the table by observing humans
-    url: https://techxplore.com/news/2026-02-robot-table-humans.html
-    summary: Researchers at Universidad Carlos III de Madrid (UC3M) have developed a
-      new methodology for a robot to learn how to move its arms autonomously by
-      combining a type of observational learning with intercommunication between
-      its limbs. This work represents a further step toward achieving more
-      natural and easily teachable service robots capable of performing
-      assistive tasks in domestic environments, such as setting and clearing the
-      table, ironing, or tidying up the kitchen.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-uc3m-assistive-robot.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-02-11T22:16:23.000Z
-    source: TechXplore — Robotics
-  - title: AI-guided micromachining advances next-generation biocompatible titanium
-      alloys
-    url: https://techxplore.com/news/2026-02-ai-micromachining-advances-generation-biocompatible.html
-    summary: Researchers have developed a new machine-learning-assisted approach to
-      optimize micro-electro-discharge machining (µ-EDM) of a next-generation
-      biocompatible titanium alloy, potentially improving the manufacturing of
-      advanced medical and aerospace components.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-guided-micromachini.jpg
+      - Energy & Green Tech
+    publishedAt: 2026-02-13T01:30:03.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Fast 3D imaging system developed for gas leak detection
+    url: https://techxplore.com/news/2026-02-fast-3d-imaging-gas-leak.html
+    summary: Recently, a research team from the Anhui Institute of Optics and Fine
+      Mechanics, Hefei Institutes of Physical Science, Chinese Academy of
+      Sciences, developed a fast, multi-platform compatible detection network
+      that can "see" gas leaks in three dimensions.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/researchers-develop-fa.jpg
     categories:
       - Engineering
-    publishedAt: 2026-02-11T21:19:18.000Z
+    publishedAt: 2026-02-12T21:50:21.000Z
     source: TechXplore — Engineering
-  - title: I Loved My OpenClaw AI Agent—Until It Turned on Me
-    url: https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/
-    summary: I used the viral AI helper to order groceries, sort emails, and
-      negotiate deals. Then it decided to scam me.
-    imageUrl: https://media.wired.com/photos/698b9f87637ddfa3960c874e/191:100/w_1280,c_limit/AI-Lab-Chaotic-Fun-Clawdbot-Business.jpg
+  - title: The insect-inspired bionic eye that sees, smells and guides robots
+    url: https://techxplore.com/news/2026-02-insect-bionic-eye-robots.html
+    summary: The compound eyes of the humble fruit fly are a marvel of nature. They
+      are wide-angle and can process visual information several times faster
+      than the human eye. Inspired by this biological masterpiece, researchers
+      at the Chinese Academy of Sciences have developed an insect-scale compound
+      eye that can both see and smell, potentially improving how drones and
+      robots navigate complex environments and avoid obstacles.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/the-insect-inspired-bi.jpg
     categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-02-11T19:00:00.000Z
-    source: WIRED (AI)
-  - title: How Can AI Companions Be Helpful, not Harmful?
-    url: https://spectrum.ieee.org/ai-companion-harm-benefit
-    summary: "For a different perspective on AI companions, see our Q&A with Jaime
-      Banks: How Do You Define an AI Companion?"
-    imageUrl: https://spectrum.ieee.org/media-library/smiling-portrait-of-brad-knox-standing-outside-on-a-college-campus.jpg?id=64091751&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+      - Robotics
+    publishedAt: 2026-02-12T17:00:02.000Z
+    source: TechXplore — Robotics
+  - title: ChatGPT’s Translation Skills Parallel Most Human Translators
+    url: https://spectrum.ieee.org/chatgpt-translate-skills-human-comparison
+    summary: This article is part of our exclusive IEEE Journal Watch series in
+      partnership with IEEE Xplore.
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-latin-and-chinese-characters-being-translated-on-a-smartphone.jpg?id=63854253&width=1200&height=800&coordinates=0%2C208%2C0%2C209
     categories:
-      - Companion-robots
+      - Journal-watch
+      - Language-translator
+      - Llms
       - Large-language-models
-      - Chatbots
-      - Human-computer-interaction
-    publishedAt: 2026-02-11T14:30:02.000Z
+      - Chatgpt
+    publishedAt: 2026-02-12T16:00:03.000Z
     source: IEEE Spectrum — AI
+  - title: Rethinking rush hour with vehicle automation
+    url: https://techxplore.com/news/2026-02-rethinking-hour-vehicle-automation.html
+    summary: It's often the worst part of many people's day—bottlenecked, rush-hour
+      traffic. When the daily commute backs up, drivers lose time, burn fuel and
+      waste energy. Researchers at the U.S. Department of Energy's National
+      Transportation Research Center at Oak Ridge National Laboratory are
+      tackling this problem with cooperative driving automation (CDA), an
+      emerging technology that allows vehicles and traffic infrastructure to
+      communicate, keeping traffic flowing efficiently and safely.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/rethinking-rush-hour-w.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-02-12T13:33:29.000Z
+    source: TechXplore — Computer Science
+  - title: The Fight Over US Climate Rules Is Just Beginning
+    url: https://www.wired.com/story/the-fight-over-us-climate-rules-is-just-beginning/
+    summary: As the EPA moves to roll back the endangerment finding, which allows it
+      to regulate greenhouse gases, experts predict uncertainty for business and
+      a protracted legal fight.
+    imageUrl: https://media.wired.com/photos/698c9113d456e15fc5643ee1/191:100/w_1280,c_limit/GettyImages-1368045713.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-02-12T10:30:00.000Z
+    source: WIRED science
   - title: Magnetic mixer improves 3D bioprinting
     url: https://news.mit.edu/2026/magnetic-mixer-improves-3d-bioprinting-0210
     summary: 3D bioprinting, in which living tissues are printed with cells mixed
@@ -93,7 +111,7 @@ articles:
       crystals in orbit. Hailed as a breakthrough in orbital manufacturing, the
       milestone is a first for a free-flying commercial satellite and a payload
       not operated by humans.
-    imageUrl: https://spectrum.ieee.org/media-library/a-group-of-people-in-blue-bunny-suits-pose-around-a-satellite-manufacturing-model-in-their-lab.jpg?id=63305822&width=1200&height=400&coordinates=0%2C292%2C0%2C292
+    imageUrl: https://spectrum.ieee.org/media-library/a-group-of-people-in-blue-bunny-suits-pose-around-a-satellite-manufacturing-model-in-their-lab.jpg?id=63305822&width=1200&height=800&coordinates=62%2C0%2C63%2C0
     categories:
       - Electronic-components
       - Gallium-nitride
@@ -127,21 +145,6 @@ articles:
     categories: []
     publishedAt: 2026-02-10T03:21:59.000Z
     source: ScienceDaily — Engineering
-  - title: Small modular reactors gain competitive edge with new digital twin
-    url: https://techxplore.com/news/2026-02-small-modular-reactors-gain-competitive.html
-    summary: Advanced nuclear is within reach—and a new digital twin reveals how
-      smarter plant operations can enhance the economic viability and safety of
-      small modular reactors, or SMRs. In collaboration with the University of
-      Tennessee and GE Vernova Hitachi, researchers at Oak Ridge National
-      Laboratory recently published research in the journal Nuclear Science and
-      Engineering on a new risk-informed digital twin designed to enhance
-      operational decision-making for the GE Vernova Hitachi BWRX-300 SMR
-      design.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/small-modular-reactors.jpg
-    categories:
-      - Energy & Green Tech
-    publishedAt: 2026-02-09T14:38:33.000Z
-    source: TechXplore — Computer Science
   - title: "Video Friday: Autonomous Robots Learn By Doing in This Factory"
     url: https://spectrum.ieee.org/autonomous-warehouse-robots
     summary: Video Friday is your weekly selection of awesome robotics videos,
