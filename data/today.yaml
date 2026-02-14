@@ -1,8 +1,58 @@
-date: 2026-02-13
+date: 2026-02-14
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK
+    url: https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/
+    summary: As OpenAI removed access to GPT-4o in its app on Friday, people who
+      have come to rely on the chatbot for companionship are mourning the loss
+      all over the world.
+    imageUrl: https://media.wired.com/photos/698e1b134e0cc71b0d6dee95/191:100/w_1280,c_limit/OpenAI-Nuking-4o-Model-Business.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-02-13T21:56:18.000Z
+    source: WIRED (AI)
+  - title: Rule-breaking discovery reveals new way to strengthen metal in extreme
+      conditions
+    url: https://techxplore.com/news/2026-02-discovery-reveals-metal-extreme-conditions.html
+    summary: There's a reason why blacksmiths fire metals before hammering them.
+      Heat always softens metal, making it more malleable and easier to reshape.
+      Or does it? In a surprising new study, Northwestern University engineers
+      discovered that, in extreme conditions, heat doesn't soften pure metals—it
+      strengthens them.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/extreme-heat-strengthe.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-02-13T18:48:23.000Z
+    source: TechXplore — Engineering
+  - title: "From flattery to debate: Training AI to mirror human reasoning"
+    url: https://techxplore.com/news/2026-02-flattery-debate-ai-mirror-human.html
+    summary: Generative artificial intelligence systems often work in agreement,
+      complimenting the user in its response. But human interactions aren't
+      typically built on flattery. To help strengthen these conversations,
+      researchers in the USF Bellini College of Artificial Intelligence,
+      Cybersecurity and Computing are challenging the technology to think and
+      debate in ways that resemble human reasoning.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/from-flattery-to-debat.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-02-13T18:20:05.000Z
+    source: TechXplore — Computer Science
+  - title: "Video Friday: Robot Collective Stays Alive Even When Parts Die"
+    url: https://spectrum.ieee.org/video-friday-robot-collective
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/robot-collective-crawls-under-a-bridge-of-rocks-with-glowing-lights-video-speed-increased-10x.gif?id=64423332&width=1245&height=700&coordinates=0%2C45%2C0%2C45
+    categories:
+      - Modular-robots
+      - Video-friday
+      - Autonomous-robots
+    publishedAt: 2026-02-13T16:30:03.000Z
+    source: IEEE Spectrum — Robotics
   - title: A new way to make steel could reduce America’s reliance on imports
     url: https://news.mit.edu/2026/new-way-make-steel-could-reduce-americas-reliance-imports-0213
     summary: America has been making steel from iron ore the same way for hundreds
@@ -13,31 +63,6 @@ articles:
     categories: []
     publishedAt: 2026-02-13T05:00:00.000Z
     source: MIT Engineering
-  - title: "Turning down the heat: Researcher identifies better way to remove heat
-      from AI data centers"
-    url: https://techxplore.com/news/2026-02-ai-centers.html
-    summary: A University of Houston professor has taken on the global challenge of
-      reducing the staggering amount of heat generated in artificial
-      intelligence data centers. Hadi Ghasemi, J. Willard Gibbs Distinguished
-      Professor of Mechanical & Aerospace Engineering, has found that thin films
-      designed into tree-like, or branched shapes release heat at least three
-      times better than today's best methods.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/turning-down-the-heat.jpg
-    categories:
-      - Energy & Green Tech
-    publishedAt: 2026-02-13T01:30:03.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Fast 3D imaging system developed for gas leak detection
-    url: https://techxplore.com/news/2026-02-fast-3d-imaging-gas-leak.html
-    summary: Recently, a research team from the Anhui Institute of Optics and Fine
-      Mechanics, Hefei Institutes of Physical Science, Chinese Academy of
-      Sciences, developed a fast, multi-platform compatible detection network
-      that can "see" gas leaks in three dimensions.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/researchers-develop-fa.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-02-12T21:50:21.000Z
-    source: TechXplore — Engineering
   - title: The insect-inspired bionic eye that sees, smells and guides robots
     url: https://techxplore.com/news/2026-02-insect-bionic-eye-robots.html
     summary: The compound eyes of the humble fruit fly are a marvel of nature. They
@@ -55,7 +80,7 @@ articles:
     url: https://spectrum.ieee.org/chatgpt-translate-skills-human-comparison
     summary: This article is part of our exclusive IEEE Journal Watch series in
       partnership with IEEE Xplore.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-latin-and-chinese-characters-being-translated-on-a-smartphone.jpg?id=63854253&width=1200&height=800&coordinates=0%2C208%2C0%2C209
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-latin-and-chinese-characters-being-translated-on-a-smartphone.jpg?id=63854253&width=1245&height=700&coordinates=0%2C469%2C0%2C469
     categories:
       - Journal-watch
       - Language-translator
@@ -64,31 +89,6 @@ articles:
       - Chatgpt
     publishedAt: 2026-02-12T16:00:03.000Z
     source: IEEE Spectrum — AI
-  - title: Rethinking rush hour with vehicle automation
-    url: https://techxplore.com/news/2026-02-rethinking-hour-vehicle-automation.html
-    summary: It's often the worst part of many people's day—bottlenecked, rush-hour
-      traffic. When the daily commute backs up, drivers lose time, burn fuel and
-      waste energy. Researchers at the U.S. Department of Energy's National
-      Transportation Research Center at Oak Ridge National Laboratory are
-      tackling this problem with cooperative driving automation (CDA), an
-      emerging technology that allows vehicles and traffic infrastructure to
-      communicate, keeping traffic flowing efficiently and safely.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/rethinking-rush-hour-w.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-02-12T13:33:29.000Z
-    source: TechXplore — Computer Science
-  - title: The Fight Over US Climate Rules Is Just Beginning
-    url: https://www.wired.com/story/the-fight-over-us-climate-rules-is-just-beginning/
-    summary: As the EPA moves to roll back the endangerment finding, which allows it
-      to regulate greenhouse gases, experts predict uncertainty for business and
-      a protracted legal fight.
-    imageUrl: https://media.wired.com/photos/698c9113d456e15fc5643ee1/191:100/w_1280,c_limit/GettyImages-1368045713.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-02-12T10:30:00.000Z
-    source: WIRED science
   - title: Magnetic mixer improves 3D bioprinting
     url: https://news.mit.edu/2026/magnetic-mixer-improves-3d-bioprinting-0210
     summary: 3D bioprinting, in which living tissues are printed with cells mixed
@@ -111,7 +111,7 @@ articles:
       crystals in orbit. Hailed as a breakthrough in orbital manufacturing, the
       milestone is a first for a free-flying commercial satellite and a payload
       not operated by humans.
-    imageUrl: https://spectrum.ieee.org/media-library/a-group-of-people-in-blue-bunny-suits-pose-around-a-satellite-manufacturing-model-in-their-lab.jpg?id=63305822&width=1200&height=800&coordinates=62%2C0%2C63%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/a-group-of-people-in-blue-bunny-suits-pose-around-a-satellite-manufacturing-model-in-their-lab.jpg?id=63305822&width=1245&height=700&coordinates=0%2C62%2C0%2C63
     categories:
       - Electronic-components
       - Gallium-nitride
@@ -145,22 +145,6 @@ articles:
     categories: []
     publishedAt: 2026-02-10T03:21:59.000Z
     source: ScienceDaily — Engineering
-  - title: "Video Friday: Autonomous Robots Learn By Doing in This Factory"
-    url: https://spectrum.ieee.org/autonomous-warehouse-robots
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robotic-arms-on-mobile-bases-sort-crates-on-a-conveyor-belt-in-a-warehouse.png?id=63907821&width=1245&height=700&coordinates=0%2C55%2C0%2C55
-    categories:
-      - Video-friday
-      - Autonomous-robots
-      - Humanoid-robots
-      - Industrial-robots
-      - Robot-ai
-      - Perseverance-rover
-    publishedAt: 2026-02-06T17:00:02.000Z
-    source: IEEE Spectrum — Robotics
   - title: A clever quantum trick brings practical quantum computers closer
     url: https://www.sciencedaily.com/releases/2026/02/260206012208.htm
     summary: Quantum computers struggle because their qubits are incredibly easy to
