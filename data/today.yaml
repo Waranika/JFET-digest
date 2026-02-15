@@ -1,8 +1,30 @@
-date: 2026-02-14
+date: 2026-02-15
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Feeling 'AI anxiety'? Here are the risks people fear most
+    url: https://techxplore.com/news/2026-02-ai-anxiety-people.html
+    summary: "A patient said to me the other day, half-smiling but clearly
+      unsettled: \"I think I've got anxiety about AI.\" They weren't having a
+      panic attack or describing clinical anxiety. What they were expressing was
+      a persistent sense of unease that many of us are feeling right now."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-anxiety.jpg
+    categories:
+      - Consumer & Gadgets
+    publishedAt: 2026-02-14T22:00:03.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Brain inspired machines are better at math than expected
+    url: https://www.sciencedaily.com/releases/2026/02/260213223923.htm
+    summary: Neuromorphic computers modeled after the human brain can now solve the
+      complex equations behind physics simulations — something once thought
+      possible only with energy-hungry supercomputers. The breakthrough could
+      lead to powerful, low-energy supercomputers while revealing new secrets
+      about how our brains process information.
+    imageUrl: https://www.sciencedaily.com/images/1920/brain-cpu-chip-motherboard.webp
+    categories: []
+    publishedAt: 2026-02-14T15:19:40.000Z
+    source: ScienceDaily — Robotics
   - title: OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK
     url: https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/
     summary: As OpenAI removed access to GPT-4o in its app on Friday, people who
@@ -120,18 +142,6 @@ articles:
       - Silicon-carbide
     publishedAt: 2026-02-10T18:27:48.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: AI reads brain MRIs in seconds and flags emergencies
-    url: https://www.sciencedaily.com/releases/2026/02/260210005419.htm
-    summary: Researchers at the University of Michigan have created an AI system
-      that can interpret brain MRI scans in just seconds, accurately identifying
-      a wide range of neurological conditions and determining which cases need
-      urgent care. Trained on hundreds of thousands of real-world scans along
-      with patient histories, the model achieved accuracy as high as 97.5% and
-      outperformed other advanced AI tools.
-    imageUrl: https://www.sciencedaily.com/images/1920/futuristic-red-digital-brain.webp
-    categories: []
-    publishedAt: 2026-02-10T06:04:12.000Z
-    source: ScienceDaily — Robotics
   - title: Physicists discover what controls the speed of quantum time
     url: https://www.sciencedaily.com/releases/2026/02/260209221713.htm
     summary: Time may feel smooth and continuous, but at the quantum level it
@@ -145,19 +155,6 @@ articles:
     categories: []
     publishedAt: 2026-02-10T03:21:59.000Z
     source: ScienceDaily — Engineering
-  - title: A clever quantum trick brings practical quantum computers closer
-    url: https://www.sciencedaily.com/releases/2026/02/260206012208.htm
-    summary: Quantum computers struggle because their qubits are incredibly easy to
-      disrupt, especially during calculations. A new experiment shows how to
-      perform quantum operations while continuously fixing errors, rather than
-      pausing protection to compute. The team used a method called lattice
-      surgery to split a protected qubit into two entangled ones without losing
-      control. This breakthrough moves quantum machines closer to scaling up
-      into something truly powerful.
-    imageUrl: https://www.sciencedaily.com/images/1920/modular-quantum-computer-blocks.webp
-    categories: []
-    publishedAt: 2026-02-06T14:10:15.000Z
-    source: ScienceDaily — Computer Science
   - title: Explore the Stratosphere With a DIY Pico balloon
     url: https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon
     summary: "There’s an interesting development in amateur ballooning: using
@@ -166,7 +163,7 @@ articles:
       normal weather balloon. Superpressure balloons can last for months and
       travel long distances, potentially circumnavigating the globe, all the
       while reporting their position."
-    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1200&height=800&coordinates=0%2C462%2C0%2C463
+    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1245&height=700&coordinates=0%2C566%2C0%2C567
     categories:
       - Amateur-radio
       - Amateur-science
