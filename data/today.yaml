@@ -1,36 +1,85 @@
-date: 2026-02-16
+date: 2026-02-17
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "Buzz of the Olympics: How drone cams deliver high-pace visuals and add a
-      new dynamic for TV viewers"
-    url: https://techxplore.com/news/2026-02-olympics-drone-cams-high-pace.html
-    summary: Standing on a tower overlooking the cliffs of the Cortina downhill
-      course, there is someone who is just as involved in the biggest skiing
-      races of the Winter Olympics as Mikaela Shiffrin and Breezy Johnson.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/buzz-of-the-olympics-h.jpg
+  - title: Exploring the promise of regenerative aquaculture at an Arkansas fish farm
+    url: https://news.mit.edu/2026/exploring-promise-of-regenerative-aquaculture-arkansas-fish-farm-0217
+    summary: "In many academic circles, innovation is imagined as a lab-to-market
+      pipeline that travels through patent filings, venture rounds, and coastal
+      research hubs. But a growing movement inside U.S. universities is pushing
+      students toward a different frontier: solving real engineering problems
+      alongside rural communities whose challenges directly shape national food
+      security."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-Kiyoko-Hayano-01-press_0.jpg?itok=HnhPUS6i
+    categories: []
+    publishedAt: 2026-02-17T05:00:00.000Z
+    source: MIT Engineering
+  - title: Can AI fulfill our emotional needs?
+    url: https://techxplore.com/news/2026-02-ai-fulfill-emotional.html
+    summary: Fully customizable virtual companions or avatars—and even "digital
+      clones" of deceased people or living ex-partners—are among the new
+      possibilities that artificial intelligence is bringing to the love lives
+      of humans. But the use of AI in romance isn't limited to these extreme
+      cases. Human–AI relationships fall along a broad spectrum that also
+      includes dating apps that apply algorithms to predict compatibility and
+      help users make the best possible use of their online dating time.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-date.jpg
     categories:
-      - Robotics
-    publishedAt: 2026-02-15T22:30:01.000Z
-    source: TechXplore — Robotics
-  - title: "Why AI may overcomplicate answers: Humans and LLMs show 'addition bias,'
-      often choosing extra steps over subtraction"
-    url: https://techxplore.com/news/2026-02-ai-overcomplicate-humans-llms-addition.html
-    summary: When making decisions and judgments, humans can fall into common
-      "traps," known as cognitive biases. A cognitive bias is essentially the
-      tendency to process information in a specific way or follow a systematic
-      pattern. One widely documented cognitive bias is the so-called addition
-      bias, the tendency of people to prefer solving problems by adding elements
-      as opposed to removing them, even if subtraction would be simpler and more
-      efficient. One example of this is adding more paragraphs or explanations
-      to improve an essay or report, even if removing unnecessary sections would
-      be more effective.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/humans-and-llms-both-p.jpg
+      - Consumer & Gadgets
+    publishedAt: 2026-02-17T00:30:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Review finds 1–2 nm closed pores can boost hard carbon sodium storage
+    url: https://techxplore.com/news/2026-02-nm-pores-boost-hard-carbon.html
+    summary: As the global transition toward clean energy accelerates, the demand
+      for sustainable, low-cost, and scalable energy storage technologies
+      continues to grow. While lithium-ion batteries have dominated the market
+      for decades, concerns over lithium resource availability and cost
+      volatility are driving intense research into alternative chemistries.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/closed-pore-engineerin.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-02-16T23:10:01.000Z
+    source: TechXplore — Engineering
+  - title: Why 'zero-knowledge encryption' may not stop password theft if servers
+      are hacked
+    url: https://techxplore.com/news/2026-02-knowledge-encryption-password-theft-servers.html
+    summary: People who regularly use online services have between 100 and 200
+      passwords. Very few can remember every single one. Password managers are
+      therefore extremely helpful, allowing users to access all their passwords
+      with just a single master password.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2020/password.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-02-15T18:00:09.000Z
+    publishedAt: 2026-02-16T16:10:02.000Z
     source: TechXplore — Computer Science
+  - title: AI robot vehicles learn to team up and extinguish fires in early trial
+    url: https://techxplore.com/news/2026-02-ai-robot-vehicles-team-extinguish.html
+    summary: Fighting fires could be done remotely without the need to place
+      firefighting crews directly in potentially dangerous situations by using
+      collaborative teams of artificial intelligence-powered robots with
+      extinguishing equipment on board, with an initial soft trial of the
+      technology proving successful.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-powered-robot-vehic.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-02-16T15:00:04.000Z
+    source: TechXplore — Robotics
+  - title: This Former Physicist Helps Keep the Internet Secure
+    url: https://spectrum.ieee.org/network-security-engineer-alan-dekok
+    summary: When Alan DeKok began a side project in network security, he didn’t
+      expect to start a 27-year career. In fact, he didn’t initially set out to
+      work in computing at all.
+    imageUrl: https://spectrum.ieee.org/media-library/person-in-blue-suit-examines-illuminated-server-racks-in-a-dimly-lit-room.png?id=64440487&width=600&height=600&coordinates=333%2C0%2C333%2C0
+    categories:
+      - Typedepartments
+      - Network-security
+      - Physics
+      - Network-servers
+      - Cybersecurity
+      - Open-source
+    publishedAt: 2026-02-16T14:00:02.000Z
+    source: IEEE Spectrum — Computing & Chips
   - title: NASA Let AI Drive the Perseverance Rover
     url: https://spectrum.ieee.org/perseverance-rover-nasa-anthropic-ai
     summary: In December, NASA took another small, incremental step towards
@@ -77,19 +126,6 @@ articles:
     categories: []
     publishedAt: 2026-02-14T15:19:40.000Z
     source: ScienceDaily — Robotics
-  - title: Rule-breaking discovery reveals new way to strengthen metal in extreme
-      conditions
-    url: https://techxplore.com/news/2026-02-discovery-reveals-metal-extreme-conditions.html
-    summary: There's a reason why blacksmiths fire metals before hammering them.
-      Heat always softens metal, making it more malleable and easier to reshape.
-      Or does it? In a surprising new study, Northwestern University engineers
-      discovered that, in extreme conditions, heat doesn't soften pure metals—it
-      strengthens them.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/extreme-heat-strengthe.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-02-13T18:48:23.000Z
-    source: TechXplore — Engineering
   - title: "Video Friday: Robot Collective Stays Alive Even When Parts Die"
     url: https://spectrum.ieee.org/video-friday-robot-collective
     summary: Video Friday is your weekly selection of awesome robotics videos,
@@ -103,16 +139,6 @@ articles:
       - Autonomous-robots
     publishedAt: 2026-02-13T16:30:03.000Z
     source: IEEE Spectrum — Robotics
-  - title: A new way to make steel could reduce America’s reliance on imports
-    url: https://news.mit.edu/2026/new-way-make-steel-could-reduce-americas-reliance-imports-0213
-    summary: America has been making steel from iron ore the same way for hundreds
-      of years. Unfortunately, it hasn’t been making enough of it. Today the
-      U.S. is the world’s largest steel importer, relying on other countries to
-      produce a material that serves as the backbone of our society.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-Hertha-01-press.jpg?itok=5ym7THGJ
-    categories: []
-    publishedAt: 2026-02-13T05:00:00.000Z
-    source: MIT Engineering
   - title: Magnetic mixer improves 3D bioprinting
     url: https://news.mit.edu/2026/magnetic-mixer-improves-3d-bioprinting-0210
     summary: 3D bioprinting, in which living tissues are printed with cells mixed
@@ -127,23 +153,6 @@ articles:
     categories: []
     publishedAt: 2026-02-10T21:35:00.000Z
     source: MIT Robotics
-  - title: Startups Are Betting on Orbital Growth for Advanced Electronics
-    url: https://spectrum.ieee.org/in-orbit-manufacturing
-    summary: This past December, the U.K. start-up Space Forge turned on an orbital
-      furnace aboard its ForgeStar-1 satellite, producing a stream of super-hot
-      plasma that could someday enable production of near-ideal semiconductor
-      crystals in orbit. Hailed as a breakthrough in orbital manufacturing, the
-      milestone is a first for a free-flying commercial satellite and a payload
-      not operated by humans.
-    imageUrl: https://spectrum.ieee.org/media-library/a-group-of-people-in-blue-bunny-suits-pose-around-a-satellite-manufacturing-model-in-their-lab.jpg?id=63305822&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Electronic-components
-      - Gallium-nitride
-      - Semiconductor-production
-      - Semiconductor-manufacturing
-      - Silicon-carbide
-    publishedAt: 2026-02-10T18:27:48.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: Physicists discover what controls the speed of quantum time
     url: https://www.sciencedaily.com/releases/2026/02/260209221713.htm
     summary: Time may feel smooth and continuous, but at the quantum level it
@@ -165,7 +174,7 @@ articles:
       normal weather balloon. Superpressure balloons can last for months and
       travel long distances, potentially circumnavigating the globe, all the
       while reporting their position."
-    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1200&height=800&coordinates=0%2C462%2C0%2C463
+    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1245&height=700&coordinates=0%2C566%2C0%2C567
     categories:
       - Amateur-radio
       - Amateur-science
