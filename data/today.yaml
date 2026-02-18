@@ -1,46 +1,110 @@
-date: 2026-02-17
+date: 2026-02-18
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Exploring the promise of regenerative aquaculture at an Arkansas fish farm
-    url: https://news.mit.edu/2026/exploring-promise-of-regenerative-aquaculture-arkansas-fish-farm-0217
-    summary: "In many academic circles, innovation is imagined as a lab-to-market
-      pipeline that travels through patent filings, venture rounds, and coastal
-      research hubs. But a growing movement inside U.S. universities is pushing
-      students toward a different frontier: solving real engineering problems
-      alongside rural communities whose challenges directly shape national food
-      security."
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-Kiyoko-Hayano-01-press_0.jpg?itok=HnhPUS6i
+  - title: Personalization features can make LLMs more agreeable
+    url: https://news.mit.edu/2026/personalization-features-can-make-llms-more-agreeable-0218
+    summary: Many of the latest large language models (LLMs) are designed to
+      remember details from past conversations or store user profiles, enabling
+      these models to personalize responses.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-LLM-Sycophant-01-press.jpg?itok=ToLXaRbE
     categories: []
-    publishedAt: 2026-02-17T05:00:00.000Z
-    source: MIT Engineering
-  - title: Can AI fulfill our emotional needs?
-    url: https://techxplore.com/news/2026-02-ai-fulfill-emotional.html
-    summary: Fully customizable virtual companions or avatars—and even "digital
-      clones" of deceased people or living ex-partners—are among the new
-      possibilities that artificial intelligence is bringing to the love lives
-      of humans. But the use of AI in romance isn't limited to these extreme
-      cases. Human–AI relationships fall along a broad spectrum that also
-      includes dating apps that apply algorithms to predict compatibility and
-      help users make the best possible use of their online dating time.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-date.jpg
-    categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-02-17T00:30:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Review finds 1–2 nm closed pores can boost hard carbon sodium storage
-    url: https://techxplore.com/news/2026-02-nm-pores-boost-hard-carbon.html
-    summary: As the global transition toward clean energy accelerates, the demand
-      for sustainable, low-cost, and scalable energy storage technologies
-      continues to grow. While lithium-ion batteries have dominated the market
-      for decades, concerns over lithium resource availability and cost
-      volatility are driving intense research into alternative chemistries.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/closed-pore-engineerin.jpg
+    publishedAt: 2026-02-18T05:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: New electrolyzer turns plastic-waste syngas into ethylene with less energy
+    url: https://techxplore.com/news/2026-02-electrolyzer-plastic-syngas-ethylene-energy.html
+    summary: For every ton of ethylene created, one ton of carbon dioxide is
+      produced. With more than 300 million tons of ethylene produced each year,
+      the production system has a huge carbon footprint that scientists and
+      engineers are eager to reduce and eventually eliminate. A new device
+      developed in Ted Sargent's lab at Northwestern takes a step toward
+      breaking that cycle.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-low-energy-method.jpg
     categories:
       - Engineering
-    publishedAt: 2026-02-16T23:10:01.000Z
+    publishedAt: 2026-02-17T22:03:40.000Z
     source: TechXplore — Engineering
+  - title: Can AI build a machine that draws a heart? What automated mechanism
+      design could mean for mechanical engineering
+    url: https://techxplore.com/news/2026-02-ai-machine-heart-automated-mechanism.html
+    summary: Can you design a mechanism that will trace out the shape of a heart?
+      How about the shape of a moon, or a star? Mechanism design—the art of
+      assembling linkages and joints to create machines with prescribed
+      motion—is one of the quintessential activities of mechanical engineers,
+      but has resisted automation for almost two centuries.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/can-ai-build-a-machine.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-02-17T20:37:28.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over
+      Security Fears
+    url: https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/
+    summary: Security experts have urged people to be cautious with the viral
+      agentic AI tool, known for being highly capable but also wildly
+      unpredictable.
+    imageUrl: https://media.wired.com/photos/6994bb21fa3d038eb6724f12/191:100/w_1280,c_limit/OpenClaw-Ban-Business.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-02-17T20:10:12.000Z
+    source: WIRED (AI)
+  - title: Estimating Surface Heating of an Atmospheric Reentry Vehicle With
+      Simulation
+    url: https://event.on24.com/wcc/r/5204256/9B4BA35D454493C7D9829FE90B5A0ABD
+    summary: Join Hannah Alpert (NASA Ames) to explore thermal data from the
+      record-breaking 6-meter LOFTID inflatable aeroshell. Learn how COMSOL
+      Multiphysics® was used to perform inverse analysis on flight thermocouple
+      data, validating heat flux gauges and preflight CFD predictions. Attendees
+      will gain technical insights into improving thermal models for future HIAD
+      missions, making this essential for engineers seeking to advance
+      atmospheric reentry design. The session concludes with a live Q&A.
+    imageUrl: https://spectrum.ieee.org/media-library/comsol-logo.png?id=27157944&width=980
+    categories:
+      - Thermal-management
+      - Reentry-vehicle
+      - Multiphysics-simulation
+      - Thermal-data
+      - Type-webinar
+    publishedAt: 2026-02-17T19:27:00.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Robot hand approaches human-like dexterity with new visual-tactile training
+    url: https://techxplore.com/news/2026-02-robot-approaches-human-dexterity-visual.html
+    summary: Human hands are a wonder of nature and unmatched in the animal kingdom.
+      They can twist caps, flick switches, handle tiny objects with ease, and
+      perform thousands of tasks every day. Robot hands struggle to keep up.
+      They typically miss the sense of touch, can't move many fingers at once,
+      and lose track of what they are holding when their fingers block their
+      camera's view. Scientists have now developed a smarter way to train a
+      robot's brain to give its hands human-like dexterity.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/visual-and-tactile-tra.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-02-17T19:20:03.000Z
+    source: TechXplore — Robotics
+  - title: MIT community members elected to the National Academy of Engineering for
+      2026
+    url: https://news.mit.edu/2026/mit-community-members-elected-national-academy-engineering-0217
+    summary: Seven MIT researchers are among the 130 new members and 28
+      international members recently elected to the National Academy of
+      Engineering (NAE) for 2026. Twelve additional MIT alumni were also elected
+      as new members.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/NAE-MITNews.jpg?itok=gUOYwxpu
+    categories: []
+    publishedAt: 2026-02-17T17:55:00.000Z
+    source: MIT Engineering
+  - title: AI Digital Twins Are Helping People Manage Diabetes and Obesity
+    url: https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/
+    summary: As patients and employers look for alternatives to pricey GLP-1 drugs,
+      Silicon Valley startup Twin Health is using AI and wearable sensors to
+      help people make healthier choices.
+    imageUrl: https://media.wired.com/photos/697cc8c5fec825eea30870e5/191:100/w_1280,c_limit/GettyImages-2257424044.jpg
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2026-02-17T11:00:00.000Z
+    source: WIRED science
   - title: Why 'zero-knowledge encryption' may not stop password theft if servers
       are hacked
     url: https://techxplore.com/news/2026-02-knowledge-encryption-password-theft-servers.html
@@ -53,33 +117,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-02-16T16:10:02.000Z
     source: TechXplore — Computer Science
-  - title: AI robot vehicles learn to team up and extinguish fires in early trial
-    url: https://techxplore.com/news/2026-02-ai-robot-vehicles-team-extinguish.html
-    summary: Fighting fires could be done remotely without the need to place
-      firefighting crews directly in potentially dangerous situations by using
-      collaborative teams of artificial intelligence-powered robots with
-      extinguishing equipment on board, with an initial soft trial of the
-      technology proving successful.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-powered-robot-vehic.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-02-16T15:00:04.000Z
-    source: TechXplore — Robotics
-  - title: This Former Physicist Helps Keep the Internet Secure
-    url: https://spectrum.ieee.org/network-security-engineer-alan-dekok
-    summary: When Alan DeKok began a side project in network security, he didn’t
-      expect to start a 27-year career. In fact, he didn’t initially set out to
-      work in computing at all.
-    imageUrl: https://spectrum.ieee.org/media-library/person-in-blue-suit-examines-illuminated-server-racks-in-a-dimly-lit-room.png?id=64440487&width=600&height=600&coordinates=333%2C0%2C333%2C0
-    categories:
-      - Typedepartments
-      - Network-security
-      - Physics
-      - Network-servers
-      - Cybersecurity
-      - Open-source
-    publishedAt: 2026-02-16T14:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: NASA Let AI Drive the Perseverance Rover
     url: https://spectrum.ieee.org/perseverance-rover-nasa-anthropic-ai
     summary: In December, NASA took another small, incremental step towards
@@ -87,7 +124,7 @@ articles:
       AI to generate the rover’s waypoints. Perseverance used the AI waypoints
       on two separate days, traveling a total of 456 meters without human
       control.
-    imageUrl: https://spectrum.ieee.org/media-library/still-image-from-a-3d-animation-of-nasa-s-perseverance-rover-driving-over-mars-rough-terrain.jpg?id=64437492&width=1245&height=700&coordinates=0%2C145%2C0%2C146
+    imageUrl: https://spectrum.ieee.org/media-library/still-image-from-a-3d-animation-of-nasa-s-perseverance-rover-driving-over-mars-rough-terrain.jpg?id=64437492&width=1200&height=800&coordinates=0%2C65%2C0%2C65
     categories:
       - Perseverance-rover
       - Artificial-intelligence
@@ -96,25 +133,6 @@ articles:
       - Navigation
     publishedAt: 2026-02-15T14:00:02.000Z
     source: IEEE Spectrum — AI
-  - title: The Nothing That Has the Potential to Be Anything
-    url: https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/
-    summary: You can never truly empty a box. Why? Zero-point energy.
-    imageUrl: https://media.wired.com/photos/698db310832cacb621649a9f/191:100/w_1280,c_limit/Zero%20Point%20Energy%20cr-TK-Lede.jpg
-    categories:
-      - Science
-    publishedAt: 2026-02-15T12:00:00.000Z
-    source: WIRED science
-  - title: Google’s AI Overviews Can Scam You. Here’s How to Stay Safe
-    url: https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/
-    summary: Beyond mistakes or nonsense, deliberately bad information being
-      injected into AI search summaries is leading people down potentially
-      harmful paths.
-    imageUrl: https://media.wired.com/photos/698d20ce616dca42b2e62f59/191:100/w_1280,c_limit/gear-google-ai-2250469163.jpg
-    categories:
-      - Gear
-      - Gear / How To and Advice
-    publishedAt: 2026-02-15T11:30:00.000Z
-    source: WIRED (AI)
   - title: Brain inspired machines are better at math than expected
     url: https://www.sciencedaily.com/releases/2026/02/260213223923.htm
     summary: Neuromorphic computers modeled after the human brain can now solve the
@@ -174,7 +192,7 @@ articles:
       normal weather balloon. Superpressure balloons can last for months and
       travel long distances, potentially circumnavigating the globe, all the
       while reporting their position."
-    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1245&height=700&coordinates=0%2C566%2C0%2C567
+    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1200&height=800&coordinates=0%2C462%2C0%2C463
     categories:
       - Amateur-radio
       - Amateur-science
