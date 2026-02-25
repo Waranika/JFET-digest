@@ -1,103 +1,128 @@
-date: 2026-02-19
+date: 2026-02-25
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Parking-aware navigation system could prevent frustration and emissions
-    url: https://news.mit.edu/2026/parking-aware-navigation-could-prevent-frustration-and-emissions-0219
-    summary: It happens every day — a motorist heading across town checks a
-      navigation app to see how long the trip will take, but they find no
-      parking spots available when they reach their destination. By the time
-      they finally park and walk to their destination, they’re significantly
-      later than they expected to be.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT_Probability-Parking-01.jpg?itok=T0prXwyt
-    categories: []
-    publishedAt: 2026-02-19T05:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Research project launches free tool to make AI safer and more trustworthy
-    url: https://techxplore.com/news/2026-02-free-tool-ai-safer-trustworthy.html
-    summary: A University of Glasgow-led research project is releasing a free tool
-      to help organizations, policymakers, and the public maximize the benefits
-      of AI applications while identifying their potential harms. The tool,
-      developed as part of the Participatory Harm Auditing Workbenches and
-      Methodologies (PHAWM) project, aims to help address the urgent need for
-      rigorous assessments of AI risks caused by the rapid expansion and
-      adoption of the technology across a wide range of sectors.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/research-project-launc.jpg
+  - title: Rise of the rice robots—creating active smart materials
+    url: https://techxplore.com/news/2026-02-rice-robots-smart-materials.html
+    summary: Rice becomes weaker when compressed quickly, while staying stronger
+      under slow pressure—a discovery enabling scientists to design a new
+      material that could be used to build "soft" robots that change stiffness
+      automatically and protective gear that adapts to impact speed. Researchers
+      harnessed this effect to design a new "metamaterial"—an artificially
+      engineered composite structure designed to behave in ways impossible for
+      natural materials.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/rise-of-the-rice-robot.jpg
     categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-02-19T03:00:02.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Laser-etched glass can store data for for 10,000 years, Microsoft says
-    url: https://techxplore.com/news/2026-02-laser-etched-glass-years-microsoft.html
-    summary: Thousands of years from now, what will remain of our digital era? The
-      ever-growing vastness of human knowledge is no longer stored in libraries,
-      but on hard drives that struggle to last decades, let alone millennia.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/laser-etched-glass-can.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-02-18T21:07:38.000Z
+      - Robotics
+    publishedAt: 2026-02-24T20:20:04.000Z
     source: TechXplore — Engineering
-  - title: This Defense Company Made AI Agents That Blow Things Up
-    url: https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/
-    summary: Scout AI is using technology borrowed from the AI industry to power
-      lethal weapons—and recently demonstrated its explosive potential.
-    imageUrl: https://media.wired.com/photos/6994c7c32ce5fe7768592c57/191:100/w_1280,c_limit/AI-Lab-Scout-AI-Using-AI-Agents-To-Blow-Things-Up-Business.jpg
+  - title: "'Probably' doesn't mean the same thing to your AI as it does to you"
+    url: https://techxplore.com/news/2026-02-doesnt-ai.html
+    summary: When a human says an event is "probable" or "likely," people generally
+      have a shared, if fuzzy, understanding of what that means. But when an AI
+      chatbot like ChatGPT uses the same word, it's not assessing the odds the
+      way we do, my colleagues and I found.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/probability.jpg
     categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-02-18T19:47:15.000Z
-    source: WIRED (AI)
-  - title: Laser-Written Glass Could Store Data for Millennia
-    url: https://spectrum.ieee.org/glass-data-storage-microsoft-silica
-    summary: Huge amounts of data could be archived in a compact format for
-      millennia, by using lasers to encode that data into glass.
-    imageUrl: https://spectrum.ieee.org/media-library/a-square-labelled-microsoft-azure-with-7-vertical-segments-each-a-slightly-different-shade-of-blue-with-a-great-deal-of-textur.jpg?id=64953537&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Microsoft
-      - Data-storage
-      - Lasers
-    publishedAt: 2026-02-18T16:00:03.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: Big Tech Says Generative AI Will Save the Planet. It Doesn’t Offer Much
-      Proof
-    url: https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/
-    summary: A new report finds that of 154 specific claims about how AI will
-      benefit the climate, just a quarter cited academic research. A third
-      included no evidence at all.
-    imageUrl: https://media.wired.com/photos/6994a673e3c49810b386ab2d/191:100/w_1280,c_limit/021726_Data-Emissions-False.jpg
+      - Computer Sciences
+    publishedAt: 2026-02-24T18:40:03.000Z
+    source: TechXplore — Computer Science
+  - title: The Last Mystery of Antarctica’s ‘Blood Falls’ Has Finally Been Solved
+    url: https://www.wired.com/story/the-last-mystery-of-antarcticas-blood-falls-has-finally-been-solved/
+    summary: New research sheds light on what drives reddish water to emerge from
+      underground to pour onto the Taylor Glacier.
+    imageUrl: https://media.wired.com/photos/699dc7921ed484eb6c093656/191:100/w_1280,c_limit/GettyImages-622590238.jpg
     categories:
       - Science
       - Science / Environment
-    publishedAt: 2026-02-18T15:17:31.000Z
+    publishedAt: 2026-02-24T16:31:42.000Z
     source: WIRED science
-  - title: Tech Is Taking Over Olympic Curling
-    url: https://spectrum.ieee.org/olympics-curling-robot-ai
-    summary: At this year’s Winter Olympics in Italy, the controversy began with a
-      fingertip.
-    imageUrl: https://spectrum.ieee.org/media-library/curling-players-sweeping-a-red-stone-on-ice-motion-blur-emphasizes-speed-and-action.jpg?id=64953312&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+  - title: AI Will Never Be Conscious
+    url: https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/
+    summary: In his new book, A World Appears, Michael Pollan argues that artificial
+      intelligence can do many things—it just can’t be a person.
+    imageUrl: https://media.wired.com/photos/699ce8c3a73685f300e29029/191:100/w_1280,c_limit/Book-Excerpt-AI-Will-Never-Be-Conscious-Culture-1472259484.jpg
     categories:
-      - Robotics
+      - The Big Story
+      - Business
+      - Business / Artificial Intelligence
+      - Culture
+      - Culture / Books
+    publishedAt: 2026-02-24T11:00:00.000Z
+    source: WIRED (AI)
+  - title: AI’s Math Tricks Don’t Work for Scientific Computing
+    url: https://spectrum.ieee.org/number-formats-ai-scientific-computing
+    summary: AI has driven an explosion of new number formats—the ways in which
+      numbers are represented digitally. Engineers are looking at every possible
+      way to save computation time and energy, including shortening the number
+      of bits used to represent data. But what works for AI doesn’t necessarily
+      work for scientific computing, be it for computational physics, biology,
+      fluid dynamics, or engineering simulations. IEEE Spectrum spoke with Laslo
+      Hunhold, who recently joined Barcelona-based Openchip as an AI engineer,
+      about his efforts to develop a bespoke number format for scientific
+      computing.
+    imageUrl: https://spectrum.ieee.org/media-library/abstract-image-with-colorful-bar-graphs-numbers-and-lines-on-a-pastel-background.png?id=64959805&width=1200&height=800&coordinates=0%2C19%2C0%2C20
+    categories:
+      - Typedepartments
+      - 5-questions
       - Artificial-intelligence
-      - Virtual-reality
-      - Sports
-      - Canada
-      - Olympic-games
-    publishedAt: 2026-02-18T15:00:02.000Z
-    source: IEEE Spectrum — Robotics
-  - title: How can you rescue a 'kidnapped' robot? New AI system helps robots regain
-      their sense of location
-    url: https://techxplore.com/news/2026-02-kidnapped-robot-ai-robots-regain.html
-    summary: "Mobile robots must continuously estimate their position to navigate
-      autonomously. However, satellite-based navigation systems are not always
-      reliable: signals may degrade near buildings or become unavailable
-      indoors. To operate safely and efficiently, robots must interpret their
-      surroundings using onboard sensors and robust localization algorithms."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/how-can-you-rescue-a-k.jpg
+      - Computing
+      - Scientific-computing
+    publishedAt: 2026-02-23T13:00:03.000Z
+    source: IEEE Spectrum — AI
+  - title: Generative AI analyzes medical data faster than human research teams
+    url: https://www.sciencedaily.com/releases/2026/02/260221060942.htm
+    summary: Researchers tested whether generative AI could handle complex medical
+      datasets as well as human experts. In some cases, the AI matched or
+      outperformed teams that had spent months building prediction models. By
+      generating usable analytical code from precise prompts, the systems
+      dramatically reduced the time needed to process health data. The findings
+      hint at a future where AI helps scientists move faster from data to
+      discovery.
+    imageUrl: https://www.sciencedaily.com/images/1920/big-data-analysis-prediction-model-reality.webp
+    categories: []
+    publishedAt: 2026-02-21T11:17:29.000Z
+    source: ScienceDaily — Robotics
+  - title: "Video Friday: Humanoid Robots Celebrate Spring"
+    url: https://spectrum.ieee.org/robot-martial-arts
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/five-humanoid-robots-in-red-vests-perform-synchronized-movements-on-a-shiny-stage.png?id=64966934&width=1200&height=800&coordinates=229%2C0%2C230%2C0
     categories:
-      - Robotics
-    publishedAt: 2026-02-18T09:00:01.000Z
-    source: TechXplore — Robotics
+      - Humanoid-robots
+      - Video-friday
+      - Agility-robotics
+      - Perseverance-rover
+      - Insect-robots
+      - Industrial-robotics
+    publishedAt: 2026-02-20T18:00:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Quantum computer breakthrough tracks qubit fluctuations in real time
+    url: https://www.sciencedaily.com/releases/2026/02/260219040756.htm
+    summary: Qubits, the heart of quantum computers, can change performance in
+      fractions of a second — but until now, scientists couldn’t see it
+      happening. Researchers at NBI have built a real-time monitoring system
+      that tracks these rapid fluctuations about 100 times faster than previous
+      methods. Using fast FPGA-based control hardware, they can instantly
+      identify when a qubit shifts from “good” to “bad.” The discovery opens a
+      new path toward stabilizing and scaling future quantum processors.
+    imageUrl: https://www.sciencedaily.com/images/1920/quantum-computer-hardware-close-up.webp
+    categories: []
+    publishedAt: 2026-02-20T14:03:48.000Z
+    source: ScienceDaily — Artificial Intelligence
+  - title: A neural blueprint for human-like intelligence in soft robots
+    url: https://news.mit.edu/2026/neural-blueprint-human-intelligence-in-soft-robots-0219
+    summary: A new artificial intelligence control system enables soft robotic arms
+      to learn a wide repertoire of motions and tasks once, then adjust to new
+      scenarios on the fly, without needing retraining or sacrificing
+      functionality.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-smart-robot-arm.jpg?itok=eGfM8bFR
+    categories: []
+    publishedAt: 2026-02-19T17:55:00.000Z
+    source: MIT Robotics
   - title: MIT community members elected to the National Academy of Engineering for
       2026
     url: https://news.mit.edu/2026/mit-community-members-elected-national-academy-engineering-0217
@@ -105,47 +130,10 @@ articles:
       international members recently elected to the National Academy of
       Engineering (NAE) for 2026. Twelve additional MIT alumni were also elected
       as new members.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/NAE-MITNews.jpg?itok=gUOYwxpu
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-NAE-2026-01-press_0.jpg?itok=z_rg6ZTv
     categories: []
     publishedAt: 2026-02-17T17:55:00.000Z
     source: MIT Engineering
-  - title: Why 'zero-knowledge encryption' may not stop password theft if servers
-      are hacked
-    url: https://techxplore.com/news/2026-02-knowledge-encryption-password-theft-servers.html
-    summary: People who regularly use online services have between 100 and 200
-      passwords. Very few can remember every single one. Password managers are
-      therefore extremely helpful, allowing users to access all their passwords
-      with just a single master password.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2020/password.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-02-16T16:10:02.000Z
-    source: TechXplore — Computer Science
-  - title: Brain inspired machines are better at math than expected
-    url: https://www.sciencedaily.com/releases/2026/02/260213223923.htm
-    summary: Neuromorphic computers modeled after the human brain can now solve the
-      complex equations behind physics simulations — something once thought
-      possible only with energy-hungry supercomputers. The breakthrough could
-      lead to powerful, low-energy supercomputers while revealing new secrets
-      about how our brains process information.
-    imageUrl: https://www.sciencedaily.com/images/1920/brain-cpu-chip-motherboard.webp
-    categories: []
-    publishedAt: 2026-02-14T15:19:40.000Z
-    source: ScienceDaily — Robotics
-  - title: Magnetic mixer improves 3D bioprinting
-    url: https://news.mit.edu/2026/magnetic-mixer-improves-3d-bioprinting-0210
-    summary: 3D bioprinting, in which living tissues are printed with cells mixed
-      into soft hydrogels, or “bio-inks,” is widely used in the field of
-      bioengineering for modeling or replacing the tissues in our bodies. The
-      print quality and reproducibility of tissues, however, can face
-      challenges. One of the most significant challenges is created simply by
-      gravity — cells naturally sink to the bottom of the bioink-extruding
-      printer syringe because the cells are heavier than the hydrogel around
-      them.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/mit-meche-magmix.jpg?itok=9g5aUJx9
-    categories: []
-    publishedAt: 2026-02-10T21:35:00.000Z
-    source: MIT Robotics
   - title: Physicists discover what controls the speed of quantum time
     url: https://www.sciencedaily.com/releases/2026/02/260209221713.htm
     summary: Time may feel smooth and continuous, but at the quantum level it
@@ -167,7 +155,7 @@ articles:
       normal weather balloon. Superpressure balloons can last for months and
       travel long distances, potentially circumnavigating the globe, all the
       while reporting their position."
-    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1200&height=800&coordinates=0%2C462%2C0%2C463
+    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1200&height=600&coordinates=0%2C629%2C0%2C629
     categories:
       - Amateur-radio
       - Amateur-science
