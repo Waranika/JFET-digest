@@ -1,76 +1,159 @@
-date: 2026-02-25
+date: 2026-02-27
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Rise of the rice robots—creating active smart materials
-    url: https://techxplore.com/news/2026-02-rice-robots-smart-materials.html
-    summary: Rice becomes weaker when compressed quickly, while staying stronger
-      under slow pressure—a discovery enabling scientists to design a new
-      material that could be used to build "soft" robots that change stiffness
-      automatically and protective gear that adapts to impact speed. Researchers
-      harnessed this effect to design a new "metamaterial"—an artificially
-      engineered composite structure designed to behave in ways impossible for
-      natural materials.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/rise-of-the-rice-robot.jpg
+  - title: Where are Southeast Asia's data centers?
+    url: https://techxplore.com/news/2026-02-southeast-asia-centers.html
+    summary: New data centers are springing up worldwide as demand soars for
+      artificial intelligence and cloud computing, with Asia one of the sector's
+      fastest growing regions.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-future-microsoft-dat.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-02-27T03:30:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image
+      Generator
+    url: https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/
+    summary: Google’s latest image model, Nano Banana 2, is a powerful AI photo
+      editor that punctures reality. Well, sometimes.
+    imageUrl: https://media.wired.com/photos/69a070265fd6da9c76c63408/191:100/w_1280,c_limit/Aspect%20Ratio.jpg
+    categories:
+      - Gear
+      - Gear / Gear News and Events
+      - Gear / Products / Apps
+    publishedAt: 2026-02-27T00:01:10.000Z
+    source: WIRED (AI)
+  - title: Protecting perovskite solar cells against environmental influences with
+      light-switchable molecules
+    url: https://techxplore.com/news/2026-02-perovskite-solar-cells-environmental-switchable.html
+    summary: A team from the University of Stuttgart, together with international
+      researchers, has succeeded in enhancing both the efficiency and
+      environmental resilience of perovskite solar cells. This is another
+      important step toward the application of a technology that holds great
+      promise for photovoltaics. The research is published in the journal Nature
+      Energy.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/protecting-perovskite.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-02-26T21:40:03.000Z
+    source: TechXplore — Engineering
+  - title: Snake-like robot unveiled for Fukushima debris removal
+    url: https://techxplore.com/news/2026-02-snake-robot-unveiled-fukushima-debris.html
+    summary: A 22-meter robot arm will help remove a third sample of radioactive
+      debris from inside Japan's stricken Fukushima nuclear plant, its operator
+      said Thursday, as it unveiled the snake-like device.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/the-snake-like-robot-a-1.jpg
     categories:
       - Robotics
-    publishedAt: 2026-02-24T20:20:04.000Z
-    source: TechXplore — Engineering
-  - title: "'Probably' doesn't mean the same thing to your AI as it does to you"
-    url: https://techxplore.com/news/2026-02-doesnt-ai.html
-    summary: When a human says an event is "probable" or "likely," people generally
-      have a shared, if fuzzy, understanding of what that means. But when an AI
-      chatbot like ChatGPT uses the same word, it's not assessing the odds the
-      way we do, my colleagues and I found.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/probability.jpg
+    publishedAt: 2026-02-26T20:40:01.000Z
+    source: TechXplore — Robotics
+  - title: VR game helps police officers manage stress better
+    url: https://techxplore.com/news/2026-02-vr-game-police-officers-stress.html
+    summary: Training police officers with a virtual-reality game can significantly
+      improve their ability to regulate stress, even in realistic, high-pressure
+      situations. The VR game, developed at the Donders Institute at Radboud
+      University, has already been integrated into several police training
+      programs.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/vr-game-helps-police-o.jpg
     categories:
-      - Computer Sciences
-    publishedAt: 2026-02-24T18:40:03.000Z
+      - Consumer & Gadgets
+    publishedAt: 2026-02-26T16:50:19.000Z
     source: TechXplore — Computer Science
-  - title: The Last Mystery of Antarctica’s ‘Blood Falls’ Has Finally Been Solved
-    url: https://www.wired.com/story/the-last-mystery-of-antarcticas-blood-falls-has-finally-been-solved/
-    summary: New research sheds light on what drives reddish water to emerge from
-      underground to pour onto the Taylor Glacier.
-    imageUrl: https://media.wired.com/photos/699dc7921ed484eb6c093656/191:100/w_1280,c_limit/GettyImages-622590238.jpg
+  - title: Researchers unlock hidden dimensions inside a single photon
+    url: https://www.sciencedaily.com/releases/2026/02/260226042500.htm
+    summary: Researchers have discovered new ways to shape quantum light, creating
+      high-dimensional states that can carry much more information per photon.
+      Using advanced tools like on-chip photonics and ultrafast light
+      structuring, they’re pushing quantum communication and imaging into
+      exciting new territory. Although long-distance transmission remains
+      tricky, innovative approaches—such as topological quantum states—could
+      make these fragile signals far more resilient. The momentum suggests
+      quantum optics is entering a bold new phase.
+    imageUrl: https://www.sciencedaily.com/images/1920/controlling-photon-structure-in-space-and-time.webp
+    categories: []
+    publishedAt: 2026-02-26T16:23:52.000Z
+    source: ScienceDaily — Computer Science
+  - title: New method could increase LLM training efficiency
+    url: https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226
+    summary: Reasoning large language models (LLMs) are designed to solve complex
+      problems by breaking them down into a series of smaller steps. These
+      powerful models are particularly good at challenging tasks like advanced
+      programming and multistep planning.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-LongTail-01-press.jpg?itok=42nxHWis
+    categories: []
+    publishedAt: 2026-02-26T05:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Tackling industry’s burdensome bubble problem
+    url: https://news.mit.edu/2026/tackling-industrys-burdensome-bubble-problem-0226
+    summary: In industrial plants around the world, tiny bubbles cause big problems.
+      Bubbles clog filters, disrupt chemical reactions, reduce throughput during
+      biomanufacturing, and can even cause overheating in electronics and
+      nuclear power plants.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-Bubble-Annihilation-01-press.jpg?itok=8EnU8Fq2
+    categories: []
+    publishedAt: 2026-02-26T05:00:00.000Z
+    source: MIT Engineering
+  - title: AI Is Acing Math Exams Faster Than Scientists Write Them
+    url: https://spectrum.ieee.org/ai-math-benchmarks
+    summary: Mathematics is often regarded as the ideal domain for measuring AI
+      progress effectively. Math’s step-by-step logic is easy to track, and its
+      definitive automatically verifiable answers remove any human or subjective
+      factors. But AI systems are improving at such a pace that math benchmarks
+      are struggling to keep up.
+    imageUrl: https://spectrum.ieee.org/media-library/line-graph-demonstrating-how-google-deep-mind-s-aletheia-ai-scores-at-least-5-higher-on-ph-d-math-exercises-than-the-latest-ver.jpg?id=65007034&width=1200&height=800&coordinates=62%2C0%2C63%2C0
     categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-02-24T16:31:42.000Z
-    source: WIRED science
-  - title: AI Will Never Be Conscious
-    url: https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/
-    summary: In his new book, A World Appears, Michael Pollan argues that artificial
-      intelligence can do many things—it just can’t be a person.
-    imageUrl: https://media.wired.com/photos/699ce8c3a73685f300e29029/191:100/w_1280,c_limit/Book-Excerpt-AI-Will-Never-Be-Conscious-Culture-1472259484.jpg
+      - Ai-benchmarks
+      - Mathematics
+      - Large-language-models
+      - Artificial-intelligence
+    publishedAt: 2026-02-25T16:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: Jimi Hendrix Was a Systems Engineer
+    url: https://spectrum.ieee.org/jimi-hendrix-systems-engineer
+    summary: 3 February 1967 is a day that belongs in the annals of music history.
+      It’s the day that Jimi Hendrix entered London’s Olympic Studios to record
+      a song using a new component. The song was “Purple Haze,” and the
+      component was the Octavia guitar pedal, created for Hendrix by sound
+      engineer Roger Mayer. The pedal was a key element of a complex chain of
+      analog elements responsible for the final sound, including the acoustics
+      of the studio room itself. When they sent the tapes for remastering in the
+      United States, the sounds on it were so novel that they included an
+      accompanying note explaining that the distortion at the end was not
+      malfunction but intention. A few months later, Hendrix would deliver his
+      legendary electric guitar performance at the Monterey International Pop
+      Festival.
+    imageUrl: https://spectrum.ieee.org/media-library/an-electric-guitar-connected-to-a-number-of-effects-pedals-connect-to-an-amplifier-and-loudspeaker-stack.png?id=64983431&width=2000&height=1500&coordinates=0%2C99%2C0%2C100
+    categories:
+      - Music
+      - Jimi-hendrix
+      - Sound-engineering
+    publishedAt: 2026-02-25T15:39:03.000Z
+    source: IEEE Spectrum — DIY
+  - title: Perseverance Smashes Autonomous Driving Record on Mars
+    url: https://spectrum.ieee.org/perseverance-mars-rover-autonomous-driving
+    summary: This article is part of our exclusive IEEE Journal Watch series in
+      partnership with IEEE Xplore.
+    imageUrl: https://spectrum.ieee.org/media-library/a-self-portrait-captured-by-nasa-s-perseverance-rover-while-traversing-mars-rocky-surface.jpg?id=65007226&width=1200&height=400&coordinates=0%2C729%2C0%2C730
+    categories:
+      - Mars
+      - Perseverance-rover
+      - Autonomous-robots
+      - Journal-watch
+    publishedAt: 2026-02-25T15:00:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: This Is the Worst Thing That Could Happen to the International Space
+      Station
+    url: https://www.wired.com/story/this-is-the-worst-thing-that-could-happen-to-the-international-space-station/
+    summary: There’s a good way to throw out the ISS. And then there’s a really bad way.
+    imageUrl: https://media.wired.com/photos/69961e34292f53dc4837a5ab/191:100/w_1280,c_limit/homepage-space-station.jpg
     categories:
       - The Big Story
-      - Business
-      - Business / Artificial Intelligence
-      - Culture
-      - Culture / Books
-    publishedAt: 2026-02-24T11:00:00.000Z
-    source: WIRED (AI)
-  - title: AI’s Math Tricks Don’t Work for Scientific Computing
-    url: https://spectrum.ieee.org/number-formats-ai-scientific-computing
-    summary: AI has driven an explosion of new number formats—the ways in which
-      numbers are represented digitally. Engineers are looking at every possible
-      way to save computation time and energy, including shortening the number
-      of bits used to represent data. But what works for AI doesn’t necessarily
-      work for scientific computing, be it for computational physics, biology,
-      fluid dynamics, or engineering simulations. IEEE Spectrum spoke with Laslo
-      Hunhold, who recently joined Barcelona-based Openchip as an AI engineer,
-      about his efforts to develop a bespoke number format for scientific
-      computing.
-    imageUrl: https://spectrum.ieee.org/media-library/abstract-image-with-colorful-bar-graphs-numbers-and-lines-on-a-pastel-background.png?id=64959805&width=1200&height=800&coordinates=0%2C19%2C0%2C20
-    categories:
-      - Typedepartments
-      - 5-questions
-      - Artificial-intelligence
-      - Computing
-      - Scientific-computing
-    publishedAt: 2026-02-23T13:00:03.000Z
-    source: IEEE Spectrum — AI
+      - Science
+      - Science / Space
+    publishedAt: 2026-02-25T11:00:00.000Z
+    source: WIRED science
   - title: Generative AI analyzes medical data faster than human research teams
     url: https://www.sciencedaily.com/releases/2026/02/260221060942.htm
     summary: Researchers tested whether generative AI could handle complex medical
@@ -84,22 +167,6 @@ articles:
     categories: []
     publishedAt: 2026-02-21T11:17:29.000Z
     source: ScienceDaily — Robotics
-  - title: "Video Friday: Humanoid Robots Celebrate Spring"
-    url: https://spectrum.ieee.org/robot-martial-arts
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/five-humanoid-robots-in-red-vests-perform-synchronized-movements-on-a-shiny-stage.png?id=64966934&width=1200&height=800&coordinates=229%2C0%2C230%2C0
-    categories:
-      - Humanoid-robots
-      - Video-friday
-      - Agility-robotics
-      - Perseverance-rover
-      - Insect-robots
-      - Industrial-robotics
-    publishedAt: 2026-02-20T18:00:02.000Z
-    source: IEEE Spectrum — Robotics
   - title: Quantum computer breakthrough tracks qubit fluctuations in real time
     url: https://www.sciencedaily.com/releases/2026/02/260219040756.htm
     summary: Qubits, the heart of quantum computers, can change performance in
@@ -123,17 +190,6 @@ articles:
     categories: []
     publishedAt: 2026-02-19T17:55:00.000Z
     source: MIT Robotics
-  - title: MIT community members elected to the National Academy of Engineering for
-      2026
-    url: https://news.mit.edu/2026/mit-community-members-elected-national-academy-engineering-0217
-    summary: Seven MIT researchers are among the 130 new members and 28
-      international members recently elected to the National Academy of
-      Engineering (NAE) for 2026. Twelve additional MIT alumni were also elected
-      as new members.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-NAE-2026-01-press_0.jpg?itok=z_rg6ZTv
-    categories: []
-    publishedAt: 2026-02-17T17:55:00.000Z
-    source: MIT Engineering
   - title: Physicists discover what controls the speed of quantum time
     url: https://www.sciencedaily.com/releases/2026/02/260209221713.htm
     summary: Time may feel smooth and continuous, but at the quantum level it
@@ -147,21 +203,3 @@ articles:
     categories: []
     publishedAt: 2026-02-10T03:21:59.000Z
     source: ScienceDaily — Engineering
-  - title: Explore the Stratosphere With a DIY Pico balloon
-    url: https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon
-    summary: "There’s an interesting development in amateur ballooning: using
-      so-called superpressure balloons, which float high in the atmosphere
-      indefinitely rather than simply going up and up and then popping like a
-      normal weather balloon. Superpressure balloons can last for months and
-      travel long distances, potentially circumnavigating the globe, all the
-      while reporting their position."
-    imageUrl: https://spectrum.ieee.org/media-library/a-printed-circuit-board-attached-to-two-small-solar-panels-hangs-beneath-a-balloon.png?id=63339900&width=1200&height=600&coordinates=0%2C629%2C0%2C629
-    categories:
-      - Amateur-radio
-      - Amateur-science
-      - Ham-radio
-      - Pico-balloon
-      - Pico-ballooning
-      - Type-departments
-    publishedAt: 2026-01-31T14:00:02.000Z
-    source: IEEE Spectrum — DIY
