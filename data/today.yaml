@@ -1,115 +1,191 @@
-date: 2026-02-27
+date: 2026-03-04
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Where are Southeast Asia's data centers?
-    url: https://techxplore.com/news/2026-02-southeast-asia-centers.html
-    summary: New data centers are springing up worldwide as demand soars for
-      artificial intelligence and cloud computing, with Asia one of the sector's
-      fastest growing regions.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-future-microsoft-dat.jpg
+  - title: A “ChatGPT for spreadsheets” helps solve difficult engineering challenges
+      faster
+    url: https://news.mit.edu/2026/chatgpt-spreadsheets-helps-solve-difficult-engineering-challenges-faster-0304
+    summary: Many engineering challenges come down to the same headache — too many
+      knobs to turn and too few chances to test them. Whether tuning a power
+      grid or designing a safer vehicle, each evaluation can be costly, and
+      there may be hundreds of variables that could matter.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Bayesian-Opt-01a-press.jpg?itok=mV7P_iB5
+    categories: []
+    publishedAt: 2026-03-04T05:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: How some skills become second nature
+    url: https://news.mit.edu/2026/how-some-skills-become-second-nature-0304
+    summary: "Expertise isn’t easy to pass down. Take riding a bike: A seasoned
+      cyclist might talk a beginner through the basics of how to sit and when to
+      push off. But other skills, like how hard to pedal to keep balanced, are
+      more intuitive and harder to articulate. This implicit know-how is known
+      as tacit knowledge, and very often, it can only be learned with experience
+      and time."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Tacit-Knowledge-01-press.jpg?itok=pSMHF7gZ
+    categories: []
+    publishedAt: 2026-03-04T05:00:00.000Z
+    source: MIT Engineering
+  - title: Deepfake songs are exploding, but a new tool shuts them down
+    url: https://techxplore.com/news/2026-03-deepfake-songs-tool.html
+    summary: Artificial intelligence models can now clone a voice with just a few
+      seconds of audio, fueling a surge of deepfake songs online and creating a
+      growing crisis for musicians who don't want their voices hijacked. Beyond
+      the obvious intellectual property rights issue, this can lead to lost
+      revenue and take an emotional toll on artists who put their heart and soul
+      into their songs. But researchers now have a solution.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/bad-bunny.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-02-27T03:30:01.000Z
+      - Security
+    publishedAt: 2026-03-03T22:20:10.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image
-      Generator
-    url: https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/
-    summary: Google’s latest image model, Nano Banana 2, is a powerful AI photo
-      editor that punctures reality. Well, sometimes.
-    imageUrl: https://media.wired.com/photos/69a070265fd6da9c76c63408/191:100/w_1280,c_limit/Aspect%20Ratio.jpg
+  - title: "Hardware for humanoid robots: New perspectives for industrial value
+      creation in Europe"
+    url: https://techxplore.com/news/2026-03-hardware-humanoid-robots-perspectives-industrial.html
+    summary: Humanoid robots are currently developing at a rapid pace. The predicted
+      growth potential is enormous. They are set to replace and even surpass the
+      automotive industry in terms of market potential. And in the media and at
+      trade fairs, they are the prime example of "embodied AI," i.e., the
+      complete integration of artificial intelligence (AI) processes with
+      machine components or entire systems. The focus is particularly on the
+      markets in the U.S. and Asia, where a great deal of progress is being made
+      in terms of software and hardware.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-perspectives-for-i.jpg
+    categories:
+      - Business
+    publishedAt: 2026-03-03T22:20:04.000Z
+    source: TechXplore — Robotics
+  - title: Palm-sized piezo robot combines mobility with sub-micrometer positioning
+      accuracy
+    url: https://techxplore.com/news/2026-03-palm-sized-piezo-robot-combines.html
+    summary: With the speed at which technology advances, there is little room for
+      suboptimal performance and out-of-date tech. Precise positioning is a
+      field where advancement is needed, as many conventional applications
+      feature tools that are much larger than the objects being worked upon,
+      making high precision a difficult task. Additionally, those that are
+      highly precise have a limited range of motion.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/not-either-but-both-ma.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-03-03T20:40:05.000Z
+    source: TechXplore — Engineering
+  - title: The hidden technology that could unlock commercial fusion power
+    url: https://www.sciencedaily.com/releases/2026/03/260303050622.htm
+    summary: Fusion energy may be one of the most promising clean power sources of
+      the future—but only if scientists can precisely measure the extreme,
+      fast-moving plasmas that make it possible. A new U.S. Department of
+      Energy–sponsored report urges major investment in advanced diagnostic
+      tools—the high-tech “sensors” that track plasma temperature, density, and
+      behavior inside fusion systems. Bringing together 70 experts from
+      universities, national labs, and private industry, the workshop identified
+      seven priority areas ranging from burning plasma to full-scale pilot
+      plants.
+    imageUrl: https://www.sciencedaily.com/images/1920/fusion-diagnostics-artists-conception.webp
+    categories: []
+    publishedAt: 2026-03-03T12:50:59.000Z
+    source: ScienceDaily — Engineering
+  - title: What Is That Mysterious Metallic Device US Chief Design Officer Joe
+      Gebbia Is Using?
+    url: https://www.wired.com/story/joe-gebbia-mystery-metallic-device/
+    summary: Gebbia was reportedly spotted at a San Francisco coffee shop using an
+      unidentified pair of earbuds with a circular disc that looks similar to
+      the device seen in a recent OpenAI hoax ad.
+    imageUrl: https://media.wired.com/photos/69a61e4e7c1057ec63585309/191:100/w_1280,c_limit/Gear_JoeGebbia_GettyImages-1183210213.jpg
     categories:
       - Gear
       - Gear / Gear News and Events
-      - Gear / Products / Apps
-    publishedAt: 2026-02-27T00:01:10.000Z
+      - Gear / Products / Headphones
+    publishedAt: 2026-03-03T01:06:01.000Z
     source: WIRED (AI)
-  - title: Protecting perovskite solar cells against environmental influences with
-      light-switchable molecules
-    url: https://techxplore.com/news/2026-02-perovskite-solar-cells-environmental-switchable.html
-    summary: A team from the University of Stuttgart, together with international
-      researchers, has succeeded in enhancing both the efficiency and
-      environmental resilience of perovskite solar cells. This is another
-      important step toward the application of a technology that holds great
-      promise for photovoltaics. The research is published in the journal Nature
-      Energy.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/protecting-perovskite.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-02-26T21:40:03.000Z
-    source: TechXplore — Engineering
-  - title: Snake-like robot unveiled for Fukushima debris removal
-    url: https://techxplore.com/news/2026-02-snake-robot-unveiled-fukushima-debris.html
-    summary: A 22-meter robot arm will help remove a third sample of radioactive
-      debris from inside Japan's stricken Fukushima nuclear plant, its operator
-      said Thursday, as it unveiled the snake-like device.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/the-snake-like-robot-a-1.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-02-26T20:40:01.000Z
-    source: TechXplore — Robotics
-  - title: VR game helps police officers manage stress better
-    url: https://techxplore.com/news/2026-02-vr-game-police-officers-stress.html
-    summary: Training police officers with a virtual-reality game can significantly
-      improve their ability to regulate stress, even in realistic, high-pressure
-      situations. The VR game, developed at the Donders Institute at Radboud
-      University, has already been integrated into several police training
-      programs.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/vr-game-helps-police-o.jpg
-    categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-02-26T16:50:19.000Z
-    source: TechXplore — Computer Science
-  - title: Researchers unlock hidden dimensions inside a single photon
-    url: https://www.sciencedaily.com/releases/2026/02/260226042500.htm
-    summary: Researchers have discovered new ways to shape quantum light, creating
-      high-dimensional states that can carry much more information per photon.
-      Using advanced tools like on-chip photonics and ultrafast light
-      structuring, they’re pushing quantum communication and imaging into
-      exciting new territory. Although long-distance transmission remains
-      tricky, innovative approaches—such as topological quantum states—could
-      make these fragile signals far more resilient. The momentum suggests
-      quantum optics is entering a bold new phase.
-    imageUrl: https://www.sciencedaily.com/images/1920/controlling-photon-structure-in-space-and-time.webp
+  - title: "Engineering confidence to navigate uncertainty "
+    url: https://news.mit.edu/2026/engineering-confidence-to-navigate-uncertainty-0302
+    summary: Flying on Mars — or any other world — is an extraordinary challenge. An
+      autonomous spacecraft, operating millions of miles from pilots or
+      engineers who could intervene on Earth, must be able to navigate
+      unfamiliar and changing environments, avoid obstacles, land on uncertain
+      terrain, and make decisions entirely on its own. Every maneuver depends on
+      careful perception, planning, and control systems that are fault-tolerant,
+      allowing the craft to recover if something goes wrong. A single
+      miscalculation can leave a multi-million dollar spacecraft face-down on
+      the surface, ending the mission before it even begins.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/quad-drone-aeroastro-lab-00_0.png?itok=0fSWXsM1
     categories: []
-    publishedAt: 2026-02-26T16:23:52.000Z
-    source: ScienceDaily — Computer Science
-  - title: New method could increase LLM training efficiency
-    url: https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226
-    summary: Reasoning large language models (LLMs) are designed to solve complex
-      problems by breaking them down into a series of smaller steps. These
-      powerful models are particularly good at challenging tasks like advanced
-      programming and multistep planning.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-LongTail-01-press.jpg?itok=42nxHWis
-    categories: []
-    publishedAt: 2026-02-26T05:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Tackling industry’s burdensome bubble problem
-    url: https://news.mit.edu/2026/tackling-industrys-burdensome-bubble-problem-0226
-    summary: In industrial plants around the world, tiny bubbles cause big problems.
-      Bubbles clog filters, disrupt chemical reactions, reduce throughput during
-      biomanufacturing, and can even cause overheating in electronics and
-      nuclear power plants.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-Bubble-Annihilation-01-press.jpg?itok=8EnU8Fq2
-    categories: []
-    publishedAt: 2026-02-26T05:00:00.000Z
-    source: MIT Engineering
-  - title: AI Is Acing Math Exams Faster Than Scientists Write Them
-    url: https://spectrum.ieee.org/ai-math-benchmarks
-    summary: Mathematics is often regarded as the ideal domain for measuring AI
-      progress effectively. Math’s step-by-step logic is easy to track, and its
-      definitive automatically verifiable answers remove any human or subjective
-      factors. But AI systems are improving at such a pace that math benchmarks
-      are struggling to keep up.
-    imageUrl: https://spectrum.ieee.org/media-library/line-graph-demonstrating-how-google-deep-mind-s-aletheia-ai-scores-at-least-5-higher-on-ph-d-math-exercises-than-the-latest-ver.jpg?id=65007034&width=1200&height=800&coordinates=62%2C0%2C63%2C0
+    publishedAt: 2026-03-02T23:50:00.000Z
+    source: MIT Robotics
+  - title: Watershed Moment for AI–Human Collaboration in Math
+    url: https://spectrum.ieee.org/ai-proof-verification
+    summary: When Ukrainian mathematician Maryna Viazovska received a Fields
+      Medal—widely regarded as the Nobel Prize for mathematics—in July 2022, it
+      was big news. Not only was she the second woman to accept the honor in the
+      award’s 86-year history, but she collected the medal just months after her
+      country had been invaded by Russia. Nearly four years later, Viazovska is
+      making waves again. Today, in a collaboration between humans and AI,
+      Viazovska’s proofs have been formally verified, signaling rapid progress
+      in AI’s abilities to assist with mathematical research.
+    imageUrl: https://spectrum.ieee.org/media-library/four-by-four-grid-of-circles-with-varying-color-gradient-patterns.jpg?id=65103143&width=2000&height=1500&coordinates=0%2C0%2C0%2C0
     categories:
-      - Ai-benchmarks
       - Mathematics
+      - Ai-reasoning
       - Large-language-models
-      - Artificial-intelligence
-    publishedAt: 2026-02-25T16:00:02.000Z
+      - Ai
+    publishedAt: 2026-03-02T18:00:03.000Z
     source: IEEE Spectrum — AI
+  - title: ChatGPT as a therapist? New study reveals serious ethical risks
+    url: https://www.sciencedaily.com/releases/2026/03/260302030642.htm
+    summary: "As millions turn to ChatGPT and other AI chatbots for therapy-style
+      advice, new research from Brown University raises a serious red flag: even
+      when instructed to act like trained therapists, these systems routinely
+      break core ethical standards of mental health care. In side-by-side
+      evaluations with peer counselors and licensed psychologists, researchers
+      uncovered 15 distinct ethical risks — from mishandling crisis situations
+      and reinforcing harmful beliefs to showing biased responses and offering
+      “deceptive empathy” that mimics care without real understanding."
+    imageUrl: https://www.sciencedaily.com/images/1920/ai-therapy-robot.webp
+    categories: []
+    publishedAt: 2026-03-02T15:04:35.000Z
+    source: ScienceDaily — Robotics
+  - title: What Military Drones Can Teach Self-Driving Cars
+    url: https://spectrum.ieee.org/military-drones-self-driving-cars
+    summary: Self-driving cars often struggle with with situations that are
+      commonplace for human drivers. When confronted with construction zones,
+      school buses, power outages, or misbehaving pedestrians, these vehicles
+      often behave unpredictably, leading to crashes or freezing events, causing
+      significant disruption to local traffic and possibly blocking first
+      responders from doing their jobs. Because self-driving cars cannot
+      successfully handle such routine problems, self-driving companies use
+      human babysitters to remotely supervise them and intervene when necessary.
+    imageUrl: https://spectrum.ieee.org/media-library/silhouette-from-the-back-of-an-adults-head-as-they-look-at-two-monitors-one-screen-displays-a-drone-and-the-other-shows-self-d.jpg?id=65098234&width=2000&height=1500&coordinates=416%2C0%2C417%2C0
+    categories:
+      - Drones
+      - Military-robots
+      - Self-driving-cars
+    publishedAt: 2026-03-02T12:00:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: A tiny twist creates giant magnetic skyrmions in 2D crystals
+    url: https://www.sciencedaily.com/releases/2026/03/260302030654.htm
+    summary: Twisting atomically thin magnetic layers does more than reshape their
+      electronics—it can create giant, topological magnetic textures. In
+      chromium triiodide, researchers observed skyrmion-like patterns stretching
+      far beyond the expected moiré scale, reaching hundreds of nanometers. Even
+      more surprising, their size doesn’t simply follow the twist pattern but
+      peaks at a specific angle. This twist-controlled magnetism could pave the
+      way for low-power spintronic devices built from geometry alone.
+    imageUrl: https://www.sciencedaily.com/images/1920/neel-skyrmion.webp
+    categories: []
+    publishedAt: 2026-03-02T08:45:13.000Z
+    source: ScienceDaily — Computer Science
+  - title: "Don't panic: 'Humanity's last exam' has begun"
+    url: https://techxplore.com/news/2026-02-dont-panic-humanity-exam-begun.html
+    summary: "When artificial intelligence systems began acing long-standing
+      academic assessments, researchers realized they had a problem: the tests
+      were too easy. Popular evaluations, such as the Massive Multitask Language
+      Understanding (MMLU) exam, once considered formidable, are no longer
+      challenging enough to meaningfully test advanced AI systems."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/an-arm-wrestling-match.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-02-28T18:00:04.000Z
+    source: TechXplore — Computer Science
   - title: Jimi Hendrix Was a Systems Engineer
     url: https://spectrum.ieee.org/jimi-hendrix-systems-engineer
     summary: 3 February 1967 is a day that belongs in the annals of music history.
@@ -124,82 +200,11 @@ articles:
       malfunction but intention. A few months later, Hendrix would deliver his
       legendary electric guitar performance at the Monterey International Pop
       Festival.
-    imageUrl: https://spectrum.ieee.org/media-library/an-electric-guitar-connected-to-a-number-of-effects-pedals-connect-to-an-amplifier-and-loudspeaker-stack.png?id=64983431&width=2000&height=1500&coordinates=0%2C99%2C0%2C100
+    imageUrl: https://spectrum.ieee.org/media-library/an-electric-guitar-connected-to-a-number-of-effects-pedals-connect-to-an-amplifier-and-loudspeaker-stack.png?id=64983431&width=600&height=600&coordinates=145%2C0%2C146%2C0
     categories:
       - Music
       - Jimi-hendrix
       - Sound-engineering
+      - Typedepartments
     publishedAt: 2026-02-25T15:39:03.000Z
     source: IEEE Spectrum — DIY
-  - title: Perseverance Smashes Autonomous Driving Record on Mars
-    url: https://spectrum.ieee.org/perseverance-mars-rover-autonomous-driving
-    summary: This article is part of our exclusive IEEE Journal Watch series in
-      partnership with IEEE Xplore.
-    imageUrl: https://spectrum.ieee.org/media-library/a-self-portrait-captured-by-nasa-s-perseverance-rover-while-traversing-mars-rocky-surface.jpg?id=65007226&width=1200&height=400&coordinates=0%2C729%2C0%2C730
-    categories:
-      - Mars
-      - Perseverance-rover
-      - Autonomous-robots
-      - Journal-watch
-    publishedAt: 2026-02-25T15:00:02.000Z
-    source: IEEE Spectrum — Robotics
-  - title: This Is the Worst Thing That Could Happen to the International Space
-      Station
-    url: https://www.wired.com/story/this-is-the-worst-thing-that-could-happen-to-the-international-space-station/
-    summary: There’s a good way to throw out the ISS. And then there’s a really bad way.
-    imageUrl: https://media.wired.com/photos/69961e34292f53dc4837a5ab/191:100/w_1280,c_limit/homepage-space-station.jpg
-    categories:
-      - The Big Story
-      - Science
-      - Science / Space
-    publishedAt: 2026-02-25T11:00:00.000Z
-    source: WIRED science
-  - title: Generative AI analyzes medical data faster than human research teams
-    url: https://www.sciencedaily.com/releases/2026/02/260221060942.htm
-    summary: Researchers tested whether generative AI could handle complex medical
-      datasets as well as human experts. In some cases, the AI matched or
-      outperformed teams that had spent months building prediction models. By
-      generating usable analytical code from precise prompts, the systems
-      dramatically reduced the time needed to process health data. The findings
-      hint at a future where AI helps scientists move faster from data to
-      discovery.
-    imageUrl: https://www.sciencedaily.com/images/1920/big-data-analysis-prediction-model-reality.webp
-    categories: []
-    publishedAt: 2026-02-21T11:17:29.000Z
-    source: ScienceDaily — Robotics
-  - title: Quantum computer breakthrough tracks qubit fluctuations in real time
-    url: https://www.sciencedaily.com/releases/2026/02/260219040756.htm
-    summary: Qubits, the heart of quantum computers, can change performance in
-      fractions of a second — but until now, scientists couldn’t see it
-      happening. Researchers at NBI have built a real-time monitoring system
-      that tracks these rapid fluctuations about 100 times faster than previous
-      methods. Using fast FPGA-based control hardware, they can instantly
-      identify when a qubit shifts from “good” to “bad.” The discovery opens a
-      new path toward stabilizing and scaling future quantum processors.
-    imageUrl: https://www.sciencedaily.com/images/1920/quantum-computer-hardware-close-up.webp
-    categories: []
-    publishedAt: 2026-02-20T14:03:48.000Z
-    source: ScienceDaily — Artificial Intelligence
-  - title: A neural blueprint for human-like intelligence in soft robots
-    url: https://news.mit.edu/2026/neural-blueprint-human-intelligence-in-soft-robots-0219
-    summary: A new artificial intelligence control system enables soft robotic arms
-      to learn a wide repertoire of motions and tasks once, then adjust to new
-      scenarios on the fly, without needing retraining or sacrificing
-      functionality.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-smart-robot-arm.jpg?itok=eGfM8bFR
-    categories: []
-    publishedAt: 2026-02-19T17:55:00.000Z
-    source: MIT Robotics
-  - title: Physicists discover what controls the speed of quantum time
-    url: https://www.sciencedaily.com/releases/2026/02/260209221713.htm
-    summary: Time may feel smooth and continuous, but at the quantum level it
-      behaves very differently. Physicists have now found a way to measure how
-      long ultrafast quantum events actually last, without relying on any
-      external clock. By tracking subtle changes in electrons as they absorb
-      light and escape a material, researchers discovered that these transitions
-      are not instantaneous and that their duration depends strongly on the
-      atomic structure of the material involved.
-    imageUrl: https://www.sciencedaily.com/images/1920/physics-flow-of-time.webp
-    categories: []
-    publishedAt: 2026-02-10T03:21:59.000Z
-    source: ScienceDaily — Engineering
