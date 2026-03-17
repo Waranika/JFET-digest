@@ -1,8 +1,166 @@
-date: 2026-03-11
+date: 2026-03-17
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: What flocking birds can teach AI about reducing noise
+    url: https://techxplore.com/news/2026-03-flocking-birds-ai-noise.html
+    summary: Among the primary concerns surrounding artificial intelligence is its
+      tendency to yield erroneous information when summarizing long documents.
+      These "hallucinations" are problematic not only because they convey
+      falsehoods, but also because they reduce efficiency—sorting through
+      content to search for mistakes of AI outputs is time-consuming.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/flock-of-birds-1.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-03-17T05:00:01.000Z
+    source: TechXplore — Computer Science
+  - title: New model tests hundreds of MTA subway flood defenses in one minute
+    url: https://techxplore.com/news/2026-03-hundreds-mta-subway-defenses-minute.html
+    summary: As transit agencies face growing climate risks and limited capital
+      budgets, deciding which flood protection measures to implement—and
+      where—has become a critical challenge. Now, a research team at NYU Tandon
+      School of Engineering has built a computer modeling framework that allows
+      agencies to rapidly test and prioritize hundreds of subway resilience
+      strategies for coastal storm surge flooding before committing to major
+      infrastructure investments.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/supporting-the-mta-in.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-03-16T23:30:10.000Z
+    source: TechXplore — Engineering
+  - title: With Nvidia Groq 3, the Era of AI Inference Is (Probably) Here
+    url: https://spectrum.ieee.org/nvidia-groq-3
+    summary: "This week, over 30,000 people are descending upon San Jose, Calif., to
+      attend Nvidia GTC, the so-called Superbowl of AI—a nickname that may or
+      may not have been coined by Nvidia. At the main event Jensen Huang, Nvidia
+      CEO, took the stage to announce (among other things) a new line of next
+      generation Vera Rubin chips that represent a first for the GPU giant: a
+      chip designed specifically to handle AI inference. The Nvidia Groq 3
+      language processing unit (LPU) incorporates intellectual property Nvidia
+      licensed from the start-up Groq last Christmas Eve for US $20 billion."
+    imageUrl: https://spectrum.ieee.org/media-library/a-man-in-all-black-presents-in-front-of-a-large-screen-which-compares-a-large-rectangular-chip-labelled-rubin-gpu-with-a-square.jpg?id=65298681&width=1245&height=700&coordinates=0%2C156%2C0%2C157
+    categories:
+      - Inferencing
+      - Nvidia
+      - Gpus
+      - Processors
+      - Ai
+    publishedAt: 2026-03-16T21:04:33.000Z
+    source: IEEE Spectrum — AI
+  - title: 4D printing technology uses waste sulfur to enable self-actuating soft
+      robots
+    url: https://techxplore.com/news/2026-03-4d-technology-sulfur-enable-actuating.html
+    summary: A joint research team led by Dr. Dong-Gyun Kim of the Korea Research
+      Institute of Chemical Technology (KRICT), Professor Jeong Jae Wie of
+      Hanyang University, and Professor Yong Seok Kim of Sejong University
+      report the world's first 4D printing technology based on sulfur-rich
+      polymers that respond to heat, light, and magnetic fields. The study was
+      published in Advanced Materials.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/krict-worlds-first-4d-1.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-03-16T20:10:01.000Z
+    source: TechXplore — Robotics
+  - title: A strange new quantum state appears when atoms get “frustrated”
+    url: https://www.sciencedaily.com/releases/2026/03/260315225137.htm
+    summary: Physicists at UC Santa Barbara have uncovered a new way to manipulate
+      unusual magnetic states by exploiting “frustration” inside a crystal’s
+      atomic structure. The team discovered a rare system where two different
+      kinds of frustration—magnetic and electronic bond frustration—coexist and
+      interact. By coupling these competing effects, researchers may be able to
+      control exotic quantum states, potentially unlocking new ways to
+      manipulate entangled spins for future quantum technologies.
+    imageUrl: https://www.sciencedaily.com/images/1920/crystal-material-exotic-quantum-state.webp
+    categories: []
+    publishedAt: 2026-03-16T10:19:03.000Z
+    source: ScienceDaily — Engineering
+  - title: Models Are Applying to Be the Face of AI Scams
+    url: https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/
+    summary: Dozens of Telegram channels reviewed by WIRED include job listings for
+      “AI face models.” The (mostly) women who land these gigs are likely being
+      used to dupe victims out of their money.
+    imageUrl: https://media.wired.com/photos/699f5d34a7cb1833c2431617/191:100/w_1280,c_limit/Models-Applying-to-Be-Face-of-AI-Scams-Security-115921890.jpg
+    categories:
+      - Security
+      - Security / Security News
+    publishedAt: 2026-03-16T09:00:00.000Z
+    source: WIRED (AI)
+  - title: New sensor sniffs out pneumonia on a patient’s breath
+    url: https://news.mit.edu/2026/new-sensor-sniffs-out-pneumonia-patients-breath-0316
+    summary: Diagnosing some diseases could be as easy as breathing into a tube. MIT
+      engineers have developed a test to detect disease-related compounds in a
+      patient’s breath. The new test could provide a faster way to diagnose
+      pneumonia and other lung conditions. Rather than sit for a chest X-ray or
+      wait hours for a lab result, a patient may one day take a breath test and
+      get a diagnosis within minutes.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-PlasmoSniff-01-press.jpg?itok=Kj1CeIu-
+    categories: []
+    publishedAt: 2026-03-16T04:00:00.000Z
+    source: MIT Engineering
+  - title: Scientists discover AI can make humans more creative
+    url: https://www.sciencedaily.com/releases/2026/03/260315004355.htm
+    summary: "Artificial intelligence is often portrayed as a tool that replaces
+      human work, but new research from Swansea University suggests a far more
+      exciting role: creative collaborator. In a large study with more than 800
+      participants designing virtual cars, researchers found that AI-generated
+      design galleries sparked deeper engagement, longer exploration, and better
+      results."
+    imageUrl: https://www.sciencedaily.com/images/1920/lightbulb-creativity-explosion.webp
+    categories: []
+    publishedAt: 2026-03-16T00:59:26.000Z
+    source: ScienceDaily — Robotics
+  - title: THOR AI solves a 100-year-old physics problem in seconds
+    url: https://www.sciencedaily.com/releases/2026/03/260315004344.htm
+    summary: A new AI framework called THOR is transforming how scientists calculate
+      the behavior of atoms inside materials. Instead of relying on slow
+      simulations that take weeks of supercomputer time, the system uses tensor
+      network mathematics and machine-learning models to solve the problem
+      directly. The approach can compute key thermodynamic properties hundreds
+      of times faster while preserving accuracy. Researchers say this could
+      accelerate discoveries in materials science, physics, and chemistry.
+    imageUrl: https://www.sciencedaily.com/images/1920/humanoid-ai-robot-hologram-screen-solving-physics-math-problems.webp
+    categories: []
+    publishedAt: 2026-03-16T00:38:21.000Z
+    source: ScienceDaily — Computer Science
+  - title: A New Study Details How Cats Almost Always Land on Their Feet
+    url: https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/
+    summary: The secret to this acrobatic skill lies in an extremely flexible part
+      of the spine that allows cats to twist in the air and land safely.
+    imageUrl: https://media.wired.com/photos/69b4789121798c785e64c18e/191:100/w_1280,c_limit/1059347572
+    categories:
+      - Science
+    publishedAt: 2026-03-15T09:00:00.000Z
+    source: WIRED science
+  - title: "Video Friday: These Robots Were Born to Run"
+    url: https://spectrum.ieee.org/legged-modular-robot
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/rolling-cannon-distant-cityscape-trees-and-water.gif?id=65282014&width=1200&height=400&coordinates=0%2C147%2C0%2C147
+    categories:
+      - Robotics
+      - Humanoid-robots
+      - Video-friday
+      - Modular-robots
+      - Robot-videos
+      - Quadruped-robots
+    publishedAt: 2026-03-13T16:00:04.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Can AI help predict which heart-failure patients will worsen within a year?
+    url: https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312
+    summary: Characterized by weakened or damaged heart musculature, heart failure
+      results in the gradual buildup of fluid in a patient’s lungs, legs, feet,
+      and other parts of the body. The condition is chronic and incurable, often
+      leading to arrhythmias or sudden cardiac arrest. For many centuries,
+      bloodletting and leeches were the treatment of choice, famously practiced
+      by barber surgeons in Europe, during a time when physicians rarely
+      operated on patients.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-jameel-yau-bergamaschi-PULSE.jpg?itok=t0tTj-za
+    categories: []
+    publishedAt: 2026-03-12T21:30:00.000Z
+    source: MIT Artificial Intelligence
   - title: A better method for planning complex visual tasks
     url: https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311
     summary: MIT researchers have developed a generative artificial
@@ -13,176 +171,6 @@ articles:
     categories: []
     publishedAt: 2026-03-11T04:00:00.000Z
     source: MIT Robotics
-  - title: Finding a nanoscale solution to safer spaceflight
-    url: https://news.mit.edu/2026/palak-patel-finding-nanoscale-solution-safer-spaceflight-0311
-    summary: “I’ve loved space for as long as I can remember,” says Palak Patel, a
-      sixth-year doctoral student in MIT’s Department of Mechanical Engineering
-      (MechE). As a girl, she “devoured” books about planets in the solar
-      system, and her parents nurtured her growing interest in space through
-      visits to observatories, air and space museums, and NASA centers. Spending
-      time with her grandfather, who oversaw the radiation protection division
-      of India’s Bhabha Atomic Research Center, also made a big impression on
-      her.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-Palak-Patel.JPG?itok=DEAiGcvh
-    categories: []
-    publishedAt: 2026-03-11T04:00:00.000Z
-    source: MIT Engineering
-  - title: Scientists turn scrap car aluminum into high-performance metal for new
-      vehicles
-    url: https://www.sciencedaily.com/releases/2026/03/260309225217.htm
-    summary: Scientists at Oak Ridge National Laboratory have created a new aluminum
-      alloy called RidgeAlloy that can turn contaminated car-body scrap into
-      strong structural vehicle parts. Normally, impurities introduced during
-      recycling make this scrap unsuitable for high-performance applications.
-      RidgeAlloy overcomes that challenge, enabling recycled aluminum to meet
-      the strength and durability standards required for modern vehicles. The
-      technology could slash energy use, reduce imports, and unlock a huge new
-      supply of domestic aluminum.
-    imageUrl: https://www.sciencedaily.com/images/1920/ridgealloy-auto-part.webp
-    categories: []
-    publishedAt: 2026-03-11T00:46:16.000Z
-    source: ScienceDaily — Engineering
-  - title: Can AI read papers like a scientist? A new benchmark shows where LLMs fail
-    url: https://techxplore.com/news/2026-03-ai-papers-scientist-benchmark-llms.html
-    summary: To stay up to date and work forward in their fields, scientists must
-      have at their fingertips and in their minds thousands of published
-      studies. Large language models (LLMs) show promise as a tool for exploring
-      the vast scientific literature, but are they trustworthy when it comes to
-      providing full and scientifically accurate answers to complex questions in
-      specialized fields?
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/can-ai-read-papers-lik.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-03-10T20:40:07.000Z
-    source: TechXplore — Computer Science
-  - title: Poultry processing robotics advances with ChicGrasp
-    url: https://techxplore.com/news/2026-03-poultry-robotics-advances-chicgrasp.html
-    summary: What started out as a response to labor shortages in poultry processing
-      plants during the COVID-19 pandemic has turned into a robotics system that
-      can learn by imitating human movements to handle chickens. Using an
-      advanced imitation learning algorithm and camera perceptions, researchers
-      with the Arkansas Agricultural Experiment Station have developed
-      ChicGrasp, a dual-jaw robotic gripper with pinchers that can grasp a
-      chicken carcass by the legs, lift and hang it on a shackle conveyor to be
-      moved on for further processing.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/poultry-processing-rob-1.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-03-10T20:10:06.000Z
-    source: TechXplore — Robotics
-  - title: Hair-thin 'soft yarn' actuator fiber moves with electricity
-    url: https://techxplore.com/news/2026-03-hair-thin-soft-yarn-actuator.html
-    summary: Researchers at Tohoku University, working with international
-      collaborators in France, have developed an ultrafine "soft yarn" actuator
-      fiber capable of bending, contracting, and producing complex
-      three-dimensional movements when electricity is applied. The technology
-      offers a new pathway for building safer soft robots and body-conforming
-      wearable devices designed to interact closely with people.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/soft-fibers-that-move.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-03-10T20:00:06.000Z
-    source: TechXplore — Engineering
-  - title: "Interstellar Comet 3I/Atlas Has Another Surprise: It’s Full of Alcohol"
-    url: https://www.wired.com/story/interstellar-comet-3i-atlas-has-another-surprise-its-full-of-alcohol/
-    summary: Analysis of the tail of 3I/Atlas reveals that it contains an anomalous
-      proportion of methanol, a class of alcohol used in fuels.
-    imageUrl: https://media.wired.com/photos/69b00c9e772e2c790732bbac/191:100/w_1280,c_limit/GettyImages-183097875.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-03-10T18:48:25.000Z
-    source: WIRED science
-  - title: An AI Agent Blackmailed a Developer. Now What?
-    url: https://spectrum.ieee.org/agentic-ai-agents-blackmail-developer
-    summary: "On 12 February, a Github contributor going by MJ Rathbun posted a
-      personal attack against Scott Shambaugh, a volunteer maintainer for an
-      open-source project. Shambaugh had rejected Rathbun’s code earlier in the
-      day. Rathbun meticulously researched Shambaugh’s activity on Github, in
-      order to write a lengthy takedown post that criticized the maintainer’s
-      code as inferior to Rathbun’s, and ominously warned that “gatekeeping
-      doesn’t make you important. It just makes you an obstacle.”Personal
-      disputes over code submitted to on Github are a tale as old as Github
-      itself. But this time, something was different: MJ Rathbun wasn’t a
-      person. It was an AI agent built with OpenClaw, a popular open-source
-      agentic AI software."
-    imageUrl: https://spectrum.ieee.org/media-library/illustrated-close-up-side-view-of-a-snake-waiting-to-strike-someone-s-hand-as-they-type-on-a-laptop-keyboard.jpg?id=65173980&width=1245&height=700&coordinates=0%2C156%2C0%2C157
-    categories:
-      - Ai-agents
-      - Artificial-intelligence
-      - Github
-      - Agentic-ai
-      - Coding
-    publishedAt: 2026-03-10T16:08:43.000Z
-    source: IEEE Spectrum — AI
-  - title: Intel Demos Chip to Compute With Encrypted Data
-    url: https://spectrum.ieee.org/fhe-intel
-    summary: Worried that your latest ask to a cloud-based AI reveals a bit too much
-      about you? Want to know your genetic risk of disease without revealing it
-      to the services that compute the answer?
-    imageUrl: https://spectrum.ieee.org/media-library/overhead-view-of-intel-s-computing-chip-called-heracles.jpg?id=65174073&width=1245&height=700&coordinates=0%2C156%2C0%2C157
-    categories:
-      - Privacy
-      - Intel
-      - Encryption
-      - Homomorphic-encryption
-      - Hardware-acceleration
-      - Isscc
-    publishedAt: 2026-03-10T13:00:04.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: "Video Friday: A Robot Hand With Artificial Muscles and Tendons"
-    url: https://spectrum.ieee.org/video-friday-robot-hand-artificial-muscles
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robotic-hand-grasping-a-red-bull-can-against-a-dark-background.png?id=65162441&width=1200&height=800&coordinates=42%2C0%2C43%2C0
-    categories:
-      - Humanoid-robots
-      - Video-friday
-      - Underwater-robots
-      - Bipedal-robots
-      - Robot-videos
-    publishedAt: 2026-03-06T16:00:05.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Scientists finally see the atomic flaws hiding inside computer chips
-    url: https://www.sciencedaily.com/releases/2026/03/260305182657.htm
-    summary: Researchers at Cornell University have developed a powerful imaging
-      technique that reveals atomic scale defects inside computer chips for the
-      first time. Using an advanced electron microscopy method, the team mapped
-      the exact positions of atoms inside tiny transistor structures and
-      uncovered small imperfections nicknamed “mouse bites.” These defects form
-      during the complex manufacturing process and can disrupt how electrons
-      flow through a chip’s channels, which are only about 15 to 18 atoms wide.
-    imageUrl: https://www.sciencedaily.com/images/1920/layers-inside-transistor-channel.webp
-    categories: []
-    publishedAt: 2026-03-06T00:42:42.000Z
-    source: ScienceDaily — Computer Science
-  - title: A simple hand photo may be the key to detecting a serious disease
-    url: https://www.sciencedaily.com/releases/2026/03/260303201807.htm
-    summary: Researchers at Kobe University have developed an AI system that can
-      detect acromegaly, a rare hormone disorder, by analyzing photos of the
-      back of the hand and a clenched fist. The disease often develops slowly
-      and can take years to diagnose, even though untreated cases may shorten
-      life expectancy.
-    imageUrl: https://www.sciencedaily.com/images/1920/hand-image-ai-diagnose-acromegaly.webp
-    categories: []
-    publishedAt: 2026-03-04T16:59:51.000Z
-    source: ScienceDaily — Robotics
-  - title: ChatGPT as a therapist? New study reveals serious ethical risks
-    url: https://www.sciencedaily.com/releases/2026/03/260302030642.htm
-    summary: "As millions turn to ChatGPT and other AI chatbots for therapy-style
-      advice, new research from Brown University raises a serious red flag: even
-      when instructed to act like trained therapists, these systems routinely
-      break core ethical standards of mental health care. In side-by-side
-      evaluations with peer counselors and licensed psychologists, researchers
-      uncovered 15 distinct ethical risks — from mishandling crisis situations
-      and reinforcing harmful beliefs to showing biased responses and offering
-      “deceptive empathy” that mimics care without real understanding."
-    imageUrl: https://www.sciencedaily.com/images/1920/ai-therapy-robot.webp
-    categories: []
-    publishedAt: 2026-03-02T15:04:35.000Z
-    source: ScienceDaily — Artificial Intelligence
   - title: Jimi Hendrix Was a Systems Engineer
     url: https://spectrum.ieee.org/jimi-hendrix-systems-engineer
     summary: 3 February 1967 is a day that belongs in the annals of music history.
@@ -197,7 +185,7 @@ articles:
       malfunction but intention. A few months later, Hendrix would deliver his
       legendary electric guitar performance at the Monterey International Pop
       Festival.
-    imageUrl: https://spectrum.ieee.org/media-library/an-electric-guitar-connected-to-a-number-of-effects-pedals-connect-to-an-amplifier-and-loudspeaker-stack.png?id=64983431&width=1200&height=800&coordinates=0%2C181%2C0%2C181
+    imageUrl: https://spectrum.ieee.org/media-library/an-electric-guitar-connected-to-a-number-of-effects-pedals-connect-to-an-amplifier-and-loudspeaker-stack.png?id=64983431&width=1200&height=400&coordinates=0%2C507%2C0%2C508
     categories:
       - Music
       - Jimi-hendrix
