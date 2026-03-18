@@ -1,67 +1,136 @@
-date: 2026-03-17
+date: 2026-03-18
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: What flocking birds can teach AI about reducing noise
-    url: https://techxplore.com/news/2026-03-flocking-birds-ai-noise.html
-    summary: Among the primary concerns surrounding artificial intelligence is its
-      tendency to yield erroneous information when summarizing long documents.
-      These "hallucinations" are problematic not only because they convey
-      falsehoods, but also because they reduce efficiency—sorting through
-      content to search for mistakes of AI outputs is time-consuming.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/flock-of-birds-1.jpg
+  - title: Sustaining diplomacy amid competition in US-China relations
+    url: https://news.mit.edu/2026/sustaining-diplomacy-amid-us-china-competition-0318
+    summary: The United States and China “are the two largest emitters of carbon in
+      the world,” said Nicholas Burns, former U.S. ambassador to the People’s
+      Republic of China, at a recent MIT seminar. “We need to work with each
+      other for the good of both of our countries.”
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mitei-china-seminar-nicholas-burns.jpg?itok=JRTDethV
+    categories: []
+    publishedAt: 2026-03-18T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Turning extreme heat into large-scale energy storage
+    url: https://news.mit.edu/2026/turning-extreme-heat-large-scale-energy-storage-0318
+    summary: Thermal batteries can efficiently store energy as heat. But building
+      them requires a carefully designed system with materials that can
+      withstand cycles of extremely high temperatures, without succumbing to
+      problems like corrosion, thermal expansion, and structural fatigue.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-FourthWall-01-press.jpg?itok=e4UtWbTV
+    categories: []
+    publishedAt: 2026-03-18T04:00:00.000Z
+    source: MIT Engineering
+  - title: Study finds ChatGPT gets science wrong more often than you think
+    url: https://www.sciencedaily.com/releases/2026/03/260317064452.htm
+    summary: A new study put ChatGPT to the test by asking it to judge whether
+      hundreds of scientific hypotheses were true or false—and the results were
+      far from reassuring. While the AI got it right about 80% of the time on
+      the surface, its performance dropped significantly when accounting for
+      random guessing, revealing only modest reasoning ability. Even more
+      concerning, it frequently contradicted itself when asked the exact same
+      question multiple times, sometimes flipping answers back and forth.
+    imageUrl: https://www.sciencedaily.com/images/1920/robot-artificial-intelligence-failure-head-exploding.webp
+    categories: []
+    publishedAt: 2026-03-18T02:39:38.000Z
+    source: ScienceDaily — Robotics
+  - title: Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems
+    url: https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/
+    summary: In response to Anthropic’s lawsuit, the government said it lawfully
+      penalized the company for trying to limit how its Claude AI models could
+      be used by the military.
+    imageUrl: https://media.wired.com/photos/69b9b3b8a5694fbea42e1cf8/191:100/w_1280,c_limit/buisness_DOD_Anthropic_GettyImages-2265262796.jpg
     categories:
-      - Computer Sciences
-    publishedAt: 2026-03-17T05:00:01.000Z
-    source: TechXplore — Computer Science
-  - title: New model tests hundreds of MTA subway flood defenses in one minute
-    url: https://techxplore.com/news/2026-03-hundreds-mta-subway-defenses-minute.html
-    summary: As transit agencies face growing climate risks and limited capital
-      budgets, deciding which flood protection measures to implement—and
-      where—has become a critical challenge. Now, a research team at NYU Tandon
-      School of Engineering has built a computer modeling framework that allows
-      agencies to rapidly test and prioritize hundreds of subway resilience
-      strategies for coastal storm surge flooding before committing to major
-      infrastructure investments.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/supporting-the-mta-in.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-03-16T23:30:10.000Z
-    source: TechXplore — Engineering
-  - title: With Nvidia Groq 3, the Era of AI Inference Is (Probably) Here
-    url: https://spectrum.ieee.org/nvidia-groq-3
-    summary: "This week, over 30,000 people are descending upon San Jose, Calif., to
-      attend Nvidia GTC, the so-called Superbowl of AI—a nickname that may or
-      may not have been coined by Nvidia. At the main event Jensen Huang, Nvidia
-      CEO, took the stage to announce (among other things) a new line of next
-      generation Vera Rubin chips that represent a first for the GPU giant: a
-      chip designed specifically to handle AI inference. The Nvidia Groq 3
-      language processing unit (LPU) incorporates intellectual property Nvidia
-      licensed from the start-up Groq last Christmas Eve for US $20 billion."
-    imageUrl: https://spectrum.ieee.org/media-library/a-man-in-all-black-presents-in-front-of-a-large-screen-which-compares-a-large-rectangular-chip-labelled-rubin-gpu-with-a-square.jpg?id=65298681&width=1245&height=700&coordinates=0%2C156%2C0%2C157
-    categories:
-      - Inferencing
-      - Nvidia
-      - Gpus
-      - Processors
-      - Ai
-    publishedAt: 2026-03-16T21:04:33.000Z
-    source: IEEE Spectrum — AI
-  - title: 4D printing technology uses waste sulfur to enable self-actuating soft
-      robots
-    url: https://techxplore.com/news/2026-03-4d-technology-sulfur-enable-actuating.html
-    summary: A joint research team led by Dr. Dong-Gyun Kim of the Korea Research
-      Institute of Chemical Technology (KRICT), Professor Jeong Jae Wie of
-      Hanyang University, and Professor Yong Seok Kim of Sejong University
-      report the world's first 4D printing technology based on sulfur-rich
-      polymers that respond to heat, light, and magnetic fields. The study was
-      published in Advanced Materials.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/krict-worlds-first-4d-1.jpg
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-03-18T00:51:14.000Z
+    source: WIRED (AI)
+  - title: "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty
+      impact"
+    url: https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317
+    summary: The early years of faculty members’ careers are a formative and
+      exciting time in which to establish a firm footing that helps determine
+      the trajectory of researchers’ studies. This includes building a research
+      team, which demands innovative ideas and direction, creative
+      collaborators, and reliable resources.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-ibm-seed-to-signal.jpg?itok=KhVDGaMj
+    categories: []
+    publishedAt: 2026-03-17T20:35:44.000Z
+    source: MIT Robotics
+  - title: Compostable robot endures over 1 million uses before becoming plant food
+    url: https://techxplore.com/news/2026-03-compostable-robot-million-food.html
+    summary: The rapid proliferation of robots and electronic devices is placing the
+      world under a new and growing environmental burden. According to the
+      United Nations Institute for Training and Research (UNITAR), global
+      electronic waste (e-waste) reached approximately 62 million metric tons in
+      2022, a significant portion of which was neither properly collected nor
+      recycled but instead landfilled or incinerated.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-robot-that-endures-o.jpg
     categories:
       - Robotics
-    publishedAt: 2026-03-16T20:10:01.000Z
+    publishedAt: 2026-03-17T20:20:05.000Z
     source: TechXplore — Robotics
+  - title: Hybrid AI model combines graphs and transformers for real-time traffic
+      forecasts
+    url: https://techxplore.com/news/2026-03-hybrid-ai-combines-graphs-real.html
+    summary: Urban congestion is a big problem in our cities. It leads to commuter
+      delays and economic inefficiency. More tragically, though, it leads to a
+      million deaths annually worldwide. Research appearing in the International
+      Journal of Reasoning-based Intelligent Systems shows how artificial
+      intelligence (AI) might be able to carry out real-time traffic forecasting
+      and provide a way for the authorities to manage our road networks better.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/ai-car.jpg
+    categories:
+      - Automotive
+    publishedAt: 2026-03-17T19:20:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Autonomous navigation of microrobots in complex flows demonstrated for
+      the first time
+    url: https://techxplore.com/news/2026-03-autonomous-microrobots-complex.html
+    summary: For the first time, researchers at Leipzig University have shown that
+      tiny synthetic microswimmers can perceive their surroundings directly
+      through their own body shape and autonomously adapt to rapidly changing
+      fluid flows. The study, now published in Science Advances, establishes a
+      new paradigm for autonomous microsystems whose control functions reliably
+      in challenging environments where conventional sensors fail. This opens up
+      new prospects for autonomous medical microrobots, for example for the
+      targeted delivery of medication in the bloodstream.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/autonomous-navigation.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-03-17T19:00:09.000Z
+    source: TechXplore — Engineering
+  - title: New model uses team interactions to predict next steps in collaborative
+      work
+    url: https://techxplore.com/news/2026-03-team-interactions-collaborative.html
+    summary: Finding the right information at the right time is critical for solving
+      complex problems. Researchers have developed an algorithm that helps
+      individuals locate needed information more efficiently by drawing on both
+      a user's own history and behavioral cues, as well as the history and
+      behavioral cues of teammates collaborating to solve the problem.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/collaborative-work.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-03-17T16:50:01.000Z
+    source: TechXplore — Computer Science
+  - title: AI Trained on Birdsong Can Recognize Whale Calls
+    url: https://spectrum.ieee.org/foundation-models-google-birds-whales
+    summary: Birds’ chirps, trills, and warbles echo through the air, while whales’
+      boings, “biotwangs,” and whistles vibrate underwater. Despite the
+      variations in sounds and the medium through which they travel, both
+      birdsong and whale vocalizations can be classified by Perch 2.0, an AI
+      audio model from Google DeepMind.
+    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-songbird-s-silhouette-with-sound-lines-coming-from-its-mouth-these-lines-extend-into-abstract-oce.jpg?id=65257073&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+    categories:
+      - Google
+      - Whales
+      - Transfer-learning
+      - Google-deepmind
+      - Foundation-models
+    publishedAt: 2026-03-17T15:00:06.000Z
+    source: IEEE Spectrum — AI
   - title: A strange new quantum state appears when atoms get “frustrated”
     url: https://www.sciencedaily.com/releases/2026/03/260315225137.htm
     summary: Physicists at UC Santa Barbara have uncovered a new way to manipulate
@@ -75,29 +144,6 @@ articles:
     categories: []
     publishedAt: 2026-03-16T10:19:03.000Z
     source: ScienceDaily — Engineering
-  - title: Models Are Applying to Be the Face of AI Scams
-    url: https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/
-    summary: Dozens of Telegram channels reviewed by WIRED include job listings for
-      “AI face models.” The (mostly) women who land these gigs are likely being
-      used to dupe victims out of their money.
-    imageUrl: https://media.wired.com/photos/699f5d34a7cb1833c2431617/191:100/w_1280,c_limit/Models-Applying-to-Be-Face-of-AI-Scams-Security-115921890.jpg
-    categories:
-      - Security
-      - Security / Security News
-    publishedAt: 2026-03-16T09:00:00.000Z
-    source: WIRED (AI)
-  - title: New sensor sniffs out pneumonia on a patient’s breath
-    url: https://news.mit.edu/2026/new-sensor-sniffs-out-pneumonia-patients-breath-0316
-    summary: Diagnosing some diseases could be as easy as breathing into a tube. MIT
-      engineers have developed a test to detect disease-related compounds in a
-      patient’s breath. The new test could provide a faster way to diagnose
-      pneumonia and other lung conditions. Rather than sit for a chest X-ray or
-      wait hours for a lab result, a patient may one day take a breath test and
-      get a diagnosis within minutes.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-PlasmoSniff-01-press.jpg?itok=Kj1CeIu-
-    categories: []
-    publishedAt: 2026-03-16T04:00:00.000Z
-    source: MIT Engineering
   - title: Scientists discover AI can make humans more creative
     url: https://www.sciencedaily.com/releases/2026/03/260315004355.htm
     summary: "Artificial intelligence is often portrayed as a tool that replaces
@@ -109,7 +155,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/lightbulb-creativity-explosion.webp
     categories: []
     publishedAt: 2026-03-16T00:59:26.000Z
-    source: ScienceDaily — Robotics
+    source: ScienceDaily — Artificial Intelligence
   - title: THOR AI solves a 100-year-old physics problem in seconds
     url: https://www.sciencedaily.com/releases/2026/03/260315004344.htm
     summary: A new AI framework called THOR is transforming how scientists calculate
@@ -148,29 +194,6 @@ articles:
       - Quadruped-robots
     publishedAt: 2026-03-13T16:00:04.000Z
     source: IEEE Spectrum — Robotics
-  - title: Can AI help predict which heart-failure patients will worsen within a year?
-    url: https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312
-    summary: Characterized by weakened or damaged heart musculature, heart failure
-      results in the gradual buildup of fluid in a patient’s lungs, legs, feet,
-      and other parts of the body. The condition is chronic and incurable, often
-      leading to arrhythmias or sudden cardiac arrest. For many centuries,
-      bloodletting and leeches were the treatment of choice, famously practiced
-      by barber surgeons in Europe, during a time when physicians rarely
-      operated on patients.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-jameel-yau-bergamaschi-PULSE.jpg?itok=t0tTj-za
-    categories: []
-    publishedAt: 2026-03-12T21:30:00.000Z
-    source: MIT Artificial Intelligence
-  - title: A better method for planning complex visual tasks
-    url: https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311
-    summary: MIT researchers have developed a generative artificial
-      intelligence-driven approach for planning long-term visual tasks, like
-      robot navigation, that is about twice as effective as some existing
-      techniques.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Visual-Planning-01-press.jpg?itok=X3VZw8Xs
-    categories: []
-    publishedAt: 2026-03-11T04:00:00.000Z
-    source: MIT Robotics
   - title: Jimi Hendrix Was a Systems Engineer
     url: https://spectrum.ieee.org/jimi-hendrix-systems-engineer
     summary: 3 February 1967 is a day that belongs in the annals of music history.
