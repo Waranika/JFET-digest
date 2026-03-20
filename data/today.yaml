@@ -1,18 +1,133 @@
-date: 2026-03-18
+date: 2026-03-20
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Sustaining diplomacy amid competition in US-China relations
-    url: https://news.mit.edu/2026/sustaining-diplomacy-amid-us-china-competition-0318
-    summary: The United States and China “are the two largest emitters of carbon in
-      the world,” said Nicholas Burns, former U.S. ambassador to the People’s
-      Republic of China, at a recent MIT seminar. “We need to work with each
-      other for the good of both of our countries.”
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mitei-china-seminar-nicholas-burns.jpg?itok=JRTDethV
+  - title: "‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and
+      Meta’s VR Metaverse ‘Shutdown’"
+    url: https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/
+    summary: In this episode, we dive into Nvidia’s annual developer conference and
+      what CEO Jensen Huang is saying about the future of the company.
+    imageUrl: https://media.wired.com/photos/69bb27db20b5c90983327a6a/191:100/w_1280,c_limit/Uncanny-Valley-Nvida-GTC-Business-2266590803.jpg
+    categories:
+      - Business
+      - Business / Computers and Software
+    publishedAt: 2026-03-19T21:43:56.000Z
+    source: WIRED (AI)
+  - title: Wind-powered robot could enable long-term exploration of hostile
+      environments
+    url: https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html
+    summary: Researchers at Cranfield University have created WANDER-bot, a
+      low-cost, 3D-printed robot that is powered by wind energy. Designed to
+      spend long durations in hostile, windy environments such as certain
+      deserts, polar regions or even other planets, WANDER-bot doesn't need a
+      battery to power movement, enabling longer operations without having to
+      pause and recharge.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/wind-powered-robot-cou.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-03-19T20:20:03.000Z
+    source: TechXplore — Engineering
+  - title: Startups Bring Optical Metamaterials to AI Data Centers
+    url: https://spectrum.ieee.org/optical-metamaterials-ai-data-centers
+    summary: Light-warping physics made “invisibility cloaks” a possibility. Now two
+      startups hope to harness the science underlying this advance to boost the
+      bandwidth of data centers and speed artificial intelligence.
+    imageUrl: https://spectrum.ieee.org/media-library/a-hand-holding-a-microchip-between-thumb-and-forefinger.jpg?id=65322426&width=1200&height=400&coordinates=0%2C417%2C0%2C417
+    categories:
+      - Artificial-intelligence
+      - Data-center
+      - Optical-switch
+      - Optical-computing
+      - Metamaterial
+      - Metamaterials
+    publishedAt: 2026-03-19T19:19:43.000Z
+    source: IEEE Spectrum — AI
+  - title: American Airlines and Google say AI helped airplanes reduce contrails
+      that trap heat
+    url: https://techxplore.com/news/2026-03-american-airlines-google-ai-airplanes.html
+    summary: American Airlines and Google said Thursday that they significantly
+      reduced the climate impact of some of the airline's flights using an
+      AI-based forecasting tool to help prevent contrails.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/american-airlines-and.jpg
+    categories:
+      - Energy & Green Tech
+    publishedAt: 2026-03-19T19:10:06.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: A better method for identifying overconfident large language models
+    url: https://techxplore.com/news/2026-03-method-overconfident-large-language.html
+    summary: Large language models (LLMs) can generate credible but inaccurate
+      responses, so researchers have developed uncertainty quantification
+      methods to check the reliability of predictions. One popular method
+      involves submitting the same prompt multiple times to see if the model
+      generates the same answer. But this method measures self-confidence, and
+      even the most impressive LLM might be confidently wrong. Overconfidence
+      can mislead users about the accuracy of a prediction, which might result
+      in devastating consequences in high-stakes settings like health care or
+      finance.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-better-method-for-id.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-03-19T13:00:03.000Z
+    source: TechXplore — Computer Science
+  - title: Overcoming Core Engineering Barriers in Humanoid Robotics Development
+    url: https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/
+    summary: A technical examination of the sensing, motion control, power, and
+      thermal challenges facing humanoid robotics engineers — with
+      component-level design strategies for real-world deployment.
+    imageUrl: https://spectrum.ieee.org/media-library/logo-of-murata-in-red-with-text-innovator-in-electronics-below.png?id=65106483&width=980
+    categories:
+      - Sensor-fusion
+      - Type-whitepaper
+      - Motion-control
+      - Humanoid-robots
+    publishedAt: 2026-03-19T10:00:05.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Get Ready for a Year of Chaotic Weather in the US
+    url: https://www.wired.com/story/get-ready-for-a-year-of-chaotic-weather-in-the-us/
+    summary: A massive Western heat wave and a potential El Niño event raise
+      concerns about a long stretch of unpredictable and extreme weather.
+    imageUrl: https://media.wired.com/photos/69b967163d7bc629bb6ef27c/191:100/w_1280,c_limit/GettyImages-1211527991.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-03-19T09:00:00.000Z
+    source: WIRED science
+  - title: Generative AI improves a wireless vision system that sees through
+      obstructions
+    url: https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319
+    summary: MIT researchers have spent more than a decade studying techniques that
+      enable robots to find and manipulate hidden objects by “seeing” through
+      obstacles. Their methods utilize surface-penetrating wireless signals that
+      reflect off concealed items.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Scene-Understanding-01-press.jpg?itok=GpWqJHl6
     categories: []
-    publishedAt: 2026-03-18T04:00:00.000Z
-    source: MIT Artificial Intelligence
+    publishedAt: 2026-03-19T04:00:00.000Z
+    source: MIT Robotics
+  - title: AI uses as much energy as Iceland but scientists aren’t worried
+    url: https://www.sciencedaily.com/releases/2026/03/260318033103.htm
+    summary: AI’s growing energy use sounds alarming, but its global climate impact
+      may be far smaller than expected. Researchers found that while AI consumes
+      huge amounts of electricity, it barely moves the needle on overall
+      emissions. The real impact is more localized, especially around data
+      centers. Meanwhile, AI could become a powerful tool for building greener
+      technologies.
+    imageUrl: https://www.sciencedaily.com/images/1920/ai-energy-electricity.webp
+    categories: []
+    publishedAt: 2026-03-18T09:52:23.000Z
+    source: ScienceDaily — Robotics
+  - title: AI-powered robot learns how to harvest tomatoes more efficiently
+    url: https://www.sciencedaily.com/releases/2026/03/260317064512.htm
+    summary: A new tomato-picking robot is learning to think before it acts. Instead
+      of simply identifying ripe fruit, it predicts how easy each tomato will be
+      to harvest and adjusts its approach accordingly. This smarter strategy
+      boosted success rates to 81%, with the robot even switching angles when
+      needed. The breakthrough could pave the way for farms where robots and
+      humans work side by side.
+    imageUrl: https://www.sciencedaily.com/images/1920/ai-robot-harvesting-tomatoes.webp
+    categories: []
+    publishedAt: 2026-03-18T04:26:44.000Z
+    source: ScienceDaily — Artificial Intelligence
   - title: Turning extreme heat into large-scale energy storage
     url: https://news.mit.edu/2026/turning-extreme-heat-large-scale-energy-storage-0318
     summary: Thermal batteries can efficiently store energy as heat. But building
@@ -23,114 +138,20 @@ articles:
     categories: []
     publishedAt: 2026-03-18T04:00:00.000Z
     source: MIT Engineering
-  - title: Study finds ChatGPT gets science wrong more often than you think
-    url: https://www.sciencedaily.com/releases/2026/03/260317064452.htm
-    summary: A new study put ChatGPT to the test by asking it to judge whether
-      hundreds of scientific hypotheses were true or false—and the results were
-      far from reassuring. While the AI got it right about 80% of the time on
-      the surface, its performance dropped significantly when accounting for
-      random guessing, revealing only modest reasoning ability. Even more
-      concerning, it frequently contradicted itself when asked the exact same
-      question multiple times, sometimes flipping answers back and forth.
-    imageUrl: https://www.sciencedaily.com/images/1920/robot-artificial-intelligence-failure-head-exploding.webp
+  - title: Scientists used 7,000 GPUs to simulate a tiny quantum chip in extreme
+      detail
+    url: https://www.sciencedaily.com/releases/2026/03/260317064504.htm
+    summary: Researchers have pushed quantum chip design into a new era by
+      simulating every physical detail before fabrication. Using a supercomputer
+      with nearly 7,000 GPUs, they modeled how signals travel and interact
+      inside an ultra-tiny chip. Unlike earlier “black box” approaches, this
+      method captures real materials, layouts, and qubit behavior. The result is
+      a powerful new way to spot problems early and build better quantum
+      hardware faster.
+    imageUrl: https://www.sciencedaily.com/images/1920/advanced-computer-hardware-quantum-cpu-chip.webp
     categories: []
-    publishedAt: 2026-03-18T02:39:38.000Z
-    source: ScienceDaily — Robotics
-  - title: Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems
-    url: https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/
-    summary: In response to Anthropic’s lawsuit, the government said it lawfully
-      penalized the company for trying to limit how its Claude AI models could
-      be used by the military.
-    imageUrl: https://media.wired.com/photos/69b9b3b8a5694fbea42e1cf8/191:100/w_1280,c_limit/buisness_DOD_Anthropic_GettyImages-2265262796.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-03-18T00:51:14.000Z
-    source: WIRED (AI)
-  - title: "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty
-      impact"
-    url: https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317
-    summary: The early years of faculty members’ careers are a formative and
-      exciting time in which to establish a firm footing that helps determine
-      the trajectory of researchers’ studies. This includes building a research
-      team, which demands innovative ideas and direction, creative
-      collaborators, and reliable resources.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-ibm-seed-to-signal.jpg?itok=KhVDGaMj
-    categories: []
-    publishedAt: 2026-03-17T20:35:44.000Z
-    source: MIT Robotics
-  - title: Compostable robot endures over 1 million uses before becoming plant food
-    url: https://techxplore.com/news/2026-03-compostable-robot-million-food.html
-    summary: The rapid proliferation of robots and electronic devices is placing the
-      world under a new and growing environmental burden. According to the
-      United Nations Institute for Training and Research (UNITAR), global
-      electronic waste (e-waste) reached approximately 62 million metric tons in
-      2022, a significant portion of which was neither properly collected nor
-      recycled but instead landfilled or incinerated.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-robot-that-endures-o.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-03-17T20:20:05.000Z
-    source: TechXplore — Robotics
-  - title: Hybrid AI model combines graphs and transformers for real-time traffic
-      forecasts
-    url: https://techxplore.com/news/2026-03-hybrid-ai-combines-graphs-real.html
-    summary: Urban congestion is a big problem in our cities. It leads to commuter
-      delays and economic inefficiency. More tragically, though, it leads to a
-      million deaths annually worldwide. Research appearing in the International
-      Journal of Reasoning-based Intelligent Systems shows how artificial
-      intelligence (AI) might be able to carry out real-time traffic forecasting
-      and provide a way for the authorities to manage our road networks better.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/ai-car.jpg
-    categories:
-      - Automotive
-    publishedAt: 2026-03-17T19:20:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Autonomous navigation of microrobots in complex flows demonstrated for
-      the first time
-    url: https://techxplore.com/news/2026-03-autonomous-microrobots-complex.html
-    summary: For the first time, researchers at Leipzig University have shown that
-      tiny synthetic microswimmers can perceive their surroundings directly
-      through their own body shape and autonomously adapt to rapidly changing
-      fluid flows. The study, now published in Science Advances, establishes a
-      new paradigm for autonomous microsystems whose control functions reliably
-      in challenging environments where conventional sensors fail. This opens up
-      new prospects for autonomous medical microrobots, for example for the
-      targeted delivery of medication in the bloodstream.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/autonomous-navigation.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-03-17T19:00:09.000Z
-    source: TechXplore — Engineering
-  - title: New model uses team interactions to predict next steps in collaborative
-      work
-    url: https://techxplore.com/news/2026-03-team-interactions-collaborative.html
-    summary: Finding the right information at the right time is critical for solving
-      complex problems. Researchers have developed an algorithm that helps
-      individuals locate needed information more efficiently by drawing on both
-      a user's own history and behavioral cues, as well as the history and
-      behavioral cues of teammates collaborating to solve the problem.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/collaborative-work.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-03-17T16:50:01.000Z
-    source: TechXplore — Computer Science
-  - title: AI Trained on Birdsong Can Recognize Whale Calls
-    url: https://spectrum.ieee.org/foundation-models-google-birds-whales
-    summary: Birds’ chirps, trills, and warbles echo through the air, while whales’
-      boings, “biotwangs,” and whistles vibrate underwater. Despite the
-      variations in sounds and the medium through which they travel, both
-      birdsong and whale vocalizations can be classified by Perch 2.0, an AI
-      audio model from Google DeepMind.
-    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-songbird-s-silhouette-with-sound-lines-coming-from-its-mouth-these-lines-extend-into-abstract-oce.jpg?id=65257073&width=1200&height=800&coordinates=0%2C83%2C0%2C84
-    categories:
-      - Google
-      - Whales
-      - Transfer-learning
-      - Google-deepmind
-      - Foundation-models
-    publishedAt: 2026-03-17T15:00:06.000Z
-    source: IEEE Spectrum — AI
+    publishedAt: 2026-03-18T03:35:04.000Z
+    source: ScienceDaily — Computer Science
   - title: A strange new quantum state appears when atoms get “frustrated”
     url: https://www.sciencedaily.com/releases/2026/03/260315225137.htm
     summary: Physicists at UC Santa Barbara have uncovered a new way to manipulate
@@ -144,56 +165,6 @@ articles:
     categories: []
     publishedAt: 2026-03-16T10:19:03.000Z
     source: ScienceDaily — Engineering
-  - title: Scientists discover AI can make humans more creative
-    url: https://www.sciencedaily.com/releases/2026/03/260315004355.htm
-    summary: "Artificial intelligence is often portrayed as a tool that replaces
-      human work, but new research from Swansea University suggests a far more
-      exciting role: creative collaborator. In a large study with more than 800
-      participants designing virtual cars, researchers found that AI-generated
-      design galleries sparked deeper engagement, longer exploration, and better
-      results."
-    imageUrl: https://www.sciencedaily.com/images/1920/lightbulb-creativity-explosion.webp
-    categories: []
-    publishedAt: 2026-03-16T00:59:26.000Z
-    source: ScienceDaily — Artificial Intelligence
-  - title: THOR AI solves a 100-year-old physics problem in seconds
-    url: https://www.sciencedaily.com/releases/2026/03/260315004344.htm
-    summary: A new AI framework called THOR is transforming how scientists calculate
-      the behavior of atoms inside materials. Instead of relying on slow
-      simulations that take weeks of supercomputer time, the system uses tensor
-      network mathematics and machine-learning models to solve the problem
-      directly. The approach can compute key thermodynamic properties hundreds
-      of times faster while preserving accuracy. Researchers say this could
-      accelerate discoveries in materials science, physics, and chemistry.
-    imageUrl: https://www.sciencedaily.com/images/1920/humanoid-ai-robot-hologram-screen-solving-physics-math-problems.webp
-    categories: []
-    publishedAt: 2026-03-16T00:38:21.000Z
-    source: ScienceDaily — Computer Science
-  - title: A New Study Details How Cats Almost Always Land on Their Feet
-    url: https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/
-    summary: The secret to this acrobatic skill lies in an extremely flexible part
-      of the spine that allows cats to twist in the air and land safely.
-    imageUrl: https://media.wired.com/photos/69b4789121798c785e64c18e/191:100/w_1280,c_limit/1059347572
-    categories:
-      - Science
-    publishedAt: 2026-03-15T09:00:00.000Z
-    source: WIRED science
-  - title: "Video Friday: These Robots Were Born to Run"
-    url: https://spectrum.ieee.org/legged-modular-robot
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/rolling-cannon-distant-cityscape-trees-and-water.gif?id=65282014&width=1200&height=400&coordinates=0%2C147%2C0%2C147
-    categories:
-      - Robotics
-      - Humanoid-robots
-      - Video-friday
-      - Modular-robots
-      - Robot-videos
-      - Quadruped-robots
-    publishedAt: 2026-03-13T16:00:04.000Z
-    source: IEEE Spectrum — Robotics
   - title: Jimi Hendrix Was a Systems Engineer
     url: https://spectrum.ieee.org/jimi-hendrix-systems-engineer
     summary: 3 February 1967 is a day that belongs in the annals of music history.
