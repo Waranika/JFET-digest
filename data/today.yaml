@@ -1,20 +1,47 @@
-date: 2026-03-22
+date: 2026-03-23
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: OpenAI's safety pledges in the wake of Tumbler Ridge aren't AI
-      regulation—they're surveillance
-    url: https://techxplore.com/news/2026-03-openai-safety-pledges-tumbler-ridge.html
-    summary: In a span of two days following news that the Tumbler Ridge
-      perpetrator's ChatGPT account had been flagged prior to the shooting,
-      OpenAI CEO Sam Altman met with Federal AI Minister Evan Solomon and
-      British Columbia Premier David Eby.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/openai-1.jpg
+  - title: In a world of AI text, speech still reigns supreme
+    url: https://techxplore.com/news/2026-03-world-ai-text-speech-supreme.html
+    summary: "I remember the first time I attended a linguistics lecture as an
+      undergraduate in Argentina. The lecturer asked a simple question: where
+      does language come from? My instinctive answer was: books."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/talking.jpg
     categories:
-      - Business
-    publishedAt: 2026-03-21T21:00:02.000Z
+      - Machine learning & AI
+    publishedAt: 2026-03-22T19:30:02.000Z
     source: TechXplore — AI & Machine Learning
+  - title: Sound waves could be used to remotely reprogram material stiffness, from
+      implants to robotic muscles
+    url: https://techxplore.com/news/2026-03-remotely-reprogram-material-stiffness-implants.html
+    summary: A team of researchers co-led by the University of California San Diego,
+      University of Michigan, and the French National Center for Scientific
+      Research (CNRS) at Laboratory of Acoustics of Le Mans University has
+      demonstrated a new way to remotely control how a material behaves—using
+      sound. The findings could lead to the development of protective gear,
+      robotic muscles or medical implants that adjust their stiffness on demand.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/sound-waves-could-be-u.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-03-22T16:00:03.000Z
+    source: TechXplore — Engineering
+  - title: What Happens If AI Makes Things Too Easy for Us?
+    url: https://spectrum.ieee.org/frictionless-ai-psychology
+    summary: Most people who regularly use AI tools would say they’re making their
+      lives easier. The technology promises to streamline and take over tasks
+      both professionally and personally—whether that’s summarizing documents,
+      drafting deliverables, generating code, or even offering emotional
+      support. But researchers are concerned AI is making some tasks too easy,
+      and that this will come with unexpected costs.
+    imageUrl: https://spectrum.ieee.org/media-library/portrait-of-a-young-white-brunette-woman-behind-her-is-a-collage-of-crumpled-paper-balls-and-ai-sparkle-icons.jpg?id=65324044&width=1245&height=700&coordinates=0%2C469%2C0%2C469
+    categories:
+      - Psychology
+      - Artificial-intelligence
+      - Cognitive-science
+    publishedAt: 2026-03-22T13:00:04.000Z
+    source: IEEE Spectrum — AI
   - title: Simple motor networks mimic human muscle behavior under increasing load
     url: https://techxplore.com/news/2026-03-simple-motor-networks-mimic-human.html
     summary: Scientists have developed a network of mechanical motors that mimic the
@@ -26,7 +53,23 @@ articles:
     categories:
       - Robotics
     publishedAt: 2026-03-21T17:00:03.000Z
-    source: TechXplore — Engineering
+    source: TechXplore — Robotics
+  - title: "Video Friday: Humanoid Learns Tennis Skills Playing Humans"
+    url: https://spectrum.ieee.org/tennis-playing-robot
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/robot-playing-tennis-holding-racket-on-green-court-inset-shows-human-opponent-hitting-ball.png?id=65325604&width=1200&height=800&coordinates=172%2C0%2C173%2C0
+    categories:
+      - Humanoid-robots
+      - Video-friday
+      - Robot-locomotion
+      - Nvidia
+      - Robot-manipulation
+      - Quadruped-robots
+    publishedAt: 2026-03-21T16:30:04.000Z
+    source: IEEE Spectrum — Robotics
   - title: Highly performing AI agents can still fail to spot deception, study finds
     url: https://techxplore.com/news/2026-03-highly-ai-agents-deception.html
     summary: Large language models (LLMs), artificial intelligence systems that can
@@ -60,18 +103,6 @@ articles:
     categories: []
     publishedAt: 2026-03-20T19:15:00.000Z
     source: MIT Robotics
-  - title: AI Aims for Autonomous Wheelchair Navigation
-    url: https://spectrum.ieee.org/autonomous-smart-wheelchair
-    summary: Wheelchair users with severe disabilities can often navigate tight
-      spaces better than most robotic systems can. A wave of new
-      smart-wheelchair research, including findings presented in Anaheim,
-      Calif., earlier this month, is now testing whether AI-powered systems can,
-      or should, fully close this gap.
-    imageUrl: https://spectrum.ieee.org/media-library/side-view-of-a-power-wheelchair-equipped-with-a-padded-bucket-seat-and-tablet-sized-monitor-below-a-computer-generated-maps-of.jpg?id=65316423&width=1200&height=800&coordinates=0%2C208%2C0%2C209
-    categories:
-      - Wheelchairs
-    publishedAt: 2026-03-20T18:49:12.000Z
-    source: IEEE Spectrum — AI
   - title: Iran War Puts Global Energy Markets on the Brink of a Worst-Case Scenario
     url: https://www.wired.com/story/iran-war-puts-global-energy-markets-on-the-brink-of-a-worst-case-scenario/
     summary: “This will be so, so, so, so, so bad,” one analyst says.
@@ -105,19 +136,6 @@ articles:
       - Metamaterials
     publishedAt: 2026-03-19T19:19:43.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Overcoming Core Engineering Barriers in Humanoid Robotics Development
-    url: https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/
-    summary: A technical examination of the sensing, motion control, power, and
-      thermal challenges facing humanoid robotics engineers — with
-      component-level design strategies for real-world deployment.
-    imageUrl: https://spectrum.ieee.org/media-library/logo-of-murata-in-red-with-text-innovator-in-electronics-below.png?id=65106483&width=980
-    categories:
-      - Sensor-fusion
-      - Type-whitepaper
-      - Motion-control
-      - Humanoid-robots
-    publishedAt: 2026-03-19T10:00:05.000Z
-    source: IEEE Spectrum — Robotics
   - title: AI uses as much energy as Iceland but scientists aren’t worried
     url: https://www.sciencedaily.com/releases/2026/03/260318033103.htm
     summary: AI’s growing energy use sounds alarming, but its global climate impact
