@@ -1,66 +1,99 @@
-date: 2026-03-23
+date: 2026-03-24
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: In a world of AI text, speech still reigns supreme
-    url: https://techxplore.com/news/2026-03-world-ai-text-speech-supreme.html
-    summary: "I remember the first time I attended a linguistics lecture as an
-      undergraduate in Argentina. The lecturer asked a simple question: where
-      does language come from? My instinctive answer was: books."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/talking.jpg
+  - title: "How to create “humble” AI "
+    url: https://news.mit.edu/2026/creating-humble-ai-0324
+    summary: Artificial intelligence holds promise for helping doctors diagnose
+      patients and personalize treatment options. However, an international
+      group of scientists led by MIT cautions that AI systems, as currently
+      designed, carry the risk of steering doctors in the wrong direction
+      because they may overconfidently make incorrect decisions.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-HumbleAI-01-press.jpg?itok=w90pox8K
+    categories: []
+    publishedAt: 2026-03-24T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Using your AI chatbot as a search engine? Be careful what you believe
+    url: https://techxplore.com/news/2026-03-ai-chatbot.html
+    summary: During the First World War, the British government was looking for ways
+      to help people stretch their limited food supplies. It found pamphlets
+      from a noted 19th-century herbalist who said rhubarb leaves could be used
+      as a vegetable along with the stalks.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/ai-chatbot-1.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-03-22T19:30:02.000Z
+      - Consumer & Gadgets
+    publishedAt: 2026-03-23T22:00:10.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Sound waves could be used to remotely reprogram material stiffness, from
-      implants to robotic muscles
-    url: https://techxplore.com/news/2026-03-remotely-reprogram-material-stiffness-implants.html
-    summary: A team of researchers co-led by the University of California San Diego,
-      University of Michigan, and the French National Center for Scientific
-      Research (CNRS) at Laboratory of Acoustics of Le Mans University has
-      demonstrated a new way to remotely control how a material behaves—using
-      sound. The findings could lead to the development of protective gear,
-      robotic muscles or medical implants that adjust their stiffness on demand.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/sound-waves-could-be-u.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-03-22T16:00:03.000Z
-    source: TechXplore — Engineering
-  - title: What Happens If AI Makes Things Too Easy for Us?
-    url: https://spectrum.ieee.org/frictionless-ai-psychology
-    summary: Most people who regularly use AI tools would say they’re making their
-      lives easier. The technology promises to streamline and take over tasks
-      both professionally and personally—whether that’s summarizing documents,
-      drafting deliverables, generating code, or even offering emotional
-      support. But researchers are concerned AI is making some tasks too easy,
-      and that this will come with unexpected costs.
-    imageUrl: https://spectrum.ieee.org/media-library/portrait-of-a-young-white-brunette-woman-behind-her-is-a-collage-of-crumpled-paper-balls-and-ai-sparkle-icons.jpg?id=65324044&width=1245&height=700&coordinates=0%2C469%2C0%2C469
-    categories:
-      - Psychology
-      - Artificial-intelligence
-      - Cognitive-science
-    publishedAt: 2026-03-22T13:00:04.000Z
-    source: IEEE Spectrum — AI
-  - title: Simple motor networks mimic human muscle behavior under increasing load
-    url: https://techxplore.com/news/2026-03-simple-motor-networks-mimic-human.html
-    summary: Scientists have developed a network of mechanical motors that mimic the
-      molecular machinery underpinning human muscle contraction. The University
-      of Bristol-led findings, published in the Journal of the Royal Society
-      Interface this week, could open new possibilities for artificial muscles
-      in robotics.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-discover-w.jpg
+  - title: Artificial neural network reproduces gait patterns of four-legged animals
+    url: https://techxplore.com/news/2026-03-artificial-neural-network-gait-patterns.html
+    summary: Imagine a horse stumbling on a rock. It regains momentum, then hits
+      bumpier terrain and slows to a walk. Back on steady ground, the horse
+      picks up its pace to catch up with the herd. How is the horse able to
+      transition between these different gaits? Researchers at Brown
+      University's Carney Institute for Brain Science have developed an
+      artificial neural network that shows how a four-legged creature may
+      generate multiple distinct patterns in gait. Their research provides new
+      insights into how the brain may process complex behaviors.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/horse-race.jpg
     categories:
       - Robotics
-    publishedAt: 2026-03-21T17:00:03.000Z
+    publishedAt: 2026-03-23T21:20:08.000Z
     source: TechXplore — Robotics
+  - title: One-step coating keeps fabrics superhydrophobic after tens of thousands
+      of abrasion cycles
+    url: https://techxplore.com/news/2026-03-coating-fabrics-superhydrophobic-tens-thousands.html
+    summary: Developing robust water-repellent textiles is critical for outdoor,
+      protective, and industrial applications. However, achieving long-lasting
+      water repellency under mechanical stress has been a major challenge.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-method-revolutioni.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-03-23T21:00:14.000Z
+    source: TechXplore — Engineering
+  - title: A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace
+      Animal Testing
+    url: https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/
+    summary: "R3 Bio has a bold idea for replacing lab animals:
+      genetically-engineered whole organ systems that lack a brain. The
+      long-term goal, says a cofounder, is to make human versions."
+    imageUrl: https://media.wired.com/photos/69bd923f33c22df804229607/191:100/w_1280,c_limit/startup-Making-Organ-Sacks-Science.jpg
+    categories:
+      - Science
+      - Science / Biotech
+    publishedAt: 2026-03-23T19:46:05.000Z
+    source: WIRED science
+  - title: Transforming Data Science With NVIDIA RTX PRO 6000 Blackwell Workstation
+      Edition
+    url: https://spectrum.ieee.org/nvidia-rtx-pro-6000-pny
+    summary: This is a sponsored article brought to you by PNY Technologies.
+    imageUrl: https://spectrum.ieee.org/media-library/computer-setup-with-a-monitor-displaying-forest-graphics-keyboard-mouse-and-a-sleek-cpu-design.png?id=65315285&width=1200&height=800&coordinates=19%2C0%2C19%2C0
+    categories:
+      - Artificial-intelligence
+      - Computing
+      - Data-science
+      - Gpu-acceleration
+      - Ai-workstations
+      - Nvidia
+    publishedAt: 2026-03-23T13:00:04.000Z
+    source: IEEE Spectrum — AI
+  - title: Meet the Gods of AI Warfare
+    url: https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/
+    summary: In its early days, the AI initiative known as Project Maven had its
+      fair share of skeptics at the Pentagon. Today, many of them are true
+      believers.
+    imageUrl: https://media.wired.com/photos/69bda9155b7879007eb95904/191:100/w_1280,c_limit/Big-Story-Pentagon-Embraced-AI-Warfare.jpg
+    categories:
+      - The Big Story
+    publishedAt: 2026-03-23T10:00:00.000Z
+    source: WIRED (AI)
   - title: "Video Friday: Humanoid Learns Tennis Skills Playing Humans"
     url: https://spectrum.ieee.org/tennis-playing-robot
     summary: Video Friday is your weekly selection of awesome robotics videos,
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robot-playing-tennis-holding-racket-on-green-court-inset-shows-human-opponent-hitting-ball.png?id=65325604&width=1200&height=800&coordinates=172%2C0%2C173%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/robot-playing-tennis-holding-racket-on-green-court-inset-shows-human-opponent-hitting-ball.png?id=65325604&width=1245&height=700&coordinates=19%2C0%2C20%2C0
     categories:
       - Humanoid-robots
       - Video-friday
@@ -83,18 +116,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-03-21T15:00:05.000Z
     source: TechXplore — Computer Science
-  - title: I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work
-    url: https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/
-    summary: I recorded videos of myself doing laundry, scrambling eggs, and walking
-      around the park in DoorDash’s new Tasks app, where gig workers are paid to
-      train AI.
-    imageUrl: https://media.wired.com/photos/69bde0470f77792197014e68/191:100/w_1280,c_limit/gear_doordash_task_app_gig.jpg
-    categories:
-      - Gear
-      - Gear / Gear News and Events
-      - Gear / Products / Apps
-    publishedAt: 2026-03-21T11:00:00.000Z
-    source: WIRED (AI)
   - title: "Lasers, robots, action: MIT workshop explores Raman spectroscopy"
     url: https://news.mit.edu/2026/lasers-robots-action-mit-workshop-explores-raman-spectroscopy-0320
     summary: Could a three-hour workshop on an advanced materials analysis technique
@@ -103,39 +124,6 @@ articles:
     categories: []
     publishedAt: 2026-03-20T19:15:00.000Z
     source: MIT Robotics
-  - title: Iran War Puts Global Energy Markets on the Brink of a Worst-Case Scenario
-    url: https://www.wired.com/story/iran-war-puts-global-energy-markets-on-the-brink-of-a-worst-case-scenario/
-    summary: “This will be so, so, so, so, so bad,” one analyst says.
-    imageUrl: https://media.wired.com/photos/69bc12d372a9095a2a0b9707/191:100/w_1280,c_limit/2026-03-16T152858Z_1080784320_RC2B2KAGWT5F_RTRMADP_3_IRAN-CRISIS-USA-CHINA-WHITE-HOUSE.JPG
-    categories:
-      - Science
-    publishedAt: 2026-03-20T16:20:52.000Z
-    source: WIRED science
-  - title: What’s the right path for AI?
-    url: https://news.mit.edu/2026/right-path-for-ai-karen-hao-paola-ricaurte-0320
-    summary: Who benefits from artificial intelligence? This basic question, which
-      has been especially salient during the AI surge of the last few years, was
-      front and center at a conference at MIT on Wednesday, as speakers and
-      audience members grappled with the many dimensions of AI’s impact.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-WGSevent-A1-press.jpg?itok=Zx5XVaeA
-    categories: []
-    publishedAt: 2026-03-20T13:30:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Startups Bring Optical Metamaterials to AI Data Centers
-    url: https://spectrum.ieee.org/optical-metamaterials-ai-data-centers
-    summary: Light-warping physics made “invisibility cloaks” a possibility. Now two
-      startups hope to harness the science underlying this advance to boost the
-      bandwidth of data centers and speed artificial intelligence.
-    imageUrl: https://spectrum.ieee.org/media-library/a-hand-holding-a-microchip-between-thumb-and-forefinger.jpg?id=65322426&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Artificial-intelligence
-      - Data-center
-      - Optical-switch
-      - Optical-computing
-      - Metamaterial
-      - Metamaterials
-    publishedAt: 2026-03-19T19:19:43.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: AI uses as much energy as Iceland but scientists aren’t worried
     url: https://www.sciencedaily.com/releases/2026/03/260318033103.htm
     summary: AI’s growing energy use sounds alarming, but its global climate impact
