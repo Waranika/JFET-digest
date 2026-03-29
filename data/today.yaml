@@ -1,141 +1,181 @@
-date: 2026-03-24
+date: 2026-03-29
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "How to create “humble” AI "
-    url: https://news.mit.edu/2026/creating-humble-ai-0324
-    summary: Artificial intelligence holds promise for helping doctors diagnose
-      patients and personalize treatment options. However, an international
-      group of scientists led by MIT cautions that AI systems, as currently
-      designed, carry the risk of steering doctors in the wrong direction
-      because they may overconfidently make incorrect decisions.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-HumbleAI-01-press.jpg?itok=w90pox8K
-    categories: []
-    publishedAt: 2026-03-24T04:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Using your AI chatbot as a search engine? Be careful what you believe
-    url: https://techxplore.com/news/2026-03-ai-chatbot.html
-    summary: During the First World War, the British government was looking for ways
-      to help people stretch their limited food supplies. It found pamphlets
-      from a noted 19th-century herbalist who said rhubarb leaves could be used
-      as a vegetable along with the stalks.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/ai-chatbot-1.jpg
+  - title: "'Manners for machines': How new rules could stop AI scrapers destroying
+      the internet"
+    url: https://techxplore.com/news/2026-03-manners-machines-ai-scrapers-destroying.html
+    summary: Australians are among the most anxious in the world about artificial
+      intelligence (AI).
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/manners-for-machines-h.jpg
     categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-03-23T22:00:10.000Z
+      - Internet
+    publishedAt: 2026-03-29T00:00:01.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Artificial neural network reproduces gait patterns of four-legged animals
-    url: https://techxplore.com/news/2026-03-artificial-neural-network-gait-patterns.html
-    summary: Imagine a horse stumbling on a rock. It regains momentum, then hits
-      bumpier terrain and slows to a walk. Back on steady ground, the horse
-      picks up its pace to catch up with the herd. How is the horse able to
-      transition between these different gaits? Researchers at Brown
-      University's Carney Institute for Brain Science have developed an
-      artificial neural network that shows how a four-legged creature may
-      generate multiple distinct patterns in gait. Their research provides new
-      insights into how the brain may process complex behaviors.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/horse-race.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-03-23T21:20:08.000Z
-    source: TechXplore — Robotics
-  - title: One-step coating keeps fabrics superhydrophobic after tens of thousands
-      of abrasion cycles
-    url: https://techxplore.com/news/2026-03-coating-fabrics-superhydrophobic-tens-thousands.html
-    summary: Developing robust water-repellent textiles is critical for outdoor,
-      protective, and industrial applications. However, achieving long-lasting
-      water repellency under mechanical stress has been a major challenge.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-method-revolutioni.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-03-23T21:00:14.000Z
-    source: TechXplore — Engineering
-  - title: A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace
-      Animal Testing
-    url: https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/
-    summary: "R3 Bio has a bold idea for replacing lab animals:
-      genetically-engineered whole organ systems that lack a brain. The
-      long-term goal, says a cofounder, is to make human versions."
-    imageUrl: https://media.wired.com/photos/69bd923f33c22df804229607/191:100/w_1280,c_limit/startup-Making-Organ-Sacks-Science.jpg
-    categories:
-      - Science
-      - Science / Biotech
-    publishedAt: 2026-03-23T19:46:05.000Z
-    source: WIRED science
-  - title: Transforming Data Science With NVIDIA RTX PRO 6000 Blackwell Workstation
-      Edition
-    url: https://spectrum.ieee.org/nvidia-rtx-pro-6000-pny
-    summary: This is a sponsored article brought to you by PNY Technologies.
-    imageUrl: https://spectrum.ieee.org/media-library/computer-setup-with-a-monitor-displaying-forest-graphics-keyboard-mouse-and-a-sleek-cpu-design.png?id=65315285&width=1200&height=800&coordinates=19%2C0%2C19%2C0
-    categories:
-      - Artificial-intelligence
-      - Computing
-      - Data-science
-      - Gpu-acceleration
-      - Ai-workstations
-      - Nvidia
-    publishedAt: 2026-03-23T13:00:04.000Z
-    source: IEEE Spectrum — AI
-  - title: Meet the Gods of AI Warfare
-    url: https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/
-    summary: In its early days, the AI initiative known as Project Maven had its
-      fair share of skeptics at the Pentagon. Today, many of them are true
-      believers.
-    imageUrl: https://media.wired.com/photos/69bda9155b7879007eb95904/191:100/w_1280,c_limit/Big-Story-Pentagon-Embraced-AI-Warfare.jpg
-    categories:
-      - The Big Story
-    publishedAt: 2026-03-23T10:00:00.000Z
-    source: WIRED (AI)
-  - title: "Video Friday: Humanoid Learns Tennis Skills Playing Humans"
-    url: https://spectrum.ieee.org/tennis-playing-robot
+  - title: MIT hackathon tackles real-world challenges in Ukraine
+    url: https://news.mit.edu/2026/mit-hackathon-tackles-real-world-challenges-ukraine-0327
+    summary: During this year’s Independent Activities Period (IAP), students,
+      researchers, and collaborators across seven time zones came together to
+      tackle urgent technical challenges facing Ukraine as the full-scale war
+      enters its fourth year.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Hackathon-ukraine-2.0.jpg?itok=jIxbTnx_
+    categories: []
+    publishedAt: 2026-03-27T20:40:00.000Z
+    source: MIT Engineering
+  - title: "Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold"
+    url: https://spectrum.ieee.org/roadrunner-bipedal-robot
     summary: Video Friday is your weekly selection of awesome robotics videos,
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robot-playing-tennis-holding-racket-on-green-court-inset-shows-human-opponent-hitting-ball.png?id=65325604&width=1245&height=700&coordinates=19%2C0%2C20%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/two-wheeled-balancing-robot-leans-while-rolling-in-an-indoor-testing-lab.png?id=65415603&width=1245&height=700&coordinates=3%2C0%2C4%2C0
     categories:
-      - Humanoid-robots
       - Video-friday
-      - Robot-locomotion
-      - Nvidia
-      - Robot-manipulation
+      - Nasa
+      - Bipedal-robots
       - Quadruped-robots
-    publishedAt: 2026-03-21T16:30:04.000Z
+      - Artificial-muscles
+      - Humanoid-robots
+    publishedAt: 2026-03-27T16:30:03.000Z
     source: IEEE Spectrum — Robotics
-  - title: Highly performing AI agents can still fail to spot deception, study finds
-    url: https://techxplore.com/news/2026-03-highly-ai-agents-deception.html
-    summary: Large language models (LLMs), artificial intelligence systems that can
-      process and generate texts in different languages, are now used daily by
-      many people worldwide. As these models can rapidly source information and
-      create convincing content for specific purposes, they are now also used in
-      some professional settings or for gathering legal, medical, or financial
-      information.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/highly-performing-ai-a.jpg
+  - title: Molecular interface tuning lifts tandem solar cell efficiency to 25.1%
+    url: https://techxplore.com/news/2026-03-molecular-interface-tuning-tandem-solar.html
+    summary: Researchers at UNIST have unveiled a novel interface engineering
+      technique that significantly improves both the performance and durability
+      of perovskite/organic tandem solar cells (POTSCs). Published in Energy &
+      Environmental Science, their study demonstrates how precise control of
+      self-assembled monolayers (SAMs) at the molecular level can lead to more
+      stable, high-efficiency solar devices and open new pathways for
+      solar-driven hydrogen production.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/advanced-interface-eng-1.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-03-27T16:00:02.000Z
+    source: TechXplore — Engineering
+  - title: A New Way to Spray Paint Color
+    url: https://spectrum.ieee.org/spray-paint-color-creator
+    summary: We’re all familiar with mixing red, yellow, and blue paint in various
+      ratios to instantly make all kinds of colors. This works great for oils or
+      watercolors, but fails when it comes to cans of spray paint. The paint
+      droplets can’t be blended once they are aerosolized. Consequently,
+      although spray cans are great for applying even coats of paint to large
+      areas very quickly, spray-paint artists need a separate can for every
+      color they want to use—until now.
+    imageUrl: https://spectrum.ieee.org/media-library/a-portable-device-with-four-spray-paint-canisters-at-the-bottom-and-tubing-and-electronics-mounted-on-a-frame-above-them.png?id=65404484&width=1200&height=600&coordinates=0%2C481%2C0%2C481
+    categories:
+      - Spray-paint
+      - Arduino
+      - Mechatronics
+    publishedAt: 2026-03-27T14:41:42.000Z
+    source: IEEE Spectrum — DIY
+  - title: Alive or not? Tiny 3D-printed robots that swim and navigate just like
+      animals
+    url: https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html
+    summary: Leiden researchers Professor Daniela Kraft and Mengshi Wei have created
+      microscopic robots that move without sensors, software, or external
+      control. Instead, their behavior emerges entirely from their shape and the
+      way they interact with their environment. They are only a few tens of
+      micrometers long—far smaller than the width of a human hair—yet these
+      robots can swim, sense, navigate and adapt in ways that look surprisingly
+      life-like. And all this without having a brain.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/alive-or-not-tiny-3d-p-1.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-03-27T13:40:04.000Z
+    source: TechXplore — Robotics
+  - title: Can AI understand literature? Researchers put it to the test
+    url: https://techxplore.com/news/2026-03-ai-literature.html
+    summary: Even with all the recent advances in the ability of large language
+      models (like ChatGPT) to help us think, research, summarize, and learn
+      complex and technical texts, how do they fare in understanding
+      storytelling and literature? These questions around interpretive nuance
+      remain.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/literary-analysis.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-03-21T15:00:05.000Z
+    publishedAt: 2026-03-27T13:00:01.000Z
     source: TechXplore — Computer Science
-  - title: "Lasers, robots, action: MIT workshop explores Raman spectroscopy"
-    url: https://news.mit.edu/2026/lasers-robots-action-mit-workshop-explores-raman-spectroscopy-0320
-    summary: Could a three-hour workshop on an advanced materials analysis technique
-      turn someone into a detective — or perhaps an art restorer?
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-medialab-IAP-almehmadi.JPG?itok=hzPONMb9
+  - title: Scientists discover bizarre new states inside tiny magnetic whirlpools
+    url: https://www.sciencedaily.com/releases/2026/03/260326075614.htm
+    summary: Researchers have uncovered a new way to generate exotic oscillation
+      states in tiny magnetic structures—using only minimal energy. By exciting
+      magnetic waves, they triggered a delicate motion that produced a rich
+      spectrum of signals never seen before in this system. The finding
+      challenges existing assumptions and could help connect different types of
+      technologies, from conventional electronics to quantum devices. It’s a
+      small effect with potentially huge implications.
+    imageUrl: https://www.sciencedaily.com/images/1920/floquet-engineered-magnons.webp
     categories: []
-    publishedAt: 2026-03-20T19:15:00.000Z
-    source: MIT Robotics
-  - title: AI uses as much energy as Iceland but scientists aren’t worried
-    url: https://www.sciencedaily.com/releases/2026/03/260318033103.htm
-    summary: AI’s growing energy use sounds alarming, but its global climate impact
-      may be far smaller than expected. Researchers found that while AI consumes
-      huge amounts of electricity, it barely moves the needle on overall
-      emissions. The real impact is more localized, especially around data
-      centers. Meanwhile, AI could become a powerful tool for building greener
-      technologies.
-    imageUrl: https://www.sciencedaily.com/images/1920/ai-energy-electricity.webp
+    publishedAt: 2026-03-27T11:34:19.000Z
+    source: ScienceDaily — Computer Science
+  - title: One Way or Another, Most of Our Electricity Comes From Solar Power
+    url: https://www.wired.com/story/most-of-our-electricity-comes-from-solar-power/
+    summary: That’s good news, since the forecast is sunshine for the next 5 billion
+      years.
+    imageUrl: https://media.wired.com/photos/69c5b42748e037141120e175/191:100/w_1280,c_limit/Most-of-Our-Electricity-Comes-From-Solar-Power-Science-1396998766.jpg
+    categories:
+      - Science
+      - Science / Physics and Math
+    publishedAt: 2026-03-27T11:00:00.000Z
+    source: WIRED science
+  - title: How NYU’s Quantum Institute Bridges Science and Application
+    url: https://spectrum.ieee.org/nyu-quantum-institute
+    summary: This sponsored article is brought to you by NYU Tandon School of
+      Engineering.
+    imageUrl: https://spectrum.ieee.org/media-library/person-in-white-suit-working-with-semiconductor-equipment-in-a-lab.jpg?id=65322091&width=2000&height=1500&coordinates=560%2C0%2C560%2C0
+    categories:
+      - Nyu-tandon
+      - Quantum-computing
+      - Quantum-internet
+      - Semiconductors
+      - Quantum-communications
+    publishedAt: 2026-03-27T10:02:05.000Z
+    source: IEEE Spectrum — AI
+  - title: Seeing sounds
+    url: https://news.mit.edu/2026/seeing-sounds-mariano-salcedo-0326
+    summary: As one of the first students in MIT’s new Music Technology and
+      Computation Graduate Program, Mariano Salcedo ’25 is researching the
+      intersection between artificial intelligence and music visuals.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-shass-music-Carlos-Mariano-Salcedo.jpg?itok=IZfmOz8J
     categories: []
-    publishedAt: 2026-03-18T09:52:23.000Z
+    publishedAt: 2026-03-26T20:45:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Deepfake X-rays are so real even doctors can’t tell the difference
+    url: https://www.sciencedaily.com/releases/2026/03/260326011452.htm
+    summary: Deepfake X-rays created by AI are now convincing enough to fool both
+      doctors and AI models. In tests, radiologists had limited success
+      identifying fake images, especially when they didn’t know they were being
+      shown. This opens the door to risks like fraudulent medical claims and
+      tampered diagnoses. Experts say stronger safeguards and detection tools
+      are critical as the technology advances.
+    imageUrl: https://www.sciencedaily.com/images/1920/anatomy-matched-real-and-gpt-4o-generated-x-rays.webp
+    categories: []
+    publishedAt: 2026-03-26T10:42:12.000Z
     source: ScienceDaily — Robotics
+  - title: "AI system learns to keep warehouse robot traffic running smoothly "
+    url: https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326
+    summary: Inside a giant autonomous warehouse, hundreds of robots dart down
+      aisles as they collect and distribute items to fulfill a steady stream of
+      customer orders. In this busy environment, even small traffic jams or
+      minor collisions can snowball into massive slowdowns.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Warehouse-Auto-01-press.jpg?itok=TswYJbkp
+    categories: []
+    publishedAt: 2026-03-26T04:00:00.000Z
+    source: MIT Robotics
+  - title: First ever atomic movie reveals hidden driver of radiation damage
+    url: https://www.sciencedaily.com/releases/2026/03/260324024251.htm
+    summary: Researchers have visualized atoms in motion just before a
+      radiation-driven decay process occurs, revealing a surprisingly dynamic
+      scene. Instead of remaining fixed, the atoms roam and rearrange, directly
+      influencing how and when the decay unfolds. This “atomic movie” shows that
+      structure and motion play a central role in radiation damage mechanisms.
+      The findings could improve our understanding of how harmful radiation
+      affects biological matter.
+    imageUrl: https://www.sciencedaily.com/images/1920/roaming-atoms.webp
+    categories: []
+    publishedAt: 2026-03-25T03:53:24.000Z
+    source: ScienceDaily — Engineering
   - title: AI-powered robot learns how to harvest tomatoes more efficiently
     url: https://www.sciencedaily.com/releases/2026/03/260317064512.htm
     summary: A new tomato-picking robot is learning to think before it acts. Instead
@@ -148,62 +188,3 @@ articles:
     categories: []
     publishedAt: 2026-03-18T04:26:44.000Z
     source: ScienceDaily — Artificial Intelligence
-  - title: Turning extreme heat into large-scale energy storage
-    url: https://news.mit.edu/2026/turning-extreme-heat-large-scale-energy-storage-0318
-    summary: Thermal batteries can efficiently store energy as heat. But building
-      them requires a carefully designed system with materials that can
-      withstand cycles of extremely high temperatures, without succumbing to
-      problems like corrosion, thermal expansion, and structural fatigue.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-FourthWall-01-press.jpg?itok=e4UtWbTV
-    categories: []
-    publishedAt: 2026-03-18T04:00:00.000Z
-    source: MIT Engineering
-  - title: Scientists used 7,000 GPUs to simulate a tiny quantum chip in extreme
-      detail
-    url: https://www.sciencedaily.com/releases/2026/03/260317064504.htm
-    summary: Researchers have pushed quantum chip design into a new era by
-      simulating every physical detail before fabrication. Using a supercomputer
-      with nearly 7,000 GPUs, they modeled how signals travel and interact
-      inside an ultra-tiny chip. Unlike earlier “black box” approaches, this
-      method captures real materials, layouts, and qubit behavior. The result is
-      a powerful new way to spot problems early and build better quantum
-      hardware faster.
-    imageUrl: https://www.sciencedaily.com/images/1920/advanced-computer-hardware-quantum-cpu-chip.webp
-    categories: []
-    publishedAt: 2026-03-18T03:35:04.000Z
-    source: ScienceDaily — Computer Science
-  - title: A strange new quantum state appears when atoms get “frustrated”
-    url: https://www.sciencedaily.com/releases/2026/03/260315225137.htm
-    summary: Physicists at UC Santa Barbara have uncovered a new way to manipulate
-      unusual magnetic states by exploiting “frustration” inside a crystal’s
-      atomic structure. The team discovered a rare system where two different
-      kinds of frustration—magnetic and electronic bond frustration—coexist and
-      interact. By coupling these competing effects, researchers may be able to
-      control exotic quantum states, potentially unlocking new ways to
-      manipulate entangled spins for future quantum technologies.
-    imageUrl: https://www.sciencedaily.com/images/1920/crystal-material-exotic-quantum-state.webp
-    categories: []
-    publishedAt: 2026-03-16T10:19:03.000Z
-    source: ScienceDaily — Engineering
-  - title: Jimi Hendrix Was a Systems Engineer
-    url: https://spectrum.ieee.org/jimi-hendrix-systems-engineer
-    summary: 3 February 1967 is a day that belongs in the annals of music history.
-      It’s the day that Jimi Hendrix entered London’s Olympic Studios to record
-      a song using a new component. The song was “Purple Haze,” and the
-      component was the Octavia guitar pedal, created for Hendrix by sound
-      engineer Roger Mayer. The pedal was a key element of a complex chain of
-      analog elements responsible for the final sound, including the acoustics
-      of the studio room itself. When they sent the tapes for remastering in the
-      United States, the sounds on it were so novel that they included an
-      accompanying note explaining that the distortion at the end was not
-      malfunction but intention. A few months later, Hendrix would deliver his
-      legendary electric guitar performance at the Monterey International Pop
-      Festival.
-    imageUrl: https://spectrum.ieee.org/media-library/an-electric-guitar-connected-to-a-number-of-effects-pedals-connect-to-an-amplifier-and-loudspeaker-stack.png?id=64983431&width=1245&height=700&coordinates=0%2C283%2C0%2C283
-    categories:
-      - Music
-      - Jimi-hendrix
-      - Sound-engineering
-      - Typedepartments
-    publishedAt: 2026-02-25T15:39:03.000Z
-    source: IEEE Spectrum — DIY
