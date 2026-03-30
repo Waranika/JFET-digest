@@ -1,18 +1,82 @@
-date: 2026-03-29
+date: 2026-03-30
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "'Manners for machines': How new rules could stop AI scrapers destroying
-      the internet"
-    url: https://techxplore.com/news/2026-03-manners-machines-ai-scrapers-destroying.html
-    summary: Australians are among the most anxious in the world about artificial
-      intelligence (AI).
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/manners-for-machines-h.jpg
+  - title: Why AI still can't beat a new video game
+    url: https://techxplore.com/news/2026-03-ai-video-game.html
+    summary: "For decades, video games have served as a proving ground for
+      artificial intelligence. From early checkers programs to systems that
+      conquered chess and Go, each milestone has seemed to bring machines closer
+      to human-like intelligence. But a new paper by Julian Togelius and
+      colleagues argues that this narrative is misleading. Despite impressive
+      victories, today's AI still struggles with a deceptively simple challenge:
+      playing a game it has never seen before."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/video-game-controller.jpg
     categories:
-      - Internet
-    publishedAt: 2026-03-29T00:00:01.000Z
+      - Machine learning & AI
+    publishedAt: 2026-03-29T17:00:06.000Z
     source: TechXplore — AI & Machine Learning
+  - title: AI benchmark helps robots plan and complete their chores in the real world
+    url: https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html
+    summary: No matter how sophisticated they are, robots can often be indecisive
+      and struggle with multi-step chores in the real world. For example, if you
+      tell a robot to tidy a messy room, it might understand the goal but not
+      know where to grab each object. It could even end up inventing steps. To
+      address these common mistakes, Microsoft and a group of academics have
+      developed an AI benchmark system to improve the accuracy of robot
+      planning. The details of their work are published in a paper on the arXiv
+      preprint server.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-benchmark-helps-ro.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-03-29T15:30:02.000Z
+    source: TechXplore — Robotics
+  - title: AI is giving bad advice to flatter its users, says new study on dangers
+      of overly agreeable chatbots
+    url: https://techxplore.com/news/2026-03-ai-bad-advice-flatter-users.html
+    summary: Artificial intelligence chatbots are so prone to flattering and
+      validating their human users that they are giving bad advice that can
+      damage relationships and reinforce harmful behaviors, according to a new
+      study that explores the dangers of AI telling people what they want to
+      hear.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-is-giving-bad-advic-1.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-03-29T14:30:02.000Z
+    source: TechXplore — Computer Science
+  - title: Why Are Large Language Models so Terrible at Video Games?
+    url: https://spectrum.ieee.org/ai-video-games-llms-togelius
+    summary: "Large language models (LLMs) have improved so quickly that the
+      benchmarks themselves have evolved, adding more complex problems in an
+      effort to challenge the latest models. Yet LLMs haven’t improved across
+      all domains, and one task remains far outside their grasp: They have no
+      idea how to play video games. While a few have managed to beat a few games
+      (for example, Gemini 2.5 Pro beat Pokemon Blue in May of 2025), these
+      exceptions prove the rule. The eventually victorious AI completed games
+      far more slowly than a typical human player, made bizarre and often
+      repetitive mistakes, and required custom software to guide their
+      interactions with the game."
+    imageUrl: https://spectrum.ieee.org/media-library/a-middle-aged-man-smiling-while-holding-a-video-game-controller-behind-him-is-a-bookshelf-filled-with-countless-cooperative-boa.jpg?id=65413486&width=1200&height=600&coordinates=0%2C625%2C0%2C625
+    categories:
+      - Llms
+      - Artificial-intelligence
+      - Video-games
+    publishedAt: 2026-03-29T13:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: World's smallest QR code, smaller than bacteria, could store data for
+      centuries
+    url: https://www.sciencedaily.com/releases/2026/03/260328043603.htm
+    summary: Scientists have created a microscopic QR code so tiny it can only be
+      seen with an electron microscope—smaller than most bacteria and now
+      officially a world record. But this isn’t just about size; it’s about
+      durability. By engraving data into ultra-stable ceramic materials, the
+      team has opened the door to storing information that could last for
+      centuries or even millennia without needing power or maintenance.
+    imageUrl: https://www.sciencedaily.com/images/1920/worlds-smallest-qr-code.webp
+    categories: []
+    publishedAt: 2026-03-29T05:07:10.000Z
+    source: ScienceDaily — Computer Science
   - title: MIT hackathon tackles real-world challenges in Ukraine
     url: https://news.mit.edu/2026/mit-hackathon-tackles-real-world-challenges-ukraine-0327
     summary: During this year’s Independent Activities Period (IAP), students,
@@ -69,46 +133,6 @@ articles:
       - Mechatronics
     publishedAt: 2026-03-27T14:41:42.000Z
     source: IEEE Spectrum — DIY
-  - title: Alive or not? Tiny 3D-printed robots that swim and navigate just like
-      animals
-    url: https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html
-    summary: Leiden researchers Professor Daniela Kraft and Mengshi Wei have created
-      microscopic robots that move without sensors, software, or external
-      control. Instead, their behavior emerges entirely from their shape and the
-      way they interact with their environment. They are only a few tens of
-      micrometers long—far smaller than the width of a human hair—yet these
-      robots can swim, sense, navigate and adapt in ways that look surprisingly
-      life-like. And all this without having a brain.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/alive-or-not-tiny-3d-p-1.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-03-27T13:40:04.000Z
-    source: TechXplore — Robotics
-  - title: Can AI understand literature? Researchers put it to the test
-    url: https://techxplore.com/news/2026-03-ai-literature.html
-    summary: Even with all the recent advances in the ability of large language
-      models (like ChatGPT) to help us think, research, summarize, and learn
-      complex and technical texts, how do they fare in understanding
-      storytelling and literature? These questions around interpretive nuance
-      remain.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/literary-analysis.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-03-27T13:00:01.000Z
-    source: TechXplore — Computer Science
-  - title: Scientists discover bizarre new states inside tiny magnetic whirlpools
-    url: https://www.sciencedaily.com/releases/2026/03/260326075614.htm
-    summary: Researchers have uncovered a new way to generate exotic oscillation
-      states in tiny magnetic structures—using only minimal energy. By exciting
-      magnetic waves, they triggered a delicate motion that produced a rich
-      spectrum of signals never seen before in this system. The finding
-      challenges existing assumptions and could help connect different types of
-      technologies, from conventional electronics to quantum devices. It’s a
-      small effect with potentially huge implications.
-    imageUrl: https://www.sciencedaily.com/images/1920/floquet-engineered-magnons.webp
-    categories: []
-    publishedAt: 2026-03-27T11:34:19.000Z
-    source: ScienceDaily — Computer Science
   - title: One Way or Another, Most of Our Electricity Comes From Solar Power
     url: https://www.wired.com/story/most-of-our-electricity-comes-from-solar-power/
     summary: That’s good news, since the forecast is sunshine for the next 5 billion
@@ -131,7 +155,7 @@ articles:
       - Semiconductors
       - Quantum-communications
     publishedAt: 2026-03-27T10:02:05.000Z
-    source: IEEE Spectrum — AI
+    source: IEEE Spectrum — Computing & Chips
   - title: Seeing sounds
     url: https://news.mit.edu/2026/seeing-sounds-mariano-salcedo-0326
     summary: As one of the first students in MIT’s new Music Technology and
