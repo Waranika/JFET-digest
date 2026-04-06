@@ -1,122 +1,183 @@
-date: 2026-03-30
+date: 2026-04-06
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Why AI still can't beat a new video game
-    url: https://techxplore.com/news/2026-03-ai-video-game.html
-    summary: "For decades, video games have served as a proving ground for
-      artificial intelligence. From early checkers programs to systems that
-      conquered chess and Go, each milestone has seemed to bring machines closer
-      to human-like intelligence. But a new paper by Julian Togelius and
-      colleagues argues that this narrative is misleading. Despite impressive
-      victories, today's AI still struggles with a deceptively simple challenge:
-      playing a game it has never seen before."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/video-game-controller.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-03-29T17:00:06.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: AI benchmark helps robots plan and complete their chores in the real world
-    url: https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html
-    summary: No matter how sophisticated they are, robots can often be indecisive
-      and struggle with multi-step chores in the real world. For example, if you
-      tell a robot to tidy a messy room, it might understand the goal but not
-      know where to grab each object. It could even end up inventing steps. To
-      address these common mistakes, Microsoft and a group of academics have
-      developed an AI benchmark system to improve the accuracy of robot
-      planning. The details of their work are published in a paper on the arXiv
-      preprint server.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-benchmark-helps-ro.jpg
+  - title: Resilient actuator shows potential for space-ready soft robots
+    url: https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html
+    summary: To be safely and reliably deployed in outer space, underwater and in
+      other extreme environments, robots need to be able to withstand harsh
+      conditions without breaking. In addition, they should be able to promptly
+      and rapidly adapt to dynamic changes in their surroundings.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-actuator-could-boo.jpg
     categories:
       - Robotics
-    publishedAt: 2026-03-29T15:30:02.000Z
-    source: TechXplore — Robotics
-  - title: AI is giving bad advice to flatter its users, says new study on dangers
-      of overly agreeable chatbots
-    url: https://techxplore.com/news/2026-03-ai-bad-advice-flatter-users.html
-    summary: Artificial intelligence chatbots are so prone to flattering and
-      validating their human users that they are giving bad advice that can
-      damage relationships and reinforce harmful behaviors, according to a new
-      study that explores the dangers of AI telling people what they want to
-      hear.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-is-giving-bad-advic-1.jpg
+    publishedAt: 2026-04-05T14:00:03.000Z
+    source: TechXplore — Engineering
+  - title: Studying Human Attitudes Towards Robots Through Experience
+    url: https://spectrum.ieee.org/boston-dynamics-spot-interaction
+    summary: Building the next generation of robots for successful integration into
+      our homes, offices, and factories is more than just solving the hardware
+      and software problems – we also need to understand how they will be
+      perceived and how they can work effectively with people in those spaces.
+    imageUrl: https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200&height=400&coordinates=0%2C292%2C0%2C292
+    categories:
+      - Boston-dynamics
+      - Legged-robots
+      - Spot-robot
+    publishedAt: 2026-04-05T13:00:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: "AI at war: Five things to know about Project Maven"
+    url: https://techxplore.com/news/2026-04-ai-war-maven.html
+    summary: A Pentagon AI program called Project Maven is at the center of the US
+      strikes against Iran and potentially one of the most consequential
+      transformations of modern warfare.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/in-the-iran-war-the-pe.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-04-05T10:33:49.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Truckloads of food are being wasted because computers won’t approve them
+    url: https://www.sciencedaily.com/releases/2026/04/260403224505.htm
+    summary: Modern food systems may look stable on the surface, but they are
+      increasingly dependent on digital systems that can quietly become a major
+      point of failure. Today, food must be “recognized” by databases and
+      automated platforms to be transported, sold, or even released, meaning
+      that if systems go down, food can effectively become unusable—even when
+      it’s physically available.
+    imageUrl: https://www.sciencedaily.com/images/1920/food-waste-tomatoes-in-trash-dumpster.webp
+    categories: []
+    publishedAt: 2026-04-05T04:23:02.000Z
+    source: ScienceDaily — Robotics
+  - title: Helping resolve quantum computers' memory problem
+    url: https://techxplore.com/news/2026-04-quantum-memory-problem.html
+    summary: A major problem with quantum computers is memory, as the information
+      they contain can be quickly lost. Quantum computers are not yet fully
+      reliable—they are far too unstable. However, all around the world, people
+      are trying to improve them—some of whom are based in Norway.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/helping-resolve-quantu-1.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-03-29T14:30:02.000Z
+    publishedAt: 2026-04-04T14:00:01.000Z
     source: TechXplore — Computer Science
-  - title: Why Are Large Language Models so Terrible at Video Games?
-    url: https://spectrum.ieee.org/ai-video-games-llms-togelius
-    summary: "Large language models (LLMs) have improved so quickly that the
-      benchmarks themselves have evolved, adding more complex problems in an
-      effort to challenge the latest models. Yet LLMs haven’t improved across
-      all domains, and one task remains far outside their grasp: They have no
-      idea how to play video games. While a few have managed to beat a few games
-      (for example, Gemini 2.5 Pro beat Pokemon Blue in May of 2025), these
-      exceptions prove the rule. The eventually victorious AI completed games
-      far more slowly than a typical human player, made bizarre and often
-      repetitive mistakes, and required custom software to guide their
-      interactions with the game."
-    imageUrl: https://spectrum.ieee.org/media-library/a-middle-aged-man-smiling-while-holding-a-video-game-controller-behind-him-is-a-bookshelf-filled-with-countless-cooperative-boa.jpg?id=65413486&width=1200&height=600&coordinates=0%2C625%2C0%2C625
+  - title: Hackers Are Posting the Claude Code Leak With Bonus Malware
+    url: https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/
+    summary: "Plus: The FBI says a recent hack of its wiretap tools poses a national
+      security risk, attackers stole Cisco source code as part of an ongoing
+      supply chain hacking spree, and more."
+    imageUrl: https://media.wired.com/photos/69d03b9326dd2d3a7ba902f2/191:100/w_1280,c_limit/security_roundup_claude_GettyImages-2181575875.jpg
     categories:
-      - Llms
-      - Artificial-intelligence
-      - Video-games
-    publishedAt: 2026-03-29T13:00:01.000Z
-    source: IEEE Spectrum — AI
-  - title: World's smallest QR code, smaller than bacteria, could store data for
-      centuries
-    url: https://www.sciencedaily.com/releases/2026/03/260328043603.htm
-    summary: Scientists have created a microscopic QR code so tiny it can only be
-      seen with an electron microscope—smaller than most bacteria and now
-      officially a world record. But this isn’t just about size; it’s about
-      durability. By engraving data into ultra-stable ceramic materials, the
-      team has opened the door to storing information that could last for
-      centuries or even millennia without needing power or maintenance.
-    imageUrl: https://www.sciencedaily.com/images/1920/worlds-smallest-qr-code.webp
+      - Security
+      - Security / Cyberattacks and Hacks
+      - Security / National Security
+      - Security / Privacy
+      - Security / Security News
+    publishedAt: 2026-04-04T10:30:00.000Z
+    source: WIRED (AI)
+  - title: The Trajectory of the Artemis II Moon Mission Is a Feat of Engineering
+    url: https://www.wired.com/story/the-trajectory-of-the-artemis-ii-moon-mission-is-a-feat-of-engineering/
+    summary: The astronauts will arrive about 10,300 kilometers beyond our
+      satellite, breaking all previous records for distance from Earth. But how
+      was their route chosen?
+    imageUrl: https://media.wired.com/photos/69cfc8e8eb0352c3f10a93a3/191:100/w_1280,c_limit/2269443326
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-04-04T09:30:00.000Z
+    source: WIRED science
+  - title: Working to advance the nuclear renaissance
+    url: https://news.mit.edu/2026/working-to-advance-nuclear-renaissance-dean-price-0403
+    summary: Today, there are 94 nuclear reactors operating in the United States,
+      more than in any other country in the world, and these units collectively
+      provide nearly 20 percent of the nation’s electricity. That is a major
+      accomplishment, according to Dean Price, but he believes that our country
+      needs much more out of nuclear energy, especially at a moment when
+      alternatives to fossil fuel-based power plants are desperately being
+      sought. He became a nuclear engineer for this very reason — to make sure
+      that nuclear technology is up to the task of delivering in this time of
+      considerable need.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-nse-Dean-Price.jpg?itok=PuytMjyW
     categories: []
-    publishedAt: 2026-03-29T05:07:10.000Z
-    source: ScienceDaily — Computer Science
-  - title: MIT hackathon tackles real-world challenges in Ukraine
-    url: https://news.mit.edu/2026/mit-hackathon-tackles-real-world-challenges-ukraine-0327
-    summary: During this year’s Independent Activities Period (IAP), students,
-      researchers, and collaborators across seven time zones came together to
-      tackle urgent technical challenges facing Ukraine as the full-scale war
-      enters its fourth year.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Hackathon-ukraine-2.0.jpg?itok=jIxbTnx_
+    publishedAt: 2026-04-03T20:55:00.000Z
+    source: MIT Artificial Intelligence
+  - title: ENIAC’s Architects Wove Stories Through Computing
+    url: https://spectrum.ieee.org/eniac-80th-anniversary-weaving
+    summary: This year marks the 80th anniversary of ENIAC, the first
+      general-purpose digital computer. The computer was built during World War
+      II to speed up ballistics calculations, but its contributions to computing
+      extend well beyond military applications.
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-black-and-white-1940-s-image-of-a-woman-holding-a-metallic-brick-like-controller-with-large-knobs.jpg?id=65453792&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+    categories:
+      - Eniac
+      - Weather-prediction
+      - Computer-history
+      - Ireland
+    publishedAt: 2026-04-03T13:00:02.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Toward cheaper, cleaner hydrogen production
+    url: https://news.mit.edu/2026/toward-cheaper-cleaner-hydrogen-production-0403
+    summary: Hydrogen sits at the center of some of the world’s most important
+      industrial processes, but its production still comes with a heavy
+      environmental cost. Today, most hydrogen is produced through
+      high-emissions processes like steam methane reforming and coal
+      gasification.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-1S1-Energy-01-press.jpg?itok=dYV8Nx7n
     categories: []
-    publishedAt: 2026-03-27T20:40:00.000Z
+    publishedAt: 2026-04-03T04:00:00.000Z
     source: MIT Engineering
-  - title: "Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold"
-    url: https://spectrum.ieee.org/roadrunner-bipedal-robot
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/two-wheeled-balancing-robot-leans-while-rolling-in-an-indoor-testing-lab.png?id=65415603&width=1245&height=700&coordinates=3%2C0%2C4%2C0
+  - title: Laser-powered wireless hits 360 Gbps and uses half the energy of Wi-Fi
+    url: https://www.sciencedaily.com/releases/2026/04/260402042734.htm
+    summary: A new breakthrough in wireless technology could dramatically boost
+      internet speeds while cutting energy use—by switching from radio waves to
+      light. Researchers have developed a tiny chip packed with dozens of
+      miniature lasers that can transmit massive amounts of data simultaneously,
+      reaching speeds over 360 gigabits per second in early tests.
+    imageUrl: https://www.sciencedaily.com/images/1920/5x5-vcsel-array-and-custom-beam-shaping-optics.webp
+    categories: []
+    publishedAt: 2026-04-02T19:58:03.000Z
+    source: ScienceDaily — Computer Science
+  - title: DNA robots could deliver drugs and hunt viruses inside your body
+    url: https://www.sciencedaily.com/releases/2026/03/260331001104.htm
+    summary: DNA robots are emerging as tiny programmable machines that could one
+      day deliver drugs, hunt viruses, and build molecular-scale devices. By
+      borrowing ideas from traditional robotics and combining them with DNA
+      folding techniques, scientists are creating structures that can move and
+      act with precision. These robots can be guided using chemical reactions or
+      external signals like light and magnetic fields.
+    imageUrl: https://www.sciencedaily.com/images/1920/nanotechnology-virus-hunting-nano-robot.webp
+    categories: []
+    publishedAt: 2026-03-31T11:16:58.000Z
+    source: ScienceDaily — Artificial Intelligence
+  - title: Stanford scientists create shape-shifting material that changes color and
+      texture like an octopus
+    url: https://www.sciencedaily.com/releases/2026/03/260330001140.htm
+    summary: A new shape-shifting material can change both its texture and color in
+      seconds, inspired by the camouflage abilities of octopuses. By precisely
+      controlling how a polymer swells with water, researchers can create
+      detailed, reversible patterns at the nanoscale. The material can even
+      mimic realistic surfaces and dynamically adjust how it reflects light. In
+      the future, AI could allow it to automatically blend into its
+      surroundings.
+    imageUrl: https://www.sciencedaily.com/images/1920/soft-photonic-skin-sample-timelapse.webp
+    categories: []
+    publishedAt: 2026-03-31T08:49:34.000Z
+    source: ScienceDaily — Engineering
+  - title: The AI Data Centers That Fit on a Truck
+    url: https://spectrum.ieee.org/modular-data-center
+    summary: A traditional data center protects the expensive hardware inside it
+      with a “shell” constructed from steel and concrete. Constructing a data
+      center’s shell is inexpensive compared to the cost of the hardware and
+      infrastructure inside it, but it’s not trivial. It takes time for
+      engineers to consider potential sites, apply for permits, and coordinate
+      with construction contractors.
+    imageUrl: https://spectrum.ieee.org/media-library/overhead-view-of-two-data-center-pods-each-measuring-55-feet-long-by-12-5-feet-wide.jpg?id=65417343&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
-      - Video-friday
-      - Nasa
-      - Bipedal-robots
-      - Quadruped-robots
-      - Artificial-muscles
-      - Humanoid-robots
-    publishedAt: 2026-03-27T16:30:03.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Molecular interface tuning lifts tandem solar cell efficiency to 25.1%
-    url: https://techxplore.com/news/2026-03-molecular-interface-tuning-tandem-solar.html
-    summary: Researchers at UNIST have unveiled a novel interface engineering
-      technique that significantly improves both the performance and durability
-      of perovskite/organic tandem solar cells (POTSCs). Published in Energy &
-      Environmental Science, their study demonstrates how precise control of
-      self-assembled monolayers (SAMs) at the molecular level can lead to more
-      stable, high-efficiency solar devices and open new pathways for
-      solar-driven hydrogen production.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/advanced-interface-eng-1.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-03-27T16:00:02.000Z
-    source: TechXplore — Engineering
+      - Data-center
+      - Networking
+      - Liquid-cooling
+      - Ai
+    publishedAt: 2026-03-30T14:00:02.000Z
+    source: IEEE Spectrum — AI
   - title: A New Way to Spray Paint Color
     url: https://spectrum.ieee.org/spray-paint-color-creator
     summary: We’re all familiar with mixing red, yellow, and blue paint in various
@@ -126,57 +187,13 @@ articles:
       although spray cans are great for applying even coats of paint to large
       areas very quickly, spray-paint artists need a separate can for every
       color they want to use—until now.
-    imageUrl: https://spectrum.ieee.org/media-library/a-portable-device-with-four-spray-paint-canisters-at-the-bottom-and-tubing-and-electronics-mounted-on-a-frame-above-them.png?id=65404484&width=1200&height=600&coordinates=0%2C481%2C0%2C481
+    imageUrl: https://spectrum.ieee.org/media-library/a-portable-device-with-four-spray-paint-canisters-at-the-bottom-and-tubing-and-electronics-mounted-on-a-frame-above-them.png?id=65404484&width=1245&height=700&coordinates=0%2C418%2C0%2C419
     categories:
       - Spray-paint
       - Arduino
       - Mechatronics
     publishedAt: 2026-03-27T14:41:42.000Z
     source: IEEE Spectrum — DIY
-  - title: One Way or Another, Most of Our Electricity Comes From Solar Power
-    url: https://www.wired.com/story/most-of-our-electricity-comes-from-solar-power/
-    summary: That’s good news, since the forecast is sunshine for the next 5 billion
-      years.
-    imageUrl: https://media.wired.com/photos/69c5b42748e037141120e175/191:100/w_1280,c_limit/Most-of-Our-Electricity-Comes-From-Solar-Power-Science-1396998766.jpg
-    categories:
-      - Science
-      - Science / Physics and Math
-    publishedAt: 2026-03-27T11:00:00.000Z
-    source: WIRED science
-  - title: How NYU’s Quantum Institute Bridges Science and Application
-    url: https://spectrum.ieee.org/nyu-quantum-institute
-    summary: This sponsored article is brought to you by NYU Tandon School of
-      Engineering.
-    imageUrl: https://spectrum.ieee.org/media-library/person-in-white-suit-working-with-semiconductor-equipment-in-a-lab.jpg?id=65322091&width=2000&height=1500&coordinates=560%2C0%2C560%2C0
-    categories:
-      - Nyu-tandon
-      - Quantum-computing
-      - Quantum-internet
-      - Semiconductors
-      - Quantum-communications
-    publishedAt: 2026-03-27T10:02:05.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: Seeing sounds
-    url: https://news.mit.edu/2026/seeing-sounds-mariano-salcedo-0326
-    summary: As one of the first students in MIT’s new Music Technology and
-      Computation Graduate Program, Mariano Salcedo ’25 is researching the
-      intersection between artificial intelligence and music visuals.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-shass-music-Carlos-Mariano-Salcedo.jpg?itok=IZfmOz8J
-    categories: []
-    publishedAt: 2026-03-26T20:45:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Deepfake X-rays are so real even doctors can’t tell the difference
-    url: https://www.sciencedaily.com/releases/2026/03/260326011452.htm
-    summary: Deepfake X-rays created by AI are now convincing enough to fool both
-      doctors and AI models. In tests, radiologists had limited success
-      identifying fake images, especially when they didn’t know they were being
-      shown. This opens the door to risks like fraudulent medical claims and
-      tampered diagnoses. Experts say stronger safeguards and detection tools
-      are critical as the technology advances.
-    imageUrl: https://www.sciencedaily.com/images/1920/anatomy-matched-real-and-gpt-4o-generated-x-rays.webp
-    categories: []
-    publishedAt: 2026-03-26T10:42:12.000Z
-    source: ScienceDaily — Robotics
   - title: "AI system learns to keep warehouse robot traffic running smoothly "
     url: https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326
     summary: Inside a giant autonomous warehouse, hundreds of robots dart down
@@ -187,28 +204,3 @@ articles:
     categories: []
     publishedAt: 2026-03-26T04:00:00.000Z
     source: MIT Robotics
-  - title: First ever atomic movie reveals hidden driver of radiation damage
-    url: https://www.sciencedaily.com/releases/2026/03/260324024251.htm
-    summary: Researchers have visualized atoms in motion just before a
-      radiation-driven decay process occurs, revealing a surprisingly dynamic
-      scene. Instead of remaining fixed, the atoms roam and rearrange, directly
-      influencing how and when the decay unfolds. This “atomic movie” shows that
-      structure and motion play a central role in radiation damage mechanisms.
-      The findings could improve our understanding of how harmful radiation
-      affects biological matter.
-    imageUrl: https://www.sciencedaily.com/images/1920/roaming-atoms.webp
-    categories: []
-    publishedAt: 2026-03-25T03:53:24.000Z
-    source: ScienceDaily — Engineering
-  - title: AI-powered robot learns how to harvest tomatoes more efficiently
-    url: https://www.sciencedaily.com/releases/2026/03/260317064512.htm
-    summary: A new tomato-picking robot is learning to think before it acts. Instead
-      of simply identifying ripe fruit, it predicts how easy each tomato will be
-      to harvest and adjusts its approach accordingly. This smarter strategy
-      boosted success rates to 81%, with the robot even switching angles when
-      needed. The breakthrough could pave the way for farms where robots and
-      humans work side by side.
-    imageUrl: https://www.sciencedaily.com/images/1920/ai-robot-harvesting-tomatoes.webp
-    categories: []
-    publishedAt: 2026-03-18T04:26:44.000Z
-    source: ScienceDaily — Artificial Intelligence
