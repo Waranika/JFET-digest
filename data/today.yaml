@@ -1,153 +1,140 @@
-date: 2026-04-06
+date: 2026-04-08
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Resilient actuator shows potential for space-ready soft robots
-    url: https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html
-    summary: To be safely and reliably deployed in outer space, underwater and in
-      other extreme environments, robots need to be able to withstand harsh
-      conditions without breaking. In addition, they should be able to promptly
-      and rapidly adapt to dynamic changes in their surroundings.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-actuator-could-boo.jpg
+  - title: Sixteen new START.nano companies are developing hard-tech solutions with
+      the support of MIT.nano
+    url: https://news.mit.edu/2026/sixteen-new-startnano-companies-developing-hard-tech-solutions-with-mitnano-0407
+    summary: MIT.nano has announced that 16 startups became active participants in
+      its START.nano program in 2025, more than doubling the number of new
+      companies from the previous year. Aimed at speeding the transition of
+      hard-tech innovation to market, START.nano supports new ventures through
+      the discounted use of MIT.nano shared facilities and a guided access to
+      the MIT innovation ecosystem. The newly engaged startups are developing
+      solutions for some of the world’s greatest challenges in health, climate,
+      energy, semiconductors, novel materials, and quantum computing.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-start.nano-Rheyo.jpg?itok=aj1qTyfA
+    categories: []
+    publishedAt: 2026-04-07T20:40:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Solar-powered device disinfects drinking water in under an hour
+    url: https://techxplore.com/news/2026-04-solar-powered-device-disinfects-hour.html
+    summary: For many people living in developed nations, towns and cities take care
+      of ensuring that residents' water is clean and safe. Municipalities have
+      advanced filters and UV light disinfection technologies at their disposal.
+      Some households have additional filters as well. In many places in the
+      Global South, however, these technologies are not widely available. These
+      areas, such as parts of Africa and South America, do have one advantage
+      when it comes to water filtration—sunlight.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/pouring-water-sunset.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-04-07T20:00:06.000Z
+    source: TechXplore — Engineering
+  - title: New method makes neural networks three times faster in wave propagation
+      problems
+    url: https://techxplore.com/news/2026-04-method-neural-networks-faster-propagation.html
+    summary: Researchers at Skoltech have proposed a new approach to training neural
+      networks for wave propagation in absorbing media. The method significantly
+      improves the accuracy and stability of solutions and accelerates model
+      training in the design of laser fusion systems, high-power laser
+      facilities, and optical schemes with plasma elements, where the
+      calculation of wave propagation and laser-plasma interaction consumes a
+      significant portion of computational resources.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/skoltechs-new-method-m.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-04-07T19:00:05.000Z
+    source: TechXplore — Computer Science
+  - title: Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything
+    url: https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/
+    summary: The AI lab's Project Glasswing will bring together Apple, Google, and
+      more than 45 other organizations. They'll use the new Claude Mythos
+      Preview model to test advancing AI cybersecurity capabilities.
+    imageUrl: https://media.wired.com/photos/69d4e951d8b67218cd4b81ad/191:100/w_1280,c_limit/04072026_New%20Anthropic%20Industry%20Coalition%20Racing%20to%20Use%20Private%20Claude%20Mythos%20Model%20To%20Secure%20Software.jpg
+    categories:
+      - Security
+      - Security / Cyberattacks and Hacks
+      - Security / Security News
+      - Business / Artificial Intelligence
+      - Business / Big Tech
+    publishedAt: 2026-04-07T18:49:50.000Z
+    source: WIRED (AI)
+  - title: Artemis II’s Breathtaking View of the Far Side of the Moon
+    url: https://www.wired.com/story/artemis-iis-breathtaking-view-of-the-far-side-of-the-moon/
+    summary: The first images from Artemis II reveal what the moon looks like just
+      7,000 km from the surface—and confirm that NASA is ready to return to
+      Earth’s satellite.
+    imageUrl: https://media.wired.com/photos/69d54188e378a93eb5dc3de9/191:100/w_1280,c_limit/HFTX7pOXcAAKs3G.jpeg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-04-07T18:34:52.000Z
+    source: WIRED science
+  - title: Magnetic coil setup guides microrobots without seeing them
+    url: https://techxplore.com/news/2026-04-magnetic-setup-microrobots.html
+    summary: SMU researchers have created an electromagnetic coil system that can
+      control microrobots without requiring continuous visual tracking of their
+      position—a significant advancement that could enable microrobots to
+      operate inside the body, within industrial pipes and other places that
+      aren't always visible with a camera.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/moving-microrobots-wit.jpg
     categories:
       - Robotics
-    publishedAt: 2026-04-05T14:00:03.000Z
-    source: TechXplore — Engineering
+    publishedAt: 2026-04-07T18:00:01.000Z
+    source: TechXplore — Robotics
+  - title: Decentralized Training Can Help Solve AI’s Energy Woes
+    url: https://spectrum.ieee.org/decentralized-ai-training-2676670858
+    summary: Artificial intelligence harbors an enormous energy appetite. Such
+      constant cravings are evident in the hefty carbon footprint of the data
+      centers behind the AI boom and the steady increase over time of carbon
+      emissions from training frontier AI models.
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-several-data-servers-interconnected-across-long-distances.jpg?id=65477795&width=1245&height=700&coordinates=0%2C156%2C0%2C157
+    categories:
+      - Training
+      - Ai-energy
+      - Data-center
+      - Large-language-models
+    publishedAt: 2026-04-07T14:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: This new chip survives 1300°F (700°C) and could change AI forever
+    url: https://www.sciencedaily.com/releases/2026/04/260406192904.htm
+    summary: A team of engineers has created a breakthrough memory device that keeps
+      working at temperatures hotter than molten lava, shattering one of
+      electronics’ biggest limits. Built from an unusual stack of ultra-durable
+      materials, the tiny component can store data and perform calculations even
+      at 700°C (1300°F), far beyond what today’s chips can handle. The discovery
+      was partly accidental, but it revealed a powerful new mechanism that
+      prevents heat-induced failure at the atomic level.
+    imageUrl: https://www.sciencedaily.com/images/1920/hot-lava-computer-memory-chip.webp
+    categories: []
+    publishedAt: 2026-04-07T05:32:38.000Z
+    source: ScienceDaily — Robotics
+  - title: MIT graduate engineering and business programs ranked highly by U.S. News
+      for 2026-27
+    url: https://news.mit.edu/2026/mit-graduate-engineering-business-programs-ranked-highly-us-news-0407
+    summary: U.S. News and World Report has again placed MIT’s graduate program in
+      engineering at the top of its annual rankings, released today. The
+      Institute has held the No. 1 spot since 1990, when the magazine first
+      ranked such programs.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT_Campus_SpringErtl-01-press.jpg?itok=yFzYxjm3
+    categories: []
+    publishedAt: 2026-04-07T04:01:00.000Z
+    source: MIT Engineering
   - title: Studying Human Attitudes Towards Robots Through Experience
     url: https://spectrum.ieee.org/boston-dynamics-spot-interaction
     summary: Building the next generation of robots for successful integration into
       our homes, offices, and factories is more than just solving the hardware
       and software problems – we also need to understand how they will be
       perceived and how they can work effectively with people in those spaces.
-    imageUrl: https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200&height=400&coordinates=0%2C292%2C0%2C292
+    imageUrl: https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200&height=800&coordinates=62%2C0%2C63%2C0
     categories:
       - Boston-dynamics
       - Legged-robots
       - Spot-robot
     publishedAt: 2026-04-05T13:00:01.000Z
     source: IEEE Spectrum — Robotics
-  - title: "AI at war: Five things to know about Project Maven"
-    url: https://techxplore.com/news/2026-04-ai-war-maven.html
-    summary: A Pentagon AI program called Project Maven is at the center of the US
-      strikes against Iran and potentially one of the most consequential
-      transformations of modern warfare.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/in-the-iran-war-the-pe.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-04-05T10:33:49.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Truckloads of food are being wasted because computers won’t approve them
-    url: https://www.sciencedaily.com/releases/2026/04/260403224505.htm
-    summary: Modern food systems may look stable on the surface, but they are
-      increasingly dependent on digital systems that can quietly become a major
-      point of failure. Today, food must be “recognized” by databases and
-      automated platforms to be transported, sold, or even released, meaning
-      that if systems go down, food can effectively become unusable—even when
-      it’s physically available.
-    imageUrl: https://www.sciencedaily.com/images/1920/food-waste-tomatoes-in-trash-dumpster.webp
-    categories: []
-    publishedAt: 2026-04-05T04:23:02.000Z
-    source: ScienceDaily — Robotics
-  - title: Helping resolve quantum computers' memory problem
-    url: https://techxplore.com/news/2026-04-quantum-memory-problem.html
-    summary: A major problem with quantum computers is memory, as the information
-      they contain can be quickly lost. Quantum computers are not yet fully
-      reliable—they are far too unstable. However, all around the world, people
-      are trying to improve them—some of whom are based in Norway.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/helping-resolve-quantu-1.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-04-04T14:00:01.000Z
-    source: TechXplore — Computer Science
-  - title: Hackers Are Posting the Claude Code Leak With Bonus Malware
-    url: https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/
-    summary: "Plus: The FBI says a recent hack of its wiretap tools poses a national
-      security risk, attackers stole Cisco source code as part of an ongoing
-      supply chain hacking spree, and more."
-    imageUrl: https://media.wired.com/photos/69d03b9326dd2d3a7ba902f2/191:100/w_1280,c_limit/security_roundup_claude_GettyImages-2181575875.jpg
-    categories:
-      - Security
-      - Security / Cyberattacks and Hacks
-      - Security / National Security
-      - Security / Privacy
-      - Security / Security News
-    publishedAt: 2026-04-04T10:30:00.000Z
-    source: WIRED (AI)
-  - title: The Trajectory of the Artemis II Moon Mission Is a Feat of Engineering
-    url: https://www.wired.com/story/the-trajectory-of-the-artemis-ii-moon-mission-is-a-feat-of-engineering/
-    summary: The astronauts will arrive about 10,300 kilometers beyond our
-      satellite, breaking all previous records for distance from Earth. But how
-      was their route chosen?
-    imageUrl: https://media.wired.com/photos/69cfc8e8eb0352c3f10a93a3/191:100/w_1280,c_limit/2269443326
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-04-04T09:30:00.000Z
-    source: WIRED science
-  - title: Working to advance the nuclear renaissance
-    url: https://news.mit.edu/2026/working-to-advance-nuclear-renaissance-dean-price-0403
-    summary: Today, there are 94 nuclear reactors operating in the United States,
-      more than in any other country in the world, and these units collectively
-      provide nearly 20 percent of the nation’s electricity. That is a major
-      accomplishment, according to Dean Price, but he believes that our country
-      needs much more out of nuclear energy, especially at a moment when
-      alternatives to fossil fuel-based power plants are desperately being
-      sought. He became a nuclear engineer for this very reason — to make sure
-      that nuclear technology is up to the task of delivering in this time of
-      considerable need.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-nse-Dean-Price.jpg?itok=PuytMjyW
-    categories: []
-    publishedAt: 2026-04-03T20:55:00.000Z
-    source: MIT Artificial Intelligence
-  - title: ENIAC’s Architects Wove Stories Through Computing
-    url: https://spectrum.ieee.org/eniac-80th-anniversary-weaving
-    summary: This year marks the 80th anniversary of ENIAC, the first
-      general-purpose digital computer. The computer was built during World War
-      II to speed up ballistics calculations, but its contributions to computing
-      extend well beyond military applications.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-black-and-white-1940-s-image-of-a-woman-holding-a-metallic-brick-like-controller-with-large-knobs.jpg?id=65453792&width=1200&height=800&coordinates=0%2C83%2C0%2C84
-    categories:
-      - Eniac
-      - Weather-prediction
-      - Computer-history
-      - Ireland
-    publishedAt: 2026-04-03T13:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: Toward cheaper, cleaner hydrogen production
-    url: https://news.mit.edu/2026/toward-cheaper-cleaner-hydrogen-production-0403
-    summary: Hydrogen sits at the center of some of the world’s most important
-      industrial processes, but its production still comes with a heavy
-      environmental cost. Today, most hydrogen is produced through
-      high-emissions processes like steam methane reforming and coal
-      gasification.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-1S1-Energy-01-press.jpg?itok=dYV8Nx7n
-    categories: []
-    publishedAt: 2026-04-03T04:00:00.000Z
-    source: MIT Engineering
-  - title: Laser-powered wireless hits 360 Gbps and uses half the energy of Wi-Fi
-    url: https://www.sciencedaily.com/releases/2026/04/260402042734.htm
-    summary: A new breakthrough in wireless technology could dramatically boost
-      internet speeds while cutting energy use—by switching from radio waves to
-      light. Researchers have developed a tiny chip packed with dozens of
-      miniature lasers that can transmit massive amounts of data simultaneously,
-      reaching speeds over 360 gigabits per second in early tests.
-    imageUrl: https://www.sciencedaily.com/images/1920/5x5-vcsel-array-and-custom-beam-shaping-optics.webp
-    categories: []
-    publishedAt: 2026-04-02T19:58:03.000Z
-    source: ScienceDaily — Computer Science
-  - title: DNA robots could deliver drugs and hunt viruses inside your body
-    url: https://www.sciencedaily.com/releases/2026/03/260331001104.htm
-    summary: DNA robots are emerging as tiny programmable machines that could one
-      day deliver drugs, hunt viruses, and build molecular-scale devices. By
-      borrowing ideas from traditional robotics and combining them with DNA
-      folding techniques, scientists are creating structures that can move and
-      act with precision. These robots can be guided using chemical reactions or
-      external signals like light and magnetic fields.
-    imageUrl: https://www.sciencedaily.com/images/1920/nanotechnology-virus-hunting-nano-robot.webp
-    categories: []
-    publishedAt: 2026-03-31T11:16:58.000Z
-    source: ScienceDaily — Artificial Intelligence
   - title: Stanford scientists create shape-shifting material that changes color and
       texture like an octopus
     url: https://www.sciencedaily.com/releases/2026/03/260330001140.htm
@@ -162,22 +149,6 @@ articles:
     categories: []
     publishedAt: 2026-03-31T08:49:34.000Z
     source: ScienceDaily — Engineering
-  - title: The AI Data Centers That Fit on a Truck
-    url: https://spectrum.ieee.org/modular-data-center
-    summary: A traditional data center protects the expensive hardware inside it
-      with a “shell” constructed from steel and concrete. Constructing a data
-      center’s shell is inexpensive compared to the cost of the hardware and
-      infrastructure inside it, but it’s not trivial. It takes time for
-      engineers to consider potential sites, apply for permits, and coordinate
-      with construction contractors.
-    imageUrl: https://spectrum.ieee.org/media-library/overhead-view-of-two-data-center-pods-each-measuring-55-feet-long-by-12-5-feet-wide.jpg?id=65417343&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Data-center
-      - Networking
-      - Liquid-cooling
-      - Ai
-    publishedAt: 2026-03-30T14:00:02.000Z
-    source: IEEE Spectrum — AI
   - title: A New Way to Spray Paint Color
     url: https://spectrum.ieee.org/spray-paint-color-creator
     summary: We’re all familiar with mixing red, yellow, and blue paint in various
