@@ -1,103 +1,162 @@
-date: 2026-04-08
+date: 2026-04-11
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Sixteen new START.nano companies are developing hard-tech solutions with
-      the support of MIT.nano
-    url: https://news.mit.edu/2026/sixteen-new-startnano-companies-developing-hard-tech-solutions-with-mitnano-0407
-    summary: MIT.nano has announced that 16 startups became active participants in
-      its START.nano program in 2025, more than doubling the number of new
-      companies from the previous year. Aimed at speeding the transition of
-      hard-tech innovation to market, START.nano supports new ventures through
-      the discounted use of MIT.nano shared facilities and a guided access to
-      the MIT innovation ecosystem. The newly engaged startups are developing
-      solutions for some of the world’s greatest challenges in health, climate,
-      energy, semiconductors, novel materials, and quantum computing.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-start.nano-Rheyo.jpg?itok=aj1qTyfA
-    categories: []
-    publishedAt: 2026-04-07T20:40:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Solar-powered device disinfects drinking water in under an hour
-    url: https://techxplore.com/news/2026-04-solar-powered-device-disinfects-hour.html
-    summary: For many people living in developed nations, towns and cities take care
-      of ensuring that residents' water is clean and safe. Municipalities have
-      advanced filters and UV light disinfection technologies at their disposal.
-      Some households have additional filters as well. In many places in the
-      Global South, however, these technologies are not widely available. These
-      areas, such as parts of Africa and South America, do have one advantage
-      when it comes to water filtration—sunlight.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/pouring-water-sunset.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-04-07T20:00:06.000Z
-    source: TechXplore — Engineering
-  - title: New method makes neural networks three times faster in wave propagation
-      problems
-    url: https://techxplore.com/news/2026-04-method-neural-networks-faster-propagation.html
-    summary: Researchers at Skoltech have proposed a new approach to training neural
-      networks for wave propagation in absorbing media. The method significantly
-      improves the accuracy and stability of solutions and accelerates model
-      training in the design of laser fusion systems, high-power laser
-      facilities, and optical schemes with plasma elements, where the
-      calculation of wave propagation and laser-plasma interaction consumes a
-      significant portion of computational resources.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/skoltechs-new-method-m.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-04-07T19:00:05.000Z
-    source: TechXplore — Computer Science
-  - title: Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything
-    url: https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/
-    summary: The AI lab's Project Glasswing will bring together Apple, Google, and
-      more than 45 other organizations. They'll use the new Claude Mythos
-      Preview model to test advancing AI cybersecurity capabilities.
-    imageUrl: https://media.wired.com/photos/69d4e951d8b67218cd4b81ad/191:100/w_1280,c_limit/04072026_New%20Anthropic%20Industry%20Coalition%20Racing%20to%20Use%20Private%20Claude%20Mythos%20Model%20To%20Secure%20Software.jpg
-    categories:
-      - Security
-      - Security / Cyberattacks and Hacks
-      - Security / Security News
-      - Business / Artificial Intelligence
-      - Business / Big Tech
-    publishedAt: 2026-04-07T18:49:50.000Z
-    source: WIRED (AI)
-  - title: Artemis II’s Breathtaking View of the Far Side of the Moon
-    url: https://www.wired.com/story/artemis-iis-breathtaking-view-of-the-far-side-of-the-moon/
-    summary: The first images from Artemis II reveal what the moon looks like just
-      7,000 km from the surface—and confirm that NASA is ready to return to
-      Earth’s satellite.
-    imageUrl: https://media.wired.com/photos/69d54188e378a93eb5dc3de9/191:100/w_1280,c_limit/HFTX7pOXcAAKs3G.jpeg
+  - title: Artemis II Astronauts Safely Return to Earth After Historic Flight Around
+      the Moon
+    url: https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/
+    summary: After traveling a greater distance from Earth than any humans before
+      them, the astronauts of Artemis II have safely returned home.
+    imageUrl: https://media.wired.com/photos/69d68fcf1b98acd2337c8732/191:100/w_1280,c_limit/science_Artemis_GettyImages-2269645595.jpg
     categories:
       - Science
       - Science / Space
-    publishedAt: 2026-04-07T18:34:52.000Z
+    publishedAt: 2026-04-11T00:08:17.000Z
     source: WIRED science
-  - title: Magnetic coil setup guides microrobots without seeing them
-    url: https://techxplore.com/news/2026-04-magnetic-setup-microrobots.html
-    summary: SMU researchers have created an electromagnetic coil system that can
-      control microrobots without requiring continuous visual tracking of their
-      position—a significant advancement that could enable microrobots to
-      operate inside the body, within industrial pipes and other places that
-      aren't always visible with a camera.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/moving-microrobots-wit.jpg
+  - title: AI-driven controllers imitating the human brain could strengthen the grid
+    url: https://techxplore.com/news/2026-04-ai-driven-imitating-human-brain.html
+    summary: As traditional power plants are replaced by intermittent sources like
+      solar and wind, maintaining grid stability has become a complex
+      engineering challenge. Hussain Khan's doctoral dissertation at the
+      University of Vaasa, Finland, introduces advanced AI-based control
+      strategies that ensure local grids remain reliable and resilient.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-driven-controllers.jpg
+    categories:
+      - Energy & Green Tech
+    publishedAt: 2026-04-10T18:20:03.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One
+      You Think
+    url: https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/
+    summary: The new AI model is being heralded—and feared—as a hacker’s
+      superweapon. Experts say its arrival is a wake-up call for developers who
+      have long made security an afterthought.
+    imageUrl: https://media.wired.com/photos/69d81392ce1f65d162ddb2f0/191:100/w_1280,c_limit/Security_Anthropic_Getty.jpg
+    categories:
+      - Security
+      - Security / Cyberattacks and Hacks
+      - Security / National Security
+      - Security / Privacy
+      - Security / Security News
+    publishedAt: 2026-04-10T18:08:37.000Z
+    source: WIRED (AI)
+  - title: A simple baseline for AI forecasting in machine learning
+    url: https://techxplore.com/news/2026-04-simple-baseline-ai-machine.html
+    summary: In a recent paper, SFI Complexity Postdoctoral Fellow Yuanzhao Zhang
+      and co-author William Gilpin show that a deceptively simple forecasting
+      strategy can outperform several leading machine learning forecasting
+      models.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-simple-baseline-for.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-04-10T18:00:06.000Z
+    source: TechXplore — Computer Science
+  - title: Gravitational waves may be hidden in the light atoms emit
+    url: https://www.sciencedaily.com/releases/2026/04/260409101109.htm
+    summary: Scientists have proposed a surprising new way to detect gravitational
+      waves—by observing how they change the light emitted by atoms. These waves
+      can subtly shift photon frequencies in different directions, leaving
+      behind a detectable signature. The effect doesn’t change how much light
+      atoms emit, which is why it’s gone unnoticed until now. If confirmed, this
+      approach could lead to ultra-compact detectors using cold-atom systems.
+    imageUrl: https://www.sciencedaily.com/images/1920/spontaneous-emission-in-presence-of-gravitational-wave.webp
+    categories: []
+    publishedAt: 2026-04-10T13:43:52.000Z
+    source: ScienceDaily — Engineering
+  - title: This new chip could slash data center energy waste
+    url: https://www.sciencedaily.com/releases/2026/04/260409101103.htm
+    summary: A new chip design from UC San Diego could make data centers far more
+      energy-efficient by rethinking how power is converted for GPUs. By
+      combining vibrating piezoelectric components with a clever circuit layout,
+      the system overcomes limitations of traditional designs. The prototype
+      achieved impressive efficiency and delivered much more power than previous
+      attempts. Though not ready for widespread use yet, it points to a
+      promising future for high-performance computing.
+    imageUrl: https://www.sciencedaily.com/images/1920/piezoelectric-power-converter-on-penny.webp
+    categories: []
+    publishedAt: 2026-04-10T12:45:22.000Z
+    source: ScienceDaily — Computer Science
+  - title: Electrofluidic fiber muscles could enable silent robotic systems
+    url: https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html
+    summary: Muscles are remarkably effective systems for generating controlled
+      force, and engineers developing hardware for robots or prosthetics have
+      long struggled to create analogs that can approach their unique
+      combination of strength, rapid response, scalability, and control. But
+      now, researchers at the MIT Media Lab and Politecnico di Bari in Italy
+      have developed artificial muscle fibers that come closer to matching many
+      of these qualities.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-new-type-of-electric-1.jpg
     categories:
       - Robotics
-    publishedAt: 2026-04-07T18:00:01.000Z
+    publishedAt: 2026-04-09T18:20:01.000Z
     source: TechXplore — Robotics
-  - title: Decentralized Training Can Help Solve AI’s Energy Woes
-    url: https://spectrum.ieee.org/decentralized-ai-training-2676670858
-    summary: Artificial intelligence harbors an enormous energy appetite. Such
-      constant cravings are evident in the hefty carbon footprint of the data
-      centers behind the AI boom and the steady increase over time of carbon
-      emissions from training frontier AI models.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-several-data-servers-interconnected-across-long-distances.jpg?id=65477795&width=1245&height=700&coordinates=0%2C156%2C0%2C157
+  - title: A philosophy of work
+    url: https://news.mit.edu/2026/philosophy-work-michal-masny-0409
+    summary: What makes work valuable? Michal Masny, the NC Ethics of Technology
+      Postdoctoral Fellow in the MIT Department of Philosophy, investigates the
+      role work plays in our lives and its impact on our well-being.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-philosophy-Michal-Masny.jpg?itok=W40Yn7Ni
+    categories: []
+    publishedAt: 2026-04-09T18:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Volcanic rock formula cuts cement emissions by two-thirds
+    url: https://techxplore.com/news/2026-04-volcanic-formula-cement-emissions-thirds.html
+    summary: Researchers have developed a volcanic rock formula that cuts carbon
+      emissions by 67%, potentially offering an affordable alternative to
+      increasingly scarce cement additives.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/volcanic-rock-formula.jpg
     categories:
-      - Training
-      - Ai-energy
-      - Data-center
-      - Large-language-models
-    publishedAt: 2026-04-07T14:00:01.000Z
-    source: IEEE Spectrum — AI
+      - Engineering
+    publishedAt: 2026-04-09T17:10:01.000Z
+    source: TechXplore — Engineering
+  - title: "GoZTASP: A Zero-Trust Platform for Governing Autonomous Systems at
+      Mission Scale"
+    url: https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/
+    summary: ZTASP is a mission-scale assurance and governance platform designed for
+      autonomous systems operating in real-world environments. It integrates
+      heterogeneous systems—including drones, robots, sensors, and human
+      operators—into a unified zero-trust architecture. Through Secure Runtime
+      Assurance (SRTA) and Secure Spatio-Temporal Reasoning (SSTR), ZTASP
+      continuously verifies system integrity, enforces safety constraints, and
+      enables resilient operation even under degraded conditions.
+    imageUrl: https://spectrum.ieee.org/media-library/technology-innovation-institute-logo-with-stylized-tii-and-curved-line.png?id=65498963&width=980
+    categories:
+      - Autonomous-systems
+      - Drones
+      - Sensors
+      - Transportation
+    publishedAt: 2026-04-09T15:06:39.000Z
+    source: IEEE Spectrum — Robotics
+  - title: A new type of electrically driven artificial muscle fiber
+    url: https://news.mit.edu/2026/new-type-electrically-driven-artificial-muscle-fiber-0409
+    summary: Muscles are remarkably effective systems for generating controlled
+      force, and engineers developing hardware for robots or prosthetics have
+      long struggled to create analogs that can approach their unique
+      combination of strength, rapid response, scalability, and control. But
+      now, researchers at the MIT Media Lab and Politecnico di Bari in Italy
+      have developed artificial muscle fibers that come closer to matching many
+      of these qualities.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-medialab-electrofluidic-fiber-muscles.jpg?itok=7FoT5SzS
+    categories: []
+    publishedAt: 2026-04-09T15:00:00.000Z
+    source: MIT Robotics
+  - title: Chip Can Project Video the Size of a Grain of Sand
+    url: https://spectrum.ieee.org/mems-photonics
+    summary: By many estimates, quantum computers will need millions of qubits to
+      realize their potential applications in cybersecurity, drug development,
+      and other industries. The problem is, anyone who has wanted to
+      simultaneously control millions of a certain kind of qubits has run into
+      the problem of trying to control millions of laser beams.
+    imageUrl: https://spectrum.ieee.org/media-library/an-array-of-tiny-metallic-cantilevers-curving-away-from-the-surface-of-a-photonic-chip.jpg?id=65493217&width=1245&height=700&coordinates=0%2C156%2C0%2C157
+    categories:
+      - Microarray
+      - Digital-micromirror-device
+      - Mems
+      - Quantum-computers
+      - Nitrogen-vacancy-defects-diamond
+    publishedAt: 2026-04-09T13:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
   - title: This new chip survives 1300°F (700°C) and could change AI forever
     url: https://www.sciencedaily.com/releases/2026/04/260406192904.htm
     summary: A team of engineers has created a breakthrough memory device that keeps
@@ -122,33 +181,6 @@ articles:
     categories: []
     publishedAt: 2026-04-07T04:01:00.000Z
     source: MIT Engineering
-  - title: Studying Human Attitudes Towards Robots Through Experience
-    url: https://spectrum.ieee.org/boston-dynamics-spot-interaction
-    summary: Building the next generation of robots for successful integration into
-      our homes, offices, and factories is more than just solving the hardware
-      and software problems – we also need to understand how they will be
-      perceived and how they can work effectively with people in those spaces.
-    imageUrl: https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200&height=800&coordinates=62%2C0%2C63%2C0
-    categories:
-      - Boston-dynamics
-      - Legged-robots
-      - Spot-robot
-    publishedAt: 2026-04-05T13:00:01.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Stanford scientists create shape-shifting material that changes color and
-      texture like an octopus
-    url: https://www.sciencedaily.com/releases/2026/03/260330001140.htm
-    summary: A new shape-shifting material can change both its texture and color in
-      seconds, inspired by the camouflage abilities of octopuses. By precisely
-      controlling how a polymer swells with water, researchers can create
-      detailed, reversible patterns at the nanoscale. The material can even
-      mimic realistic surfaces and dynamically adjust how it reflects light. In
-      the future, AI could allow it to automatically blend into its
-      surroundings.
-    imageUrl: https://www.sciencedaily.com/images/1920/soft-photonic-skin-sample-timelapse.webp
-    categories: []
-    publishedAt: 2026-03-31T08:49:34.000Z
-    source: ScienceDaily — Engineering
   - title: A New Way to Spray Paint Color
     url: https://spectrum.ieee.org/spray-paint-color-creator
     summary: We’re all familiar with mixing red, yellow, and blue paint in various
@@ -165,13 +197,3 @@ articles:
       - Mechatronics
     publishedAt: 2026-03-27T14:41:42.000Z
     source: IEEE Spectrum — DIY
-  - title: "AI system learns to keep warehouse robot traffic running smoothly "
-    url: https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326
-    summary: Inside a giant autonomous warehouse, hundreds of robots dart down
-      aisles as they collect and distribute items to fulfill a steady stream of
-      customer orders. In this busy environment, even small traffic jams or
-      minor collisions can snowball into massive slowdowns.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Warehouse-Auto-01-press.jpg?itok=TswYJbkp
-    categories: []
-    publishedAt: 2026-03-26T04:00:00.000Z
-    source: MIT Robotics
