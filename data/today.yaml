@@ -1,57 +1,85 @@
-date: 2026-04-11
+date: 2026-04-13
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Artemis II Astronauts Safely Return to Earth After Historic Flight Around
-      the Moon
-    url: https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/
-    summary: After traveling a greater distance from Earth than any humans before
-      them, the astronauts of Artemis II have safely returned home.
-    imageUrl: https://media.wired.com/photos/69d68fcf1b98acd2337c8732/191:100/w_1280,c_limit/science_Artemis_GettyImages-2269645595.jpg
+  - title: "The more commodified your job, the more likely AI can do it: Lessons
+      from online freelancing"
+    url: https://techxplore.com/news/2026-04-commodified-job-ai-lessons-online.html
+    summary: Not long ago, if you needed a speech polished, a document translated or
+      a logo designed, you would probably have hired a freelancer online.
+      Millions of people did exactly that. They went to platforms such as Fiverr
+      and Upwork and paid someone (maybe on the other side of the world) to do
+      the job.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2019/work.jpg
     categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-04-11T00:08:17.000Z
-    source: WIRED science
-  - title: AI-driven controllers imitating the human brain could strengthen the grid
-    url: https://techxplore.com/news/2026-04-ai-driven-imitating-human-brain.html
-    summary: As traditional power plants are replaced by intermittent sources like
-      solar and wind, maintaining grid stability has become a complex
-      engineering challenge. Hussain Khan's doctoral dissertation at the
-      University of Vaasa, Finland, introduces advanced AI-based control
-      strategies that ensure local grids remain reliable and resilient.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-driven-controllers.jpg
-    categories:
-      - Energy & Green Tech
-    publishedAt: 2026-04-10T18:20:03.000Z
+      - Business
+    publishedAt: 2026-04-12T21:00:03.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One
-      You Think
-    url: https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/
-    summary: The new AI model is being heralded—and feared—as a hacker’s
-      superweapon. Experts say its arrival is a wake-up call for developers who
-      have long made security an afterthought.
-    imageUrl: https://media.wired.com/photos/69d81392ce1f65d162ddb2f0/191:100/w_1280,c_limit/Security_Anthropic_Getty.jpg
+  - title: AI models can fake visual understanding of images that don't exist
+    url: https://techxplore.com/news/2026-04-ai-fake-visual-images-dont.html
+    summary: It wasn't long ago that news headlines claimed that AI might soon
+      assist radiologists in interpreting X-rays of broken bones and analyzing
+      mammograms. We are still far from the destination, as a new study has
+      brought to light the mirage effect, where AI creates detailed descriptions
+      of images that do not exist.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/fake-radiology-underst.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-04-12T17:00:02.000Z
+    source: TechXplore — Computer Science
+  - title: Interface tweak triples graphene oxide fuel cell power density to 0.7 W/cm²
+    url: https://techxplore.com/news/2026-04-interface-tweak-triples-graphene-oxide.html
+    summary: A breakthrough in interface engineering clears the path for
+      sustainable, high-power hydrogen energy. As the world races toward a
+      hydrogen-based society, the quest for a truly green fuel cell has faced a
+      persistent material hurdle. Most modern fuel cells rely on fluorine-based
+      membranes to conduct protons. While effective, these materials are
+      environmentally taxing and expensive to produce. Now, a research team at
+      Kumamoto University's Institute of Industrial Nanomaterials (IINa) has
+      achieved a major milestone in sustainable energy, developing a graphene
+      oxide fuel cell that shatters previous performance records for
+      nanosheet-based electrolytes.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/beyond-fluorine-scient.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-04-11T18:00:05.000Z
+    source: TechXplore — Engineering
+  - title: HIPPO Turns One Master Password Into Many Without Storing Any
+    url: https://spectrum.ieee.org/storeless-password-manager
+    summary: This article is part of our exclusive IEEE Journal Watch series in
+      partnership with IEEE Xplore.
+    imageUrl: https://spectrum.ieee.org/media-library/personified-dots-sneaking-out-of-a-hidden-password-field-on-a-login-page.jpg?id=65493656&width=2000&height=1500&coordinates=166%2C0%2C167%2C0
+    categories:
+      - Cryptography
+      - Passwords
+      - Journal-watch
+    publishedAt: 2026-04-11T13:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Your Push Notifications Aren’t Safe From the FBI
+    url: https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/
+    summary: "Plus: Iran’s internet blackout hits the 1,000-hour mark,
+      cryptocurrency scams result in a record amount of money stolen from
+      Americans, and more."
+    imageUrl: https://media.wired.com/photos/69d99028b8bdc021bdac9df6/191:100/w_1280,c_limit/Security-News-This-Week-Your-Push-Notifications-Arent-Safe-From-the-FBI-Security.jpg
     categories:
       - Security
       - Security / Cyberattacks and Hacks
       - Security / National Security
       - Security / Privacy
       - Security / Security News
-    publishedAt: 2026-04-10T18:08:37.000Z
+    publishedAt: 2026-04-11T10:30:00.000Z
     source: WIRED (AI)
-  - title: A simple baseline for AI forecasting in machine learning
-    url: https://techxplore.com/news/2026-04-simple-baseline-ai-machine.html
-    summary: In a recent paper, SFI Complexity Postdoctoral Fellow Yuanzhao Zhang
-      and co-author William Gilpin show that a deceptively simple forecasting
-      strategy can outperform several leading machine learning forecasting
-      models.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-simple-baseline-for.jpg
+  - title: Flight Path Data Shows How Mosquitoes Target Humans
+    url: https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/
+    summary: Scientists have quantified what draws mosquitoes to people—which could
+      help make better, life-saving bug traps.
+    imageUrl: https://media.wired.com/photos/69d96f59b8bdc021bdac9cf7/191:100/w_1280,c_limit/Why-Mosquitos-Target-Humans-Science-1139949311.jpg
     categories:
-      - Computer Sciences
-    publishedAt: 2026-04-10T18:00:06.000Z
-    source: TechXplore — Computer Science
+      - Science
+      - Science / Health
+    publishedAt: 2026-04-11T10:00:00.000Z
+    source: WIRED science
   - title: Gravitational waves may be hidden in the light atoms emit
     url: https://www.sciencedaily.com/releases/2026/04/260409101109.htm
     summary: Scientists have proposed a surprising new way to detect gravitational
@@ -100,16 +128,6 @@ articles:
     categories: []
     publishedAt: 2026-04-09T18:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: Volcanic rock formula cuts cement emissions by two-thirds
-    url: https://techxplore.com/news/2026-04-volcanic-formula-cement-emissions-thirds.html
-    summary: Researchers have developed a volcanic rock formula that cuts carbon
-      emissions by 67%, potentially offering an affordable alternative to
-      increasingly scarce cement additives.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/volcanic-rock-formula.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-04-09T17:10:01.000Z
-    source: TechXplore — Engineering
   - title: "GoZTASP: A Zero-Trust Platform for Governing Autonomous Systems at
       Mission Scale"
     url: https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/
@@ -141,22 +159,6 @@ articles:
     categories: []
     publishedAt: 2026-04-09T15:00:00.000Z
     source: MIT Robotics
-  - title: Chip Can Project Video the Size of a Grain of Sand
-    url: https://spectrum.ieee.org/mems-photonics
-    summary: By many estimates, quantum computers will need millions of qubits to
-      realize their potential applications in cybersecurity, drug development,
-      and other industries. The problem is, anyone who has wanted to
-      simultaneously control millions of a certain kind of qubits has run into
-      the problem of trying to control millions of laser beams.
-    imageUrl: https://spectrum.ieee.org/media-library/an-array-of-tiny-metallic-cantilevers-curving-away-from-the-surface-of-a-photonic-chip.jpg?id=65493217&width=1245&height=700&coordinates=0%2C156%2C0%2C157
-    categories:
-      - Microarray
-      - Digital-micromirror-device
-      - Mems
-      - Quantum-computers
-      - Nitrogen-vacancy-defects-diamond
-    publishedAt: 2026-04-09T13:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: This new chip survives 1300°F (700°C) and could change AI forever
     url: https://www.sciencedaily.com/releases/2026/04/260406192904.htm
     summary: A team of engineers has created a breakthrough memory device that keeps
