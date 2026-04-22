@@ -1,188 +1,183 @@
-date: 2026-04-13
+date: 2026-04-22
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "The more commodified your job, the more likely AI can do it: Lessons
-      from online freelancing"
-    url: https://techxplore.com/news/2026-04-commodified-job-ai-lessons-online.html
-    summary: Not long ago, if you needed a speech polished, a document translated or
-      a logo designed, you would probably have hired a freelancer online.
-      Millions of people did exactly that. They went to platforms such as Fiverr
-      and Upwork and paid someone (maybe on the other side of the world) to do
-      the job.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2019/work.jpg
+  - title: US government ramps up mass surveillance with help of AI tech, data
+      brokers, and your apps and devices
+    url: https://techxplore.com/news/2026-04-ramps-mass-surveillance-ai-tech.html
+    summary: On a Saturday morning, you head to the hardware store. Your neighbors'
+      Ring cameras film your walk to the car. Your car's sensors, cameras and
+      microphones record your speed, how you drive, where you're going, who's
+      with you, what you say, and biological metrics such as facial expression,
+      weight and heart rate. Your car may also collect text messages and
+      contacts from your connected smartphone.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/surveillance.jpg
     categories:
-      - Business
-    publishedAt: 2026-04-12T21:00:03.000Z
+      - Consumer & Gadgets
+    publishedAt: 2026-04-22T01:20:02.000Z
     source: TechXplore — AI & Machine Learning
-  - title: AI models can fake visual understanding of images that don't exist
-    url: https://techxplore.com/news/2026-04-ai-fake-visual-images-dont.html
-    summary: It wasn't long ago that news headlines claimed that AI might soon
-      assist radiologists in interpreting X-rays of broken bones and analyzing
-      mammograms. We are still far from the destination, as a new study has
-      brought to light the mirage effect, where AI creates detailed descriptions
-      of images that do not exist.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/fake-radiology-underst.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-04-12T17:00:02.000Z
-    source: TechXplore — Computer Science
-  - title: Interface tweak triples graphene oxide fuel cell power density to 0.7 W/cm²
-    url: https://techxplore.com/news/2026-04-interface-tweak-triples-graphene-oxide.html
-    summary: A breakthrough in interface engineering clears the path for
-      sustainable, high-power hydrogen energy. As the world races toward a
-      hydrogen-based society, the quest for a truly green fuel cell has faced a
-      persistent material hurdle. Most modern fuel cells rely on fluorine-based
-      membranes to conduct protons. While effective, these materials are
-      environmentally taxing and expensive to produce. Now, a research team at
-      Kumamoto University's Institute of Industrial Nanomaterials (IINa) has
-      achieved a major milestone in sustainable energy, developing a graphene
-      oxide fuel cell that shatters previous performance records for
-      nanosheet-based electrolytes.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/beyond-fluorine-scient.jpg
+  - title: New study bridges the worlds of classical and quantum physics
+    url: https://news.mit.edu/2026/new-study-bridges-classical-and-quantum-physics-0421
+    summary: When you throw a ball in the air, the equations of classical physics
+      will tell you exactly what path the ball will take as it falls, and when
+      and where it will land. But if you were to squeeze that same ball down to
+      the size of an atom or smaller, it would behave in ways beyond anything
+      that classical physics can predict.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-QuantumBridge-01-press.jpg?itok=MbjLXnQO
+    categories: []
+    publishedAt: 2026-04-21T23:05:00.000Z
+    source: MIT Engineering
+  - title: Tackling the housing shortage with robotic microfactories
+    url: https://news.mit.edu/2026/tackling-housing-shortage-robotic-microfactories-0421
+    summary: A national housing shortage is straining finances and communities
+      across the United States. In Massachusetts, at least 222,000 homes will
+      have to be built in the next 10 years to meet the population's needs. At
+      the same time, there are numerous challenges in traditional construction.
+      There's a shortage of skilled construction workers. Most projects involve
+      multiple contractors and subcontractors, adding complexity and lag time.
+      And the construction process, as well as the buildings themselves, can be
+      a major source of emissions that contribute to climate change.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-system-design.jpg?itok=H2Sm6ipG
+    categories: []
+    publishedAt: 2026-04-21T21:45:00.000Z
+    source: MIT Robotics
+  - title: Tiny 'light-concentrating' particles boost terahertz technology, study
+      shows
+    url: https://techxplore.com/news/2026-04-tiny-particles-boost-terahertz-technology.html
+    summary: Scientists have found a way to boost terahertz technology using
+      particles thousands of times smaller than a grain of sand. Research
+      published in Scientific Reports by Loughborough University's Emergent
+      Photonics Research Center shows how a sparse layer of nanoparticles can
+      make materials that produce terahertz radiation more efficient.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/tiny-light-concentrati.jpg
     categories:
       - Engineering
-    publishedAt: 2026-04-11T18:00:05.000Z
+    publishedAt: 2026-04-21T21:00:04.000Z
     source: TechXplore — Engineering
-  - title: HIPPO Turns One Master Password Into Many Without Storing Any
-    url: https://spectrum.ieee.org/storeless-password-manager
-    summary: This article is part of our exclusive IEEE Journal Watch series in
-      partnership with IEEE Xplore.
-    imageUrl: https://spectrum.ieee.org/media-library/personified-dots-sneaking-out-of-a-hidden-password-field-on-a-login-page.jpg?id=65493656&width=2000&height=1500&coordinates=166%2C0%2C167%2C0
+  - title: OpenAI Beefs Up ChatGPT’s Image Generation Model
+    url: https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/
+    summary: The ChatGPT Images 2.0 model is here. Our testing shows it’s better at
+      creating more detailed images and rendering text, but it still struggles
+      with languages other than English.
+    imageUrl: https://media.wired.com/photos/69e7aa26e71e88c4e31ef5d8/191:100/w_1280,c_limit/GettyImages-2271722472.jpg
     categories:
-      - Cryptography
-      - Passwords
-      - Journal-watch
-    publishedAt: 2026-04-11T13:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: Your Push Notifications Aren’t Safe From the FBI
-    url: https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/
-    summary: "Plus: Iran’s internet blackout hits the 1,000-hour mark,
-      cryptocurrency scams result in a record amount of money stolen from
-      Americans, and more."
-    imageUrl: https://media.wired.com/photos/69d99028b8bdc021bdac9df6/191:100/w_1280,c_limit/Security-News-This-Week-Your-Push-Notifications-Arent-Safe-From-the-FBI-Security.jpg
-    categories:
-      - Security
-      - Security / Cyberattacks and Hacks
-      - Security / National Security
-      - Security / Privacy
-      - Security / Security News
-    publishedAt: 2026-04-11T10:30:00.000Z
+      - Gear
+      - Gear / Gear News and Events
+    publishedAt: 2026-04-21T19:00:00.000Z
     source: WIRED (AI)
-  - title: Flight Path Data Shows How Mosquitoes Target Humans
-    url: https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/
-    summary: Scientists have quantified what draws mosquitoes to people—which could
-      help make better, life-saving bug traps.
-    imageUrl: https://media.wired.com/photos/69d96f59b8bdc021bdac9cf7/191:100/w_1280,c_limit/Why-Mosquitos-Target-Humans-Science-1139949311.jpg
+  - title: How to Watch the 2026 Lyrids Meteor Shower at Its Peak
+    url: https://www.wired.com/story/how-to-watch-the-lyrids-meteor-shower-at-its-peak-2026/
+    summary: Between the night of April 21 and the early morning of April 22, those
+      looking in the right place will see the sky light up with 15 to 20 meteors
+      per hour.
+    imageUrl: https://media.wired.com/photos/69e6859a62260009d0021b0e/191:100/w_1280,c_limit/GettyImages-2210802594.jpg
     categories:
       - Science
-      - Science / Health
-    publishedAt: 2026-04-11T10:00:00.000Z
+      - Science / Space
+    publishedAt: 2026-04-21T09:00:00.000Z
     source: WIRED science
-  - title: Gravitational waves may be hidden in the light atoms emit
-    url: https://www.sciencedaily.com/releases/2026/04/260409101109.htm
-    summary: Scientists have proposed a surprising new way to detect gravitational
-      waves—by observing how they change the light emitted by atoms. These waves
-      can subtly shift photon frequencies in different directions, leaving
-      behind a detectable signature. The effect doesn’t change how much light
-      atoms emit, which is why it’s gone unnoticed until now. If confirmed, this
-      approach could lead to ultra-compact detectors using cold-atom systems.
-    imageUrl: https://www.sciencedaily.com/images/1920/spontaneous-emission-in-presence-of-gravitational-wave.webp
-    categories: []
-    publishedAt: 2026-04-10T13:43:52.000Z
-    source: ScienceDaily — Engineering
-  - title: This new chip could slash data center energy waste
-    url: https://www.sciencedaily.com/releases/2026/04/260409101103.htm
-    summary: A new chip design from UC San Diego could make data centers far more
-      energy-efficient by rethinking how power is converted for GPUs. By
-      combining vibrating piezoelectric components with a clever circuit layout,
-      the system overcomes limitations of traditional designs. The prototype
-      achieved impressive efficiency and delivered much more power than previous
-      attempts. Though not ready for widespread use yet, it points to a
-      promising future for high-performance computing.
-    imageUrl: https://www.sciencedaily.com/images/1920/piezoelectric-power-converter-on-penny.webp
-    categories: []
-    publishedAt: 2026-04-10T12:45:22.000Z
-    source: ScienceDaily — Computer Science
-  - title: Electrofluidic fiber muscles could enable silent robotic systems
-    url: https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html
-    summary: Muscles are remarkably effective systems for generating controlled
-      force, and engineers developing hardware for robots or prosthetics have
-      long struggled to create analogs that can approach their unique
-      combination of strength, rapid response, scalability, and control. But
-      now, researchers at the MIT Media Lab and Politecnico di Bari in Italy
-      have developed artificial muscle fibers that come closer to matching many
-      of these qualities.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-new-type-of-electric-1.jpg
+  - title: The USC Professor Who Pioneered Socially Assistive Robotics
+    url: https://spectrum.ieee.org/socially-assistive-robotics
+    summary: When the robotics engineering field that Maja Matarić wanted to work in
+      didn’t exist, she helped create it. In 2005 she helped define the new area
+      of socially assistive robotics.
+    imageUrl: https://spectrum.ieee.org/media-library/a-smiling-blonde-woman-poses-with-a-humanoid-robotic-torso-wearing-a-usc-sweatshirt.jpg?id=65574156&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Ieee-member-news
+      - Robots
+      - Socially-assistive-robotics
+      - Mental-health
+      - Ieee-robotics-and-automation-soc
+      - Type-ti
+    publishedAt: 2026-04-20T18:00:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: "Handle with care: Soft robot gripper picks ripe fruit without bruising"
+    url: https://techxplore.com/news/2026-04-soft-robot-gripper-ripe-fruit.html
+    summary: When assessing the ripeness of fruit, sight and smell can tell you a
+      lot, but the best indicator is often how the fruit feels. Cornell
+      researchers used stretchable fiber-optic sensors to create a soft robot
+      gripper that can predict the ripeness of strawberries by touch, then
+      gently twist them off their branch or vine without causing any damage.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/handle-with-care-soft-1.jpg
     categories:
       - Robotics
-    publishedAt: 2026-04-09T18:20:01.000Z
+    publishedAt: 2026-04-20T17:00:01.000Z
     source: TechXplore — Robotics
-  - title: A philosophy of work
-    url: https://news.mit.edu/2026/philosophy-work-michal-masny-0409
-    summary: What makes work valuable? Michal Masny, the NC Ethics of Technology
-      Postdoctoral Fellow in the MIT Department of Philosophy, investigates the
-      role work plays in our lives and its impact on our well-being.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-philosophy-Michal-Masny.jpg?itok=W40Yn7Ni
+  - title: After 200 years scientists finally crack the “dolomite problem”
+    url: https://www.sciencedaily.com/releases/2026/04/260420015840.htm
+    summary: After two centuries of failed attempts, scientists have finally grown
+      dolomite in the lab, cracking a long-standing geological puzzle. They
+      discovered that the mineral’s growth stalls because of tiny defects—but in
+      nature, those flaws get washed away over time. By mimicking this process
+      with precise simulations and electron beam pulses, the team achieved
+      record-breaking crystal growth. The finding could reshape how high-tech
+      materials are made.
+    imageUrl: https://www.sciencedaily.com/images/1920/wenhao-sun-and-joonsoo-kim.webp
     categories: []
-    publishedAt: 2026-04-09T18:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: "GoZTASP: A Zero-Trust Platform for Governing Autonomous Systems at
-      Mission Scale"
-    url: https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/
-    summary: ZTASP is a mission-scale assurance and governance platform designed for
-      autonomous systems operating in real-world environments. It integrates
-      heterogeneous systems—including drones, robots, sensors, and human
-      operators—into a unified zero-trust architecture. Through Secure Runtime
-      Assurance (SRTA) and Secure Spatio-Temporal Reasoning (SSTR), ZTASP
-      continuously verifies system integrity, enforces safety constraints, and
-      enables resilient operation even under degraded conditions.
-    imageUrl: https://spectrum.ieee.org/media-library/technology-innovation-institute-logo-with-stylized-tii-and-curved-line.png?id=65498963&width=980
-    categories:
-      - Autonomous-systems
-      - Drones
-      - Sensors
-      - Transportation
-    publishedAt: 2026-04-09T15:06:39.000Z
-    source: IEEE Spectrum — Robotics
-  - title: A new type of electrically driven artificial muscle fiber
-    url: https://news.mit.edu/2026/new-type-electrically-driven-artificial-muscle-fiber-0409
-    summary: Muscles are remarkably effective systems for generating controlled
-      force, and engineers developing hardware for robots or prosthetics have
-      long struggled to create analogs that can approach their unique
-      combination of strength, rapid response, scalability, and control. But
-      now, researchers at the MIT Media Lab and Politecnico di Bari in Italy
-      have developed artificial muscle fibers that come closer to matching many
-      of these qualities.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-medialab-electrofluidic-fiber-muscles.jpg?itok=7FoT5SzS
+    publishedAt: 2026-04-20T06:28:54.000Z
+    source: ScienceDaily — Engineering
+  - title: Artificial neurons successfully communicate with living brain cells
+    url: https://www.sciencedaily.com/releases/2026/04/260417225020.htm
+    summary: Engineers at Northwestern University have taken a striking leap toward
+      merging machines with the human brain by printing artificial neurons that
+      can actually communicate with real ones. These flexible, low-cost devices
+      generate lifelike electrical signals capable of activating living brain
+      cells, a breakthrough demonstrated in mouse brain tissue.
+    imageUrl: https://www.sciencedaily.com/images/1920/aerosol-jet-printing.webp
     categories: []
-    publishedAt: 2026-04-09T15:00:00.000Z
-    source: MIT Robotics
-  - title: This new chip survives 1300°F (700°C) and could change AI forever
-    url: https://www.sciencedaily.com/releases/2026/04/260406192904.htm
-    summary: A team of engineers has created a breakthrough memory device that keeps
-      working at temperatures hotter than molten lava, shattering one of
-      electronics’ biggest limits. Built from an unusual stack of ultra-durable
-      materials, the tiny component can store data and perform calculations even
-      at 700°C (1300°F), far beyond what today’s chips can handle. The discovery
-      was partly accidental, but it revealed a powerful new mechanism that
-      prevents heat-induced failure at the atomic level.
-    imageUrl: https://www.sciencedaily.com/images/1920/hot-lava-computer-memory-chip.webp
-    categories: []
-    publishedAt: 2026-04-07T05:32:38.000Z
+    publishedAt: 2026-04-18T07:32:36.000Z
     source: ScienceDaily — Robotics
-  - title: MIT graduate engineering and business programs ranked highly by U.S. News
-      for 2026-27
-    url: https://news.mit.edu/2026/mit-graduate-engineering-business-programs-ranked-highly-us-news-0407
-    summary: U.S. News and World Report has again placed MIT’s graduate program in
-      engineering at the top of its annual rankings, released today. The
-      Institute has held the No. 1 spot since 1990, when the magazine first
-      ranked such programs.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT_Campus_SpringErtl-01-press.jpg?itok=yFzYxjm3
+  - title: Designing Broadband LPDA-Fed Reflector Antennas With Full-Wave EM
+      Simulation
+    url: https://content.knowledgehub.wiley.com/efficient-design-and-simulation-of-lpda-fed-parabolic-reflector-antennas/
+    summary: A practical guide to designing log-periodic dipole array fed parabolic
+      reflector antennas using advanced 3D MoM simulation — from parametric
+      modeling to electrically large structures.
+    imageUrl: https://spectrum.ieee.org/media-library/wipl-d-logo.png?id=26851496&width=980
+    categories:
+      - Type-whitepaper
+      - Broadband
+      - Antennas
+      - Simulation
+    publishedAt: 2026-04-17T14:00:50.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Jacob Andreas and Brett McGuire named Edgerton Award winners
+    url: https://news.mit.edu/2026/jacob-andreas-brett-mcguire-edgerton-award-winners-0417
+    summary: MIT Associate Professor Jacob Andreas of the Department of Electrical
+      Engineering and Computer Science [EECS] and MIT Associate Professor Brett
+      McGuire of the Department of Chemistry have been selected as the winners
+      of the 2026 Harold E. Edgerton Faculty Achievement Award. Established in
+      1982 as a permanent tribute to Institute Professor Emeritus Harold E.
+      Edgerton’s great and enduring support for younger faculty members, this
+      award is given annually in recognition of exceptional distinction in
+      teaching, research, and service.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-Edgerton-Award-Brett-McGuire-Jacob-Andreas.jpg?itok=m8C4mGM-
     categories: []
-    publishedAt: 2026-04-07T04:01:00.000Z
-    source: MIT Engineering
+    publishedAt: 2026-04-17T13:40:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Optical Fiber Networks Can Keep Rail Networks Safe
+    url: https://spectrum.ieee.org/distributed-acoustic-sensing-trains-railways
+    summary: This article is part of our exclusive IEEE Journal Watch series in
+      partnership with IEEE Xplore.
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-fiber-optic-cable-installed-across-the-front-of-a-railroad-sound-barrier-wall.jpg?id=65515235&width=2000&height=1500&coordinates=166%2C0%2C167%2C0
+    categories:
+      - Trains
+      - Fiber-network
+      - Journal-watch
+    publishedAt: 2026-04-16T15:02:45.000Z
+    source: IEEE Spectrum — AI
+  - title: Prompt coaching tool raises user awareness of bias in generative AI systems
+    url: https://techxplore.com/news/2026-04-prompt-tool-user-awareness-bias.html
+    summary: A coaching tool built into artificial intelligence (AI)-powered systems
+      may raise user awareness of bias in AI algorithms and help individuals
+      better prompt generative AI tools to produce more inclusive content,
+      according to researchers at Penn State and Oregon State University.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/prompt-coaching-tool-r-1.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-04-16T12:00:02.000Z
+    source: TechXplore — Computer Science
   - title: A New Way to Spray Paint Color
     url: https://spectrum.ieee.org/spray-paint-color-creator
     summary: We’re all familiar with mixing red, yellow, and blue paint in various
