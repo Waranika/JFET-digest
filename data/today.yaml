@@ -1,33 +1,138 @@
-date: 2026-04-22
+date: 2026-04-23
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: US government ramps up mass surveillance with help of AI tech, data
-      brokers, and your apps and devices
-    url: https://techxplore.com/news/2026-04-ramps-mass-surveillance-ai-tech.html
-    summary: On a Saturday morning, you head to the hardware store. Your neighbors'
-      Ring cameras film your walk to the car. Your car's sensors, cameras and
-      microphones record your speed, how you drive, where you're going, who's
-      with you, what you say, and biological metrics such as facial expression,
-      weight and heart rate. Your car may also collect text messages and
-      contacts from your connected smartphone.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/surveillance.jpg
-    categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-04-22T01:20:02.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: New study bridges the worlds of classical and quantum physics
-    url: https://news.mit.edu/2026/new-study-bridges-classical-and-quantum-physics-0421
-    summary: When you throw a ball in the air, the equations of classical physics
-      will tell you exactly what path the ball will take as it falls, and when
-      and where it will land. But if you were to squeeze that same ball down to
-      the size of an atom or smaller, it would behave in ways beyond anything
-      that classical physics can predict.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-QuantumBridge-01-press.jpg?itok=MbjLXnQO
+  - title: New chip can protect wireless biomedical devices from quantum attacks
+    url: https://news.mit.edu/2026/new-chip-can-protect-wireless-biomedical-devices-from-quantum-attacks-0423
+    summary: As quantum computers advance, they are expected to be able to break
+      tried-and-true security schemes that currently keep most sensitive data
+      secure from attackers. Scientists and policymakers are working to design
+      and implement post-quantum cryptography to defend against these future
+      attacks.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT_Post-Quantum-01-press.jpg?itok=jNNP830F
     categories: []
-    publishedAt: 2026-04-21T23:05:00.000Z
+    publishedAt: 2026-04-23T04:00:00.000Z
     source: MIT Engineering
+  - title: Single-minded pursuit of profit can get firms in trouble. Same thing with
+      AI.
+    url: https://techxplore.com/news/2026-04-minded-pursuit-profit-firms-ai.html
+    summary: If you give artificial intelligence a goal of maximizing profit, how
+      far will it go? AI agents appear capable of lying, concealing, and
+      colluding, according to new research from Harvard Business School.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/single-minded-pursuit.jpg
+    categories:
+      - Business
+    publishedAt: 2026-04-22T23:20:04.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't
+      Exist
+    url: https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/
+    summary: “To be clear, we were never approached … nor were we in any discussions
+      regarding a partnership or tour access,” a spokesperson for the artist
+      tells WIRED.
+    imageUrl: https://media.wired.com/photos/69e9205d27d28cd206268af9/191:100/w_1280,c_limit/Sam-Altman-Orb-Company-Invented-Partnership-with-Bruno-Mars-Business.jpg
+    categories:
+      - Business
+      - Business / Blockchain and Cryptocurrency
+    publishedAt: 2026-04-22T22:11:15.000Z
+    source: WIRED (AI)
+  - title: Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What
+      Happened Next
+    url: https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/
+    summary: After scientists exposed wild fish to cocaine and a cocaine metabolite,
+      they observed that, as in the lab, fish on cocaine do not act like normal
+      fish.
+    imageUrl: https://media.wired.com/photos/69e92e5066ef7baae78bcd9c/191:100/w_1280,c_limit/science_salmon_drugs_GettyImages-147521591.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-04-22T21:34:03.000Z
+    source: WIRED science
+  - title: Excuse me, is that solar panel pointing in the right direction?
+    url: https://techxplore.com/news/2026-04-solar-panel.html
+    summary: On a bright morning, graduate student Jeremy Klotz and professor Shree
+      Nayar walked through upper Manhattan with a tall tripod and a camera that
+      takes 360-degree images. Their route took them to bike docking stations,
+      which use solar energy to power their kiosks, docking mechanisms, wireless
+      communication, and even E-bike recharging in recent installations. At each
+      docking station, the researchers raised the camera above the panel,
+      snapped a spherical picture, and sent it to Klotz's laptop.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/is-that-solar-panel-po.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-04-22T20:40:11.000Z
+    source: TechXplore — Engineering
+  - title: Teaching AI models to say 'I'm not sure' in cases of calibration errors
+    url: https://techxplore.com/news/2026-04-ai-im-cases-calibration-errors.html
+    summary: "Confidence is persuasive. In artificial intelligence systems, it is
+      often misleading. Today's most capable reasoning models share a trait with
+      the loudest voice in the room: They deliver every answer with the same
+      unshakable certainty, whether they're right or guessing. Researchers at
+      MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) have
+      now traced that overconfidence to a specific flaw in how these models are
+      trained, and developed a method that fixes it without giving up any
+      accuracy. The team's research is published on the arXiv preprint server."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/teaching-ai-models-to.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-04-22T20:20:04.000Z
+    source: TechXplore — Computer Science
+  - title: Teaching AI models to say “I’m not sure”
+    url: https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422
+    summary: Confidence is persuasive. In artificial intelligence systems, it is
+      often misleading.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-csail-reinforcement.jpg?itok=7eH81sq-
+    categories: []
+    publishedAt: 2026-04-22T19:15:00.000Z
+    source: MIT Artificial Intelligence
+  - title: AI-powered table tennis robot now challenges human pros and hints at
+      faster, more adaptive machines
+    url: https://techxplore.com/news/2026-04-ai-powered-table-tennis-robot.html
+    summary: A paddle-wielding robot is so adept at playing table tennis that it is
+      posing a tough challenge to elite human players and sometimes defeating
+      them, according to a new study that shows how advances in artificial
+      intelligence are making robots more agile.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-robot-is-beating-hum.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-04-22T18:08:53.000Z
+    source: TechXplore — Robotics
+  - title: Reviving Teletext for Ham Radio
+    url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
+    summary: Once upon a time in Europe, television remote controls had a magic
+      teletext button. Years before the internet stole into homes, pressing that
+      button brought up teletext digital information services with hundreds of
+      constantly updated pages. Living in Ireland in the 1980s and ’90s, my
+      family accessed the national teletext service—Aertel—multiple times a day
+      for weather and news bulletins, as well as things like TV program guides
+      and updates on airport flight arrivals.
+    imageUrl: https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&width=1200&height=800&coordinates=0%2C275%2C0%2C275
+    categories:
+      - Amateur-radio
+      - Ham-radio
+      - Llms
+      - Vibe-coding
+      - Teletext
+      - Ax25
+    publishedAt: 2026-04-22T16:19:08.000Z
+    source: IEEE Spectrum — DIY
+  - title: AI Agent Designs a RISC-V CPU Core From Scratch
+    url: https://spectrum.ieee.org/ai-chip-design
+    summary: In 2020, researchers fine-tuned a GPT-2 model to design fragments of
+      logic circuits; in 2023, researchers used GPT-4 to help design an 8-bit
+      processor with a novel instruction set; by 2024, a variety of LLMs could
+      design and test chips with basic functionality, like dice rolls (though
+      often these were flawed).
+    imageUrl: https://spectrum.ieee.org/media-library/a-graphic-design-system-plot-of-a-risc-v-cpu-core-it-resembles-a-square-grid-covered-in-colorful-vertical-and-horizontal-scratc.jpg?id=65519361&width=1200&height=400&coordinates=0%2C1042%2C0%2C1042
+    categories:
+      - Eda
+      - Chip-design
+      - Agentic-ai
+      - Risc-v
+      - Cpu
+    publishedAt: 2026-04-22T11:00:01.000Z
+    source: IEEE Spectrum — AI
   - title: Tackling the housing shortage with robotic microfactories
     url: https://news.mit.edu/2026/tackling-housing-shortage-robotic-microfactories-0421
     summary: A national housing shortage is straining finances and communities
@@ -42,68 +147,6 @@ articles:
     categories: []
     publishedAt: 2026-04-21T21:45:00.000Z
     source: MIT Robotics
-  - title: Tiny 'light-concentrating' particles boost terahertz technology, study
-      shows
-    url: https://techxplore.com/news/2026-04-tiny-particles-boost-terahertz-technology.html
-    summary: Scientists have found a way to boost terahertz technology using
-      particles thousands of times smaller than a grain of sand. Research
-      published in Scientific Reports by Loughborough University's Emergent
-      Photonics Research Center shows how a sparse layer of nanoparticles can
-      make materials that produce terahertz radiation more efficient.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/tiny-light-concentrati.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-04-21T21:00:04.000Z
-    source: TechXplore — Engineering
-  - title: OpenAI Beefs Up ChatGPT’s Image Generation Model
-    url: https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/
-    summary: The ChatGPT Images 2.0 model is here. Our testing shows it’s better at
-      creating more detailed images and rendering text, but it still struggles
-      with languages other than English.
-    imageUrl: https://media.wired.com/photos/69e7aa26e71e88c4e31ef5d8/191:100/w_1280,c_limit/GettyImages-2271722472.jpg
-    categories:
-      - Gear
-      - Gear / Gear News and Events
-    publishedAt: 2026-04-21T19:00:00.000Z
-    source: WIRED (AI)
-  - title: How to Watch the 2026 Lyrids Meteor Shower at Its Peak
-    url: https://www.wired.com/story/how-to-watch-the-lyrids-meteor-shower-at-its-peak-2026/
-    summary: Between the night of April 21 and the early morning of April 22, those
-      looking in the right place will see the sky light up with 15 to 20 meteors
-      per hour.
-    imageUrl: https://media.wired.com/photos/69e6859a62260009d0021b0e/191:100/w_1280,c_limit/GettyImages-2210802594.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-04-21T09:00:00.000Z
-    source: WIRED science
-  - title: The USC Professor Who Pioneered Socially Assistive Robotics
-    url: https://spectrum.ieee.org/socially-assistive-robotics
-    summary: When the robotics engineering field that Maja Matarić wanted to work in
-      didn’t exist, she helped create it. In 2005 she helped define the new area
-      of socially assistive robotics.
-    imageUrl: https://spectrum.ieee.org/media-library/a-smiling-blonde-woman-poses-with-a-humanoid-robotic-torso-wearing-a-usc-sweatshirt.jpg?id=65574156&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Ieee-member-news
-      - Robots
-      - Socially-assistive-robotics
-      - Mental-health
-      - Ieee-robotics-and-automation-soc
-      - Type-ti
-    publishedAt: 2026-04-20T18:00:02.000Z
-    source: IEEE Spectrum — Robotics
-  - title: "Handle with care: Soft robot gripper picks ripe fruit without bruising"
-    url: https://techxplore.com/news/2026-04-soft-robot-gripper-ripe-fruit.html
-    summary: When assessing the ripeness of fruit, sight and smell can tell you a
-      lot, but the best indicator is often how the fruit feels. Cornell
-      researchers used stretchable fiber-optic sensors to create a soft robot
-      gripper that can predict the ripeness of strawberries by touch, then
-      gently twist them off their branch or vine without causing any damage.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/handle-with-care-soft-1.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-04-20T17:00:01.000Z
-    source: TechXplore — Robotics
   - title: After 200 years scientists finally crack the “dolomite problem”
     url: https://www.sciencedaily.com/releases/2026/04/260420015840.htm
     summary: After two centuries of failed attempts, scientists have finally grown
@@ -128,69 +171,3 @@ articles:
     categories: []
     publishedAt: 2026-04-18T07:32:36.000Z
     source: ScienceDaily — Robotics
-  - title: Designing Broadband LPDA-Fed Reflector Antennas With Full-Wave EM
-      Simulation
-    url: https://content.knowledgehub.wiley.com/efficient-design-and-simulation-of-lpda-fed-parabolic-reflector-antennas/
-    summary: A practical guide to designing log-periodic dipole array fed parabolic
-      reflector antennas using advanced 3D MoM simulation — from parametric
-      modeling to electrically large structures.
-    imageUrl: https://spectrum.ieee.org/media-library/wipl-d-logo.png?id=26851496&width=980
-    categories:
-      - Type-whitepaper
-      - Broadband
-      - Antennas
-      - Simulation
-    publishedAt: 2026-04-17T14:00:50.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: Jacob Andreas and Brett McGuire named Edgerton Award winners
-    url: https://news.mit.edu/2026/jacob-andreas-brett-mcguire-edgerton-award-winners-0417
-    summary: MIT Associate Professor Jacob Andreas of the Department of Electrical
-      Engineering and Computer Science [EECS] and MIT Associate Professor Brett
-      McGuire of the Department of Chemistry have been selected as the winners
-      of the 2026 Harold E. Edgerton Faculty Achievement Award. Established in
-      1982 as a permanent tribute to Institute Professor Emeritus Harold E.
-      Edgerton’s great and enduring support for younger faculty members, this
-      award is given annually in recognition of exceptional distinction in
-      teaching, research, and service.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-Edgerton-Award-Brett-McGuire-Jacob-Andreas.jpg?itok=m8C4mGM-
-    categories: []
-    publishedAt: 2026-04-17T13:40:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Optical Fiber Networks Can Keep Rail Networks Safe
-    url: https://spectrum.ieee.org/distributed-acoustic-sensing-trains-railways
-    summary: This article is part of our exclusive IEEE Journal Watch series in
-      partnership with IEEE Xplore.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-fiber-optic-cable-installed-across-the-front-of-a-railroad-sound-barrier-wall.jpg?id=65515235&width=2000&height=1500&coordinates=166%2C0%2C167%2C0
-    categories:
-      - Trains
-      - Fiber-network
-      - Journal-watch
-    publishedAt: 2026-04-16T15:02:45.000Z
-    source: IEEE Spectrum — AI
-  - title: Prompt coaching tool raises user awareness of bias in generative AI systems
-    url: https://techxplore.com/news/2026-04-prompt-tool-user-awareness-bias.html
-    summary: A coaching tool built into artificial intelligence (AI)-powered systems
-      may raise user awareness of bias in AI algorithms and help individuals
-      better prompt generative AI tools to produce more inclusive content,
-      according to researchers at Penn State and Oregon State University.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/prompt-coaching-tool-r-1.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-04-16T12:00:02.000Z
-    source: TechXplore — Computer Science
-  - title: A New Way to Spray Paint Color
-    url: https://spectrum.ieee.org/spray-paint-color-creator
-    summary: We’re all familiar with mixing red, yellow, and blue paint in various
-      ratios to instantly make all kinds of colors. This works great for oils or
-      watercolors, but fails when it comes to cans of spray paint. The paint
-      droplets can’t be blended once they are aerosolized. Consequently,
-      although spray cans are great for applying even coats of paint to large
-      areas very quickly, spray-paint artists need a separate can for every
-      color they want to use—until now.
-    imageUrl: https://spectrum.ieee.org/media-library/a-portable-device-with-four-spray-paint-canisters-at-the-bottom-and-tubing-and-electronics-mounted-on-a-frame-above-them.png?id=65404484&width=1245&height=700&coordinates=0%2C418%2C0%2C419
-    categories:
-      - Spray-paint
-      - Arduino
-      - Mechatronics
-    publishedAt: 2026-03-27T14:41:42.000Z
-    source: IEEE Spectrum — DIY
