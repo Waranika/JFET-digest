@@ -1,43 +1,72 @@
-date: 2026-04-24
+date: 2026-04-25
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: This featherweight elastic suit could transform everyday movement in ways
-      most people would never expect
-    url: https://techxplore.com/news/2026-04-featherweight-elastic-everyday-movement-ways.html
-    summary: A team of Korean researchers has developed a lightweight elastic suit
-      that can support the activities of various groups experiencing physical
-      burdens in daily life, raising expectations.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/etri-develops-ultra-li.jpg
+  - title: China's top AI players
+    url: https://techxplore.com/news/2026-04-china-ai-players.html
+    summary: China's artificial intelligence boom is in full swing, with the release
+      of a new large language model (LLM) by top startup DeepSeek on Friday
+      highlighting the country's rapid progress despite U.S. export restrictions
+      on advanced microchips.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/chinese-startup-deepse.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-04-25T00:40:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials
+    url: https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/
+    summary: Isomorphic Labs president Max Jaderberg said at WIRED Health in London
+      that the startup has built a “broad and exciting pipeline of new
+      medicines.”
+    imageUrl: https://media.wired.com/photos/69ea468e0e9dbe999945f7fa/191:100/w_1280,c_limit/XT502412.jpg
+    categories:
+      - Science
+    publishedAt: 2026-04-24T17:17:36.000Z
+    source: WIRED (AI)
+  - title: MIT scientists build the world’s largest collection of Olympiad-level
+      math problems, and open it to everyone
+    url: https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424
+    summary: Every year, the countries competing in the International Mathematical
+      Olympiad (IMO) arrive with a booklet of their best, most original
+      problems. Those booklets get shared among delegations, then quietly
+      disappear. No one had ever collected them systematically, cleaned them,
+      and made them available, not for AI researchers testing the limits of
+      mathematical reasoning, and not for the students around the world training
+      for these competitions largely on their own.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-MathNet.jpg?itok=-PPhyeth
+    categories: []
+    publishedAt: 2026-04-24T17:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: "Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?"
+    url: https://spectrum.ieee.org/video-friday-ping-pong-robot
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/robotic-arm-with-paddle-and-an-orange-ping-pong-ball-hovering-over-a-sony-labeled-table-tennis-table.png?id=65961797&width=1245&height=700&coordinates=0%2C60%2C0%2C61
+    categories:
+      - Robotics
+      - Humanoid-robots
+      - Video-friday
+      - Quadruped-robots
+      - Robot-videos
+      - Industrial-robots
+    publishedAt: 2026-04-24T16:30:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: "Bubble trouble: Hydrogen research highlights outsized impacts of tiny
+      bubbles in water electrolysis"
+    url: https://techxplore.com/news/2026-04-hydrogen-highlights-outsized-impacts-tiny.html
+    summary: "Hydrogen is often described as the fuel of the future—a clean,
+      energy-dense way to store renewable power and decarbonize industries from
+      steelmaking to shipping. But inside the devices that produce it, a
+      surprisingly small and familiar phenomenon is getting in the way:
+      bubbles."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/bubble-trouble-new-res.jpg
     categories:
       - Engineering
-    publishedAt: 2026-04-24T02:20:01.000Z
+    publishedAt: 2026-04-24T15:40:07.000Z
     source: TechXplore — Engineering
-  - title: AI has crossed a threshold. What Claude Mythos means for the future of
-      cybersecurity
-    url: https://techxplore.com/news/2026-04-ai-threshold-claude-mythos-future.html
-    summary: The limit of what artificial intelligence can achieve, known as
-      frontier AI, has crossed another threshold. AI can now plan and execute
-      sophisticated cyber operations with minimal guidance at speeds far beyond
-      human capability.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/frontier-ai-sandbox.jpg
-    categories:
-      - Security
-    publishedAt: 2026-04-23T20:20:02.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s
-      Controversial Manifesto
-    url: https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/
-    summary: In this week’s episode of Uncanny Valley, we talk about Tim Cook’s
-      legacy as CEO at Apple and what his long-rumored departure means for the
-      future of one of the world's biggest companies.
-    imageUrl: https://media.wired.com/photos/69e9325b3ea6d24e4cfdd4c8/191:100/w_1280,c_limit/Uncanny-Valley-Tim-Cook-Business-2233926826.jpg
-    categories:
-      - Business
-      - Business / Big Tech
-    publishedAt: 2026-04-23T19:26:11.000Z
-    source: WIRED (AI)
   - title: Researchers develop navigation system for underground rescue teams
     url: https://techxplore.com/news/2026-04-underground-teams.html
     summary: Operations underground, for example in underground stations, tunnels or
@@ -62,7 +91,7 @@ articles:
       implications, compromising the devices and services we use every day. As a
       result, Anthropic is not releasing the model to the general public, but
       instead to a limited number of companies.
-    imageUrl: https://spectrum.ieee.org/media-library/a-cgi-image-of-a-translucent-padlock-filled-with-0s-and-1s-one-spot-is-broken-and-the-numbers-are-spraying-out-of-that-spot.jpg?id=65714765&width=1245&height=700&coordinates=0%2C156%2C0%2C157
+    imageUrl: https://spectrum.ieee.org/media-library/a-cgi-image-of-a-translucent-padlock-filled-with-0s-and-1s-one-spot-is-broken-and-the-numbers-are-spraying-out-of-that-spot.jpg?id=65714765&width=1200&height=800&coordinates=156%2C0%2C156%2C0
     categories:
       - Cybersecurity
       - Anthropic
@@ -84,31 +113,6 @@ articles:
     categories: []
     publishedAt: 2026-04-23T13:38:47.000Z
     source: ScienceDaily — Robotics
-  - title: This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC
-    url: https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica
-    summary: Tom Burick has always considered himself a builder. Over the years he’s
-      designed robots, constructed a vintage teardrop trailer, and most
-      recently, led a group of students in building a full-scale replica of a
-      pivotal 1940s computer.
-    imageUrl: https://spectrum.ieee.org/media-library/man-crouches-behind-three-robots.png?id=65575461&width=1200&height=800&coordinates=0%2C115%2C0%2C115
-    categories:
-      - Robotics
-      - Eniac
-      - Teaching
-      - Neurodivergent
-      - Computer-history
-    publishedAt: 2026-04-23T13:00:01.000Z
-    source: IEEE Spectrum — Robotics
-  - title: A Startup Says It Grew Human Sperm in a Lab—and Used It to Make Embryos
-    url: https://www.wired.com/story/startup-says-it-grew-human-sperm-in-a-lab-and-used-it-to-make-embryos/
-    summary: Paterna Biosciences says it has determined the set of instructions
-      needed to turn sperm-making stem cells into "normal, mature" sperm.
-    imageUrl: https://media.wired.com/photos/69e78ac48d70372b131da73b/191:100/w_1280,c_limit/Science_It'sNowPossibletoMakeHumanSperminaLab.jpg
-    categories:
-      - Science
-      - Science / Biotech
-    publishedAt: 2026-04-23T09:30:00.000Z
-    source: WIRED science
   - title: This new brain-like chip could slash AI energy use by 70%
     url: https://www.sciencedaily.com/releases/2026/04/260422044633.htm
     summary: A breakthrough in brain-inspired computing could make today’s
@@ -148,14 +152,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-04-22T20:20:04.000Z
     source: TechXplore — Computer Science
-  - title: Teaching AI models to say “I’m not sure”
-    url: https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422
-    summary: Confidence is persuasive. In artificial intelligence systems, it is
-      often misleading.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-csail-reinforcement.jpg?itok=7eH81sq-
-    categories: []
-    publishedAt: 2026-04-22T19:15:00.000Z
-    source: MIT Artificial Intelligence
   - title: Reviving Teletext for Ham Radio
     url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
     summary: Once upon a time in Europe, television remote controls had a magic
@@ -165,7 +161,7 @@ articles:
       family accessed the national teletext service—Aertel—multiple times a day
       for weather and news bulletins, as well as things like TV program guides
       and updates on airport flight arrivals.
-    imageUrl: https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&width=2000&height=1500&coordinates=0%2C197%2C0%2C198
+    imageUrl: https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&width=1200&height=600&coordinates=0%2C430%2C0%2C431
     categories:
       - Amateur-radio
       - Ham-radio
