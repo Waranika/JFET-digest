@@ -1,19 +1,57 @@
-date: 2026-04-25
+date: 2026-04-27
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: China's top AI players
-    url: https://techxplore.com/news/2026-04-china-ai-players.html
-    summary: China's artificial intelligence boom is in full swing, with the release
-      of a new large language model (LLM) by top startup DeepSeek on Friday
-      highlighting the country's rapid progress despite U.S. export restrictions
-      on advanced microchips.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/chinese-startup-deepse.jpg
+  - title: A faster way to estimate AI power consumption
+    url: https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427
+    summary: Due to the explosive growth of artificial intelligence, it is estimated
+      that data centers will consume up to 12 percent of total U.S. electricity
+      by 2028, according to the Lawrence Berkeley National Laboratory. Improving
+      data center energy efficiency is one way scientists are striving to make
+      AI more sustainable.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT_Power-Estimation-01.jpg?itok=SOtY3I2x
+    categories: []
+    publishedAt: 2026-04-27T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Why the world's banks are so worried about Anthropic's latest AI model
+    url: https://techxplore.com/news/2026-04-world-banks-anthropic-latest-ai.html
+    summary: The legendary American bank robber Willie Sutton spent 40 years robbing
+      banks because, as he claimed in his autobiography, he loved doing it. And
+      when asked why he chose banks of all places to rob, he allegedly replied,
+      "Because that's where the money is."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/why-the-worlds-banks-a.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-04-25T00:40:01.000Z
+      - Business
+    publishedAt: 2026-04-26T20:30:02.000Z
     source: TechXplore — AI & Machine Learning
+  - title: New “optical tornado” technology could transform quantum communication
+    url: https://www.sciencedaily.com/releases/2026/04/260424233215.htm
+    summary: Scientists have created tiny “optical tornadoes” — swirling beams of
+      light that twist like miniature whirlwinds — using a surprisingly simple
+      setup based on liquid crystals. Instead of relying on complex
+      nanotechnology, the team used self-organizing structures called torons to
+      trap and manipulate light, causing it to spiral and rotate in intricate
+      ways. Even more impressively, they achieved this effect in light’s most
+      stable, lowest-energy state, making it far easier to generate laser-like
+      beams with these unusual properties.
+    imageUrl: https://www.sciencedaily.com/images/1920/network-of-torons.webp
+    categories: []
+    publishedAt: 2026-04-25T15:27:49.000Z
+    source: ScienceDaily — Engineering
+  - title: Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos
+    url: https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/
+    summary: "Plus: Spy firms tap into a global telecom weakness to track targets,
+      500,000 UK health records go up for sale on Alibaba, Apple patches a
+      revealing notification bug, and more."
+    imageUrl: https://media.wired.com/photos/69ebf499d9b235ed1b8f0693/191:100/w_1280,c_limit/Security-News-This-Week-Discord-Group-Reportedly-Guessed-Its-Way-Into-Anthropic-Mythos-Security.jpg
+    categories:
+      - Security
+      - Security / Cyberattacks and Hacks
+      - Security / Privacy
+      - Security / Security News
+    publishedAt: 2026-04-25T10:30:00.000Z
+    source: WIRED (AI)
   - title: AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials
     url: https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/
     summary: Isomorphic Labs president Max Jaderberg said at WIRED Health in London
@@ -23,21 +61,7 @@ articles:
     categories:
       - Science
     publishedAt: 2026-04-24T17:17:36.000Z
-    source: WIRED (AI)
-  - title: MIT scientists build the world’s largest collection of Olympiad-level
-      math problems, and open it to everyone
-    url: https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424
-    summary: Every year, the countries competing in the International Mathematical
-      Olympiad (IMO) arrive with a booklet of their best, most original
-      problems. Those booklets get shared among delegations, then quietly
-      disappear. No one had ever collected them systematically, cleaned them,
-      and made them available, not for AI researchers testing the limits of
-      mathematical reasoning, and not for the students around the world training
-      for these competitions largely on their own.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-MathNet.jpg?itok=-PPhyeth
-    categories: []
-    publishedAt: 2026-04-24T17:00:00.000Z
-    source: MIT Artificial Intelligence
+    source: WIRED science
   - title: "Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?"
     url: https://spectrum.ieee.org/video-friday-ping-pong-robot
     summary: Video Friday is your weekly selection of awesome robotics videos,
