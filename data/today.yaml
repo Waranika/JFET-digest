@@ -1,30 +1,112 @@
-date: 2026-04-27
+date: 2026-04-29
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: A faster way to estimate AI power consumption
-    url: https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427
-    summary: Due to the explosive growth of artificial intelligence, it is estimated
-      that data centers will consume up to 12 percent of total U.S. electricity
-      by 2028, according to the Lawrence Berkeley National Laboratory. Improving
-      data center energy efficiency is one way scientists are striving to make
-      AI more sustainable.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT_Power-Estimation-01.jpg?itok=SOtY3I2x
+  - title: Enabling privacy-preserving AI training on everyday devices
+    url: https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429
+    summary: A new method developed by MIT researchers can accelerate a
+      privacy-preserving artificial intelligence training method by about 81
+      percent. This advance could enable a wider array of resource-constrained
+      edge devices, like sensors and smartwatches, to deploy more accurate AI
+      models while keeping user data secure.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-Federated-Constrained-01-press.jpg?itok=ILr4mnWw
     categories: []
-    publishedAt: 2026-04-27T04:00:00.000Z
+    publishedAt: 2026-04-29T04:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: Why the world's banks are so worried about Anthropic's latest AI model
-    url: https://techxplore.com/news/2026-04-world-banks-anthropic-latest-ai.html
-    summary: The legendary American bank robber Willie Sutton spent 40 years robbing
-      banks because, as he claimed in his autobiography, he loved doing it. And
-      when asked why he chose banks of all places to rob, he allegedly replied,
-      "Because that's where the money is."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/why-the-worlds-banks-a.jpg
+  - title: OpenAI Really Wants Codex to Shut Up About Goblins
+    url: https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/
+    summary: “Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons,
+      or other animals or creatures unless it is absolutely and unambiguously
+      relevant,” reads OpenAI’s coding agent instructions.
+    imageUrl: https://media.wired.com/photos/69f144197df9442e8d9b4623/191:100/w_1280,c_limit/biz_gremlin_GettyImages-163004531.jpg
     categories:
       - Business
-    publishedAt: 2026-04-26T20:30:02.000Z
-    source: TechXplore — AI & Machine Learning
+      - Business / Artificial Intelligence
+    publishedAt: 2026-04-28T23:45:05.000Z
+    source: WIRED (AI)
+  - title: Cell phone-based maps could reshape city planning, from bus schedules to
+      traffic hotspots
+    url: https://techxplore.com/news/2026-04-cell-based-reshape-city-bus.html
+    summary: Understanding how people use the spaces they inhabit—where they live,
+      work, and gather—is key to effective urban planning that meets their
+      needs. For example, knowing which routes are most commonly used to travel
+      from residential neighborhoods to workplaces, and during which time
+      periods, makes it possible to adjust bus routes and frequencies, and to
+      optimize traffic control resources. Identifying meeting, leisure, and
+      event spaces, as well as the time periods when crowds are largest, is
+      useful not only for keeping the public informed, but also for
+      strengthening cleaning and transportation services and developing
+      promotional strategies. The more accurate this information is, the more it
+      will help public administrations to plan urban space and services in
+      effective and realistic ways.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-tool-based-on-cell-p.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-04-28T21:40:07.000Z
+    source: TechXplore — Engineering
+  - title: Can AI quantify beauty? New study suggests it can't
+    url: https://techxplore.com/news/2026-04-ai-quantify-beauty.html
+    summary: Attempts to define human beauty using artificial intelligence may
+      reveal more about bias in data than universal standards, according to a
+      new analysis from the University of Virginia's School of Data Science.
+      Using computer vision and statistical modeling, researchers evaluated
+      whether facial features align with the "Golden Ratio," a mathematical
+      formula often cited as an objective measure of attractiveness. Instead,
+      the analysis found that demographic variation, not mathematical
+      proportion, was the strongest factor shaping model outputs. This
+      challenges long-standing assumptions that beauty can be quantified.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/statue-of-venus.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-04-28T21:00:04.000Z
+    source: TechXplore — Computer Science
+  - title: Robotically assembled building blocks could make construction more
+      efficient and sustainable
+    url: https://techxplore.com/news/2026-04-robotically-blocks-efficient-sustainable.html
+    summary: Robotically assembled building blocks could be a more environmentally
+      friendly method for erecting large-scale structures than some existing
+      construction techniques, according to a new study by MIT researchers
+      published in the journal Automation in Construction.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/robotically-assembled.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-04-28T18:40:05.000Z
+    source: TechXplore — Robotics
+  - title: Better Hardware Could Turn Zeros into AI Heroes
+    url: https://spectrum.ieee.org/sparse-ai
+    summary: When it comes to AI models, size matters.
+    imageUrl: https://spectrum.ieee.org/media-library/abstract-gradient-artwork-of-a-stylized-robot-head-with-circuits-and-binary-code-patterns.jpg?id=65862907&width=1245&height=700&coordinates=0%2C760%2C0%2C761
+    categories:
+      - Ai-models
+      - Gpus
+      - Energy-efficiency
+      - Data-compression
+    publishedAt: 2026-04-28T18:03:40.000Z
+    source: IEEE Spectrum — AI
+  - title: The UK’s Answer to Darpa Wants to Rewire the Human Brain
+    url: https://www.wired.com/story/kathleen-fisher-jacques-carolan-aria-wired-health/
+    summary: ARIA has a billion-dollar budget and big aspirations for tackling
+      everything from epilepsy to Alzheimer's.
+    imageUrl: https://media.wired.com/photos/69ef9664ce67ed64909ae92c/191:100/w_1280,c_limit/Kathleen-Jacques-WIRED-Health-Science-XT502889.jpg
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2026-04-28T17:58:29.000Z
+    source: WIRED science
+  - title: With a swipe of a magnet, microscopic “magno-bots” perform complex
+      maneuvers
+    url: https://news.mit.edu/2026/microscopic-magno-bots-perform-complex-maneuvers-with-magnet-swipe-0428
+    summary: Under a microscope, a bouquet of lollipop-like structures, each smaller
+      than a grain of sand, waves gently in a petri dish of liquid. Suddenly,
+      they snap together, like the jaws of a Venus flytrap, as a scientist waves
+      a small magnet over the dish. What was previously an assemblage of tiny
+      passive structures has transformed instantly into an active robotic
+      gripper.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-Mini-MagnoBot-01-press.jpg?itok=Ob5IT48P
+    categories: []
+    publishedAt: 2026-04-28T15:00:00.000Z
+    source: MIT Robotics
   - title: New “optical tornado” technology could transform quantum communication
     url: https://www.sciencedaily.com/releases/2026/04/260424233215.htm
     summary: Scientists have created tiny “optical tornadoes” — swirling beams of
@@ -39,36 +121,13 @@ articles:
     categories: []
     publishedAt: 2026-04-25T15:27:49.000Z
     source: ScienceDaily — Engineering
-  - title: Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos
-    url: https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/
-    summary: "Plus: Spy firms tap into a global telecom weakness to track targets,
-      500,000 UK health records go up for sale on Alibaba, Apple patches a
-      revealing notification bug, and more."
-    imageUrl: https://media.wired.com/photos/69ebf499d9b235ed1b8f0693/191:100/w_1280,c_limit/Security-News-This-Week-Discord-Group-Reportedly-Guessed-Its-Way-Into-Anthropic-Mythos-Security.jpg
-    categories:
-      - Security
-      - Security / Cyberattacks and Hacks
-      - Security / Privacy
-      - Security / Security News
-    publishedAt: 2026-04-25T10:30:00.000Z
-    source: WIRED (AI)
-  - title: AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials
-    url: https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/
-    summary: Isomorphic Labs president Max Jaderberg said at WIRED Health in London
-      that the startup has built a “broad and exciting pipeline of new
-      medicines.”
-    imageUrl: https://media.wired.com/photos/69ea468e0e9dbe999945f7fa/191:100/w_1280,c_limit/XT502412.jpg
-    categories:
-      - Science
-    publishedAt: 2026-04-24T17:17:36.000Z
-    source: WIRED science
   - title: "Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?"
     url: https://spectrum.ieee.org/video-friday-ping-pong-robot
     summary: Video Friday is your weekly selection of awesome robotics videos,
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robotic-arm-with-paddle-and-an-orange-ping-pong-ball-hovering-over-a-sony-labeled-table-tennis-table.png?id=65961797&width=1245&height=700&coordinates=0%2C60%2C0%2C61
+    imageUrl: https://spectrum.ieee.org/media-library/robotic-arm-with-paddle-and-an-orange-ping-pong-ball-hovering-over-a-sony-labeled-table-tennis-table.png?id=65961797&width=1200&height=400&coordinates=0%2C283%2C0%2C283
     categories:
       - Robotics
       - Humanoid-robots
@@ -78,51 +137,6 @@ articles:
       - Industrial-robots
     publishedAt: 2026-04-24T16:30:02.000Z
     source: IEEE Spectrum — Robotics
-  - title: "Bubble trouble: Hydrogen research highlights outsized impacts of tiny
-      bubbles in water electrolysis"
-    url: https://techxplore.com/news/2026-04-hydrogen-highlights-outsized-impacts-tiny.html
-    summary: "Hydrogen is often described as the fuel of the future—a clean,
-      energy-dense way to store renewable power and decarbonize industries from
-      steelmaking to shipping. But inside the devices that produce it, a
-      surprisingly small and familiar phenomenon is getting in the way:
-      bubbles."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/bubble-trouble-new-res.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-04-24T15:40:07.000Z
-    source: TechXplore — Engineering
-  - title: Researchers develop navigation system for underground rescue teams
-    url: https://techxplore.com/news/2026-04-underground-teams.html
-    summary: Operations underground, for example in underground stations, tunnels or
-      mines, are risky and difficult for rescue teams. This is especially true
-      if the technical infrastructure has collapsed due to explosions or fire,
-      and there are no mobile phone signals, electricity, light, Wi-Fi or GNSS,
-      while smoke, debris and damaged paths make orientation even more
-      difficult.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/navigation-system-for.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-04-23T19:00:08.000Z
-    source: TechXplore — Robotics
-  - title: What Anthropic’s Mythos Means for the Future of Cybersecurity
-    url: https://spectrum.ieee.org/ai-cybersecurity-mythos
-    summary: Two weeks ago, Anthropic announced that its new model, Claude Mythos
-      Preview, can autonomously find and weaponize software vulnerabilities,
-      turning them into working exploits without expert guidance. These were
-      vulnerabilities in key software like operating systems and internet
-      infrastructure that thousands of software developers working on those
-      systems failed to find. This capability will have major security
-      implications, compromising the devices and services we use every day. As a
-      result, Anthropic is not releasing the model to the general public, but
-      instead to a limited number of companies.
-    imageUrl: https://spectrum.ieee.org/media-library/a-cgi-image-of-a-translucent-padlock-filled-with-0s-and-1s-one-spot-is-broken-and-the-numbers-are-spraying-out-of-that-spot.jpg?id=65714765&width=1200&height=800&coordinates=156%2C0%2C156%2C0
-    categories:
-      - Cybersecurity
-      - Anthropic
-      - Agentic-ai
-      - Hacking
-    publishedAt: 2026-04-23T14:00:01.000Z
-    source: IEEE Spectrum — AI
   - title: AI just discovered new physics in the fourth state of matter
     url: https://www.sciencedaily.com/releases/2026/04/260422044635.htm
     summary: Physicists have taken a major step toward using AI not just to analyze
@@ -150,32 +164,6 @@ articles:
     categories: []
     publishedAt: 2026-04-23T06:01:42.000Z
     source: ScienceDaily — Computer Science
-  - title: New chip can protect wireless biomedical devices from quantum attacks
-    url: https://news.mit.edu/2026/new-chip-can-protect-wireless-biomedical-devices-from-quantum-attacks-0423
-    summary: As quantum computers advance, they are expected to be able to break
-      tried-and-true security schemes that currently keep most sensitive data
-      secure from attackers. Scientists and policymakers are working to design
-      and implement post-quantum cryptography to defend against these future
-      attacks.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT_Post-Quantum-01-press.jpg?itok=jNNP830F
-    categories: []
-    publishedAt: 2026-04-23T04:00:00.000Z
-    source: MIT Engineering
-  - title: Teaching AI models to say 'I'm not sure' in cases of calibration errors
-    url: https://techxplore.com/news/2026-04-ai-im-cases-calibration-errors.html
-    summary: "Confidence is persuasive. In artificial intelligence systems, it is
-      often misleading. Today's most capable reasoning models share a trait with
-      the loudest voice in the room: They deliver every answer with the same
-      unshakable certainty, whether they're right or guessing. Researchers at
-      MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) have
-      now traced that overconfidence to a specific flaw in how these models are
-      trained, and developed a method that fixes it without giving up any
-      accuracy. The team's research is published on the arXiv preprint server."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/teaching-ai-models-to.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-04-22T20:20:04.000Z
-    source: TechXplore — Computer Science
   - title: Reviving Teletext for Ham Radio
     url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
     summary: Once upon a time in Europe, television remote controls had a magic
@@ -185,7 +173,7 @@ articles:
       family accessed the national teletext service—Aertel—multiple times a day
       for weather and news bulletins, as well as things like TV program guides
       and updates on airport flight arrivals.
-    imageUrl: https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&width=1200&height=600&coordinates=0%2C430%2C0%2C431
+    imageUrl: https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&width=1245&height=700&coordinates=0%2C372%2C0%2C372
     categories:
       - Amateur-radio
       - Ham-radio
@@ -195,17 +183,3 @@ articles:
       - Ax25
     publishedAt: 2026-04-22T16:19:08.000Z
     source: IEEE Spectrum — DIY
-  - title: Tackling the housing shortage with robotic microfactories
-    url: https://news.mit.edu/2026/tackling-housing-shortage-robotic-microfactories-0421
-    summary: A national housing shortage is straining finances and communities
-      across the United States. In Massachusetts, at least 222,000 homes will
-      have to be built in the next 10 years to meet the population's needs. At
-      the same time, there are numerous challenges in traditional construction.
-      There's a shortage of skilled construction workers. Most projects involve
-      multiple contractors and subcontractors, adding complexity and lag time.
-      And the construction process, as well as the buildings themselves, can be
-      a major source of emissions that contribute to climate change.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-system-design.jpg?itok=H2Sm6ipG
-    categories: []
-    publishedAt: 2026-04-21T21:45:00.000Z
-    source: MIT Robotics
