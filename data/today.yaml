@@ -1,98 +1,147 @@
-date: 2026-04-29
+date: 2026-04-30
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Enabling privacy-preserving AI training on everyday devices
-    url: https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429
-    summary: A new method developed by MIT researchers can accelerate a
-      privacy-preserving artificial intelligence training method by about 81
-      percent. This advance could enable a wider array of resource-constrained
-      edge devices, like sensors and smartwatches, to deploy more accurate AI
-      models while keeping user data secure.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-Federated-Constrained-01-press.jpg?itok=ILr4mnWw
-    categories: []
-    publishedAt: 2026-04-29T04:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: OpenAI Really Wants Codex to Shut Up About Goblins
-    url: https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/
-    summary: “Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons,
-      or other animals or creatures unless it is absolutely and unambiguously
-      relevant,” reads OpenAI’s coding agent instructions.
-    imageUrl: https://media.wired.com/photos/69f144197df9442e8d9b4623/191:100/w_1280,c_limit/biz_gremlin_GettyImages-163004531.jpg
+  - title: "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’"
+    url: https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/
+    summary: Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s
+      lawyers cross-examined Musk.
+    imageUrl: https://media.wired.com/photos/69f2443b51254f9508013a9a/191:100/w_1280,c_limit/Model-Behavior-Musk-Grilled-by-OpenAI-Lawyers-Business.jpg
     categories:
       - Business
       - Business / Artificial Intelligence
-    publishedAt: 2026-04-28T23:45:05.000Z
+    publishedAt: 2026-04-29T23:41:51.000Z
     source: WIRED (AI)
-  - title: Cell phone-based maps could reshape city planning, from bus schedules to
-      traffic hotspots
-    url: https://techxplore.com/news/2026-04-cell-based-reshape-city-bus.html
-    summary: Understanding how people use the spaces they inhabit—where they live,
-      work, and gather—is key to effective urban planning that meets their
-      needs. For example, knowing which routes are most commonly used to travel
-      from residential neighborhoods to workplaces, and during which time
-      periods, makes it possible to adjust bus routes and frequencies, and to
-      optimize traffic control resources. Identifying meeting, leisure, and
-      event spaces, as well as the time periods when crowds are largest, is
-      useful not only for keeping the public informed, but also for
-      strengthening cleaning and transportation services and developing
-      promotional strategies. The more accurate this information is, the more it
-      will help public administrations to plan urban space and services in
-      effective and realistic ways.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-tool-based-on-cell-p.jpg
+  - title: "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision
+      models"
+    url: https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429
+    summary: In today’s hospitals and clinics, a dermatologist may use an artificial
+      intelligence model for classifying skin lesions to assess if the lesion is
+      at risk of developing into a cancer or if it is benign. But if the model
+      is biased toward certain skin tones, it could fail to identify a high-risk
+      patient.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-jameel-clinic-WRING-bias.jpg?itok=XH5m_j1t
+    categories: []
+    publishedAt: 2026-04-29T21:40:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Evolving AI may arrive before AGI and create hard-to-control risks
+    url: https://techxplore.com/news/2026-04-evolving-ai-agi-hard.html
+    summary: Evolutionary biology holds clues for the future of AI, argue
+      researchers from the HUN-REN Centre for Ecological Research, Eötvös Loránd
+      University, and the Royal Flemish Academy of Belgium for Science and the
+      Arts. In a new Perspective published April 20 in Proceedings of the
+      National Academy of Sciences, the team warn that evolvable AI (eAI)
+      systems that can undergo Darwinian evolution may soon emerge, and they
+      will generate special risks that can be understood, and mitigated, based
+      on insights from evolutionary biology.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/evolving-ai-may-arrive.jpg
+    categories:
+      - Security
+    publishedAt: 2026-04-29T21:20:09.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Ultralight carbon fiber lattices achieve aluminum-level performance at a
+      fraction of the weight
+    url: https://techxplore.com/news/2026-04-ultralight-carbon-fiber-lattices-aluminum.html
+    summary: Researchers at Seoul National University have developed a new class of
+      ultralight structural materials that combine the load-bearing strength of
+      engineering materials with the weight of foam. Using a method called 3D
+      node winding, the team created mesoscale carbon fiber lattices that
+      achieve aluminum-level performance on a strength-to-weight basis while
+      weighing as little as 1/100 the weight of aluminum. The findings,
+      published in Nature Communications, demonstrate a new way to build strong,
+      lightweight structures without the need for joints or layered assembly.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ultralight-mesoscale-c.jpg
     categories:
       - Engineering
-    publishedAt: 2026-04-28T21:40:07.000Z
+    publishedAt: 2026-04-29T20:40:01.000Z
     source: TechXplore — Engineering
-  - title: Can AI quantify beauty? New study suggests it can't
-    url: https://techxplore.com/news/2026-04-ai-quantify-beauty.html
-    summary: Attempts to define human beauty using artificial intelligence may
-      reveal more about bias in data than universal standards, according to a
-      new analysis from the University of Virginia's School of Data Science.
-      Using computer vision and statistical modeling, researchers evaluated
-      whether facial features align with the "Golden Ratio," a mathematical
-      formula often cited as an objective measure of attractiveness. Instead,
-      the analysis found that demographic variation, not mathematical
-      proportion, was the strongest factor shaping model outputs. This
-      challenges long-standing assumptions that beauty can be quantified.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/statue-of-venus.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-04-28T21:00:04.000Z
-    source: TechXplore — Computer Science
-  - title: Robotically assembled building blocks could make construction more
-      efficient and sustainable
-    url: https://techxplore.com/news/2026-04-robotically-blocks-efficient-sustainable.html
-    summary: Robotically assembled building blocks could be a more environmentally
-      friendly method for erecting large-scale structures than some existing
-      construction techniques, according to a new study by MIT researchers
-      published in the journal Automation in Construction.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/robotically-assembled.jpg
+  - title: What will it take to make AI-enabled robots safer?
+    url: https://techxplore.com/news/2026-04-ai-enabled-robots-safer.html
+    summary: 'The effort to "align" AI with human values is falling dangerously
+      short in robotic systems, according to researchers from Penn Engineering,
+      Carnegie Mellon University (CMU) and the University of Oxford. In a new
+      paper appearing in Science Robotics, the researchers highlight the need to
+      develop more thorough frameworks for ensuring that AI-enabled robots
+      embody a core principle famously articulated by science fiction author
+      Isaac Asimov: "A robot may not injure a human being."'
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/robot.jpg
     categories:
       - Robotics
-    publishedAt: 2026-04-28T18:40:05.000Z
+    publishedAt: 2026-04-29T20:26:50.000Z
     source: TechXplore — Robotics
-  - title: Better Hardware Could Turn Zeros into AI Heroes
-    url: https://spectrum.ieee.org/sparse-ai
-    summary: When it comes to AI models, size matters.
-    imageUrl: https://spectrum.ieee.org/media-library/abstract-gradient-artwork-of-a-stylized-robot-head-with-circuits-and-binary-code-patterns.jpg?id=65862907&width=1245&height=700&coordinates=0%2C760%2C0%2C761
+  - title: A new R package facilitates the generation of flowcharts for research
+      studies
+    url: https://techxplore.com/news/2026-04-package-generation-flowcharts.html
+    summary: Representing the pathway of participants in a study is a key element in
+      clinical and epidemiological research. Flow diagrams are the standard tool
+      to do so, as they allow the different stages of the process to be clearly
+      visualized, from initial selection to final analysis, following
+      international guidelines such as CONSORT or STROBE. However, their
+      creation is often laborious. It usually involves manually entering data or
+      programming complex structures, which makes reproducibility more difficult
+      and may increase the risk of errors.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-new-r-package-facili.jpg
     categories:
-      - Ai-models
-      - Gpus
-      - Energy-efficiency
-      - Data-compression
-    publishedAt: 2026-04-28T18:03:40.000Z
+      - Software
+    publishedAt: 2026-04-29T19:40:03.000Z
+    source: TechXplore — Computer Science
+  - title: Power Buffer Protects Grid From Data Centers’ Wild Load Swings
+    url: https://spectrum.ieee.org/data-center-power-fluctuation
+    summary: As more AI data centers come on line, concerns are rising about their
+      effects on the grid, and it’s not just the amount of power they consume.
+      They tend to have huge swings in power use, surging up and down by 70
+      percent or more in milliseconds. Traditional electricity infrastructure
+      isn’t designed to deal with that kind of load fluctuation.
+    imageUrl: https://spectrum.ieee.org/media-library/staff-working-behind-computers-in-the-control-center.jpg?id=66648750&width=2000&height=1500&coordinates=166%2C0%2C167%2C0
+    categories:
+      - Data-center-energy
+      - Ai-data-centers
+      - Power-quality
+      - Power-electronics
+    publishedAt: 2026-04-29T14:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Can Biologists Rewrite the Genome’s Spaghetti Code?
+    url: https://spectrum.ieee.org/synthetic-biology-ai-adrian-woolfson
+    summary: "What if biology stopped being something we study and started becoming
+      something we design? That’s the premise of Adrian Woolfson’s new book, On
+      the Future of Species: Authoring Life by Means of Artificial Biological
+      Intelligence, which published on 28 April from MIT Press. He argues that
+      advances in AI and DNA synthesis are pushing biology toward an engineering
+      paradigm—one in which scientists can generate new genetic sequences and
+      eventually build organisms to order. He calls this emerging capability
+      artificial biological intelligence, or ABI, a catchall term for systems
+      that can design, construct, and ultimately “boot up” living things."
+    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-neatly-plated-spaghetti-with-noodles-resembling-strands-of-dna.jpg?id=66647587&width=1245&height=700&coordinates=0%2C468%2C0%2C469
+    categories:
+      - Genome
+      - Dna-sequencing
+      - Evolution
+      - Synthetic-biology
+      - Bioengineering
+      - Genetic-synthesis
+    publishedAt: 2026-04-29T11:00:01.000Z
     source: IEEE Spectrum — AI
-  - title: The UK’s Answer to Darpa Wants to Rewire the Human Brain
-    url: https://www.wired.com/story/kathleen-fisher-jacques-carolan-aria-wired-health/
-    summary: ARIA has a billion-dollar budget and big aspirations for tackling
-      everything from epilepsy to Alzheimer's.
-    imageUrl: https://media.wired.com/photos/69ef9664ce67ed64909ae92c/191:100/w_1280,c_limit/Kathleen-Jacques-WIRED-Health-Science-XT502889.jpg
+  - title: MIT engineers’ virtual violin produces realistic sounds
+    url: https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429
+    summary: "There is no question that violin-making is an art form. It requires a
+      musician’s ear, a craftsperson’s skill, and an historian’s appreciation of
+      lessons learned over time. Making a violin also takes trust: Violin
+      makers, or luthiers, often must wait until the instrument is finished
+      before they can hear how all their hard work will sound."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-Strad-Model-01-press.jpg?itok=eh-vD7Fr
+    categories: []
+    publishedAt: 2026-04-29T09:00:00.000Z
+    source: MIT Engineering
+  - title: How AI Could Help Combat Antibiotic Resistance
+    url: https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/
+    summary: At WIRED Health, British surgeon Ara Darzi said AI is set to transform
+      the diagnosis and treatment of drug-resistant infections. But a lack of
+      incentives means innovation may not reach patients.
+    imageUrl: https://media.wired.com/photos/69ea459b31b8426862a83c48/191:100/w_1280,c_limit/XT502056.jpg
     categories:
       - Science
-      - Science / Health
-    publishedAt: 2026-04-28T17:58:29.000Z
+    publishedAt: 2026-04-29T09:00:00.000Z
     source: WIRED science
   - title: With a swipe of a magnet, microscopic “magno-bots” perform complex
       maneuvers
@@ -127,7 +176,7 @@ articles:
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robotic-arm-with-paddle-and-an-orange-ping-pong-ball-hovering-over-a-sony-labeled-table-tennis-table.png?id=65961797&width=1200&height=400&coordinates=0%2C283%2C0%2C283
+    imageUrl: https://spectrum.ieee.org/media-library/robotic-arm-with-paddle-and-an-orange-ping-pong-ball-hovering-over-a-sony-labeled-table-tennis-table.png?id=65961797&width=2000&height=1500&coordinates=162%2C0%2C162%2C0
     categories:
       - Robotics
       - Humanoid-robots
