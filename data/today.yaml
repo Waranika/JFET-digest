@@ -1,148 +1,173 @@
-date: 2026-04-30
+date: 2026-05-03
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’"
-    url: https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/
-    summary: Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s
-      lawyers cross-examined Musk.
-    imageUrl: https://media.wired.com/photos/69f2443b51254f9508013a9a/191:100/w_1280,c_limit/Model-Behavior-Musk-Grilled-by-OpenAI-Lawyers-Business.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-04-29T23:41:51.000Z
-    source: WIRED (AI)
-  - title: "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision
-      models"
-    url: https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429
-    summary: In today’s hospitals and clinics, a dermatologist may use an artificial
-      intelligence model for classifying skin lesions to assess if the lesion is
-      at risk of developing into a cancer or if it is benign. But if the model
-      is biased toward certain skin tones, it could fail to identify a high-risk
-      patient.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-jameel-clinic-WRING-bias.jpg?itok=XH5m_j1t
+  - title: Found Industries aims to strengthen America’s industrial supply chains
+    url: https://news.mit.edu/2026/found-industries-aims-to-strengthen-americas-industrial-supply-chains-0503
+    summary: Found Industries has gone through several distinct phases in the four
+      years since it was originally formed as Found Energy. There was the
+      scrappy startup stage, in which the company was primarily housed in the
+      basement of founder Peter Godart ’15, SM ’19, PhD ’21. Then there was the
+      demonstration phase, in which the company worked to productize its
+      technology for transforming aluminum into high-density fuel for industrial
+      operations.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-Found-Energy-01-press.jpg?itok=4yRWhK6u
     categories: []
-    publishedAt: 2026-04-29T21:40:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Evolving AI may arrive before AGI and create hard-to-control risks
-    url: https://techxplore.com/news/2026-04-evolving-ai-agi-hard.html
-    summary: Evolutionary biology holds clues for the future of AI, argue
-      researchers from the HUN-REN Centre for Ecological Research, Eötvös Loránd
-      University, and the Royal Flemish Academy of Belgium for Science and the
-      Arts. In a new Perspective published April 20 in Proceedings of the
-      National Academy of Sciences, the team warn that evolvable AI (eAI)
-      systems that can undergo Darwinian evolution may soon emerge, and they
-      will generate special risks that can be understood, and mitigated, based
-      on insights from evolutionary biology.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/evolving-ai-may-arrive.jpg
-    categories:
-      - Security
-    publishedAt: 2026-04-29T21:20:09.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Ultralight carbon fiber lattices achieve aluminum-level performance at a
-      fraction of the weight
-    url: https://techxplore.com/news/2026-04-ultralight-carbon-fiber-lattices-aluminum.html
-    summary: Researchers at Seoul National University have developed a new class of
-      ultralight structural materials that combine the load-bearing strength of
-      engineering materials with the weight of foam. Using a method called 3D
-      node winding, the team created mesoscale carbon fiber lattices that
-      achieve aluminum-level performance on a strength-to-weight basis while
-      weighing as little as 1/100 the weight of aluminum. The findings,
-      published in Nature Communications, demonstrate a new way to build strong,
-      lightweight structures without the need for joints or layered assembly.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ultralight-mesoscale-c.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-04-29T20:40:01.000Z
-    source: TechXplore — Engineering
-  - title: What will it take to make AI-enabled robots safer?
-    url: https://techxplore.com/news/2026-04-ai-enabled-robots-safer.html
-    summary: 'The effort to "align" AI with human values is falling dangerously
-      short in robotic systems, according to researchers from Penn Engineering,
-      Carnegie Mellon University (CMU) and the University of Oxford. In a new
-      paper appearing in Science Robotics, the researchers highlight the need to
-      develop more thorough frameworks for ensuring that AI-enabled robots
-      embody a core principle famously articulated by science fiction author
-      Isaac Asimov: "A robot may not injure a human being."'
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/robot.jpg
+    publishedAt: 2026-05-03T04:00:00.000Z
+    source: MIT Engineering
+  - title: Robots can run a marathon and play ping pong. But will they ever achieve
+      true sporting greatness?
+    url: https://techxplore.com/news/2026-04-robots-marathon-play-ping-pong.html
+    summary: A humanoid robot recently made headlines around the world for running a
+      half-marathon and beating the human world record. Around the same time, an
+      AI-powered robot defeated an elite human player in table tennis. What the
+      robot lacked in experience, it made up for by reacting faster and more
+      consistently than any person could.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ping-pong.jpg
     categories:
       - Robotics
-    publishedAt: 2026-04-29T20:26:50.000Z
+    publishedAt: 2026-05-02T17:30:01.000Z
     source: TechXplore — Robotics
-  - title: A new R package facilitates the generation of flowcharts for research
-      studies
-    url: https://techxplore.com/news/2026-04-package-generation-flowcharts.html
-    summary: Representing the pathway of participants in a study is a key element in
-      clinical and epidemiological research. Flow diagrams are the standard tool
-      to do so, as they allow the different stages of the process to be clearly
-      visualized, from initial selection to final analysis, following
-      international guidelines such as CONSORT or STROBE. However, their
-      creation is often laborious. It usually involves manually entering data or
-      programming complex structures, which makes reproducibility more difficult
-      and may increase the risk of errors.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-new-r-package-facili.jpg
+  - title: Human-guided AI system could strengthen advanced reactor monitoring and
+      control
+    url: https://techxplore.com/news/2026-04-human-ai-advanced-reactor.html
+    summary: Nuclear reactors generate reliable, low-carbon electricity by using
+      heat from nuclear fission to turn turbines. These steady energy producers
+      are a crucial component of clean power generation. Nuclear engineers are
+      responsible not only for understanding reactor dynamics, ensuring proper
+      maintenance and recognizing unusual behavior, but also for determining
+      appropriate corrective actions when necessary.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/bridging-ai-and-nuclea.jpg
     categories:
-      - Software
-    publishedAt: 2026-04-29T19:40:03.000Z
-    source: TechXplore — Computer Science
-  - title: Power Buffer Protects Grid From Data Centers’ Wild Load Swings
-    url: https://spectrum.ieee.org/data-center-power-fluctuation
-    summary: As more AI data centers come on line, concerns are rising about their
-      effects on the grid, and it’s not just the amount of power they consume.
-      They tend to have huge swings in power use, surging up and down by 70
-      percent or more in milliseconds. Traditional electricity infrastructure
-      isn’t designed to deal with that kind of load fluctuation.
-    imageUrl: https://spectrum.ieee.org/media-library/staff-working-behind-computers-in-the-control-center.jpg?id=66648750&width=2000&height=1500&coordinates=166%2C0%2C167%2C0
+      - Energy & Green Tech
+    publishedAt: 2026-05-02T13:00:03.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: A Bit of Data Center Heat Can Be Turned Back into Electricity
+    url: https://spectrum.ieee.org/data-center-thermoelectric-generation
+    summary: Managing heat in AI data centers is a growing challenge. As
+      hyperscalers cram more and more high power computing systems into huge
+      facilities, they generate more and more heat. Data center designs are
+      switching from fan-based systems to liquid ones, which pipe water near
+      electronics to gather up waste heat. That hot water is then cooled,
+      dissipating the heat into the environment.
+    imageUrl: https://spectrum.ieee.org/media-library/a-block-of-metal-with-t-shaped-crystals-inside-on-the-left-and-with-holes-where-the-crystals-were-on-the-right.jpg?id=66668556&width=1245&height=700&coordinates=0%2C62%2C0%2C63
     categories:
-      - Data-center-energy
+      - Thermoelectrics
       - Ai-data-centers
-      - Power-quality
-      - Power-electronics
-    publishedAt: 2026-04-29T14:00:01.000Z
+      - Heat-management
+      - Crystals
+    publishedAt: 2026-05-02T13:00:01.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Can Biologists Rewrite the Genome’s Spaghetti Code?
-    url: https://spectrum.ieee.org/synthetic-biology-ai-adrian-woolfson
-    summary: "What if biology stopped being something we study and started becoming
-      something we design? That’s the premise of Adrian Woolfson’s new book, On
-      the Future of Species: Authoring Life by Means of Artificial Biological
-      Intelligence, which published on 28 April from MIT Press. He argues that
-      advances in AI and DNA synthesis are pushing biology toward an engineering
-      paradigm—one in which scientists can generate new genetic sequences and
-      eventually build organisms to order. He calls this emerging capability
-      artificial biological intelligence, or ABI, a catchall term for systems
-      that can design, construct, and ultimately “boot up” living things."
-    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-neatly-plated-spaghetti-with-noodles-resembling-strands-of-dna.jpg?id=66647587&width=1245&height=700&coordinates=0%2C468%2C0%2C469
+  - title: Disneyland Now Uses Face Recognition on Visitors
+    url: https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/
+    summary: "Plus: The NSA tests Anthropic’s Mythos Preview to find
+      vulnerabilities, a Finnish teen is charged over the Scattered Spider
+      hacking spree, and more."
+    imageUrl: https://media.wired.com/photos/69f53066ed110137695d66cd/191:100/w_1280,c_limit/security_disney_getty.jpg
     categories:
-      - Genome
-      - Dna-sequencing
-      - Evolution
-      - Synthetic-biology
-      - Bioengineering
-      - Genetic-synthesis
-    publishedAt: 2026-04-29T11:00:01.000Z
-    source: IEEE Spectrum — AI
-  - title: MIT engineers’ virtual violin produces realistic sounds
-    url: https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429
-    summary: "There is no question that violin-making is an art form. It requires a
-      musician’s ear, a craftsperson’s skill, and an historian’s appreciation of
-      lessons learned over time. Making a violin also takes trust: Violin
-      makers, or luthiers, often must wait until the instrument is finished
-      before they can hear how all their hard work will sound."
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-Strad-Model-01-press.jpg?itok=eh-vD7Fr
-    categories: []
-    publishedAt: 2026-04-29T09:00:00.000Z
-    source: MIT Engineering
-  - title: How AI Could Help Combat Antibiotic Resistance
-    url: https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/
-    summary: At WIRED Health, British surgeon Ara Darzi said AI is set to transform
-      the diagnosis and treatment of drug-resistant infections. But a lack of
-      incentives means innovation may not reach patients.
-    imageUrl: https://media.wired.com/photos/69ea459b31b8426862a83c48/191:100/w_1280,c_limit/XT502056.jpg
+      - Security
+      - Security / Cyberattacks and Hacks
+      - Security / National Security
+      - Security / Privacy
+      - Security / Security News
+    publishedAt: 2026-05-02T10:30:00.000Z
+    source: WIRED (AI)
+  - title: The Next Alzheimer’s Breakthrough Will Take More Than Just Science
+    url: https://www.wired.com/story/john-hardy-dementia-wired-health/
+    summary: At WIRED Health, pioneering Alzheimer's researcher John Hardy outlined
+      the stakes—and next steps—of where treatment is headed next.
+    imageUrl: https://media.wired.com/photos/69ef96652b90f51c24b3be50/191:100/w_1280,c_limit/John-Hardy-WIRED-Health-Science-XT503136.jpg
     categories:
       - Science
-    publishedAt: 2026-04-29T09:00:00.000Z
+      - Science / Health
+    publishedAt: 2026-05-01T18:55:56.000Z
     source: WIRED science
+  - title: Automated camera solution can improve excavator tracking
+    url: https://techxplore.com/news/2026-05-automated-camera-solution-excavator-tracking.html
+    summary: Despite significant advances in vision-based equipment tracking,
+      frequent occlusions caused by multiple interacting machines continue to
+      degrade tracking accuracy on construction sites. While previous studies
+      have explored multi-camera approaches, they often assume that at least one
+      camera maintains a clear view at all times. In practice, however, such
+      conditions are rarely guaranteed. Even with multiple CCTV systems
+      installed, simultaneous occlusions across cameras frequently occur, making
+      it difficult to identify which camera provides the most reliable view at
+      any given moment.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/incheon-national-unive-1.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-05-01T17:20:01.000Z
+    source: TechXplore — Engineering
+  - title: Computer vision helps observers understand how iconic artworks were created
+    url: https://techxplore.com/news/2026-05-vision-iconic-artworks.html
+    summary: Paintings are often made up of thousands of tiny brushstrokes, each
+      going in a certain direction, that are not easily observed by the viewer.
+      A cross-disciplinary research team from the Penn State College of
+      Information Sciences and Technology (IST) and Loughborough University in
+      England has developed an image analysis method that helps to make the
+      underlying brushstroke structure of paintings visible, giving new insight
+      into how artists physically created their works.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/computer-vision-helps.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-05-01T17:00:03.000Z
+    source: TechXplore — Computer Science
+  - title: "Video Friday: Figure, 1X Ramp Up Humanoid Robot Production"
+    url: https://spectrum.ieee.org/video-friday-humanoid-robot-production
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/rows-of-identical-humanoid-robots-standing-on-platforms-in-a-large-industrial-hall.jpg?id=66666641&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Humanoid-robots
+      - Video-friday
+      - Robot-videos
+      - Robot-manipulation
+      - Industrial-robots
+      - Robot-hands
+    publishedAt: 2026-05-01T16:30:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: AI Processing of Earth Images Can Now Run in Space
+    url: https://spectrum.ieee.org/ai-earth-observation-in-space
+    summary: AI image processing aboard satellites in space has been a goal of the
+      Earth observation industry for years. Now it has finally been achieved.
+      Planet Labs, based in Calif., released an image captured by its Pelican-4
+      multispectral satellite showing an airport in Alice Springs, Australia. On
+      the tarmac, more than a dozen aircraft are scattered, each highlighted in
+      a neat green box, identified by an AI model running aboard the satellite.
+    imageUrl: https://spectrum.ieee.org/media-library/satellite-image-of-an-airport-with-all-visible-planes-highlighted-by-ai-recognition-boxes.jpg?id=66663058&width=1200&height=800&coordinates=0%2C208%2C0%2C208
+    categories:
+      - Earth-observation
+      - Ai
+      - Computer-vision
+      - Satellites
+    publishedAt: 2026-05-01T14:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: Beacon Biosignals is mapping the brain during sleep
+    url: https://news.mit.edu/2026/beacon-biosignals-maps-brain-during-sleep-0501
+    summary: The human brain remains one of the most fascinating and perplexing
+      mysteries in medicine. Scientists still struggle to match neurological
+      activity with brain function and detect problems early, slowing efforts to
+      treat neurological disorders and other diseases.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT_Beacon-Bio-Signals-01-press.jpg?itok=CqIt-i5V
+    categories: []
+    publishedAt: 2026-05-01T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: This AI knew the answers but didn’t understand the questions
+    url: https://www.sciencedaily.com/releases/2026/04/260429102035.htm
+    summary: For decades, psychologists have debated whether the human mind can be
+      explained by one unified theory or must be broken into separate parts like
+      memory and attention. A recent AI model called Centaur seemed to offer a
+      breakthrough, claiming it could mimic human thinking across 160 different
+      cognitive tasks. But new research is challenging that bold claim,
+      suggesting the model isn’t truly “thinking” at all—it’s just memorizing
+      patterns.
+    imageUrl: https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp
+    categories: []
+    publishedAt: 2026-04-30T06:44:03.000Z
+    source: ScienceDaily — Robotics
   - title: With a swipe of a magnet, microscopic “magno-bots” perform complex
       maneuvers
     url: https://news.mit.edu/2026/microscopic-magno-bots-perform-complex-maneuvers-with-magnet-swipe-0428
@@ -170,36 +195,6 @@ articles:
     categories: []
     publishedAt: 2026-04-25T15:27:49.000Z
     source: ScienceDaily — Engineering
-  - title: "Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?"
-    url: https://spectrum.ieee.org/video-friday-ping-pong-robot
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robotic-arm-with-paddle-and-an-orange-ping-pong-ball-hovering-over-a-sony-labeled-table-tennis-table.png?id=65961797&width=2000&height=1500&coordinates=162%2C0%2C162%2C0
-    categories:
-      - Robotics
-      - Humanoid-robots
-      - Video-friday
-      - Quadruped-robots
-      - Robot-videos
-      - Industrial-robots
-    publishedAt: 2026-04-24T16:30:02.000Z
-    source: IEEE Spectrum — Robotics
-  - title: AI just discovered new physics in the fourth state of matter
-    url: https://www.sciencedaily.com/releases/2026/04/260422044635.htm
-    summary: Physicists have taken a major step toward using AI not just to analyze
-      data, but to uncover entirely new laws of nature. By combining a specially
-      designed neural network with precise 3D tracking of particles in a dusty
-      plasma—a strange “fourth state of matter” found from space to
-      wildfires—the team revealed hidden patterns in how particles interact.
-      Their model captured complex, one-way (non-reciprocal) forces with over
-      99% accuracy and even overturned long-held assumptions about how these
-      forces behave.
-    imageUrl: https://www.sciencedaily.com/images/1920/atomic-particles-physics-forces.webp
-    categories: []
-    publishedAt: 2026-04-23T13:38:47.000Z
-    source: ScienceDaily — Robotics
   - title: This new brain-like chip could slash AI energy use by 70%
     url: https://www.sciencedaily.com/releases/2026/04/260422044633.htm
     summary: A breakthrough in brain-inspired computing could make today’s
@@ -222,7 +217,7 @@ articles:
       family accessed the national teletext service—Aertel—multiple times a day
       for weather and news bulletins, as well as things like TV program guides
       and updates on airport flight arrivals.
-    imageUrl: https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&width=1245&height=700&coordinates=0%2C372%2C0%2C372
+    imageUrl: https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&width=2000&height=1500&coordinates=0%2C197%2C0%2C198
     categories:
       - Amateur-radio
       - Ham-radio
