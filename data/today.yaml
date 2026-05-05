@@ -1,58 +1,163 @@
-date: 2026-05-04
+date: 2026-05-05
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Table tennis robot defeats some of world's best players. Why this has
-      major implications for robotics
-    url: https://techxplore.com/news/2026-04-table-tennis-robot-defeats-world.html
-    summary: A table tennis robot has outperformed elite players in recent
-      evaluations. The robot, called Ace, marks a significant step toward
-      artificial intelligence (AI) systems that can operate in fast, uncertain,
-      real-world environments.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/table-tennis.jpg
+  - title: A simple physics-inspired model sheds light on how AI learns
+    url: https://techxplore.com/news/2026-05-simple-physics-ai.html
+    summary: Artificial intelligence systems based on neural networks—such as
+      ChatGPT, Claude, DeepSeek or Gemini—are extraordinarily powerful, yet
+      their internal workings remain largely a "black box." To better understand
+      how these systems produce their responses, a group of physicists at
+      Harvard University has developed a simplified mathematical model of
+      learning in neural networks that can be analyzed mathematically using the
+      tools of statistical physics.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/deepseek-1.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-05-05T04:00:01.000Z
+    source: TechXplore — Computer Science
+  - title: Scientists just created exotic new forms of matter that shouldn’t exist
+    url: https://www.sciencedaily.com/releases/2026/05/260504154014.htm
+    summary: A new quantum physics study reveals that simply changing a magnetic
+      field over time can unlock entirely new forms of matter that don’t exist
+      under normal conditions. By carefully “driving” materials with timed
+      magnetic shifts, researchers created exotic quantum states that could be
+      far more stable and resistant to errors—one of the biggest challenges in
+      quantum computing. This breakthrough suggests that the future of quantum
+      technology may depend not just on what materials are made of, but how
+      they’re manipulated in time.
+    imageUrl: https://www.sciencedaily.com/images/1920/exotic-form-of-matter-quantum-material.webp
+    categories: []
+    publishedAt: 2026-05-05T02:48:12.000Z
+    source: ScienceDaily — Computer Science
+  - title: "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’"
+    url: https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/
+    summary: OpenAI’s cofounder and president revealed in federal court on Monday
+      that he’s one of the largest individual stakeholders in the AI lab.
+    imageUrl: https://media.wired.com/photos/69f8dc3d515a33a2efb30971/191:100/w_1280,c_limit/Model-Behavior-Why-Everything-in-Musk-v-Altman-Greg-Brockman-Testifies-Business-2273978244.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-05-04T23:19:52.000Z
+    source: WIRED (AI)
+  - title: After a 40-year wait, technology finally enables three-sided zipper design
+    url: https://techxplore.com/news/2026-05-year-technology-enables-sided-zipper.html
+    summary: "In 1985, the Innovative Design Fund placed an ad in Scientific
+      American offering up to $10,000 to support clever prototypes for clothing,
+      home decor, and textiles. William Freeman Ph.D., then an electrical
+      engineer at Polaroid and now an MIT professor, saw it and submitted a
+      novel idea: a three-sided zipper. Instead of fastening pants, it'd be like
+      a switch that seamlessly flipped chairs, tents, and purses between soft
+      and rigid states, making them easier to pack and put together."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/40-year-wait-tech-fina.jpg
+    categories:
+      - Consumer & Gadgets
+    publishedAt: 2026-05-04T20:00:04.000Z
+    source: TechXplore — Engineering
+  - title: It took 40 years for technology to catch up to this zipper design
+    url: https://news.mit.edu/2026/three-sided-y-zipper-design-0504
+    summary: "In 1985, the Innovative Design Fund placed an ad in Scientific
+      American offering up to $10,000 to support clever prototypes for clothing,
+      home decor, and textiles. William Freeman PhD ’92, then an electrical
+      engineer at Polaroid and now an MIT professor, saw it and submitted a
+      novel idea: a three-sided zipper. Instead of fastening pants, it’d be like
+      a switch that seamlessly flips chairs, tents, and purses between soft and
+      rigid states, making them easier to pack and put together.Freeman’s
+      blueprint was much like a regular zipper, except triangular. On each side,
+      he nailed a belt to connect narrow wooden “teeth” together. A slider
+      wrapping around the device could be moved up to fasten the three strips
+      into place, straightening them into a triangular tube. His proposal was
+      rejected, but Freeman patented his prototype and stored it in his garage
+      in the hopes it might come in handy one day.Nearly 40 years later, MIT
+      Computer Science and Artificial Intelligence Laboratory (CSAIL)
+      researchers wanted to revive the project to create items with “tunable
+      stiffness.” Prior attempts to adjust that weren’t easily reversible or
+      required manual assembly, so CSAIL built an automated design tool and
+      adaptable fastener called the “Y-zipper.” The scientists’ software program
+      helps users customize three-sided zippers, which it then builds on its own
+      in a 3D printer using plastics. These devices can be attached or embedded
+      into camping equipment, medical gear, robots, and art installations for
+      more convenient assembly."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-csail-YZipper.jpg?itok=Fn0aqvsf
+    categories: []
+    publishedAt: 2026-05-04T17:45:00.000Z
+    source: MIT Robotics
+  - title: iRobot Founder Wants to Put a Robotic Familiar Into Your Home
+    url: https://spectrum.ieee.org/familiar-machines-and-magic
+    summary: Two years ago, Colin Angle stepped down as CEO of iRobot, the company
+      that he co-founded and the most successful home robot company the world
+      has ever seen. Angle almost immediately founded a stealthy new “physical
+      AI” company called Familiar Machines & Magic (FM&M), which in short order
+      managed to attract a combination of exceptionally talented robotics folks,
+      including Morgan Pope from Disney Research, which got us very curious.
+    imageUrl: https://spectrum.ieee.org/media-library/a-gif-shows-a-short-clip-of-a-teenager-sitting-with-and-then-hugging-a-torso-sized-animal-like-robot.gif?id=66675837&width=1200&height=400&coordinates=0%2C137%2C0%2C138
+    categories:
+      - Irobot
+      - Social-robots
+      - Colin-angle
+      - Robot-animals
+      - Home-robots
+    publishedAt: 2026-05-04T17:30:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: New understanding of insect flight points way to stable flapping-wing
+      robots
+    url: https://techxplore.com/news/2026-05-insect-flight-stable-wing-robots.html
+    summary: The way bugs and birds flap their wings may look effortless, but the
+      dynamics that keep them aloft are dizzyingly complex and difficult to
+      quantify. Cornell researchers have created a computational model that
+      shows the effect of insects' morphology on stabilizing their flight. The
+      findings could lead to a new way to understand the evolution of animal
+      flight while also providing a blueprint for designing flapping-wing
+      robots.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-understanding-of-i.jpg
     categories:
       - Robotics
-    publishedAt: 2026-05-03T17:00:04.000Z
+    publishedAt: 2026-05-04T17:20:09.000Z
     source: TechXplore — Robotics
-  - title: Physicists just found a tiny flaw in time itself
-    url: https://www.sciencedaily.com/releases/2026/05/260502233918.htm
-    summary: "Physicists are rethinking one of quantum mechanics’ biggest puzzles:
-      how fuzzy possibilities become definite reality. New research suggests
-      that spontaneous “collapse” processes—possibly linked to gravity—could
-      subtly blur time itself. This wouldn’t affect clocks we use today, but it
-      reveals a hidden limit to how precise time can ever be. The findings open
-      a new path toward uniting quantum physics with gravity."
-    imageUrl: https://www.sciencedaily.com/images/1920/a-twitch-in-time.webp
+  - title: MIT scientists finally reveal the hidden structure of a mysterious
+      high-tech material
+    url: https://www.sciencedaily.com/releases/2026/05/260504023831.htm
+    summary: For decades, relaxor ferroelectrics have powered everything from
+      medical ultrasounds to sonar systems, yet their inner atomic structure
+      remained a mystery—until now. Researchers have finally mapped their
+      three-dimensional structure in unprecedented detail, uncovering hidden
+      patterns in how electric charges are arranged at the nanoscale. The
+      breakthrough not only challenges long-standing assumptions about how these
+      materials behave but also allows scientists to refine the models used to
+      design them.
+    imageUrl: https://www.sciencedaily.com/images/1920/polar-domains-multi-slice-electron-ptychography.webp
     categories: []
-    publishedAt: 2026-05-03T13:40:13.000Z
+    publishedAt: 2026-05-04T13:14:10.000Z
     source: ScienceDaily — Engineering
-  - title: Deepfake Detection Dataset Aims to Keep Up With Generative AI
-    url: https://spectrum.ieee.org/deepfake-detector-microsoft-generative-ai
-    summary: This article is part of our exclusive IEEE Journal Watch series in
-      partnership with IEEE Xplore.
-    imageUrl: https://spectrum.ieee.org/media-library/abstract-photo-collage-of-flawed-imagery-such-as-a-human-hand-with-two-thumbs.jpg?id=66668528&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+  - title: Perfectly Aligning AI’s Values With Humanity’s Is Impossible
+    url: https://spectrum.ieee.org/ai-alignment
+    summary: One of the hardest problems in artificial intelligence is “alignment,”
+      or making sure AI goals match our own, a challenge that may prove
+      especially important if superintelligent AIs that outmatch us
+      intellectually are ever developed. But scientists in England and their
+      colleagues now report in the journal PNAS Nexus that perfect alignment
+      between AI systems and human interests is mathematically impossible.
+    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-human-pushing-a-giant-speech-bubble-uphill.jpg?id=66667725&width=1200&height=400&coordinates=0%2C417%2C0%2C417
     categories:
-      - Deepfakes
-      - Generative-ai
-      - Artificial-intelligence
-      - Microsoft
-      - Journal-watch
-    publishedAt: 2026-05-03T13:00:01.000Z
+      - Alignment
+      - Agi
+      - Superintelligence
+      - Ai-agents
+      - Ai-ethics
+    publishedAt: 2026-05-04T13:00:01.000Z
     source: IEEE Spectrum — AI
-  - title: Scientists built a memory chip that breaks the rules of miniaturization
-    url: https://www.sciencedaily.com/releases/2026/05/260502233908.htm
-    summary: A new kind of memory device may finally solve the problem of
-      overheating and battery drain in electronics. By shrinking components to
-      an extreme scale and redesigning their structure, researchers found a way
-      to reduce energy loss instead of increasing it. The result is a tiny
-      memory unit that improves as it gets smaller—something once thought
-      impossible. This could pave the way for ultra-efficient smartphones,
-      wearables, and AI systems.
-    imageUrl: https://www.sciencedaily.com/images/1920/ftj-memory.webp
-    categories: []
-    publishedAt: 2026-05-03T07:08:59.000Z
-    source: ScienceDaily — Computer Science
+  - title: RFK Jr.’s New Podcast Is as Weird as You’d Expect
+    url: https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/
+    summary: The first two episodes of Robert F. Kennedy Jr.’s new podcast feature
+      him discoursing on food with a reality-TV chef and, for some reason, Mike
+      Tyson. Vaccines are not on the agenda.
+    imageUrl: https://media.wired.com/photos/69f367ae78fa4200617e3b11/191:100/w_1280,c_limit/GettyImages-2272611171.jpg
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2026-05-04T11:00:00.000Z
+    source: WIRED science
   - title: Powerful AI finds 100+ hidden planets in NASA data including rare and
       extreme worlds
     url: https://www.sciencedaily.com/releases/2026/05/260502233926.htm
@@ -81,29 +186,15 @@ articles:
     categories: []
     publishedAt: 2026-05-03T04:00:00.000Z
     source: MIT Engineering
-  - title: Human-guided AI system could strengthen advanced reactor monitoring and
-      control
-    url: https://techxplore.com/news/2026-04-human-ai-advanced-reactor.html
-    summary: Nuclear reactors generate reliable, low-carbon electricity by using
-      heat from nuclear fission to turn turbines. These steady energy producers
-      are a crucial component of clean power generation. Nuclear engineers are
-      responsible not only for understanding reactor dynamics, ensuring proper
-      maintenance and recognizing unusual behavior, but also for determining
-      appropriate corrective actions when necessary.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/bridging-ai-and-nuclea.jpg
-    categories:
-      - Energy & Green Tech
-    publishedAt: 2026-05-02T13:00:03.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: A Bit of Data Center Heat Can Be Turned Back into Electricity
+  - title: A Bit of Data Center Heat Can Be Turned Back Into Electricity
     url: https://spectrum.ieee.org/data-center-thermoelectric-generation
     summary: Managing heat in AI data centers is a growing challenge. As
-      hyperscalers cram more and more high power computing systems into huge
+      hyperscalers cram more and more high-power computing systems into huge
       facilities, they generate more and more heat. Data center designs are
       switching from fan-based systems to liquid ones, which pipe water near
       electronics to gather up waste heat. That hot water is then cooled,
       dissipating the heat into the environment.
-    imageUrl: https://spectrum.ieee.org/media-library/a-block-of-metal-with-t-shaped-crystals-inside-on-the-left-and-with-holes-where-the-crystals-were-on-the-right.jpg?id=66668556&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    imageUrl: https://spectrum.ieee.org/media-library/a-block-of-metal-with-t-shaped-crystals-inside-on-the-left-and-with-holes-where-the-crystals-were-on-the-right.jpg?id=66668556&width=1200&height=800&coordinates=62%2C0%2C63%2C0
     categories:
       - Thermoelectrics
       - Ai-data-centers
@@ -111,76 +202,6 @@ articles:
       - Crystals
     publishedAt: 2026-05-02T13:00:01.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Disneyland Now Uses Face Recognition on Visitors
-    url: https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/
-    summary: "Plus: The NSA tests Anthropic’s Mythos Preview to find
-      vulnerabilities, a Finnish teen is charged over the Scattered Spider
-      hacking spree, and more."
-    imageUrl: https://media.wired.com/photos/69f53066ed110137695d66cd/191:100/w_1280,c_limit/security_disney_getty.jpg
-    categories:
-      - Security
-      - Security / Cyberattacks and Hacks
-      - Security / National Security
-      - Security / Privacy
-      - Security / Security News
-    publishedAt: 2026-05-02T10:30:00.000Z
-    source: WIRED (AI)
-  - title: The Next Alzheimer’s Breakthrough Will Take More Than Just Science
-    url: https://www.wired.com/story/john-hardy-dementia-wired-health/
-    summary: At WIRED Health, pioneering Alzheimer's researcher John Hardy outlined
-      the stakes—and next steps—of where treatment is headed next.
-    imageUrl: https://media.wired.com/photos/69ef96652b90f51c24b3be50/191:100/w_1280,c_limit/John-Hardy-WIRED-Health-Science-XT503136.jpg
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2026-05-01T18:55:56.000Z
-    source: WIRED science
-  - title: Automated camera solution can improve excavator tracking
-    url: https://techxplore.com/news/2026-05-automated-camera-solution-excavator-tracking.html
-    summary: Despite significant advances in vision-based equipment tracking,
-      frequent occlusions caused by multiple interacting machines continue to
-      degrade tracking accuracy on construction sites. While previous studies
-      have explored multi-camera approaches, they often assume that at least one
-      camera maintains a clear view at all times. In practice, however, such
-      conditions are rarely guaranteed. Even with multiple CCTV systems
-      installed, simultaneous occlusions across cameras frequently occur, making
-      it difficult to identify which camera provides the most reliable view at
-      any given moment.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/incheon-national-unive-1.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-05-01T17:20:01.000Z
-    source: TechXplore — Engineering
-  - title: Computer vision helps observers understand how iconic artworks were created
-    url: https://techxplore.com/news/2026-05-vision-iconic-artworks.html
-    summary: Paintings are often made up of thousands of tiny brushstrokes, each
-      going in a certain direction, that are not easily observed by the viewer.
-      A cross-disciplinary research team from the Penn State College of
-      Information Sciences and Technology (IST) and Loughborough University in
-      England has developed an image analysis method that helps to make the
-      underlying brushstroke structure of paintings visible, giving new insight
-      into how artists physically created their works.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/computer-vision-helps.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-05-01T17:00:03.000Z
-    source: TechXplore — Computer Science
-  - title: "Video Friday: Figure, 1X Ramp Up Humanoid Robot Production"
-    url: https://spectrum.ieee.org/video-friday-humanoid-robot-production
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/rows-of-identical-humanoid-robots-standing-on-platforms-in-a-large-industrial-hall.jpg?id=66666641&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Humanoid-robots
-      - Video-friday
-      - Robot-videos
-      - Robot-manipulation
-      - Industrial-robots
-      - Robot-hands
-    publishedAt: 2026-05-01T16:30:01.000Z
-    source: IEEE Spectrum — Robotics
   - title: Beacon Biosignals is mapping the brain during sleep
     url: https://news.mit.edu/2026/beacon-biosignals-maps-brain-during-sleep-0501
     summary: The human brain remains one of the most fascinating and perplexing
@@ -204,19 +225,6 @@ articles:
     categories: []
     publishedAt: 2026-04-30T06:44:03.000Z
     source: ScienceDaily — Artificial Intelligence
-  - title: With a swipe of a magnet, microscopic “magno-bots” perform complex
-      maneuvers
-    url: https://news.mit.edu/2026/microscopic-magno-bots-perform-complex-maneuvers-with-magnet-swipe-0428
-    summary: Under a microscope, a bouquet of lollipop-like structures, each smaller
-      than a grain of sand, waves gently in a petri dish of liquid. Suddenly,
-      they snap together, like the jaws of a Venus flytrap, as a scientist waves
-      a small magnet over the dish. What was previously an assemblage of tiny
-      passive structures has transformed instantly into an active robotic
-      gripper.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-Mini-MagnoBot-01-press.jpg?itok=Ob5IT48P
-    categories: []
-    publishedAt: 2026-04-28T15:00:00.000Z
-    source: MIT Robotics
   - title: Reviving Teletext for Ham Radio
     url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
     summary: Once upon a time in Europe, television remote controls had a magic
