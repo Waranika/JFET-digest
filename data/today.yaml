@@ -1,8 +1,113 @@
-date: 2026-05-05
+date: 2026-05-06
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: The rapid embrace of AI in China, its biggest testing ground, may shape
+      how AI is used globally
+    url: https://techxplore.com/news/2026-05-rapid-embrace-ai-china-biggest.html
+    summary: On a recent weekday, around 50 people gathered outside the headquarters
+      of a Chinese mobile internet company, waiting to get help with installing
+      an artificial intelligence assistant.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/the-rapid-embrace-of-a.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-05-06T06:16:56.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: AI lets chemists design molecules by simply describing them
+    url: https://www.sciencedaily.com/releases/2026/05/260504023844.htm
+    summary: Creating complex molecules usually requires years of experience and
+      countless decisions, but a new AI system is changing that. Synthegy lets
+      chemists guide synthesis and reaction planning using simple language,
+      while powerful algorithms generate and evaluate possible solutions. The AI
+      doesn’t just compute—it reasons, scoring pathways and explaining which
+      ones make the most sense.
+    imageUrl: https://www.sciencedaily.com/images/1920/synthegy-development.webp
+    categories: []
+    publishedAt: 2026-05-06T00:20:57.000Z
+    source: ScienceDaily — Artificial Intelligence
+  - title: ‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says
+      of Elon Musk
+    url: https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/
+    summary: OpenAI’s president wrapped his testimony on Tuesday by revealing a
+      fiery meeting with Musk in 2017 and subsequent efforts to remove several
+      board members.
+    imageUrl: https://media.wired.com/photos/69fa6b743e5215ee65d816ac/191:100/w_1280,c_limit/Model-Behavior-Why-Everything-in-Musk-v-Altman-Greg-Brockmamn-Testimony-Business-2273123629.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-05-05T23:24:58.000Z
+    source: WIRED (AI)
+  - title: 3D-printed interlocking electrodes demonstrate optimization potential for
+      energy storage
+    url: https://techxplore.com/news/2026-05-3d-interlocking-electrodes-optimization-potential.html
+    summary: Good electrochemical energy storage (EES) devices such as rechargeable
+      batteries and supercapacitors can store a lot of energy and release it
+      quickly, but these design goals are often at odds with each other. Using
+      design optimization and 3D printing, a team led by engineers and
+      scientists at Lawrence Livermore National Laboratory (LLNL) has overcome
+      this tradeoff and demonstrated a 3D-printed electrode design for EES that
+      maximizes storage capacity under practical conditions.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/3d-printed-interlockin.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-05-05T21:20:06.000Z
+    source: TechXplore — Engineering
+  - title: Telehealth Abortion Is Still Possible Without Mifepristone
+    url: https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/
+    summary: Courts may restrict access to the popular abortion medication
+      mifepristone in the United States. Telehealth providers have backup plans
+      in place.
+    imageUrl: https://media.wired.com/photos/69f8fcb7473a4d48b2c52f3f/191:100/w_1280,c_limit/Medication-Abortion-Providers-Say-They're-Not-Pausing-Treatment-Science-2203851948.jpg
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2026-05-05T21:05:40.000Z
+    source: WIRED science
+  - title: "Games people — and machines — play: Untangling strategic reasoning to
+      advance AI"
+    url: https://news.mit.edu/2026/untangling-strategic-reasoning-to-advance-ai-gabriele-farina-0505
+    summary: Gabriele Farina grew up in a small town in a hilly winemaking region of
+      northern Italy. Neither of his parents had college degrees, and although
+      both were convinced they “didn’t understand math,” Farina says, they
+      bought him the technical books he wanted and didn’t discourage him from
+      attending the science-oriented, rather than the classical, high school.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-eecs-lids-Gabriele-Farina.JPG?itok=1UkrX-oG
+    categories: []
+    publishedAt: 2026-05-05T21:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Scientists connect “time crystal” to real device in quantum breakthrough
+    url: https://www.sciencedaily.com/releases/2026/05/260504154024.htm
+    summary: A strange kind of matter that “ticks” forever without energy input has
+      just taken a major leap toward real-world use. Known as a time crystal,
+      this quantum system repeats its motion endlessly—like a clock that never
+      winds down—and scientists have now managed to connect it to an external
+      device for the first time. By linking the time crystal to a tiny
+      mechanical oscillator, researchers showed they can actually control its
+      behavior, opening the door to powerful new technologies.
+    imageUrl: https://www.sciencedaily.com/images/1920/time-crystals-could-power-future-quantum-computers.webp
+    categories: []
+    publishedAt: 2026-05-05T20:53:45.000Z
+    source: ScienceDaily — Computer Science
+  - title: Do We Really Need Smarter AI to Cure Cancer?
+    url: https://spectrum.ieee.org/can-ai-cure-cancer-javorsky
+    summary: By some estimates, more than a trillion dollars have already been
+      invested in artificial intelligence. But large tech companies, including
+      Meta and OpenAI, are still not content with today’s AI; they say they’ve
+      set their sights on powerful, versatile AI that by some measure would
+      match or even exceed human performance. A remarkable amount of resources
+      is being poured into developing artificial general intelligence (AGI) or
+      even more capable artificial super intelligence (ASI).
+    imageUrl: https://spectrum.ieee.org/media-library/smiling-portrait-of-a-young-adult-brunette.jpg?id=66680446&width=1245&height=700&coordinates=0%2C469%2C0%2C469
+    categories:
+      - Medical-ai
+      - Cancer
+      - Oncology
+      - Agi
+      - Superintelligence
+      - Cancer-treatments
+    publishedAt: 2026-05-05T12:00:01.000Z
+    source: IEEE Spectrum — AI
   - title: A simple physics-inspired model sheds light on how AI learns
     url: https://techxplore.com/news/2026-05-simple-physics-ai.html
     summary: Artificial intelligence systems based on neural networks—such as
@@ -17,44 +122,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-05-05T04:00:01.000Z
     source: TechXplore — Computer Science
-  - title: Scientists just created exotic new forms of matter that shouldn’t exist
-    url: https://www.sciencedaily.com/releases/2026/05/260504154014.htm
-    summary: A new quantum physics study reveals that simply changing a magnetic
-      field over time can unlock entirely new forms of matter that don’t exist
-      under normal conditions. By carefully “driving” materials with timed
-      magnetic shifts, researchers created exotic quantum states that could be
-      far more stable and resistant to errors—one of the biggest challenges in
-      quantum computing. This breakthrough suggests that the future of quantum
-      technology may depend not just on what materials are made of, but how
-      they’re manipulated in time.
-    imageUrl: https://www.sciencedaily.com/images/1920/exotic-form-of-matter-quantum-material.webp
-    categories: []
-    publishedAt: 2026-05-05T02:48:12.000Z
-    source: ScienceDaily — Computer Science
-  - title: "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’"
-    url: https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/
-    summary: OpenAI’s cofounder and president revealed in federal court on Monday
-      that he’s one of the largest individual stakeholders in the AI lab.
-    imageUrl: https://media.wired.com/photos/69f8dc3d515a33a2efb30971/191:100/w_1280,c_limit/Model-Behavior-Why-Everything-in-Musk-v-Altman-Greg-Brockman-Testifies-Business-2273978244.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-05-04T23:19:52.000Z
-    source: WIRED (AI)
-  - title: After a 40-year wait, technology finally enables three-sided zipper design
-    url: https://techxplore.com/news/2026-05-year-technology-enables-sided-zipper.html
-    summary: "In 1985, the Innovative Design Fund placed an ad in Scientific
-      American offering up to $10,000 to support clever prototypes for clothing,
-      home decor, and textiles. William Freeman Ph.D., then an electrical
-      engineer at Polaroid and now an MIT professor, saw it and submitted a
-      novel idea: a three-sided zipper. Instead of fastening pants, it'd be like
-      a switch that seamlessly flipped chairs, tents, and purses between soft
-      and rigid states, making them easier to pack and put together."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/40-year-wait-tech-fina.jpg
-    categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-05-04T20:00:04.000Z
-    source: TechXplore — Engineering
   - title: It took 40 years for technology to catch up to this zipper design
     url: https://news.mit.edu/2026/three-sided-y-zipper-design-0504
     summary: "In 1985, the Innovative Design Fund placed an ad in Scientific
@@ -91,7 +158,7 @@ articles:
       AI” company called Familiar Machines & Magic (FM&M), which in short order
       managed to attract a combination of exceptionally talented robotics folks,
       including Morgan Pope from Disney Research, which got us very curious.
-    imageUrl: https://spectrum.ieee.org/media-library/a-gif-shows-a-short-clip-of-a-teenager-sitting-with-and-then-hugging-a-torso-sized-animal-like-robot.gif?id=66675837&width=1200&height=400&coordinates=0%2C137%2C0%2C138
+    imageUrl: https://spectrum.ieee.org/media-library/a-gif-shows-a-short-clip-of-a-teenager-sitting-with-and-then-hugging-a-torso-sized-animal-like-robot.gif?id=66675837&width=1245&height=700&coordinates=0%2C0%2C0%2C0
     categories:
       - Irobot
       - Social-robots
@@ -130,34 +197,6 @@ articles:
     categories: []
     publishedAt: 2026-05-04T13:14:10.000Z
     source: ScienceDaily — Engineering
-  - title: Perfectly Aligning AI’s Values With Humanity’s Is Impossible
-    url: https://spectrum.ieee.org/ai-alignment
-    summary: One of the hardest problems in artificial intelligence is “alignment,”
-      or making sure AI goals match our own, a challenge that may prove
-      especially important if superintelligent AIs that outmatch us
-      intellectually are ever developed. But scientists in England and their
-      colleagues now report in the journal PNAS Nexus that perfect alignment
-      between AI systems and human interests is mathematically impossible.
-    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-human-pushing-a-giant-speech-bubble-uphill.jpg?id=66667725&width=1200&height=400&coordinates=0%2C417%2C0%2C417
-    categories:
-      - Alignment
-      - Agi
-      - Superintelligence
-      - Ai-agents
-      - Ai-ethics
-    publishedAt: 2026-05-04T13:00:01.000Z
-    source: IEEE Spectrum — AI
-  - title: RFK Jr.’s New Podcast Is as Weird as You’d Expect
-    url: https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/
-    summary: The first two episodes of Robert F. Kennedy Jr.’s new podcast feature
-      him discoursing on food with a reality-TV chef and, for some reason, Mike
-      Tyson. Vaccines are not on the agenda.
-    imageUrl: https://media.wired.com/photos/69f367ae78fa4200617e3b11/191:100/w_1280,c_limit/GettyImages-2272611171.jpg
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2026-05-04T11:00:00.000Z
-    source: WIRED science
   - title: Powerful AI finds 100+ hidden planets in NASA data including rare and
       extreme worlds
     url: https://www.sciencedaily.com/releases/2026/05/260502233926.htm
@@ -194,7 +233,7 @@ articles:
       switching from fan-based systems to liquid ones, which pipe water near
       electronics to gather up waste heat. That hot water is then cooled,
       dissipating the heat into the environment.
-    imageUrl: https://spectrum.ieee.org/media-library/a-block-of-metal-with-t-shaped-crystals-inside-on-the-left-and-with-holes-where-the-crystals-were-on-the-right.jpg?id=66668556&width=1200&height=800&coordinates=62%2C0%2C63%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/a-block-of-metal-with-t-shaped-crystals-inside-on-the-left-and-with-holes-where-the-crystals-were-on-the-right.jpg?id=66668556&width=2000&height=1500&coordinates=166%2C0%2C167%2C0
     categories:
       - Thermoelectrics
       - Ai-data-centers
@@ -202,29 +241,6 @@ articles:
       - Crystals
     publishedAt: 2026-05-02T13:00:01.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Beacon Biosignals is mapping the brain during sleep
-    url: https://news.mit.edu/2026/beacon-biosignals-maps-brain-during-sleep-0501
-    summary: The human brain remains one of the most fascinating and perplexing
-      mysteries in medicine. Scientists still struggle to match neurological
-      activity with brain function and detect problems early, slowing efforts to
-      treat neurological disorders and other diseases.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT_Beacon-Bio-Signals-01-press.jpg?itok=CqIt-i5V
-    categories: []
-    publishedAt: 2026-05-01T04:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: This AI knew the answers but didn’t understand the questions
-    url: https://www.sciencedaily.com/releases/2026/04/260429102035.htm
-    summary: For decades, psychologists have debated whether the human mind can be
-      explained by one unified theory or must be broken into separate parts like
-      memory and attention. A recent AI model called Centaur seemed to offer a
-      breakthrough, claiming it could mimic human thinking across 160 different
-      cognitive tasks. But new research is challenging that bold claim,
-      suggesting the model isn’t truly “thinking” at all—it’s just memorizing
-      patterns.
-    imageUrl: https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp
-    categories: []
-    publishedAt: 2026-04-30T06:44:03.000Z
-    source: ScienceDaily — Artificial Intelligence
   - title: Reviving Teletext for Ham Radio
     url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
     summary: Once upon a time in Europe, television remote controls had a magic
