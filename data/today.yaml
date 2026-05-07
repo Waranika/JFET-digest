@@ -1,19 +1,123 @@
-date: 2026-05-06
+date: 2026-05-07
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: The rapid embrace of AI in China, its biggest testing ground, may shape
-      how AI is used globally
-    url: https://techxplore.com/news/2026-05-rapid-embrace-ai-china-biggest.html
-    summary: On a recent weekday, around 50 people gathered outside the headquarters
-      of a Chinese mobile internet company, waiting to get help with installing
-      an artificial intelligence assistant.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/the-rapid-embrace-of-a.jpg
+  - title: "Study: Firms often use automation to control certain workers’ wages"
+    url: https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507
+    summary: When we hear about automation and artificial intelligence replacing
+      jobs, it may seem like a tsunami of technology is going to wipe out
+      workers broadly, in the name of greater efficiency. But a study
+      co-authored by an MIT economist shows markedly different dynamics in the
+      U.S. since 1980.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-Automation-Wages-01-press.jpg?itok=3HI3bxqJ
+    categories: []
+    publishedAt: 2026-05-07T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to
+      Tesla"
+    url: https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/
+    summary: Messages between Shivon Zilis and Tesla executives reveal plans in 2017
+      to start a rival AI lab, potentially led by Altman or Demis Hassabis.
+    imageUrl: https://media.wired.com/photos/69fbb0898d34a433dee8f300/191:100/w_1280,c_limit/Model-Behavior-Why-Everything-in-Musk-v-Altman-Elon-Musk-Considered-Recruiting-Sam-Altman-to-Join-Tesla-AI-Lab-Business-2273123629.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-05-06T06:16:56.000Z
-    source: TechXplore — AI & Machine Learning
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-05-06T23:23:45.000Z
+    source: WIRED (AI)
+  - title: Chatbots Need Guardrails to Prevent Delusions and Psychosis
+    url: https://spectrum.ieee.org/mental-health-chatbot-guardrails
+    summary: Millions of people worldwide are turning to chatbots like ChatGPT or
+      Claude, and a proliferating class of specialized AI companionship apps for
+      friendship, therapy or even romance.
+    imageUrl: https://spectrum.ieee.org/media-library/collage-of-a-pocket-watch-swinging-hypnotically-against-a-background-of-chat-bot-logos.jpg?id=66686934&width=1200&height=800&coordinates=62%2C0%2C63%2C0
+    categories:
+      - Chatbots
+      - Medical-ai
+      - Ai-regulation
+      - Mental-health
+    publishedAt: 2026-05-06T22:11:00.000Z
+    source: IEEE Spectrum — AI
+  - title: NASA just tested a powerful new thruster that could send humans to Mars
+    url: https://www.sciencedaily.com/releases/2026/05/260505234611.htm
+    summary: A powerful new electromagnetic thruster has taken a major step forward
+      after a successful high-energy test at NASA’s Jet Propulsion Laboratory.
+      Fueled by lithium vapor and driven by intense magnetic forces, the
+      experimental engine reached record-breaking power levels—far beyond
+      anything currently used in space. Glowing hotter than molten lava and
+      firing inside a specialized vacuum chamber, the thruster hints at a future
+      where spacecraft could travel farther and more efficiently than ever
+      before.
+    imageUrl: https://www.sciencedaily.com/images/1920/jpl-tests-next-generation-electric-thruster.webp
+    categories: []
+    publishedAt: 2026-05-06T21:00:24.000Z
+    source: ScienceDaily — Engineering
+  - title: Vanadium batteries could stabilize power grids and help prevent blackouts
+      in Ecuador
+    url: https://techxplore.com/news/2026-05-vanadium-batteries-stabilize-power-grids.html
+    summary: "The transition toward renewable energy is redefining the operation of
+      power systems worldwide. However, this shift brings a growing technical
+      challenge: the loss of grid stability. Unlike conventional power plants,
+      renewable sources such as solar and wind do not inherently provide inertia
+      to the system, making power grids more vulnerable to rapid voltage and
+      frequency fluctuations that can lead to blackouts."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/vanadium-batteries-cou.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-05-06T21:00:08.000Z
+    source: TechXplore — Engineering
+  - title: Stress-testing method for cloud computing algorithms helps avoid network
+      failures
+    url: https://techxplore.com/news/2026-05-stress-method-cloud-algorithms-network.html
+    summary: Researchers from MIT and elsewhere have developed a more user-friendly
+      and efficient method to help networking engineers identify potential
+      system failures before they cause major problems, like a cloud service
+      outage that leaves millions of users unable to access applications.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/cloud-compute.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-05-06T18:40:03.000Z
+    source: TechXplore — Computer Science
+  - title: Learn What It Takes to Become a Cybersecurity Consultant
+    url: https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant
+    summary: Cybersecurity consultants have never been more in demand. Information
+      security analyst roles are projected to grow nearly 30 percent between now
+      and 2034, according to the U.S. Bureau of Labor Statistics. More than 15
+      million cybercrime incidents occurred worldwide in 2024, Statista
+      reported.
+    imageUrl: https://spectrum.ieee.org/media-library/a-young-south-asian-woman-explaining-detailed-computer-code-to-a-colleague-using-an-office-presentation-screen.jpg?id=66689798&width=1200&height=800&coordinates=155%2C0%2C156%2C0
+    categories:
+      - Ieee-products-and-services
+      - Cybersecurity
+      - Ieee-computer-society
+      - Careers
+      - Computing
+      - Career-advice
+      - Type-ti
+    publishedAt: 2026-05-06T18:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Mexico City Is Sinking. A Powerful NASA Satellite Just Revealed How Fast
+    url: https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/
+    summary: A new NASA map shows how the sinking of Mexico City is uneven, with
+      areas registering up to 2 centimeters per month.
+    imageUrl: https://media.wired.com/photos/69fb47a73d99bccc43e54e5d/191:100/w_1280,c_limit/Hundimiento%20Ciudad%20de%20M%C3%A9xico%20NASA.png
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-05-06T17:35:06.000Z
+    source: WIRED science
+  - title: New AI method tackles one of science’s hardest math problems
+    url: https://www.sciencedaily.com/releases/2026/05/260505234605.htm
+    summary: Penn researchers have developed a smarter AI method for solving
+      notoriously difficult inverse equations, which help scientists uncover
+      hidden causes behind observable effects. By introducing “mollifier layers”
+      that smooth noisy data, they’ve made these calculations more stable and
+      far less computationally demanding. This could transform fields like
+      genetics, where understanding how DNA behaves is key to disease research.
+    imageUrl: https://www.sciencedaily.com/images/1920/human-ai-interaction-problem-solving.webp
+    categories: []
+    publishedAt: 2026-05-06T08:24:46.000Z
+    source: ScienceDaily — Robotics
   - title: AI lets chemists design molecules by simply describing them
     url: https://www.sciencedaily.com/releases/2026/05/260504023844.htm
     summary: Creating complex molecules usually requires years of experience and
@@ -26,56 +130,6 @@ articles:
     categories: []
     publishedAt: 2026-05-06T00:20:57.000Z
     source: ScienceDaily — Artificial Intelligence
-  - title: ‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says
-      of Elon Musk
-    url: https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/
-    summary: OpenAI’s president wrapped his testimony on Tuesday by revealing a
-      fiery meeting with Musk in 2017 and subsequent efforts to remove several
-      board members.
-    imageUrl: https://media.wired.com/photos/69fa6b743e5215ee65d816ac/191:100/w_1280,c_limit/Model-Behavior-Why-Everything-in-Musk-v-Altman-Greg-Brockmamn-Testimony-Business-2273123629.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-05-05T23:24:58.000Z
-    source: WIRED (AI)
-  - title: 3D-printed interlocking electrodes demonstrate optimization potential for
-      energy storage
-    url: https://techxplore.com/news/2026-05-3d-interlocking-electrodes-optimization-potential.html
-    summary: Good electrochemical energy storage (EES) devices such as rechargeable
-      batteries and supercapacitors can store a lot of energy and release it
-      quickly, but these design goals are often at odds with each other. Using
-      design optimization and 3D printing, a team led by engineers and
-      scientists at Lawrence Livermore National Laboratory (LLNL) has overcome
-      this tradeoff and demonstrated a 3D-printed electrode design for EES that
-      maximizes storage capacity under practical conditions.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/3d-printed-interlockin.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-05-05T21:20:06.000Z
-    source: TechXplore — Engineering
-  - title: Telehealth Abortion Is Still Possible Without Mifepristone
-    url: https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/
-    summary: Courts may restrict access to the popular abortion medication
-      mifepristone in the United States. Telehealth providers have backup plans
-      in place.
-    imageUrl: https://media.wired.com/photos/69f8fcb7473a4d48b2c52f3f/191:100/w_1280,c_limit/Medication-Abortion-Providers-Say-They're-Not-Pausing-Treatment-Science-2203851948.jpg
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2026-05-05T21:05:40.000Z
-    source: WIRED science
-  - title: "Games people — and machines — play: Untangling strategic reasoning to
-      advance AI"
-    url: https://news.mit.edu/2026/untangling-strategic-reasoning-to-advance-ai-gabriele-farina-0505
-    summary: Gabriele Farina grew up in a small town in a hilly winemaking region of
-      northern Italy. Neither of his parents had college degrees, and although
-      both were convinced they “didn’t understand math,” Farina says, they
-      bought him the technical books he wanted and didn’t discourage him from
-      attending the science-oriented, rather than the classical, high school.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-eecs-lids-Gabriele-Farina.JPG?itok=1UkrX-oG
-    categories: []
-    publishedAt: 2026-05-05T21:00:00.000Z
-    source: MIT Artificial Intelligence
   - title: Scientists connect “time crystal” to real device in quantum breakthrough
     url: https://www.sciencedaily.com/releases/2026/05/260504154024.htm
     summary: A strange kind of matter that “ticks” forever without energy input has
@@ -89,39 +143,6 @@ articles:
     categories: []
     publishedAt: 2026-05-05T20:53:45.000Z
     source: ScienceDaily — Computer Science
-  - title: Do We Really Need Smarter AI to Cure Cancer?
-    url: https://spectrum.ieee.org/can-ai-cure-cancer-javorsky
-    summary: By some estimates, more than a trillion dollars have already been
-      invested in artificial intelligence. But large tech companies, including
-      Meta and OpenAI, are still not content with today’s AI; they say they’ve
-      set their sights on powerful, versatile AI that by some measure would
-      match or even exceed human performance. A remarkable amount of resources
-      is being poured into developing artificial general intelligence (AGI) or
-      even more capable artificial super intelligence (ASI).
-    imageUrl: https://spectrum.ieee.org/media-library/smiling-portrait-of-a-young-adult-brunette.jpg?id=66680446&width=1245&height=700&coordinates=0%2C469%2C0%2C469
-    categories:
-      - Medical-ai
-      - Cancer
-      - Oncology
-      - Agi
-      - Superintelligence
-      - Cancer-treatments
-    publishedAt: 2026-05-05T12:00:01.000Z
-    source: IEEE Spectrum — AI
-  - title: A simple physics-inspired model sheds light on how AI learns
-    url: https://techxplore.com/news/2026-05-simple-physics-ai.html
-    summary: Artificial intelligence systems based on neural networks—such as
-      ChatGPT, Claude, DeepSeek or Gemini—are extraordinarily powerful, yet
-      their internal workings remain largely a "black box." To better understand
-      how these systems produce their responses, a group of physicists at
-      Harvard University has developed a simplified mathematical model of
-      learning in neural networks that can be analyzed mathematically using the
-      tools of statistical physics.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/deepseek-1.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-05-05T04:00:01.000Z
-    source: TechXplore — Computer Science
   - title: It took 40 years for technology to catch up to this zipper design
     url: https://news.mit.edu/2026/three-sided-y-zipper-design-0504
     summary: "In 1985, the Innovative Design Fund placed an ad in Scientific
@@ -182,36 +203,6 @@ articles:
       - Robotics
     publishedAt: 2026-05-04T17:20:09.000Z
     source: TechXplore — Robotics
-  - title: MIT scientists finally reveal the hidden structure of a mysterious
-      high-tech material
-    url: https://www.sciencedaily.com/releases/2026/05/260504023831.htm
-    summary: For decades, relaxor ferroelectrics have powered everything from
-      medical ultrasounds to sonar systems, yet their inner atomic structure
-      remained a mystery—until now. Researchers have finally mapped their
-      three-dimensional structure in unprecedented detail, uncovering hidden
-      patterns in how electric charges are arranged at the nanoscale. The
-      breakthrough not only challenges long-standing assumptions about how these
-      materials behave but also allows scientists to refine the models used to
-      design them.
-    imageUrl: https://www.sciencedaily.com/images/1920/polar-domains-multi-slice-electron-ptychography.webp
-    categories: []
-    publishedAt: 2026-05-04T13:14:10.000Z
-    source: ScienceDaily — Engineering
-  - title: Powerful AI finds 100+ hidden planets in NASA data including rare and
-      extreme worlds
-    url: https://www.sciencedaily.com/releases/2026/05/260502233926.htm
-    summary: Astronomers have unleashed a powerful new AI tool called RAVEN to comb
-      through data from NASA’s TESS mission—and it’s paying off in a big way. By
-      analyzing millions of stars, the system has confirmed over 100 exoplanets,
-      including 31 brand-new worlds, and identified thousands more promising
-      candidates. What makes this especially exciting is the discovery of rare
-      and extreme planets, like those that whip around their stars in less than
-      a day and others lurking in the mysterious “Neptunian desert,” where
-      planets are thought to be scarce.
-    imageUrl: https://www.sciencedaily.com/images/1920/ultra-short-period-planet.webp
-    categories: []
-    publishedAt: 2026-05-03T04:56:52.000Z
-    source: ScienceDaily — Robotics
   - title: Found Industries aims to strengthen America’s industrial supply chains
     url: https://news.mit.edu/2026/found-industries-aims-to-strengthen-americas-industrial-supply-chains-0503
     summary: Found Industries has gone through several distinct phases in the four
@@ -225,22 +216,6 @@ articles:
     categories: []
     publishedAt: 2026-05-03T04:00:00.000Z
     source: MIT Engineering
-  - title: A Bit of Data Center Heat Can Be Turned Back Into Electricity
-    url: https://spectrum.ieee.org/data-center-thermoelectric-generation
-    summary: Managing heat in AI data centers is a growing challenge. As
-      hyperscalers cram more and more high-power computing systems into huge
-      facilities, they generate more and more heat. Data center designs are
-      switching from fan-based systems to liquid ones, which pipe water near
-      electronics to gather up waste heat. That hot water is then cooled,
-      dissipating the heat into the environment.
-    imageUrl: https://spectrum.ieee.org/media-library/a-block-of-metal-with-t-shaped-crystals-inside-on-the-left-and-with-holes-where-the-crystals-were-on-the-right.jpg?id=66668556&width=2000&height=1500&coordinates=166%2C0%2C167%2C0
-    categories:
-      - Thermoelectrics
-      - Ai-data-centers
-      - Heat-management
-      - Crystals
-    publishedAt: 2026-05-02T13:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: Reviving Teletext for Ham Radio
     url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
     summary: Once upon a time in Europe, television remote controls had a magic
