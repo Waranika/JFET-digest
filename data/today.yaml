@@ -1,8 +1,87 @@
-date: 2026-05-07
+date: 2026-05-08
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI
+    url: https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/
+    summary: Leaders at the tech giant were skeptical of OpenAI—but wary of pushing
+      it into the arms of Amazon, according to emails dating back to 2018.
+    imageUrl: https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-05-08T01:42:14.000Z
+    source: WIRED (AI)
+  - title: Adaptive battery reduces energy costs and peak power demand in greenhouses
+    url: https://techxplore.com/news/2026-05-battery-energy-peak-power-demand.html
+    summary: Researchers at Karlstad University have developed a new intelligent
+      control strategy for battery storage in climate-controlled greenhouses. By
+      combining artificial intelligence and signal-processing algorithms with
+      short-term forecasts of electricity consumption and solar power
+      generation, energy costs can be reduced while simultaneously easing the
+      load on the power grid. The findings are published in the journal IEEJ
+      Transactions on Electrical and Electronic Engineering.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/adaptive-battery-reduc.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-05-07T22:00:03.000Z
+    source: TechXplore — Engineering
+  - title: Inspired by the brain, researchers build smarter and more efficient
+      computer hardware
+    url: https://techxplore.com/news/2026-05-brain-smarter-efficient-hardware.html
+    summary: As traditional computer chips reach their physical limits and
+      artificial intelligence demands more energy than ever, University of
+      Missouri researchers are rethinking how computers work by taking cues from
+      the human brain. The timing is critical. Energy use from AI data centers
+      is projected to double by the end of the decade, raising urgent questions
+      about sustainability.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/inspired-by-the-brain.jpg
+    categories:
+      - Hardware
+    publishedAt: 2026-05-07T20:20:05.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Why the Hantavirus Cruise Ship Outbreak Isn’t Likely to Become a Global
+      Crisis
+    url: https://www.wired.com/story/hantavirus-cruise-ship-what-you-need-to-know/
+    summary: While the outbreak aboard a cruise ship in the Atlantic is concerning,
+      the virus isn’t easily transmitted through casual contact.
+    imageUrl: https://media.wired.com/photos/69fb46ac9e1b8f941262915d/191:100/w_1280,c_limit/GettyImages-949167366.jpg
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2026-05-07T19:36:46.000Z
+    source: WIRED science
+  - title: MIT School of Engineering faculty receive awards in winter 2026
+    url: https://news.mit.edu/2026/school-engineering-faculty-receive-awards-0507
+    summary: "Each year, faculty and researchers across the MIT School of
+      Engineering are recognized with prestigious awards for their contributions
+      to research, technology, society, and education. To celebrate these
+      achievements, the school periodically highlights select honors received by
+      members of its departments, institutes, labs, and centers. The following
+      individuals were recognized in winter 2026:"
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-soe-awards.jpg?itok=Uvo2TBJ6
+    categories: []
+    publishedAt: 2026-05-07T16:40:00.000Z
+    source: MIT Engineering
+  - title: AI Is Starting to Build Better AI
+    url: https://spectrum.ieee.org/recursive-self-improvement
+    summary: The field of artificial intelligence was built on the premise that
+      machines might someday improve themselves. In 1966, the English
+      mathematician I. J. Good wrote that “an ultraintelligent machine could
+      design even better machines; there would then unquestionably be an
+      ‘intelligence explosion,’ and the intelligence of man would be left far
+      behind.” AI researchers have long seen recursive self-improvement, or RSI,
+      as something to both desire and fear. Today, advances in AI are raising
+      the question of whether parts of that process are already underway.
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-two-identical-humanoid-robots-inspecting-each-other-with-magnifying-glasses.jpg?id=66686698&width=2000&height=1500&coordinates=0%2C0%2C0%2C0
+    categories:
+      - Ai-safety
+      - Singularity
+      - Llms
+      - Evolutionary-algorithm
+    publishedAt: 2026-05-07T12:00:02.000Z
+    source: IEEE Spectrum — AI
   - title: "Study: Firms often use automation to control certain workers’ wages"
     url: https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507
     summary: When we hear about automation and artificial intelligence replacing
@@ -14,30 +93,6 @@ articles:
     categories: []
     publishedAt: 2026-05-07T04:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to
-      Tesla"
-    url: https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/
-    summary: Messages between Shivon Zilis and Tesla executives reveal plans in 2017
-      to start a rival AI lab, potentially led by Altman or Demis Hassabis.
-    imageUrl: https://media.wired.com/photos/69fbb0898d34a433dee8f300/191:100/w_1280,c_limit/Model-Behavior-Why-Everything-in-Musk-v-Altman-Elon-Musk-Considered-Recruiting-Sam-Altman-to-Join-Tesla-AI-Lab-Business-2273123629.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-05-06T23:23:45.000Z
-    source: WIRED (AI)
-  - title: Chatbots Need Guardrails to Prevent Delusions and Psychosis
-    url: https://spectrum.ieee.org/mental-health-chatbot-guardrails
-    summary: Millions of people worldwide are turning to chatbots like ChatGPT or
-      Claude, and a proliferating class of specialized AI companionship apps for
-      friendship, therapy or even romance.
-    imageUrl: https://spectrum.ieee.org/media-library/collage-of-a-pocket-watch-swinging-hypnotically-against-a-background-of-chat-bot-logos.jpg?id=66686934&width=1200&height=800&coordinates=62%2C0%2C63%2C0
-    categories:
-      - Chatbots
-      - Medical-ai
-      - Ai-regulation
-      - Mental-health
-    publishedAt: 2026-05-06T22:11:00.000Z
-    source: IEEE Spectrum — AI
   - title: NASA just tested a powerful new thruster that could send humans to Mars
     url: https://www.sciencedaily.com/releases/2026/05/260505234611.htm
     summary: A powerful new electromagnetic thruster has taken a major step forward
@@ -52,20 +107,6 @@ articles:
     categories: []
     publishedAt: 2026-05-06T21:00:24.000Z
     source: ScienceDaily — Engineering
-  - title: Vanadium batteries could stabilize power grids and help prevent blackouts
-      in Ecuador
-    url: https://techxplore.com/news/2026-05-vanadium-batteries-stabilize-power-grids.html
-    summary: "The transition toward renewable energy is redefining the operation of
-      power systems worldwide. However, this shift brings a growing technical
-      challenge: the loss of grid stability. Unlike conventional power plants,
-      renewable sources such as solar and wind do not inherently provide inertia
-      to the system, making power grids more vulnerable to rapid voltage and
-      frequency fluctuations that can lead to blackouts."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/vanadium-batteries-cou.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-05-06T21:00:08.000Z
-    source: TechXplore — Engineering
   - title: Stress-testing method for cloud computing algorithms helps avoid network
       failures
     url: https://techxplore.com/news/2026-05-stress-method-cloud-algorithms-network.html
@@ -85,7 +126,7 @@ articles:
       and 2034, according to the U.S. Bureau of Labor Statistics. More than 15
       million cybercrime incidents occurred worldwide in 2024, Statista
       reported.
-    imageUrl: https://spectrum.ieee.org/media-library/a-young-south-asian-woman-explaining-detailed-computer-code-to-a-colleague-using-an-office-presentation-screen.jpg?id=66689798&width=1200&height=800&coordinates=155%2C0%2C156%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/a-young-south-asian-woman-explaining-detailed-computer-code-to-a-colleague-using-an-office-presentation-screen.jpg?id=66689798&width=1245&height=700&coordinates=0%2C157%2C0%2C157
     categories:
       - Ieee-products-and-services
       - Cybersecurity
@@ -96,16 +137,6 @@ articles:
       - Type-ti
     publishedAt: 2026-05-06T18:00:01.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Mexico City Is Sinking. A Powerful NASA Satellite Just Revealed How Fast
-    url: https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/
-    summary: A new NASA map shows how the sinking of Mexico City is uneven, with
-      areas registering up to 2 centimeters per month.
-    imageUrl: https://media.wired.com/photos/69fb47a73d99bccc43e54e5d/191:100/w_1280,c_limit/Hundimiento%20Ciudad%20de%20M%C3%A9xico%20NASA.png
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-05-06T17:35:06.000Z
-    source: WIRED science
   - title: New AI method tackles one of science’s hardest math problems
     url: https://www.sciencedaily.com/releases/2026/05/260505234605.htm
     summary: Penn researchers have developed a smarter AI method for solving
@@ -179,7 +210,7 @@ articles:
       AI” company called Familiar Machines & Magic (FM&M), which in short order
       managed to attract a combination of exceptionally talented robotics folks,
       including Morgan Pope from Disney Research, which got us very curious.
-    imageUrl: https://spectrum.ieee.org/media-library/a-gif-shows-a-short-clip-of-a-teenager-sitting-with-and-then-hugging-a-torso-sized-animal-like-robot.gif?id=66675837&width=1245&height=700&coordinates=0%2C0%2C0%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/a-gif-shows-a-short-clip-of-a-teenager-sitting-with-and-then-hugging-a-torso-sized-animal-like-robot.gif?id=66675837&width=1200&height=600&coordinates=0%2C37%2C0%2C38
     categories:
       - Irobot
       - Social-robots
@@ -203,19 +234,6 @@ articles:
       - Robotics
     publishedAt: 2026-05-04T17:20:09.000Z
     source: TechXplore — Robotics
-  - title: Found Industries aims to strengthen America’s industrial supply chains
-    url: https://news.mit.edu/2026/found-industries-aims-to-strengthen-americas-industrial-supply-chains-0503
-    summary: Found Industries has gone through several distinct phases in the four
-      years since it was originally formed as Found Energy. There was the
-      scrappy startup stage, in which the company was primarily housed in the
-      basement of founder Peter Godart ’15, SM ’19, PhD ’21. Then there was the
-      demonstration phase, in which the company worked to productize its
-      technology for transforming aluminum into high-density fuel for industrial
-      operations.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-Found-Energy-01-press.jpg?itok=4yRWhK6u
-    categories: []
-    publishedAt: 2026-05-03T04:00:00.000Z
-    source: MIT Engineering
   - title: Reviving Teletext for Ham Radio
     url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
     summary: Once upon a time in Europe, television remote controls had a magic
