@@ -1,57 +1,88 @@
-date: 2026-05-08
+date: 2026-05-10
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI
-    url: https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/
-    summary: Leaders at the tech giant were skeptical of OpenAI—but wary of pushing
-      it into the arms of Amazon, according to emails dating back to 2018.
-    imageUrl: https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg
+  - title: The hidden atomic gap that could break next-generation computer chips
+    url: https://www.sciencedaily.com/releases/2026/05/260508003125.htm
+    summary: A major obstacle may be standing in the way of the next generation of
+      ultra-tiny computer chips. Researchers discovered that many promising 2D
+      materials lose their advantages because an invisible atomic-scale gap
+      forms when they are combined with insulating layers. That tiny gap weakens
+      electronic performance and could prevent further miniaturization. The team
+      says new “zipper materials” that lock together more tightly may offer a
+      path forward.
+    imageUrl: https://www.sciencedaily.com/images/1920/2d-conductor-and-dielectric-layer-van-der-waals-gap.webp
+    categories: []
+    publishedAt: 2026-05-09T22:48:13.000Z
+    source: ScienceDaily — Engineering
+  - title: "Video Friday: AI Gives Robot Hands Human-Like Dexterity"
+    url: https://spectrum.ieee.org/video-friday-robotic-hand-dexterity
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/robot-hand-grips-a-blender-pitcher-to-pour-a-pink-smoothie-into-a-cup-held-in-another-robot-hand.png?id=66709264&width=1245&height=700&coordinates=0%2C62%2C0%2C63
     categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-05-08T01:42:14.000Z
-    source: WIRED (AI)
-  - title: Adaptive battery reduces energy costs and peak power demand in greenhouses
-    url: https://techxplore.com/news/2026-05-battery-energy-peak-power-demand.html
-    summary: Researchers at Karlstad University have developed a new intelligent
-      control strategy for battery storage in climate-controlled greenhouses. By
-      combining artificial intelligence and signal-processing algorithms with
-      short-term forecasts of electricity consumption and solar power
-      generation, energy costs can be reduced while simultaneously easing the
-      load on the power grid. The findings are published in the journal IEEJ
-      Transactions on Electrical and Electronic Engineering.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/adaptive-battery-reduc.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-05-07T22:00:03.000Z
-    source: TechXplore — Engineering
-  - title: Inspired by the brain, researchers build smarter and more efficient
-      computer hardware
-    url: https://techxplore.com/news/2026-05-brain-smarter-efficient-hardware.html
-    summary: As traditional computer chips reach their physical limits and
-      artificial intelligence demands more energy than ever, University of
-      Missouri researchers are rethinking how computers work by taking cues from
-      the human brain. The timing is critical. Energy use from AI data centers
-      is projected to double by the end of the decade, raising urgent questions
-      about sustainability.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/inspired-by-the-brain.jpg
-    categories:
-      - Hardware
-    publishedAt: 2026-05-07T20:20:05.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Why the Hantavirus Cruise Ship Outbreak Isn’t Likely to Become a Global
-      Crisis
-    url: https://www.wired.com/story/hantavirus-cruise-ship-what-you-need-to-know/
-    summary: While the outbreak aboard a cruise ship in the Atlantic is concerning,
-      the virus isn’t easily transmitted through casual contact.
-    imageUrl: https://media.wired.com/photos/69fb46ac9e1b8f941262915d/191:100/w_1280,c_limit/GettyImages-949167366.jpg
+      - Humanoid-robots
+      - Video-friday
+      - Manipulation
+      - Robot-videos
+      - Autonomous-robots
+      - Quadruped-robots
+    publishedAt: 2026-05-09T16:00:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: The Pentagon Releases New Trove of Declassified UFO Files
+    url: https://www.wired.com/story/pentagon-drops-new-ufo-files/
+    summary: The Defense Department has released a new trove of declassified
+      documents about government UFO sightings.
+    imageUrl: https://media.wired.com/photos/69fdf4151d0ebeb1bdd41655/191:100/w_1280,c_limit/2024-04-30-Composite-Sketch.jpg
     categories:
       - Science
-      - Science / Health
-    publishedAt: 2026-05-07T19:36:46.000Z
+      - Science / Space
+    publishedAt: 2026-05-08T18:18:24.000Z
     source: WIRED science
+  - title: "From motion to memory: Researchers create soft machines that amplify
+      movement and remember touch"
+    url: https://techxplore.com/news/2026-05-motion-memory-soft-machines-amplify.html
+    summary: Conventional soft actuators are often limited by weak force, small
+      displacement, and slow response. To overcome these limitations,
+      researchers have developed a new mechanical system that can amplify motion
+      and remember external triggers through the interaction between magnets and
+      elastic membranes.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/from-motion-to-memory.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-05-08T17:40:03.000Z
+    source: TechXplore — Engineering
+  - title: Majority voting method provides a smarter way to catch software bugs
+    url: https://techxplore.com/news/2026-05-majority-voting-method-smarter-software.html
+    summary: Researchers from The University of Osaka, Kyushu University, and the
+      University of Victoria have developed a new method called Majority Voting
+      SZZ (MV-SZZ) that accurately identifies defect-inducing software commits.
+      By combining detailed code tracking with a majority voting system, the
+      approach reduces false positives and outperforms existing techniques. This
+      improvement could help developers debug software more efficiently and
+      build more reliable systems. The work is published in the journal IEEE
+      Transactions on Software Engineering.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-smarter-way-to-catch.jpg
+    categories:
+      - Software
+    publishedAt: 2026-05-08T16:00:07.000Z
+    source: TechXplore — Computer Science
+  - title: New AI tool predicts airport traffic to avert devastating collisions
+    url: https://techxplore.com/news/2026-05-ai-tool-airport-traffic-avert.html
+    summary: In managing airport traffic, small errors can cause catastrophe. A
+      group from the CMU Robotics Institute's AirLab used the Pittsburgh
+      Supercomputing Center's Bridges-2 supercomputer to create World2Rules, an
+      AI that draws from airport data and historical crash reports to help human
+      controllers spot collisions before they happen. Their paper is published
+      on the arXiv preprint server.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2023/busy-airport.jpg
+    categories:
+      - Automotive
+    publishedAt: 2026-05-08T15:20:03.000Z
+    source: TechXplore — AI & Machine Learning
   - title: MIT School of Engineering faculty receive awards in winter 2026
     url: https://news.mit.edu/2026/school-engineering-faculty-receive-awards-0507
     summary: "Each year, faculty and researchers across the MIT School of
@@ -74,7 +105,7 @@ articles:
       behind.” AI researchers have long seen recursive self-improvement, or RSI,
       as something to both desire and fear. Today, advances in AI are raising
       the question of whether parts of that process are already underway.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-two-identical-humanoid-robots-inspecting-each-other-with-magnifying-glasses.jpg?id=66686698&width=2000&height=1500&coordinates=0%2C0%2C0%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-two-identical-humanoid-robots-inspecting-each-other-with-magnifying-glasses.jpg?id=66686698&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
       - Ai-safety
       - Singularity
@@ -93,32 +124,6 @@ articles:
     categories: []
     publishedAt: 2026-05-07T04:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: NASA just tested a powerful new thruster that could send humans to Mars
-    url: https://www.sciencedaily.com/releases/2026/05/260505234611.htm
-    summary: A powerful new electromagnetic thruster has taken a major step forward
-      after a successful high-energy test at NASA’s Jet Propulsion Laboratory.
-      Fueled by lithium vapor and driven by intense magnetic forces, the
-      experimental engine reached record-breaking power levels—far beyond
-      anything currently used in space. Glowing hotter than molten lava and
-      firing inside a specialized vacuum chamber, the thruster hints at a future
-      where spacecraft could travel farther and more efficiently than ever
-      before.
-    imageUrl: https://www.sciencedaily.com/images/1920/jpl-tests-next-generation-electric-thruster.webp
-    categories: []
-    publishedAt: 2026-05-06T21:00:24.000Z
-    source: ScienceDaily — Engineering
-  - title: Stress-testing method for cloud computing algorithms helps avoid network
-      failures
-    url: https://techxplore.com/news/2026-05-stress-method-cloud-algorithms-network.html
-    summary: Researchers from MIT and elsewhere have developed a more user-friendly
-      and efficient method to help networking engineers identify potential
-      system failures before they cause major problems, like a cloud service
-      outage that leaves millions of users unable to access applications.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/cloud-compute.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-05-06T18:40:03.000Z
-    source: TechXplore — Computer Science
   - title: Learn What It Takes to Become a Cybersecurity Consultant
     url: https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant
     summary: Cybersecurity consultants have never been more in demand. Information
@@ -161,19 +166,6 @@ articles:
     categories: []
     publishedAt: 2026-05-06T00:20:57.000Z
     source: ScienceDaily — Artificial Intelligence
-  - title: Scientists connect “time crystal” to real device in quantum breakthrough
-    url: https://www.sciencedaily.com/releases/2026/05/260504154024.htm
-    summary: A strange kind of matter that “ticks” forever without energy input has
-      just taken a major leap toward real-world use. Known as a time crystal,
-      this quantum system repeats its motion endlessly—like a clock that never
-      winds down—and scientists have now managed to connect it to an external
-      device for the first time. By linking the time crystal to a tiny
-      mechanical oscillator, researchers showed they can actually control its
-      behavior, opening the door to powerful new technologies.
-    imageUrl: https://www.sciencedaily.com/images/1920/time-crystals-could-power-future-quantum-computers.webp
-    categories: []
-    publishedAt: 2026-05-05T20:53:45.000Z
-    source: ScienceDaily — Computer Science
   - title: It took 40 years for technology to catch up to this zipper design
     url: https://news.mit.edu/2026/three-sided-y-zipper-design-0504
     summary: "In 1985, the Innovative Design Fund placed an ad in Scientific
@@ -202,38 +194,6 @@ articles:
     categories: []
     publishedAt: 2026-05-04T17:45:00.000Z
     source: MIT Robotics
-  - title: iRobot Founder Wants to Put a Robotic Familiar Into Your Home
-    url: https://spectrum.ieee.org/familiar-machines-and-magic
-    summary: Two years ago, Colin Angle stepped down as CEO of iRobot, the company
-      that he co-founded and the most successful home robot company the world
-      has ever seen. Angle almost immediately founded a stealthy new “physical
-      AI” company called Familiar Machines & Magic (FM&M), which in short order
-      managed to attract a combination of exceptionally talented robotics folks,
-      including Morgan Pope from Disney Research, which got us very curious.
-    imageUrl: https://spectrum.ieee.org/media-library/a-gif-shows-a-short-clip-of-a-teenager-sitting-with-and-then-hugging-a-torso-sized-animal-like-robot.gif?id=66675837&width=1200&height=600&coordinates=0%2C37%2C0%2C38
-    categories:
-      - Irobot
-      - Social-robots
-      - Colin-angle
-      - Robot-animals
-      - Home-robots
-    publishedAt: 2026-05-04T17:30:02.000Z
-    source: IEEE Spectrum — Robotics
-  - title: New understanding of insect flight points way to stable flapping-wing
-      robots
-    url: https://techxplore.com/news/2026-05-insect-flight-stable-wing-robots.html
-    summary: The way bugs and birds flap their wings may look effortless, but the
-      dynamics that keep them aloft are dizzyingly complex and difficult to
-      quantify. Cornell researchers have created a computational model that
-      shows the effect of insects' morphology on stabilizing their flight. The
-      findings could lead to a new way to understand the evolution of animal
-      flight while also providing a blueprint for designing flapping-wing
-      robots.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-understanding-of-i.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-05-04T17:20:09.000Z
-    source: TechXplore — Robotics
   - title: Reviving Teletext for Ham Radio
     url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
     summary: Once upon a time in Europe, television remote controls had a magic
