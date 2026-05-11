@@ -1,8 +1,64 @@
-date: 2026-05-10
+date: 2026-05-11
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Artificial muscle merges sensing and movement in one structure for
+      humanoid robots
+    url: https://techxplore.com/news/2026-05-artificial-muscle-merges-movement-humanoid.html
+    summary: A research team has developed an "intelligent artificial muscle"
+      capable of simultaneously performing sensing and actuation functions,
+      inspired by biological muscle–tendon complexes. This artificial muscle,
+      which embeds liquid metal channels within a liquid crystal elastomer
+      (LCE), contracts in response to electrical stimulation while also being
+      able to measure internal force and length in real time.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/snu-researchers-develo-10.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-05-11T00:30:01.000Z
+    source: TechXplore — Engineering
+  - title: "'I'm not sure'—AI finally learns three words that could make its biggest
+      mistakes far less dangerous"
+    url: https://techxplore.com/news/2026-05-im-ai-words-biggest-dangerous.html
+    summary: A new approach has been proposed to address the problem of
+      "overconfidence"—one of the most critical risks of artificial intelligence
+      (AI) in areas such as autonomous driving and medical diagnosis, where AI
+      shows high confidence in incorrect predictions. A KAIST research team has
+      developed a training method that enables AI to recognize situations
+      involving unfamiliar or unseen knowledge, laying the foundation for
+      reducing overconfidence and improving reliability.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-confidence-calibrat.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-05-10T13:30:02.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Startup Wants to Run AI Inference From Space
+    url: https://spectrum.ieee.org/orbital-inference-data-center
+    summary: The rapid advancement of large language models is fueling a global data
+      center boom and driving a surge in energy demand. But the electricity
+      required to power data centers is straining the grid, pushing
+      infrastructure operators to search for alternative sources of power. Some
+      are even looking beyond Earth.
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-satellite-with-a-compact-rectangular-payload-and-two-narrow-solar-panels.jpg?id=66691214&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Data-center
+      - Space
+      - Ai
+      - Inferencing
+    publishedAt: 2026-05-10T13:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: “Cannot be explained” – New ultra stainless steel stuns researchers
+    url: https://www.sciencedaily.com/releases/2026/05/260510030950.htm
+    summary: A team at the University of Hong Kong has developed a new “super steel”
+      that can survive the harsh conditions needed to make green hydrogen from
+      seawater. The material uses an unexpected double-protection mechanism that
+      resists corrosion far better than conventional stainless steel. Even more
+      impressive, it could replace costly titanium parts used in today’s
+      hydrogen systems.
+    imageUrl: https://www.sciencedaily.com/images/1920/ultra-stainless-steel.webp
+    categories: []
+    publishedAt: 2026-05-10T11:39:45.000Z
+    source: ScienceDaily — Engineering
   - title: The hidden atomic gap that could break next-generation computer chips
     url: https://www.sciencedaily.com/releases/2026/05/260508003125.htm
     summary: A major obstacle may be standing in the way of the next generation of
@@ -15,7 +71,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/2d-conductor-and-dielectric-layer-van-der-waals-gap.webp
     categories: []
     publishedAt: 2026-05-09T22:48:13.000Z
-    source: ScienceDaily — Engineering
+    source: ScienceDaily — Computer Science
   - title: "Video Friday: AI Gives Robot Hands Human-Like Dexterity"
     url: https://spectrum.ieee.org/video-friday-robotic-hand-dexterity
     summary: Video Friday is your weekly selection of awesome robotics videos,
@@ -42,19 +98,6 @@ articles:
       - Science / Space
     publishedAt: 2026-05-08T18:18:24.000Z
     source: WIRED science
-  - title: "From motion to memory: Researchers create soft machines that amplify
-      movement and remember touch"
-    url: https://techxplore.com/news/2026-05-motion-memory-soft-machines-amplify.html
-    summary: Conventional soft actuators are often limited by weak force, small
-      displacement, and slow response. To overcome these limitations,
-      researchers have developed a new mechanical system that can amplify motion
-      and remember external triggers through the interaction between magnets and
-      elastic membranes.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/from-motion-to-memory.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-05-08T17:40:03.000Z
-    source: TechXplore — Engineering
   - title: Majority voting method provides a smarter way to catch software bugs
     url: https://techxplore.com/news/2026-05-majority-voting-method-smarter-software.html
     summary: Researchers from The University of Osaka, Kyushu University, and the
@@ -70,19 +113,6 @@ articles:
       - Software
     publishedAt: 2026-05-08T16:00:07.000Z
     source: TechXplore — Computer Science
-  - title: New AI tool predicts airport traffic to avert devastating collisions
-    url: https://techxplore.com/news/2026-05-ai-tool-airport-traffic-avert.html
-    summary: In managing airport traffic, small errors can cause catastrophe. A
-      group from the CMU Robotics Institute's AirLab used the Pittsburgh
-      Supercomputing Center's Bridges-2 supercomputer to create World2Rules, an
-      AI that draws from airport data and historical crash reports to help human
-      controllers spot collisions before they happen. Their paper is published
-      on the arXiv preprint server.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2023/busy-airport.jpg
-    categories:
-      - Automotive
-    publishedAt: 2026-05-08T15:20:03.000Z
-    source: TechXplore — AI & Machine Learning
   - title: MIT School of Engineering faculty receive awards in winter 2026
     url: https://news.mit.edu/2026/school-engineering-faculty-receive-awards-0507
     summary: "Each year, faculty and researchers across the MIT School of
@@ -95,24 +125,6 @@ articles:
     categories: []
     publishedAt: 2026-05-07T16:40:00.000Z
     source: MIT Engineering
-  - title: AI Is Starting to Build Better AI
-    url: https://spectrum.ieee.org/recursive-self-improvement
-    summary: The field of artificial intelligence was built on the premise that
-      machines might someday improve themselves. In 1966, the English
-      mathematician I. J. Good wrote that “an ultraintelligent machine could
-      design even better machines; there would then unquestionably be an
-      ‘intelligence explosion,’ and the intelligence of man would be left far
-      behind.” AI researchers have long seen recursive self-improvement, or RSI,
-      as something to both desire and fear. Today, advances in AI are raising
-      the question of whether parts of that process are already underway.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-two-identical-humanoid-robots-inspecting-each-other-with-magnifying-glasses.jpg?id=66686698&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Ai-safety
-      - Singularity
-      - Llms
-      - Evolutionary-algorithm
-    publishedAt: 2026-05-07T12:00:02.000Z
-    source: IEEE Spectrum — AI
   - title: "Study: Firms often use automation to control certain workers’ wages"
     url: https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507
     summary: When we hear about automation and artificial intelligence replacing
@@ -124,24 +136,6 @@ articles:
     categories: []
     publishedAt: 2026-05-07T04:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: Learn What It Takes to Become a Cybersecurity Consultant
-    url: https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant
-    summary: Cybersecurity consultants have never been more in demand. Information
-      security analyst roles are projected to grow nearly 30 percent between now
-      and 2034, according to the U.S. Bureau of Labor Statistics. More than 15
-      million cybercrime incidents occurred worldwide in 2024, Statista
-      reported.
-    imageUrl: https://spectrum.ieee.org/media-library/a-young-south-asian-woman-explaining-detailed-computer-code-to-a-colleague-using-an-office-presentation-screen.jpg?id=66689798&width=1245&height=700&coordinates=0%2C157%2C0%2C157
-    categories:
-      - Ieee-products-and-services
-      - Cybersecurity
-      - Ieee-computer-society
-      - Careers
-      - Computing
-      - Career-advice
-      - Type-ti
-    publishedAt: 2026-05-06T18:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: New AI method tackles one of science’s hardest math problems
     url: https://www.sciencedaily.com/releases/2026/05/260505234605.htm
     summary: Penn researchers have developed a smarter AI method for solving
