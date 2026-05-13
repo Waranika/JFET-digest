@@ -1,52 +1,156 @@
-date: 2026-05-11
+date: 2026-05-13
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Artificial muscle merges sensing and movement in one structure for
-      humanoid robots
-    url: https://techxplore.com/news/2026-05-artificial-muscle-merges-movement-humanoid.html
-    summary: A research team has developed an "intelligent artificial muscle"
-      capable of simultaneously performing sensing and actuation functions,
-      inspired by biological muscle–tendon complexes. This artificial muscle,
-      which embeds liquid metal channels within a liquid crystal elastomer
-      (LCE), contracts in response to electrical stimulation while also being
-      able to measure internal force and length in real time.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/snu-researchers-develo-10.jpg
+  - title: "AiiDAlab: Software that drives research forward"
+    url: https://techxplore.com/news/2026-05-aiidalab-software.html
+    summary: Whether on a smartphone, tablet, or PC, computer users like things to
+      be convenient. Apps can be launched and configured with just a few clicks
+      or taps on the screen, all with a clean, intuitive graphical interface.
+      The AiiDAlab user interface has been developed to ensure that researchers
+      enjoy a similar level of convenience when running complex computer
+      simulations or data analyses.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/aiidalab-software-that.jpg
+    categories:
+      - Software
+    publishedAt: 2026-05-13T01:00:02.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam
+      Altman Says
+    url: https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/
+    summary: Musk’s lawyers questioned Altman over allegations of deception and his
+      network of financial investments, but the OpenAI CEO painted a picture of
+      Musk as obsessed with controlling the company.
+    imageUrl: https://media.wired.com/photos/6a0354a92a6c5e7b8bd892a8/191:100/w_1280,c_limit/Model-Behavior-Musk-v-Altman-Sam-Testifies-Business-2273245180.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-05-13T00:10:05.000Z
+    source: WIRED (AI)
+  - title: xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit
+    url: https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/
+    summary: Emails show that Elon Musk’s company is expanding its use of portable
+      gas-fired power at its Colossus 2 site as a fight over air quality
+      continues.
+    imageUrl: https://media.wired.com/photos/6a03856ecf0cbf2f8d86fffe/191:100/w_1280,c_limit/xAI-Adds-16-New-Gas-Turbines-Science-2217198328.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-05-13T00:00:00.000Z
+    source: WIRED science
+  - title: A new unit of measurement to honor an influential MIT alumnus
+    url: https://news.mit.edu/2026/new-unit-of-measurement-honors-influential-mit-alumnus-0512
+    summary: The hallowed history of student pranks (often known as hacks) at MIT
+      includes the annual Baker House Piano Drop and the MIT weather balloon at
+      the Harvard-Yale football game in 1982. One hack that has shown remarkable
+      staying power in local lore is the 1958 measurement of the Massachusetts
+      Ave. Bridge in “smoots,” a now accepted unit of meausrement named for the
+      5-foot, 7-inch Oliver R. Smoot Jr. ’62. Then a first-year pledge at the
+      Lambda Chi Alpha fraternity, Smoot famously laid down hundreds of times
+      across the span one storied night as his peers painted markers across the
+      bridge, totaling 364.4 smoots (plus 1 ear). Nearly 70 years later, the
+      smoot markings remain.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-meche-Dr-Klein-Project.jpg?itok=dY20P-IV
+    categories: []
+    publishedAt: 2026-05-12T21:15:00.000Z
+    source: MIT Engineering
+  - title: "Cracking the code of hypersonic flight: A decade of experiments maps
+      turbulent physics of ultra-fast travel"
+    url: https://techxplore.com/news/2026-05-code-hypersonic-flight-decade-turbulent.html
+    summary: From the heartbreak of an early flight failure to a resounding triumph
+      over the Norwegian Sea, the Boundary Layer Transition and Turbulence
+      (BOLT) Program spent nearly a decade launching rockets into the
+      atmosphere, to investigate boundary layer transition and turbulence, key
+      phenomena in hypersonic flight.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/cracking-the-code-of-h.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-05-12T21:00:08.000Z
+    source: TechXplore — Engineering
+  - title: "Neutralizing the Gigascale Problem: How to Solve the Physical Power
+      Paradox of Extreme AI Training Loads"
+    url: https://spectrum.ieee.org/gigascale-ai-datacenter-power
+    summary: This sponsored article is brought to you by Ampace.
+    imageUrl: https://spectrum.ieee.org/media-library/three-tall-white-ampace-battery-modules-on-display-stands-at-a-trade-show.jpg?id=66700587&width=1245&height=700&coordinates=0%2C73%2C0%2C73
+    categories:
+      - Batteries
+      - Power-electronics
+      - Data-centers
+      - Energy-storage
+      - Ai-infrastructure
+    publishedAt: 2026-05-12T17:15:15.000Z
+    source: IEEE Spectrum — AI
+  - title: Closing the gap between animal movement and robotic control
+    url: https://techxplore.com/news/2026-05-gap-animal-movement-robotic.html
+    summary: Animals move with a level of precision and adaptability that robots
+      struggle to match. In Carnegie Mellon University's Department of
+      Mechanical Engineering, researchers are developing a new AI-driven
+      approach to uncover how brains and bodies work together. By turning
+      complex biological systems into models that can be tested and refined, the
+      team seeks to understand and replicate animal performance in robotic
+      systems.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/neural-robotics-transl.jpg
     categories:
       - Robotics
-    publishedAt: 2026-05-11T00:30:01.000Z
-    source: TechXplore — Engineering
-  - title: "'I'm not sure'—AI finally learns three words that could make its biggest
-      mistakes far less dangerous"
-    url: https://techxplore.com/news/2026-05-im-ai-words-biggest-dangerous.html
-    summary: A new approach has been proposed to address the problem of
-      "overconfidence"—one of the most critical risks of artificial intelligence
-      (AI) in areas such as autonomous driving and medical diagnosis, where AI
-      shows high confidence in incorrect predictions. A KAIST research team has
-      developed a training method that enables AI to recognize situations
-      involving unfamiliar or unseen knowledge, laying the foundation for
-      reducing overconfidence and improving reliability.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-confidence-calibrat.jpg
+    publishedAt: 2026-05-12T15:40:06.000Z
+    source: TechXplore — Robotics
+  - title: Hello Robot Sets the Standard for Practical, Safe Home Robots
+    url: https://spectrum.ieee.org/stretch-4-home-robot
+    summary: Many roboticists (and at least one robotics journalist) have been
+      seduced by the dream of a robot butler. And the rampant popularity of
+      videos showing humanoid robots doing household tasks in improbably clean
+      kitchens and unrealistically tidy bedrooms suggests that we’re not the
+      only ones interested in a robot that can do our chores. But for all kinds
+      of reasons, legged humanoids are not yet ready for industrial or
+      commercial applications at scale, and home applications (if people even
+      want them), I would argue, are even farther away. Even so, ludicrously
+      well-funded humanoid robotics companies are now ramping production while
+      explicitly promising that their robots will be doing ‘housework.’
+    imageUrl: https://spectrum.ieee.org/media-library/tall-wheeled-home-robot-with-an-extended-arm-in-a-modern-living-room-near-a-potted-cactus.jpg?id=66719760&width=1245&height=700&coordinates=0%2C187%2C0%2C187
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-05-10T13:30:02.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Startup Wants to Run AI Inference From Space
-    url: https://spectrum.ieee.org/orbital-inference-data-center
-    summary: The rapid advancement of large language models is fueling a global data
-      center boom and driving a surge in energy demand. But the electricity
-      required to power data centers is straining the grid, pushing
-      infrastructure operators to search for alternative sources of power. Some
-      are even looking beyond Earth.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-satellite-with-a-compact-rectangular-payload-and-two-narrow-solar-panels.jpg?id=66691214&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+      - Hello-robot
+      - Home-robots
+      - Humanoid-robots
+      - Mobile-manipulator
+      - Mobility-impaired
+    publishedAt: 2026-05-12T15:00:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: "Q&A: Expanding MIT’s global reach through Universal Learning"
+    url: https://news.mit.edu/2026/qa-expanding-mit-global-reach-through-universal-learning-0512
+    summary: MIT's Universal Learning is a new initiative from MIT Open Learning
+      designed to prepare learners everywhere to tackle complex global
+      challenges through boundary-crossing thinking.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-open-learning-universal-learning.jpg?itok=PchQYgNW
+    categories: []
+    publishedAt: 2026-05-12T15:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Your Next AI Query May Travel Where the Power Is
+    url: https://spectrum.ieee.org/distributed-inference-data-centers
+    summary: "The rise of electricity-guzzling data centers has forced the
+      artificial intelligence industry to get creative about finding power. One
+      of the latest ideas: Build micro data centers next to utility substations
+      and operate them in concert, shifting the computation around based on
+      power availability."
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-stylized-ai-search-bar-and-nested-rectangles.jpg?id=66667694&width=1245&height=700&coordinates=0%2C62%2C0%2C63
     categories:
-      - Data-center
-      - Space
-      - Ai
-      - Inferencing
-    publishedAt: 2026-05-10T13:00:01.000Z
-    source: IEEE Spectrum — AI
+      - Ai-data-centers
+      - Nvidia
+      - Epri
+      - Power-generation
+    publishedAt: 2026-05-12T12:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: JUPITER supercomputer breaks world record with 50-qubit quantum simulation
+    url: https://www.sciencedaily.com/releases/2026/05/260510234715.htm
+    summary: Scientists in Germany have pulled off a staggering computing feat by
+      fully simulating a 50-qubit quantum computer for the first time ever using
+      Europe’s new exascale supercomputer, JUPITER. The breakthrough shatters
+      the previous 48-qubit record and highlights just how powerful
+      next-generation supercomputers have become.
+    imageUrl: https://www.sciencedaily.com/images/1920/golden-quantum-computer-machine.webp
+    categories: []
+    publishedAt: 2026-05-11T03:47:15.000Z
+    source: ScienceDaily — Robotics
   - title: “Cannot be explained” – New ultra stainless steel stuns researchers
     url: https://www.sciencedaily.com/releases/2026/05/260510030950.htm
     summary: A team at the University of Hong Kong has developed a new “super steel”
@@ -59,45 +163,6 @@ articles:
     categories: []
     publishedAt: 2026-05-10T11:39:45.000Z
     source: ScienceDaily — Engineering
-  - title: The hidden atomic gap that could break next-generation computer chips
-    url: https://www.sciencedaily.com/releases/2026/05/260508003125.htm
-    summary: A major obstacle may be standing in the way of the next generation of
-      ultra-tiny computer chips. Researchers discovered that many promising 2D
-      materials lose their advantages because an invisible atomic-scale gap
-      forms when they are combined with insulating layers. That tiny gap weakens
-      electronic performance and could prevent further miniaturization. The team
-      says new “zipper materials” that lock together more tightly may offer a
-      path forward.
-    imageUrl: https://www.sciencedaily.com/images/1920/2d-conductor-and-dielectric-layer-van-der-waals-gap.webp
-    categories: []
-    publishedAt: 2026-05-09T22:48:13.000Z
-    source: ScienceDaily — Computer Science
-  - title: "Video Friday: AI Gives Robot Hands Human-Like Dexterity"
-    url: https://spectrum.ieee.org/video-friday-robotic-hand-dexterity
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/robot-hand-grips-a-blender-pitcher-to-pour-a-pink-smoothie-into-a-cup-held-in-another-robot-hand.png?id=66709264&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Humanoid-robots
-      - Video-friday
-      - Manipulation
-      - Robot-videos
-      - Autonomous-robots
-      - Quadruped-robots
-    publishedAt: 2026-05-09T16:00:02.000Z
-    source: IEEE Spectrum — Robotics
-  - title: The Pentagon Releases New Trove of Declassified UFO Files
-    url: https://www.wired.com/story/pentagon-drops-new-ufo-files/
-    summary: The Defense Department has released a new trove of declassified
-      documents about government UFO sightings.
-    imageUrl: https://media.wired.com/photos/69fdf4151d0ebeb1bdd41655/191:100/w_1280,c_limit/2024-04-30-Composite-Sketch.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-05-08T18:18:24.000Z
-    source: WIRED science
   - title: Majority voting method provides a smarter way to catch software bugs
     url: https://techxplore.com/news/2026-05-majority-voting-method-smarter-software.html
     summary: Researchers from The University of Osaka, Kyushu University, and the
@@ -113,41 +178,6 @@ articles:
       - Software
     publishedAt: 2026-05-08T16:00:07.000Z
     source: TechXplore — Computer Science
-  - title: MIT School of Engineering faculty receive awards in winter 2026
-    url: https://news.mit.edu/2026/school-engineering-faculty-receive-awards-0507
-    summary: "Each year, faculty and researchers across the MIT School of
-      Engineering are recognized with prestigious awards for their contributions
-      to research, technology, society, and education. To celebrate these
-      achievements, the school periodically highlights select honors received by
-      members of its departments, institutes, labs, and centers. The following
-      individuals were recognized in winter 2026:"
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-soe-awards.jpg?itok=Uvo2TBJ6
-    categories: []
-    publishedAt: 2026-05-07T16:40:00.000Z
-    source: MIT Engineering
-  - title: "Study: Firms often use automation to control certain workers’ wages"
-    url: https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507
-    summary: When we hear about automation and artificial intelligence replacing
-      jobs, it may seem like a tsunami of technology is going to wipe out
-      workers broadly, in the name of greater efficiency. But a study
-      co-authored by an MIT economist shows markedly different dynamics in the
-      U.S. since 1980.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-Automation-Wages-01-press.jpg?itok=3HI3bxqJ
-    categories: []
-    publishedAt: 2026-05-07T04:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: New AI method tackles one of science’s hardest math problems
-    url: https://www.sciencedaily.com/releases/2026/05/260505234605.htm
-    summary: Penn researchers have developed a smarter AI method for solving
-      notoriously difficult inverse equations, which help scientists uncover
-      hidden causes behind observable effects. By introducing “mollifier layers”
-      that smooth noisy data, they’ve made these calculations more stable and
-      far less computationally demanding. This could transform fields like
-      genetics, where understanding how DNA behaves is key to disease research.
-    imageUrl: https://www.sciencedaily.com/images/1920/human-ai-interaction-problem-solving.webp
-    categories: []
-    publishedAt: 2026-05-06T08:24:46.000Z
-    source: ScienceDaily — Robotics
   - title: AI lets chemists design molecules by simply describing them
     url: https://www.sciencedaily.com/releases/2026/05/260504023844.htm
     summary: Creating complex molecules usually requires years of experience and
@@ -197,7 +227,7 @@ articles:
       family accessed the national teletext service—Aertel—multiple times a day
       for weather and news bulletins, as well as things like TV program guides
       and updates on airport flight arrivals.
-    imageUrl: https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&width=2000&height=1500&coordinates=0%2C197%2C0%2C198
+    imageUrl: https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&width=1245&height=700&coordinates=0%2C372%2C0%2C372
     categories:
       - Amateur-radio
       - Ham-radio
