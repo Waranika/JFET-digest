@@ -1,223 +1,165 @@
-date: 2026-05-13
+date: 2026-05-18
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "AiiDAlab: Software that drives research forward"
-    url: https://techxplore.com/news/2026-05-aiidalab-software.html
-    summary: Whether on a smartphone, tablet, or PC, computer users like things to
-      be convenient. Apps can be launched and configured with just a few clicks
-      or taps on the screen, all with a clean, intuitive graphical interface.
-      The AiiDAlab user interface has been developed to ensure that researchers
-      enjoy a similar level of convenience when running complex computer
-      simulations or data analyses.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/aiidalab-software-that.jpg
-    categories:
-      - Software
-    publishedAt: 2026-05-13T01:00:02.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam
-      Altman Says
-    url: https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/
-    summary: Musk’s lawyers questioned Altman over allegations of deception and his
-      network of financial investments, but the OpenAI CEO painted a picture of
-      Musk as obsessed with controlling the company.
-    imageUrl: https://media.wired.com/photos/6a0354a92a6c5e7b8bd892a8/191:100/w_1280,c_limit/Model-Behavior-Musk-v-Altman-Sam-Testifies-Business-2273245180.jpg
+  - title: AI reveals the invisible magnetic chaos wasting energy inside electric
+      motors
+    url: https://www.sciencedaily.com/releases/2026/05/260517211433.htm
+    summary: "Electric vehicles are pushing scientists to tackle one of the biggest
+      hidden energy drains inside electric motors: magnetic energy loss. Now,
+      researchers in Japan have developed a powerful AI-driven physics model
+      that can peer into the chaotic “maze-like” magnetic patterns inside motor
+      materials and reveal how heat and microscopic magnetic structures trigger
+      wasted energy."
+    imageUrl: https://www.sciencedaily.com/images/1920/computational-model-identifies-origin-of-complex-magnetization-reversal-in-soft-magnets.webp
+    categories: []
+    publishedAt: 2026-05-18T04:02:36.000Z
+    source: ScienceDaily — Robotics
+  - title: Big risks and rewards in upcoming IPOs at SpaceX, OpenAI, Anthropic
+    url: https://techxplore.com/news/2026-05-big-rewards-upcoming-ipos-spacex.html
+    summary: Wall Street is licking its chops over an unprecedented slate of massive
+      IPOs set to arrive in the coming months, beginning with Elon Musk's SpaceX
+      in June.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/upcoming-ipos-of-anthr.jpg
     categories:
       - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-05-13T00:10:05.000Z
-    source: WIRED (AI)
-  - title: xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit
-    url: https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/
-    summary: Emails show that Elon Musk’s company is expanding its use of portable
-      gas-fired power at its Colossus 2 site as a fight over air quality
-      continues.
-    imageUrl: https://media.wired.com/photos/6a03856ecf0cbf2f8d86fffe/191:100/w_1280,c_limit/xAI-Adds-16-New-Gas-Turbines-Science-2217198328.jpg
+    publishedAt: 2026-05-17T15:40:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: The First Atomic Bomb Test in 1945 Created an Entirely New Material
+    url: https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/
+    summary: The discovery from the Trinity nuclear test site shows how extreme
+      conditions can result in materials never before seen in nature or in the
+      lab.
+    imageUrl: https://media.wired.com/photos/6a072e02cc137669535c6a52/191:100/w_1280,c_limit/clatrato_calcio_rame_%20silicio.png
     categories:
       - Science
       - Science / Environment
-    publishedAt: 2026-05-13T00:00:00.000Z
+    publishedAt: 2026-05-17T09:30:00.000Z
     source: WIRED science
-  - title: A new unit of measurement to honor an influential MIT alumnus
-    url: https://news.mit.edu/2026/new-unit-of-measurement-honors-influential-mit-alumnus-0512
-    summary: The hallowed history of student pranks (often known as hacks) at MIT
-      includes the annual Baker House Piano Drop and the MIT weather balloon at
-      the Harvard-Yale football game in 1982. One hack that has shown remarkable
-      staying power in local lore is the 1958 measurement of the Massachusetts
-      Ave. Bridge in “smoots,” a now accepted unit of meausrement named for the
-      5-foot, 7-inch Oliver R. Smoot Jr. ’62. Then a first-year pledge at the
-      Lambda Chi Alpha fraternity, Smoot famously laid down hundreds of times
-      across the span one storied night as his peers painted markers across the
-      bridge, totaling 364.4 smoots (plus 1 ear). Nearly 70 years later, the
-      smoot markings remain.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-meche-Dr-Klein-Project.jpg?itok=dY20P-IV
-    categories: []
-    publishedAt: 2026-05-12T21:15:00.000Z
-    source: MIT Engineering
-  - title: "Cracking the code of hypersonic flight: A decade of experiments maps
-      turbulent physics of ultra-fast travel"
-    url: https://techxplore.com/news/2026-05-code-hypersonic-flight-decade-turbulent.html
-    summary: From the heartbreak of an early flight failure to a resounding triumph
-      over the Norwegian Sea, the Boundary Layer Transition and Turbulence
-      (BOLT) Program spent nearly a decade launching rockets into the
-      atmosphere, to investigate boundary layer transition and turbulence, key
-      phenomena in hypersonic flight.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/cracking-the-code-of-h.jpg
+  - title: AI Rings on Fingers Can Interpret Sign Language
+    url: https://spectrum.ieee.org/sign-language-interpreter
+    summary: Electronic rings wirelessly connected to an AI system are capable of
+      translating multiple sign languages into text, a new study finds.
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-ring-embedded-with-circuitry.jpg?id=66742793&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
-      - Engineering
-    publishedAt: 2026-05-12T21:00:08.000Z
-    source: TechXplore — Engineering
-  - title: "Neutralizing the Gigascale Problem: How to Solve the Physical Power
-      Paradox of Extreme AI Training Loads"
-    url: https://spectrum.ieee.org/gigascale-ai-datacenter-power
-    summary: This sponsored article is brought to you by Ampace.
-    imageUrl: https://spectrum.ieee.org/media-library/three-tall-white-ampace-battery-modules-on-display-stands-at-a-trade-show.jpg?id=66700587&width=1245&height=700&coordinates=0%2C73%2C0%2C73
-    categories:
-      - Batteries
-      - Power-electronics
-      - Data-centers
-      - Energy-storage
-      - Ai-infrastructure
-    publishedAt: 2026-05-12T17:15:15.000Z
+      - Sign-language
+      - Deaf
+      - Deafness
+      - Machine-translation
+      - Translation
+    publishedAt: 2026-05-16T13:00:01.000Z
     source: IEEE Spectrum — AI
-  - title: Closing the gap between animal movement and robotic control
-    url: https://techxplore.com/news/2026-05-gap-animal-movement-robotic.html
-    summary: Animals move with a level of precision and adaptability that robots
-      struggle to match. In Carnegie Mellon University's Department of
-      Mechanical Engineering, researchers are developing a new AI-driven
-      approach to uncover how brains and bodies work together. By turning
-      complex biological systems into models that can be tested and refined, the
-      team seeks to understand and replicate animal performance in robotic
-      systems.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/neural-robotics-transl.jpg
+  - title: Some Asexuals Are Using AI Companions for Intimacy Without the Sex
+    url: https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/
+    summary: “I’ve got one hand on the keyboard, one hand down below,” an artist who
+      role-plays with their chatbot tells WIRED. But some asexual advocates
+      aren’t thrilled about the association.
+    imageUrl: https://media.wired.com/photos/6a03688e61363ff11afeb631/191:100/w_1280,c_limit/051226-asexual-ai-intimacy-2x1.jpg
     categories:
-      - Robotics
-    publishedAt: 2026-05-12T15:40:06.000Z
-    source: TechXplore — Robotics
-  - title: Hello Robot Sets the Standard for Practical, Safe Home Robots
-    url: https://spectrum.ieee.org/stretch-4-home-robot
-    summary: Many roboticists (and at least one robotics journalist) have been
-      seduced by the dream of a robot butler. And the rampant popularity of
-      videos showing humanoid robots doing household tasks in improbably clean
-      kitchens and unrealistically tidy bedrooms suggests that we’re not the
-      only ones interested in a robot that can do our chores. But for all kinds
-      of reasons, legged humanoids are not yet ready for industrial or
-      commercial applications at scale, and home applications (if people even
-      want them), I would argue, are even farther away. Even so, ludicrously
-      well-funded humanoid robotics companies are now ramping production while
-      explicitly promising that their robots will be doing ‘housework.’
-    imageUrl: https://spectrum.ieee.org/media-library/tall-wheeled-home-robot-with-an-extended-arm-in-a-modern-living-room-near-a-potted-cactus.jpg?id=66719760&width=1245&height=700&coordinates=0%2C187%2C0%2C187
+      - Culture
+      - Culture / Digital Culture
+    publishedAt: 2026-05-16T09:30:00.000Z
+    source: WIRED (AI)
+  - title: A novel deep learning architecture for multi-source data fusion
+    url: https://techxplore.com/news/2026-05-deep-architecture-multi-source-fusion.html
+    summary: Recent years have witnessed the unprecedented development of Industry
+      4.0 and the Industrial Internet of Things. These two technologies have
+      significantly facilitated data collection from different sources for
+      numerous tasks, such as reconstruction, classification, and prediction,
+      for next-generation applications. However, the effective fusion and
+      interpretation of these multi-source datasets remain challenging, making
+      it a thriving area of research.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-novel-deep-learning.jpg
     categories:
-      - Hello-robot
+      - Computer Sciences
+    publishedAt: 2026-05-15T17:57:02.000Z
+    source: TechXplore — Computer Science
+  - title: "Video Friday: Heavy Robotic Machinery Operates Itself"
+    url: https://spectrum.ieee.org/video-friday-material-handling-robots
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/autonomous-excavator-loads-gravel-into-a-dump-truck-at-a-construction-site.png?id=66736548&width=1245&height=700&coordinates=0%2C88%2C0%2C89
+    categories:
       - Home-robots
       - Humanoid-robots
-      - Mobile-manipulator
-      - Mobility-impaired
-    publishedAt: 2026-05-12T15:00:02.000Z
+      - Video-friday
+      - Material-handling-technology
+      - Robot-videos
+      - Robot-grippers
+    publishedAt: 2026-05-15T17:00:01.000Z
     source: IEEE Spectrum — Robotics
-  - title: "Q&A: Expanding MIT’s global reach through Universal Learning"
-    url: https://news.mit.edu/2026/qa-expanding-mit-global-reach-through-universal-learning-0512
-    summary: MIT's Universal Learning is a new initiative from MIT Open Learning
-      designed to prepare learners everywhere to tackle complex global
-      challenges through boundary-crossing thinking.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-open-learning-universal-learning.jpg?itok=PchQYgNW
-    categories: []
-    publishedAt: 2026-05-12T15:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Your Next AI Query May Travel Where the Power Is
-    url: https://spectrum.ieee.org/distributed-inference-data-centers
-    summary: "The rise of electricity-guzzling data centers has forced the
-      artificial intelligence industry to get creative about finding power. One
-      of the latest ideas: Build micro data centers next to utility substations
-      and operate them in concert, shifting the computation around based on
-      power availability."
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-stylized-ai-search-bar-and-nested-rectangles.jpg?id=66667694&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+  - title: "'Reading the invisible': AI framework accounts for hidden defects in
+      metal 3D printing"
+    url: https://techxplore.com/news/2026-05-invisible-ai-framework-accounts-hidden.html
+    summary: "Metal additive manufacturing (AM), widely regarded as a revolution in
+      modern manufacturing for its ability to produce lightweight and
+      geometrically complex components, has long faced a critical barrier to
+      widespread adoption: microscopic internal defects that are invisible to
+      the naked eye yet significantly compromise structural integrity."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/reading-the-invisible.jpg
     categories:
-      - Ai-data-centers
-      - Nvidia
-      - Epri
-      - Power-generation
-    publishedAt: 2026-05-12T12:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: JUPITER supercomputer breaks world record with 50-qubit quantum simulation
-    url: https://www.sciencedaily.com/releases/2026/05/260510234715.htm
-    summary: Scientists in Germany have pulled off a staggering computing feat by
-      fully simulating a 50-qubit quantum computer for the first time ever using
-      Europe’s new exascale supercomputer, JUPITER. The breakthrough shatters
-      the previous 48-qubit record and highlights just how powerful
-      next-generation supercomputers have become.
-    imageUrl: https://www.sciencedaily.com/images/1920/golden-quantum-computer-machine.webp
+      - Engineering
+    publishedAt: 2026-05-15T16:00:06.000Z
+    source: TechXplore — Engineering
+  - title: NASA’s new AI space chip could let spacecraft think for themselves
+    url: https://www.sciencedaily.com/releases/2026/05/260515002134.htm
+    summary: NASA is testing a next-generation space computer chip that could give
+      spacecraft the ability to operate far more independently in deep space.
+      The radiation-hardened processor is showing performance levels hundreds of
+      times beyond current spaceflight computers while surviving punishing tests
+      designed to mimic the harsh conditions of space. The technology could
+      enable AI-powered spacecraft, faster scientific discoveries, and smarter
+      missions to the Moon and Mars.
+    imageUrl: https://www.sciencedaily.com/images/1920/nasa-high-performance-spaceflight-computing-processor.webp
     categories: []
-    publishedAt: 2026-05-11T03:47:15.000Z
-    source: ScienceDaily — Robotics
-  - title: “Cannot be explained” – New ultra stainless steel stuns researchers
-    url: https://www.sciencedaily.com/releases/2026/05/260510030950.htm
-    summary: A team at the University of Hong Kong has developed a new “super steel”
-      that can survive the harsh conditions needed to make green hydrogen from
-      seawater. The material uses an unexpected double-protection mechanism that
-      resists corrosion far better than conventional stainless steel. Even more
-      impressive, it could replace costly titanium parts used in today’s
-      hydrogen systems.
-    imageUrl: https://www.sciencedaily.com/images/1920/ultra-stainless-steel.webp
+    publishedAt: 2026-05-15T08:13:15.000Z
+    source: ScienceDaily — Computer Science
+  - title: Two from MIT named 2026 Knight-Hennessy Scholars
+    url: https://news.mit.edu/2026/knight-hennessy-scholars-0514
+    summary: MIT master’s student Sunshine Jiang ’25 and Rupert Li ’24 are
+      recipients of this year’s Knight-Hennessy Scholarship. Now in its ninth
+      year, the highly competitive scholarship provides up to three years of
+      financial support for graduate studies at Stanford University.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-Knight-Hennessy2026-jiang-li.jpg?itok=_hiXai7A
     categories: []
-    publishedAt: 2026-05-10T11:39:45.000Z
-    source: ScienceDaily — Engineering
-  - title: Majority voting method provides a smarter way to catch software bugs
-    url: https://techxplore.com/news/2026-05-majority-voting-method-smarter-software.html
-    summary: Researchers from The University of Osaka, Kyushu University, and the
-      University of Victoria have developed a new method called Majority Voting
-      SZZ (MV-SZZ) that accurately identifies defect-inducing software commits.
-      By combining detailed code tracking with a majority voting system, the
-      approach reduces false positives and outperforms existing techniques. This
-      improvement could help developers debug software more efficiently and
-      build more reliable systems. The work is published in the journal IEEE
-      Transactions on Software Engineering.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-smarter-way-to-catch.jpg
-    categories:
-      - Software
-    publishedAt: 2026-05-08T16:00:07.000Z
-    source: TechXplore — Computer Science
-  - title: AI lets chemists design molecules by simply describing them
-    url: https://www.sciencedaily.com/releases/2026/05/260504023844.htm
-    summary: Creating complex molecules usually requires years of experience and
-      countless decisions, but a new AI system is changing that. Synthegy lets
-      chemists guide synthesis and reaction planning using simple language,
-      while powerful algorithms generate and evaluate possible solutions. The AI
-      doesn’t just compute—it reasons, scoring pathways and explaining which
-      ones make the most sense.
-    imageUrl: https://www.sciencedaily.com/images/1920/synthegy-development.webp
-    categories: []
-    publishedAt: 2026-05-06T00:20:57.000Z
-    source: ScienceDaily — Artificial Intelligence
-  - title: It took 40 years for technology to catch up to this zipper design
-    url: https://news.mit.edu/2026/three-sided-y-zipper-design-0504
-    summary: "In 1985, the Innovative Design Fund placed an ad in Scientific
-      American offering up to $10,000 to support clever prototypes for clothing,
-      home decor, and textiles. William Freeman PhD ’92, then an electrical
-      engineer at Polaroid and now an MIT professor, saw it and submitted a
-      novel idea: a three-sided zipper. Instead of fastening pants, it’d be like
-      a switch that seamlessly flips chairs, tents, and purses between soft and
-      rigid states, making them easier to pack and put together.Freeman’s
-      blueprint was much like a regular zipper, except triangular. On each side,
-      he nailed a belt to connect narrow wooden “teeth” together. A slider
-      wrapping around the device could be moved up to fasten the three strips
-      into place, straightening them into a triangular tube. His proposal was
-      rejected, but Freeman patented his prototype and stored it in his garage
-      in the hopes it might come in handy one day.Nearly 40 years later, MIT
-      Computer Science and Artificial Intelligence Laboratory (CSAIL)
-      researchers wanted to revive the project to create items with “tunable
-      stiffness.” Prior attempts to adjust that weren’t easily reversible or
-      required manual assembly, so CSAIL built an automated design tool and
-      adaptable fastener called the “Y-zipper.” The scientists’ software program
-      helps users customize three-sided zippers, which it then builds on its own
-      in a 3D printer using plastics. These devices can be attached or embedded
-      into camping equipment, medical gear, robots, and art installations for
-      more convenient assembly."
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/MIT-csail-YZipper.jpg?itok=Fn0aqvsf
-    categories: []
-    publishedAt: 2026-05-04T17:45:00.000Z
+    publishedAt: 2026-05-14T20:55:00.000Z
     source: MIT Robotics
+  - title: Building “hardcore” advanced machines
+    url: https://news.mit.edu/2026/building-hardcore-advanced-machines-0514
+    summary: MIT class 2.72/2.270 (Elements of Mechanical Design) offers
+      undergraduate and graduate students advanced study of modeling, design,
+      and integration, along with best practices for use of machine elements
+      like bearings, bolts, belts, flexures, and gears.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/elements-of-mechanical-design-01.JPG?itok=8RUh-jJv
+    categories: []
+    publishedAt: 2026-05-14T20:50:00.000Z
+    source: MIT Engineering
+  - title: Co-designed robots reveal what health care staff and patients actually need
+    url: https://techxplore.com/news/2026-05-robots-reveal-health-staff-patients.html
+    summary: As robots enter hospitals and care facilities, questions remain about
+      whether they actually make care easier for the people who give and receive
+      it. A new Cornell Tech-led study approaches that challenge by inviting
+      health care workers, long-term care residents, and community members to
+      help design the robots themselves.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-approach-designs-h.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-05-14T15:36:00.000Z
+    source: TechXplore — Robotics
+  - title: Accelerating Chipmaking Innovation for the Energy-Efficient AI Era
+    url: https://spectrum.ieee.org/applied-materials-epic-center
+    summary: This sponsored article is brought to you by Applied Materials.
+    imageUrl: https://spectrum.ieee.org/media-library/modern-glass-office-complex-labeled-epic-center-with-trees-and-walkways-outside.jpg?id=66659351&width=1245&height=700&coordinates=0%2C37%2C0%2C38
+    categories:
+      - Chipmaking
+      - Artificial-intelligence
+      - Materials-science
+      - Semiconductors
+    publishedAt: 2026-05-14T10:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
   - title: Reviving Teletext for Ham Radio
     url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
     summary: Once upon a time in Europe, television remote controls had a magic
