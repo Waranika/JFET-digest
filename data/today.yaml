@@ -1,8 +1,119 @@
-date: 2026-05-18
+date: 2026-05-19
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: New research enables a robot to chart a better course
+    url: https://news.mit.edu/2026/new-research-enables-robot-to-chart-better-course-0519
+    summary: In the aftermath of a devastating earthquake, unpiloted aerial vehicles
+      (UAVs) could fly through a collapsed building to map the scene, giving
+      rescuers information they need to quickly reach survivors.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-MightyPlanner-01-press.jpg?itok=YZTtAzie
+    categories: []
+    publishedAt: 2026-05-19T04:00:00.000Z
+    source: MIT Robotics
+  - title: Forget electrons, this breakthrough uses light-matter particles to power AI
+    url: https://www.sciencedaily.com/releases/2026/05/260518041341.htm
+    summary: Researchers at Penn have created a hybrid light-matter particle that
+      could dramatically speed up AI computing while using far less energy. The
+      breakthrough may help replace some electronic computing processes with
+      ultra-efficient light-based technology.
+    imageUrl: https://www.sciencedaily.com/images/1920/photonic-computing-component.webp
+    categories: []
+    publishedAt: 2026-05-19T00:23:26.000Z
+    source: ScienceDaily — Robotics
+  - title: Researchers break the 'memory wall' in large-scale AI training
+    url: https://techxplore.com/news/2026-05-memory-wall-large-scale-ai.html
+    summary: South Korean researchers have successfully developed a core technology
+      that can fundamentally resolve "memory shortages," a chronic bottleneck in
+      large-scale artificial intelligence (AI) training. This technology is a
+      next-generation memory expansion technology based on Ethernet, which is
+      expected to drive infrastructural innovation across the entire AI and big
+      data industries in the future.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/etri-breaks-the-memory.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-05-18T21:40:05.000Z
+    source: TechXplore — Computer Science
+  - title: Manchester Code Made Bits Behave
+    url: https://spectrum.ieee.org/manchester-code-ieee-milestone
+    summary: In the late 1940s—when computer engineers were grappling with
+      unreliable hardware and noisy transmission environments—a team of
+      engineers inside a modest lab at the University of Manchester, England,
+      confronted a problem so fundamental that it threatened the viability of
+      digital computing itself. Machines could generate bits, but they could not
+      reliably read them back.
+    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-well-dressed-young-man-working-on-a-magnetic-drum-store-in-a-lab.jpg?id=66734376&width=1245&height=700&coordinates=0%2C120%2C0%2C121
+    categories:
+      - Type-ti
+      - Ieee-history
+      - Ieee-milestone
+      - Computing
+      - Ethernet
+      - Digital-communication
+    publishedAt: 2026-05-18T18:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Elon Musk Loses Landmark Lawsuit Against OpenAI
+    url: https://www.wired.com/story/musk-v-altman-jury-verdict/
+    summary: The nine-member panel took only two hours to return a verdict in favor
+      of OpenAI on Monday, which the judge quickly adopted as her own final
+      decision.
+    imageUrl: https://media.wired.com/photos/6a07b49c3e66727feabf05fc/191:100/w_1280,c_limit/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-05-18T17:40:30.000Z
+    source: WIRED (AI)
+  - title: Multifunctional Kevlar fabric unlocks sensing, EMI protection and
+      de-icing without losing strength
+    url: https://techxplore.com/news/2026-05-multifunctional-kevlar-fabric-emi-de.html
+    summary: Researchers from IMDEA Materials Institute have developed a
+      multifunctional Kevlar-based composite material capable of combining
+      structural performance with integrated strain sensing, electromagnetic
+      interference (EMI) shielding and de-icing functionalities.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/multifunctional-kevlar.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-05-18T17:40:06.000Z
+    source: TechXplore — Engineering
+  - title: What Makes a Job Dull, Dirty, or Dangerous?
+    url: https://spectrum.ieee.org/dull-dirty-dangerous-robots
+    summary: For years, the field of robotics has used the terms “dull, dirty, and
+      dangerous” (DDD) to describe the types of tasks or jobs where robots might
+      be useful—by doing work that’s undesirable for people. A classic example
+      of a DDD job is one of “repetitive physical labor on a steaming hot
+      factory floor involving heavy machinery that threatens life and limb.”
+    imageUrl: https://spectrum.ieee.org/media-library/a-curbside-trash-can-being-lifted-by-a-mechanical-arm-attached-to-the-side-of-a-garbage-truck.jpg?id=66736070&width=1245&height=700&coordinates=0%2C178%2C0%2C178
+    categories:
+      - Hri
+      - Human-robot-communication
+      - Robotics
+      - Robot-jobs
+    publishedAt: 2026-05-18T13:00:00.000Z
+    source: IEEE Spectrum — Robotics
+  - title: The Backward Logic of Chickenpox Parties
+    url: https://www.wired.com/story/chickenpox-parties-and-the-pre-vaccine-internet/
+    summary: Before vaccines, some parents intentionally exposed their children to
+      the virus. In the internet age, that thinking is resurfacing.
+    imageUrl: https://media.wired.com/photos/6a04a923ae53be7702b6da38/191:100/w_1280,c_limit/Shingles-Series-Chickenpox-Parties-Science.jpg
+    categories:
+      - Science
+    publishedAt: 2026-05-18T11:00:00.000Z
+    source: WIRED science
+  - title: How Melbourne’s AI and Data Center Flywheel Is Accelerating Research
+      Innovation
+    url: https://spectrum.ieee.org/melbourne-ai-data-center-innovation
+    summary: This sponsored article is brought to you by Melbourne Convention Bureau
+      (MCB) supported by Business Events Australia.
+    imageUrl: https://spectrum.ieee.org/media-library/hot-air-balloons-over-a-riverside-city-skyline-at-sunrise-with-parks-in-the-foreground.jpg?id=66723254&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Australia
+      - Artificial-intelligence
+      - Research-centers
+      - Applied-ai
+      - Conferences
+    publishedAt: 2026-05-18T10:00:01.000Z
+    source: IEEE Spectrum — AI
   - title: AI reveals the invisible magnetic chaos wasting energy inside electric
       motors
     url: https://www.sciencedaily.com/releases/2026/05/260517211433.htm
@@ -15,108 +126,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/computational-model-identifies-origin-of-complex-magnetization-reversal-in-soft-magnets.webp
     categories: []
     publishedAt: 2026-05-18T04:02:36.000Z
-    source: ScienceDaily — Robotics
-  - title: Big risks and rewards in upcoming IPOs at SpaceX, OpenAI, Anthropic
-    url: https://techxplore.com/news/2026-05-big-rewards-upcoming-ipos-spacex.html
-    summary: Wall Street is licking its chops over an unprecedented slate of massive
-      IPOs set to arrive in the coming months, beginning with Elon Musk's SpaceX
-      in June.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/upcoming-ipos-of-anthr.jpg
-    categories:
-      - Business
-    publishedAt: 2026-05-17T15:40:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: The First Atomic Bomb Test in 1945 Created an Entirely New Material
-    url: https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/
-    summary: The discovery from the Trinity nuclear test site shows how extreme
-      conditions can result in materials never before seen in nature or in the
-      lab.
-    imageUrl: https://media.wired.com/photos/6a072e02cc137669535c6a52/191:100/w_1280,c_limit/clatrato_calcio_rame_%20silicio.png
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-05-17T09:30:00.000Z
-    source: WIRED science
-  - title: AI Rings on Fingers Can Interpret Sign Language
-    url: https://spectrum.ieee.org/sign-language-interpreter
-    summary: Electronic rings wirelessly connected to an AI system are capable of
-      translating multiple sign languages into text, a new study finds.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-ring-embedded-with-circuitry.jpg?id=66742793&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Sign-language
-      - Deaf
-      - Deafness
-      - Machine-translation
-      - Translation
-    publishedAt: 2026-05-16T13:00:01.000Z
-    source: IEEE Spectrum — AI
-  - title: Some Asexuals Are Using AI Companions for Intimacy Without the Sex
-    url: https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/
-    summary: “I’ve got one hand on the keyboard, one hand down below,” an artist who
-      role-plays with their chatbot tells WIRED. But some asexual advocates
-      aren’t thrilled about the association.
-    imageUrl: https://media.wired.com/photos/6a03688e61363ff11afeb631/191:100/w_1280,c_limit/051226-asexual-ai-intimacy-2x1.jpg
-    categories:
-      - Culture
-      - Culture / Digital Culture
-    publishedAt: 2026-05-16T09:30:00.000Z
-    source: WIRED (AI)
-  - title: A novel deep learning architecture for multi-source data fusion
-    url: https://techxplore.com/news/2026-05-deep-architecture-multi-source-fusion.html
-    summary: Recent years have witnessed the unprecedented development of Industry
-      4.0 and the Industrial Internet of Things. These two technologies have
-      significantly facilitated data collection from different sources for
-      numerous tasks, such as reconstruction, classification, and prediction,
-      for next-generation applications. However, the effective fusion and
-      interpretation of these multi-source datasets remain challenging, making
-      it a thriving area of research.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-novel-deep-learning.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-05-15T17:57:02.000Z
-    source: TechXplore — Computer Science
-  - title: "Video Friday: Heavy Robotic Machinery Operates Itself"
-    url: https://spectrum.ieee.org/video-friday-material-handling-robots
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/autonomous-excavator-loads-gravel-into-a-dump-truck-at-a-construction-site.png?id=66736548&width=1245&height=700&coordinates=0%2C88%2C0%2C89
-    categories:
-      - Home-robots
-      - Humanoid-robots
-      - Video-friday
-      - Material-handling-technology
-      - Robot-videos
-      - Robot-grippers
-    publishedAt: 2026-05-15T17:00:01.000Z
-    source: IEEE Spectrum — Robotics
-  - title: "'Reading the invisible': AI framework accounts for hidden defects in
-      metal 3D printing"
-    url: https://techxplore.com/news/2026-05-invisible-ai-framework-accounts-hidden.html
-    summary: "Metal additive manufacturing (AM), widely regarded as a revolution in
-      modern manufacturing for its ability to produce lightweight and
-      geometrically complex components, has long faced a critical barrier to
-      widespread adoption: microscopic internal defects that are invisible to
-      the naked eye yet significantly compromise structural integrity."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/reading-the-invisible.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-05-15T16:00:06.000Z
-    source: TechXplore — Engineering
-  - title: NASA’s new AI space chip could let spacecraft think for themselves
-    url: https://www.sciencedaily.com/releases/2026/05/260515002134.htm
-    summary: NASA is testing a next-generation space computer chip that could give
-      spacecraft the ability to operate far more independently in deep space.
-      The radiation-hardened processor is showing performance levels hundreds of
-      times beyond current spaceflight computers while surviving punishing tests
-      designed to mimic the harsh conditions of space. The technology could
-      enable AI-powered spacecraft, faster scientific discoveries, and smarter
-      missions to the Moon and Mars.
-    imageUrl: https://www.sciencedaily.com/images/1920/nasa-high-performance-spaceflight-computing-processor.webp
-    categories: []
-    publishedAt: 2026-05-15T08:13:15.000Z
-    source: ScienceDaily — Computer Science
+    source: ScienceDaily — Engineering
   - title: Two from MIT named 2026 Knight-Hennessy Scholars
     url: https://news.mit.edu/2026/knight-hennessy-scholars-0514
     summary: MIT master’s student Sunshine Jiang ’25 and Rupert Li ’24 are
@@ -126,7 +136,7 @@ articles:
     imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-Knight-Hennessy2026-jiang-li.jpg?itok=_hiXai7A
     categories: []
     publishedAt: 2026-05-14T20:55:00.000Z
-    source: MIT Robotics
+    source: MIT Artificial Intelligence
   - title: Building “hardcore” advanced machines
     url: https://news.mit.edu/2026/building-hardcore-advanced-machines-0514
     summary: MIT class 2.72/2.270 (Elements of Mechanical Design) offers
@@ -149,17 +159,6 @@ articles:
       - Robotics
     publishedAt: 2026-05-14T15:36:00.000Z
     source: TechXplore — Robotics
-  - title: Accelerating Chipmaking Innovation for the Energy-Efficient AI Era
-    url: https://spectrum.ieee.org/applied-materials-epic-center
-    summary: This sponsored article is brought to you by Applied Materials.
-    imageUrl: https://spectrum.ieee.org/media-library/modern-glass-office-complex-labeled-epic-center-with-trees-and-walkways-outside.jpg?id=66659351&width=1245&height=700&coordinates=0%2C37%2C0%2C38
-    categories:
-      - Chipmaking
-      - Artificial-intelligence
-      - Materials-science
-      - Semiconductors
-    publishedAt: 2026-05-14T10:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: Reviving Teletext for Ham Radio
     url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
     summary: Once upon a time in Europe, television remote controls had a magic
