@@ -1,8 +1,99 @@
-date: 2026-05-19
+date: 2026-05-20
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Building AI models that understand chemical principles
+    url: https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520
+    summary: Among all of the possible chemical compounds, it’s estimated that
+      between 1020 and 1060 may hold potential as small-molecule drugs.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-Connor_Coley-01-press.jpg?itok=b7OXN4yk
+    categories: []
+    publishedAt: 2026-05-20T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Most mainstream films already use AI. The new Oscars rules won't stop that
+    url: https://techxplore.com/news/2026-05-mainstream-ai-oscars-wont.html
+    summary: The Academy of Motion Picture Arts and Sciences has adjusted the
+      eligibility criteria for films vying for Oscars from 2027 onward.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/hollywood.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-05-20T01:20:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Building the future with robotic construction
+    url: https://techxplore.com/news/2026-05-future-robotic.html
+    summary: On April 24, the Architectural Robotic Construction Lab ( ARC Lab) in
+      The University of Texas at Arlington's College of Architecture, Planning
+      and Public Affairs demonstrated its new large-scale 3D printing
+      technology.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/building-the-future-wi.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-05-19T23:40:02.000Z
+    source: TechXplore — Engineering
+  - title: Literary Prizewinners Are Facing AI Allegations. It Feels Like the New
+      Normal
+    url: https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/
+    summary: Three of five regional winners of the prestigious Commonwealth Short
+      Story Prize are suspected of relying on chatbots. They’re certainly not
+      alone.
+    imageUrl: https://media.wired.com/photos/6a0ce86f98983a3fe2d17459/191:100/w_1280,c_limit/Commonwealth-Prize-AI-Scandal-Culture.jpg
+    categories:
+      - Culture
+      - Culture / Books
+    publishedAt: 2026-05-19T22:53:04.000Z
+    source: WIRED (AI)
+  - title: California’s Wildfire Season Is Already Overactive
+    url: https://www.wired.com/story/californias-wildfire-season-already-overactive/
+    summary: Major fires are threatening homes and ecologically sensitive areas
+      following a hot, dry winter.
+    imageUrl: https://media.wired.com/photos/6a0cd0c6b111266ea02ec093/191:100/w_1280,c_limit/science_CAfire_AP26138855942421.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-05-19T22:20:37.000Z
+    source: WIRED science
+  - title: Researchers improve AI's ability to learn new tasks without sacrificing
+      performance
+    url: https://techxplore.com/news/2026-05-ai-ability-tasks-sacrificing.html
+    summary: A new framework allows AI models that have already been trained to
+      learn new tasks without sacrificing performance when performing old tasks.
+      The framework, called CHEEM, also improves an AI model's operating
+      efficiency by using fewer computational steps to perform simpler tasks.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-improve-ai.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-05-19T19:40:01.000Z
+    source: TechXplore — Computer Science
+  - title: Open-source framework lets drones dodge obstacles in milliseconds while
+      minimizing travel time
+    url: https://techxplore.com/news/2026-05-source-framework-drones-dodge-obstacles.html
+    summary: In the aftermath of a devastating earthquake, unpiloted aerial vehicles
+      (UAVs) could fly through a collapsed building to map the scene, giving
+      rescuers information they need to quickly reach survivors. But this
+      remains an extremely challenging problem for an autonomous robot, which
+      would need to swiftly adjust its trajectory to avoid sudden obstacles
+      while staying on course.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-research-enables-a.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-05-19T19:20:04.000Z
+    source: TechXplore — Robotics
+  - title: Robots Could Turn E-Waste Into a Source of Legacy Chips
+    url: https://spectrum.ieee.org/e-waste-recycling-robots-ram
+    summary: "Electronic waste is moving up on regulatory agendas in 2026: New
+      European waste-shipment rules, expanded recycling fees on products with
+      non-removable batteries in California, and an e-waste import ban in
+      Malaysia, for example, are all increasing pressure to recover more value
+      before electronics are shredded or exported."
+    imageUrl: https://spectrum.ieee.org/media-library/a-robotic-arm-holding-a-circuit-board.jpg?id=66763729&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - E-waste
+      - Robotics
+      - Electronics-recycling
+      - Computer-vision
+    publishedAt: 2026-05-19T17:41:14.000Z
+    source: IEEE Spectrum — Robotics
   - title: New research enables a robot to chart a better course
     url: https://news.mit.edu/2026/new-research-enables-robot-to-chart-better-course-0519
     summary: In the aftermath of a devastating earthquake, unpiloted aerial vehicles
@@ -22,19 +113,6 @@ articles:
     categories: []
     publishedAt: 2026-05-19T00:23:26.000Z
     source: ScienceDaily — Robotics
-  - title: Researchers break the 'memory wall' in large-scale AI training
-    url: https://techxplore.com/news/2026-05-memory-wall-large-scale-ai.html
-    summary: South Korean researchers have successfully developed a core technology
-      that can fundamentally resolve "memory shortages," a chronic bottleneck in
-      large-scale artificial intelligence (AI) training. This technology is a
-      next-generation memory expansion technology based on Ethernet, which is
-      expected to drive infrastructural innovation across the entire AI and big
-      data industries in the future.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/etri-breaks-the-memory.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-05-18T21:40:05.000Z
-    source: TechXplore — Computer Science
   - title: Manchester Code Made Bits Behave
     url: https://spectrum.ieee.org/manchester-code-ieee-milestone
     summary: In the late 1940s—when computer engineers were grappling with
@@ -53,65 +131,22 @@ articles:
       - Digital-communication
     publishedAt: 2026-05-18T18:00:01.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Elon Musk Loses Landmark Lawsuit Against OpenAI
-    url: https://www.wired.com/story/musk-v-altman-jury-verdict/
-    summary: The nine-member panel took only two hours to return a verdict in favor
-      of OpenAI on Monday, which the judge quickly adopted as her own final
-      decision.
-    imageUrl: https://media.wired.com/photos/6a07b49c3e66727feabf05fc/191:100/w_1280,c_limit/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg
+  - title: Agentic AI for Robot Teams
+    url: https://events.bizzabo.com/867156
+    summary: This presentation highlights recent efforts at the Johns Hopkins
+      Applied Physics Laboratory to advance agentic AI for collaborative robotic
+      teams. It begins by framing the core challenges of enabling autonomy,
+      coordination, and adaptability across heterogeneous systems, then
+      introduces a scalable architecture designed to support agentic behaviors
+      in multi-robot environments. The talk concludes with key challenges
+      encountered and practical lessons learned from ongoing research and
+      development.
+    imageUrl: https://spectrum.ieee.org/media-library/johns-hopkins-whiting-school-of-engineering-logo-with-shield-emblem.png?id=66700256&width=980
     categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-05-18T17:40:30.000Z
-    source: WIRED (AI)
-  - title: Multifunctional Kevlar fabric unlocks sensing, EMI protection and
-      de-icing without losing strength
-    url: https://techxplore.com/news/2026-05-multifunctional-kevlar-fabric-emi-de.html
-    summary: Researchers from IMDEA Materials Institute have developed a
-      multifunctional Kevlar-based composite material capable of combining
-      structural performance with integrated strain sensing, electromagnetic
-      interference (EMI) shielding and de-icing functionalities.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/multifunctional-kevlar.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-05-18T17:40:06.000Z
-    source: TechXplore — Engineering
-  - title: What Makes a Job Dull, Dirty, or Dangerous?
-    url: https://spectrum.ieee.org/dull-dirty-dangerous-robots
-    summary: For years, the field of robotics has used the terms “dull, dirty, and
-      dangerous” (DDD) to describe the types of tasks or jobs where robots might
-      be useful—by doing work that’s undesirable for people. A classic example
-      of a DDD job is one of “repetitive physical labor on a steaming hot
-      factory floor involving heavy machinery that threatens life and limb.”
-    imageUrl: https://spectrum.ieee.org/media-library/a-curbside-trash-can-being-lifted-by-a-mechanical-arm-attached-to-the-side-of-a-garbage-truck.jpg?id=66736070&width=1245&height=700&coordinates=0%2C178%2C0%2C178
-    categories:
-      - Hri
-      - Human-robot-communication
+      - Type-webinar
+      - Agentic-ai
       - Robotics
-      - Robot-jobs
-    publishedAt: 2026-05-18T13:00:00.000Z
-    source: IEEE Spectrum — Robotics
-  - title: The Backward Logic of Chickenpox Parties
-    url: https://www.wired.com/story/chickenpox-parties-and-the-pre-vaccine-internet/
-    summary: Before vaccines, some parents intentionally exposed their children to
-      the virus. In the internet age, that thinking is resurfacing.
-    imageUrl: https://media.wired.com/photos/6a04a923ae53be7702b6da38/191:100/w_1280,c_limit/Shingles-Series-Chickenpox-Parties-Science.jpg
-    categories:
-      - Science
-    publishedAt: 2026-05-18T11:00:00.000Z
-    source: WIRED science
-  - title: How Melbourne’s AI and Data Center Flywheel Is Accelerating Research
-      Innovation
-    url: https://spectrum.ieee.org/melbourne-ai-data-center-innovation
-    summary: This sponsored article is brought to you by Melbourne Convention Bureau
-      (MCB) supported by Business Events Australia.
-    imageUrl: https://spectrum.ieee.org/media-library/hot-air-balloons-over-a-riverside-city-skyline-at-sunrise-with-parks-in-the-foreground.jpg?id=66723254&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Australia
-      - Artificial-intelligence
-      - Research-centers
-      - Applied-ai
-      - Conferences
+      - Llms
     publishedAt: 2026-05-18T10:00:01.000Z
     source: IEEE Spectrum — AI
   - title: AI reveals the invisible magnetic chaos wasting energy inside electric
@@ -127,16 +162,6 @@ articles:
     categories: []
     publishedAt: 2026-05-18T04:02:36.000Z
     source: ScienceDaily — Engineering
-  - title: Two from MIT named 2026 Knight-Hennessy Scholars
-    url: https://news.mit.edu/2026/knight-hennessy-scholars-0514
-    summary: MIT master’s student Sunshine Jiang ’25 and Rupert Li ’24 are
-      recipients of this year’s Knight-Hennessy Scholarship. Now in its ninth
-      year, the highly competitive scholarship provides up to three years of
-      financial support for graduate studies at Stanford University.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-Knight-Hennessy2026-jiang-li.jpg?itok=_hiXai7A
-    categories: []
-    publishedAt: 2026-05-14T20:55:00.000Z
-    source: MIT Artificial Intelligence
   - title: Building “hardcore” advanced machines
     url: https://news.mit.edu/2026/building-hardcore-advanced-machines-0514
     summary: MIT class 2.72/2.270 (Elements of Mechanical Design) offers
@@ -147,18 +172,6 @@ articles:
     categories: []
     publishedAt: 2026-05-14T20:50:00.000Z
     source: MIT Engineering
-  - title: Co-designed robots reveal what health care staff and patients actually need
-    url: https://techxplore.com/news/2026-05-robots-reveal-health-staff-patients.html
-    summary: As robots enter hospitals and care facilities, questions remain about
-      whether they actually make care easier for the people who give and receive
-      it. A new Cornell Tech-led study approaches that challenge by inviting
-      health care workers, long-term care residents, and community members to
-      help design the robots themselves.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-approach-designs-h.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-05-14T15:36:00.000Z
-    source: TechXplore — Robotics
   - title: Reviving Teletext for Ham Radio
     url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
     summary: Once upon a time in Europe, television remote controls had a magic
