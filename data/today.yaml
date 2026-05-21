@@ -1,58 +1,93 @@
-date: 2026-05-20
+date: 2026-05-21
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Building AI models that understand chemical principles
-    url: https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520
-    summary: Among all of the possible chemical compounds, it’s estimated that
-      between 1020 and 1060 may hold potential as small-molecule drugs.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-Connor_Coley-01-press.jpg?itok=b7OXN4yk
+  - title: Technology usually creates jobs for young, skilled workers. Will AI do
+      the same?
+    url: https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521
+    summary: "At any given time, technology does two things to employment: It
+      replaces traditional jobs, and it creates new lines of work. Machines
+      replace farmers, but enable, say, aeronautical engineers to exist. So, if
+      tech creates new jobs, who gets them? How well do they pay? How long do
+      new jobs remain new, before they become just another common task any
+      worker can do?"
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-NewWork-01-press.jpg?itok=byMeP8Rb
     categories: []
-    publishedAt: 2026-05-20T04:00:00.000Z
+    publishedAt: 2026-05-21T04:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: Most mainstream films already use AI. The new Oscars rules won't stop that
-    url: https://techxplore.com/news/2026-05-mainstream-ai-oscars-wont.html
-    summary: The Academy of Motion Picture Arts and Sciences has adjusted the
-      eligibility criteria for films vying for Oscars from 2027 onward.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/hollywood.jpg
+  - title: SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing
+    url: https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/
+    summary: The rocket company has set aside more than $500 million for potential
+      litigation losses, in part to account for complaints alleging that Grok
+      created sexualized images.
+    imageUrl: https://media.wired.com/photos/6a0e32d330c7f349f26634db/191:100/w_1280,c_limit/Grok-Has-Over-100-Million-Monthly-Users-Business-2255064635.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-05-20T01:20:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Building the future with robotic construction
-    url: https://techxplore.com/news/2026-05-future-robotic.html
-    summary: On April 24, the Architectural Robotic Construction Lab ( ARC Lab) in
-      The University of Texas at Arlington's College of Architecture, Planning
-      and Public Affairs demonstrated its new large-scale 3D printing
-      technology.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/building-the-future-wi.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-05-19T23:40:02.000Z
-    source: TechXplore — Engineering
-  - title: Literary Prizewinners Are Facing AI Allegations. It Feels Like the New
-      Normal
-    url: https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/
-    summary: Three of five regional winners of the prestigious Commonwealth Short
-      Story Prize are suspected of relying on chatbots. They’re certainly not
-      alone.
-    imageUrl: https://media.wired.com/photos/6a0ce86f98983a3fe2d17459/191:100/w_1280,c_limit/Commonwealth-Prize-AI-Scandal-Culture.jpg
-    categories:
-      - Culture
-      - Culture / Books
-    publishedAt: 2026-05-19T22:53:04.000Z
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-05-21T00:43:13.000Z
     source: WIRED (AI)
-  - title: California’s Wildfire Season Is Already Overactive
-    url: https://www.wired.com/story/californias-wildfire-season-already-overactive/
-    summary: Major fires are threatening homes and ecologically sensitive areas
-      following a hot, dry winter.
-    imageUrl: https://media.wired.com/photos/6a0cd0c6b111266ea02ec093/191:100/w_1280,c_limit/science_CAfire_AP26138855942421.jpg
+  - title: Google wants its search bar to act on your behalf in AI revamp
+    url: https://techxplore.com/news/2026-05-google-bar-behalf-ai-revamp.html
+    summary: Google on Tuesday showed off new plans to turn its famous search bar
+      into an AI assistant that can book restaurants, track news, and contact
+      businesses—just by asking a question.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/googles-search-engine.jpg
+    categories:
+      - Internet
+    publishedAt: 2026-05-20T22:20:04.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: How Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus
+      Outbreak
+    url: https://www.wired.com/story/climate-change-next-hantavirus-outbreak/
+    summary: Climate change is helping create conditions that are driving the rodent
+      boom—dubbed a ratada—in Argentina.
+    imageUrl: https://media.wired.com/photos/6a0cab26e7ee87b3ed914a06/191:100/w_1280,c_limit/How-Climate-Change-Made-Hantavirus-Outbreak-Possible-Science-2189447352.jpg
     categories:
       - Science
       - Science / Environment
-    publishedAt: 2026-05-19T22:20:37.000Z
+    publishedAt: 2026-05-20T17:59:16.000Z
     source: WIRED science
+  - title: What AI taxis and robots can learn from bees
+    url: https://techxplore.com/news/2026-05-ai-taxis-robots-bees.html
+    summary: Even advanced technology can struggle when the real world becomes
+      unpredictable. In April 2026, a Waymo robotaxi in San Antonio, Texas,
+      drove into a flooded lane during severe weather, prompting the company to
+      recall about 3,800 vehicles for a software fix.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/bees.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-05-20T17:40:01.000Z
+    source: TechXplore — Robotics
+  - title: To make houses more affordable, we need to make them greener, says report
+    url: https://techxplore.com/news/2026-05-houses-greener.html
+    summary: Decarbonization of the buildings and construction sector has slowed,
+      leaving it both a major emissions source and increasingly vulnerable to
+      climate impacts and energy price shocks, according to a new report from
+      the UN Environment Programme (UNEP) and the Global Alliance for Buildings
+      and Construction (GlobalABC).
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/construction.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-05-20T14:20:01.000Z
+    source: TechXplore — Engineering
+  - title: Will Robotics Have a ChatGPT Moment?
+    url: https://spectrum.ieee.org/robotics-ai-breakthrough
+    summary: Over the next few decades, billions of autonomous, AI-powered robots
+      will work alongside people in factories, perform tedious tasks in
+      warehouses, care for the elderly, assist in unsafe disaster areas, deliver
+      packages and food to our doorsteps, and eventually help out in our homes.
+      Some will look like us, and many won’t. What is certain is that regardless
+      of form factor, robots will all rely heavily on AI in order to deliver
+      real-world value.
+    imageUrl: https://spectrum.ieee.org/media-library/a-collection-of-5-robots-against-colored-backgrounds.jpg?id=66734221&width=1245&height=700&coordinates=0%2C88%2C0%2C88
+    categories:
+      - Robotics
+      - Everyday-robots
+      - Agility-robotics
+      - Artificial-intelligence
+    publishedAt: 2026-05-20T11:00:01.000Z
+    source: IEEE Spectrum — Robotics
   - title: Researchers improve AI's ability to learn new tasks without sacrificing
       performance
     url: https://techxplore.com/news/2026-05-ai-ability-tasks-sacrificing.html
@@ -65,35 +100,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-05-19T19:40:01.000Z
     source: TechXplore — Computer Science
-  - title: Open-source framework lets drones dodge obstacles in milliseconds while
-      minimizing travel time
-    url: https://techxplore.com/news/2026-05-source-framework-drones-dodge-obstacles.html
-    summary: In the aftermath of a devastating earthquake, unpiloted aerial vehicles
-      (UAVs) could fly through a collapsed building to map the scene, giving
-      rescuers information they need to quickly reach survivors. But this
-      remains an extremely challenging problem for an autonomous robot, which
-      would need to swiftly adjust its trajectory to avoid sudden obstacles
-      while staying on course.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-research-enables-a.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-05-19T19:20:04.000Z
-    source: TechXplore — Robotics
-  - title: Robots Could Turn E-Waste Into a Source of Legacy Chips
-    url: https://spectrum.ieee.org/e-waste-recycling-robots-ram
-    summary: "Electronic waste is moving up on regulatory agendas in 2026: New
-      European waste-shipment rules, expanded recycling fees on products with
-      non-removable batteries in California, and an e-waste import ban in
-      Malaysia, for example, are all increasing pressure to recover more value
-      before electronics are shredded or exported."
-    imageUrl: https://spectrum.ieee.org/media-library/a-robotic-arm-holding-a-circuit-board.jpg?id=66763729&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - E-waste
-      - Robotics
-      - Electronics-recycling
-      - Computer-vision
-    publishedAt: 2026-05-19T17:41:14.000Z
-    source: IEEE Spectrum — Robotics
   - title: New research enables a robot to chart a better course
     url: https://news.mit.edu/2026/new-research-enables-robot-to-chart-better-course-0519
     summary: In the aftermath of a devastating earthquake, unpiloted aerial vehicles
