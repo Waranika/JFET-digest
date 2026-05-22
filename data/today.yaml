@@ -1,8 +1,199 @@
-date: 2026-05-21
+date: 2026-05-22
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?
+    url: https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/
+    summary: Global affairs chief Chris Lehane wants to tone down the debate over
+      AI’s societal impacts—and get states to pass laws that won’t derail
+      OpenAI’s meteoric rise.
+    imageUrl: https://media.wired.com/photos/6a0f679a40b54a02fd444453/191:100/w_1280,c_limit/Model-Behavior-Can-OpenAI-Global-Affairs-Chief-Fix-AI-Reputation-Problem-Business.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-05-22T00:04:25.000Z
+    source: WIRED (AI)
+  - title: Perovskite/silicon tandem solar cells reach 32.89% certified efficiency
+      with peak-selective passivation strategy
+    url: https://techxplore.com/news/2026-05-perovskitesilicon-tandem-solar-cells-certified.html
+    summary: A team of Chinese scientists has developed a new passivation strategy
+      that significantly improves both the efficiency and operational stability
+      of perovskite/silicon tandem solar cells. The study has been published in
+      the journal Matter on May 21.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-passivation-strate.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-05-21T20:00:06.000Z
+    source: TechXplore — Engineering
+  - title: MIT affiliates elected to National Academy of Sciences for 2026
+    url: https://news.mit.edu/2026/mit-affiliates-elected-national-academy-sciences-0521
+    summary: The National Academy of Sciences (NAS) has elected 120 members and 25
+      international members for 2026, including six MIT faculty members and 10
+      additional alumni.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-nas-26.jpg?itok=KQkJxxCF
+    categories: []
+    publishedAt: 2026-05-21T20:00:00.000Z
+    source: MIT Engineering
+  - title: Researchers discover novel IT attacks—the defense mechanism is already
+      operational
+    url: https://techxplore.com/news/2026-05-defense-mechanism.html
+    summary: Researchers at the University of Stuttgart's Institute of Information
+      Security have developed a new security standard to counter a novel form of
+      cyberattack—one they had previously identified themselves. The attacks
+      specifically target web protocols used, for example, to manage login
+      processes. This affects, among others, industries that handle sensitive
+      data—such as health care, insurance, and banking. Researchers from
+      Stuttgart will present their defense mechanism at the IEEE Symposium on
+      Security and Privacy (SP2026) held in San Francisco May 18–21.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-and-cyberattacks.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-05-21T18:00:03.000Z
+    source: TechXplore — Computer Science
+  - title: Robotic collective flows like matter, adapting without centralized control
+    url: https://techxplore.com/news/2026-05-robotic-centralized.html
+    summary: Cornell engineers have developed a robotic collective that behaves less
+      like a machine and more like a material that flows, reshapes, and adapts
+      to its environment without centralized control. The system, called the
+      Cross-Link Collective, consists of dozens of small robots that have
+      limited mobility individually, but together exhibit coordinated and
+      sustained motion.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/robotic-matter-flows-a.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-05-21T17:40:06.000Z
+    source: TechXplore — Robotics
+  - title: Why the 2026 Hurricane Season Might Not Be That Bad
+    url: https://www.wired.com/story/why-the-2026-hurricane-season-might-not-be-that-bad/
+    summary: The impending arrival of El Niño will help keep the number of storms
+      low. But it only takes one landfall to create a catastrophe.
+    imageUrl: https://media.wired.com/photos/6a0f1e8766610aa7774367c9/191:100/w_1280,c_limit/GettyImages-2231055494.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-05-21T15:58:27.000Z
+    source: WIRED science
+  - title: Māori Text-to-Speech Model Spurns Big Tech’s Values
+    url: https://spectrum.ieee.org/indigenous-ai-voice-models-maori
+    summary: New Zealand is a country famed for its dramatic landscapes, but its
+      linguistic landscape is arguably just as interesting. Of its three
+      official languages, only te reo Māori (the Māori language) could be
+      described as indigenous. Though spoken fluently by just 4.3 percent of the
+      population, national statistics show that about 30 percent of New
+      Zealanders can speak more than a few words or phrases of the language.
+    imageUrl: https://spectrum.ieee.org/media-library/a-middle-aged-man-smiling-with-arms-crossed-against-a-background-of-tropical-flora.jpg?id=66745382&width=1245&height=700&coordinates=0%2C469%2C0%2C469
+    categories:
+      - Artificial-intelligence
+      - Languages
+      - Ai-models
+    publishedAt: 2026-05-21T15:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: Open-Source Software Is Starting to Help Robots Think
+    url: https://spectrum.ieee.org/open-source-robot-ai-platforms
+    summary: When a group of academics started making open-source robotics hardware,
+      a generation of roboticists got years of their lives back. Now, the bigger
+      challenge is getting robots to think—and that’s starting to be open
+      sourced too.
+    imageUrl: https://spectrum.ieee.org/media-library/a-smiling-emoji-with-red-eyes-and-a-grey-face-resembling-a-robot.jpg?id=66750560&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Open-robotics
+      - Robot-ai
+      - Huggingface
+      - Ros
+      - Nvidia
+    publishedAt: 2026-05-21T14:00:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Bolt Challenges Nvidia With a Focus on Cutting-Edge Graphics
+    url: https://spectrum.ieee.org/bolt-graphics-zeus-gpu
+    summary: Darwesh Singh thinks Nvidia has a weakness. The last decade of Nvidia’s
+      history was among the most consequential stories in technology ever. The
+      company’s stock price has increased over 200-fold since 2016, and deployed
+      Nvidia AI compute capacity has surged to 225 times greater than the first
+      quarter of 2021, according to data tracked by Epoch AI. Yet Nvidia may in
+      some ways be a victim of its own success. Its dominance in AI has led to
+      GPU designs that prioritize tensor units and low precision math. These
+      decisions make sense for AI, but less so for some creative, scientific,
+      and industrial work. Singh’s five-year-old startup, Bolt Graphics , sees
+      an opportunity to build a GPU specifically for these use cases. Jill
+      Mueller, Bolt’s chief marketing officer, puts it bluntly. Nvidia has “a
+      fundamental lack of understanding of their customer,” she says. “They just
+      throw stuff at you, and there you go.” Bolt aims for this potential weak
+      spot with Zeus, a GPU that will be sold as both a PCIe (peripheral
+      component interconnect express) card for desktop workstations and, for
+      those who require more performance, a rack-mountable server containing
+      four Zeus GPUs (for up to 96 per rack). While Nvidia goes low-precision,
+      Bolt goes high Jacob Feldgoise , senior data research analyst at
+      Georgetown University’s Center for Security and Emerging Technology , has
+      also noticed a shift in Nvidia’s recent hardware. “AI is sucking the
+      computational units used for high-precision workloads out of that
+      hardware,” he says. “If you look at Nvidia’s highest performance GPUs,
+      generation to generation, a greater share of the hardware has been
+      allocated to low-precision compute , as opposed to high-precision compute,
+      which is generally needed for scientific computing.” Precision refers to
+      how many bits a GPU uses to represent each number. High-precision formats
+      like FP64 (64-bit floating point) preserve more digits and a wider range,
+      while FP16 and INT8 sacrifice precision for speed. Recently, Nvidia
+      introduced a new 4-bit number format, NVFP4 , to accelerate AI workloads,
+      which generally tolerate low-precision math. But some tasks require
+      precision. Singh cited geographical information systems, such as Esri’s
+      ArcGIS , as an example. When rendering the planet on a GPU, low-precision
+      arithmetic applied to large coordinate values can introduce errors that
+      cause objects to drift. Because Zeus, unlike so many other GPUs, is not
+      designed primarily for AI, its design makes FP64-native vector cores a
+      focus and allocates a large share of silicon to them. “[Nvidia and AMD]
+      make a conscious trade-off to allocate more die space to matrix
+      multiplication and tensor units and less towards fixed function hardware,”
+      Singh says. ”We decided to allocate the die space a bit differently.”
+      Rasterization is out, path tracing is in A focus on FP64 isn’t the only
+      way Bolt differs from the norm. Zeus is also built to render graphics with
+      path tracing instead of rasterization . Rasterization is the traditional
+      method of high-performance 3D rendering. It projects 3D triangles onto a
+      pixel grid and uses mathematical abstractions to determine the correct
+      color for each pixel. Path tracing instead does the equivalent of shooting
+      rays from a camera to simulate how light should bounce and interact. It
+      delivers more accurate lighting but is computationally expensive. As with
+      high-precision math, Bolt believes it can find an edge by placing more
+      emphasis on path tracing than do today’s GPUs. Rasterization is supported
+      by Zeus but significantly scaled back; Singh estimates that Zeus’s raster
+      performance is about half that of a comparable Nvidia card. Bolt’s fresh
+      arrival to the GPU arena also allows the company to take a clean sheet
+      approach unburdened by legacy support. This differs from Nvidia and AMD,
+      which must integrate path tracing alongside rasterization in a way that
+      can support numerous existing applications and application programming
+      interfaces (APIs). Bolt claims that a server rack with 28 Zeus GPUs will
+      deliver real-time path traced performance equivalent to 280 Nvidia RTX
+      5090 GPUs. The aim is for this configuration of Zeus hardware to support
+      real-time path tracing that simulates up to 20 “bounces”—a reflection or
+      collision of the simulated light—at 4K resolution and 30 frames per
+      second. This is a high degree of accuracy required for professional
+      rendering workloads; for comparison, even the most graphically attractive
+      path traced games simulate just a few bounces. Can a startup really launch
+      a new GPU? There’s a logic to Bolt’s approach. Nvidia and AMD are focused
+      on AI, but GPUs are still useful for many tasks besides AI. However, Bolt
+      will need to overcome two key technical hurdles. The first is production.
+      Cutting-edge silicon production is in short supply, and leaders like
+      Nvidia have most leading-edge production capacity tied up. The Zeus GPU
+      will instead be fabricated on TSMC’s older N5 process node. Bolt is
+      betting that an older process node will keep Zeus competitive with Nvidia
+      on price. Bolt may also find it challenging to convince users that an
+      unproven GPU is a safe bet. Driver support for software is always a
+      headache in the GPU arena— just ask Intel —and the use cases that might
+      benefit Zeus’s high precision and path tracing will also require reliable
+      drivers. Bolt plans to address this by launching with support only for
+      specific applications. “We know that PC gaming is a huge segment,” Singh
+      says. “But our approach is we want to target professional, creative, and
+      high-performance compute first.” The company is working with software
+      companies including Blender , Autodesk , and SideFX . Bolt announced the
+      tape-out of the first Zeus test chips on 22 April 2026 , and it is now
+      focused on bringing the GPU to production by the fourth quarter of 2027.
+    imageUrl: https://spectrum.ieee.org/media-library/bolt-graphicss-zeus-gpu-comes-in-as-a-pcie-card-for-pcs-and-workstations-and-in-a-multi-gpu-version-for-server-racks.jpg?id=66764156&width=1245&height=700&coordinates=0%2C156%2C0%2C157
+    categories:
+      - Computer-graphics
+      - Gpus
+      - Nvidia
+    publishedAt: 2026-05-21T13:00:02.000Z
+    source: IEEE Spectrum — Computing & Chips
   - title: Technology usually creates jobs for young, skilled workers. Will AI do
       the same?
     url: https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521
@@ -16,90 +207,6 @@ articles:
     categories: []
     publishedAt: 2026-05-21T04:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing
-    url: https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/
-    summary: The rocket company has set aside more than $500 million for potential
-      litigation losses, in part to account for complaints alleging that Grok
-      created sexualized images.
-    imageUrl: https://media.wired.com/photos/6a0e32d330c7f349f26634db/191:100/w_1280,c_limit/Grok-Has-Over-100-Million-Monthly-Users-Business-2255064635.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-05-21T00:43:13.000Z
-    source: WIRED (AI)
-  - title: Google wants its search bar to act on your behalf in AI revamp
-    url: https://techxplore.com/news/2026-05-google-bar-behalf-ai-revamp.html
-    summary: Google on Tuesday showed off new plans to turn its famous search bar
-      into an AI assistant that can book restaurants, track news, and contact
-      businesses—just by asking a question.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/googles-search-engine.jpg
-    categories:
-      - Internet
-    publishedAt: 2026-05-20T22:20:04.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: How Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus
-      Outbreak
-    url: https://www.wired.com/story/climate-change-next-hantavirus-outbreak/
-    summary: Climate change is helping create conditions that are driving the rodent
-      boom—dubbed a ratada—in Argentina.
-    imageUrl: https://media.wired.com/photos/6a0cab26e7ee87b3ed914a06/191:100/w_1280,c_limit/How-Climate-Change-Made-Hantavirus-Outbreak-Possible-Science-2189447352.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-05-20T17:59:16.000Z
-    source: WIRED science
-  - title: What AI taxis and robots can learn from bees
-    url: https://techxplore.com/news/2026-05-ai-taxis-robots-bees.html
-    summary: Even advanced technology can struggle when the real world becomes
-      unpredictable. In April 2026, a Waymo robotaxi in San Antonio, Texas,
-      drove into a flooded lane during severe weather, prompting the company to
-      recall about 3,800 vehicles for a software fix.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/bees.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-05-20T17:40:01.000Z
-    source: TechXplore — Robotics
-  - title: To make houses more affordable, we need to make them greener, says report
-    url: https://techxplore.com/news/2026-05-houses-greener.html
-    summary: Decarbonization of the buildings and construction sector has slowed,
-      leaving it both a major emissions source and increasingly vulnerable to
-      climate impacts and energy price shocks, according to a new report from
-      the UN Environment Programme (UNEP) and the Global Alliance for Buildings
-      and Construction (GlobalABC).
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/construction.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-05-20T14:20:01.000Z
-    source: TechXplore — Engineering
-  - title: Will Robotics Have a ChatGPT Moment?
-    url: https://spectrum.ieee.org/robotics-ai-breakthrough
-    summary: Over the next few decades, billions of autonomous, AI-powered robots
-      will work alongside people in factories, perform tedious tasks in
-      warehouses, care for the elderly, assist in unsafe disaster areas, deliver
-      packages and food to our doorsteps, and eventually help out in our homes.
-      Some will look like us, and many won’t. What is certain is that regardless
-      of form factor, robots will all rely heavily on AI in order to deliver
-      real-world value.
-    imageUrl: https://spectrum.ieee.org/media-library/a-collection-of-5-robots-against-colored-backgrounds.jpg?id=66734221&width=1245&height=700&coordinates=0%2C88%2C0%2C88
-    categories:
-      - Robotics
-      - Everyday-robots
-      - Agility-robotics
-      - Artificial-intelligence
-    publishedAt: 2026-05-20T11:00:01.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Researchers improve AI's ability to learn new tasks without sacrificing
-      performance
-    url: https://techxplore.com/news/2026-05-ai-ability-tasks-sacrificing.html
-    summary: A new framework allows AI models that have already been trained to
-      learn new tasks without sacrificing performance when performing old tasks.
-      The framework, called CHEEM, also improves an AI model's operating
-      efficiency by using fewer computational steps to perform simpler tasks.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-improve-ai.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-05-19T19:40:01.000Z
-    source: TechXplore — Computer Science
   - title: New research enables a robot to chart a better course
     url: https://news.mit.edu/2026/new-research-enables-robot-to-chart-better-course-0519
     summary: In the aftermath of a devastating earthquake, unpiloted aerial vehicles
@@ -119,42 +226,6 @@ articles:
     categories: []
     publishedAt: 2026-05-19T00:23:26.000Z
     source: ScienceDaily — Robotics
-  - title: Manchester Code Made Bits Behave
-    url: https://spectrum.ieee.org/manchester-code-ieee-milestone
-    summary: In the late 1940s—when computer engineers were grappling with
-      unreliable hardware and noisy transmission environments—a team of
-      engineers inside a modest lab at the University of Manchester, England,
-      confronted a problem so fundamental that it threatened the viability of
-      digital computing itself. Machines could generate bits, but they could not
-      reliably read them back.
-    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-well-dressed-young-man-working-on-a-magnetic-drum-store-in-a-lab.jpg?id=66734376&width=1245&height=700&coordinates=0%2C120%2C0%2C121
-    categories:
-      - Type-ti
-      - Ieee-history
-      - Ieee-milestone
-      - Computing
-      - Ethernet
-      - Digital-communication
-    publishedAt: 2026-05-18T18:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: Agentic AI for Robot Teams
-    url: https://events.bizzabo.com/867156
-    summary: This presentation highlights recent efforts at the Johns Hopkins
-      Applied Physics Laboratory to advance agentic AI for collaborative robotic
-      teams. It begins by framing the core challenges of enabling autonomy,
-      coordination, and adaptability across heterogeneous systems, then
-      introduces a scalable architecture designed to support agentic behaviors
-      in multi-robot environments. The talk concludes with key challenges
-      encountered and practical lessons learned from ongoing research and
-      development.
-    imageUrl: https://spectrum.ieee.org/media-library/johns-hopkins-whiting-school-of-engineering-logo-with-shield-emblem.png?id=66700256&width=980
-    categories:
-      - Type-webinar
-      - Agentic-ai
-      - Robotics
-      - Llms
-    publishedAt: 2026-05-18T10:00:01.000Z
-    source: IEEE Spectrum — AI
   - title: AI reveals the invisible magnetic chaos wasting energy inside electric
       motors
     url: https://www.sciencedaily.com/releases/2026/05/260517211433.htm
@@ -168,16 +239,6 @@ articles:
     categories: []
     publishedAt: 2026-05-18T04:02:36.000Z
     source: ScienceDaily — Engineering
-  - title: Building “hardcore” advanced machines
-    url: https://news.mit.edu/2026/building-hardcore-advanced-machines-0514
-    summary: MIT class 2.72/2.270 (Elements of Mechanical Design) offers
-      undergraduate and graduate students advanced study of modeling, design,
-      and integration, along with best practices for use of machine elements
-      like bearings, bolts, belts, flexures, and gears.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/elements-of-mechanical-design-01.JPG?itok=8RUh-jJv
-    categories: []
-    publishedAt: 2026-05-14T20:50:00.000Z
-    source: MIT Engineering
   - title: Reviving Teletext for Ham Radio
     url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
     summary: Once upon a time in Europe, television remote controls had a magic
