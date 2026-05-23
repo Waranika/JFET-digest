@@ -1,19 +1,95 @@
-date: 2026-05-22
+date: 2026-05-23
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?
-    url: https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/
-    summary: Global affairs chief Chris Lehane wants to tone down the debate over
-      AI’s societal impacts—and get states to pass laws that won’t derail
-      OpenAI’s meteoric rise.
-    imageUrl: https://media.wired.com/photos/6a0f679a40b54a02fd444453/191:100/w_1280,c_limit/Model-Behavior-Can-OpenAI-Global-Affairs-Chief-Fix-AI-Reputation-Problem-Business.jpg
+  - title: Ordinary WiFi can now identify people with near perfect accuracy
+    url: https://www.sciencedaily.com/releases/2026/05/260522023127.htm
+    summary: "Scientists in Germany have demonstrated a startling new form of
+      surveillance: identifying people using nothing more than ordinary WiFi
+      signals. By analyzing how radio waves bounce around a room, researchers
+      can effectively “see” and recognize individuals — even if they are not
+      carrying a device and even if their phone is turned off."
+    imageUrl: https://www.sciencedaily.com/images/1920/wifi-imaging-secret-spying.webp
+    categories: []
+    publishedAt: 2026-05-23T03:03:54.000Z
+    source: ScienceDaily — Robotics
+  - title: AI controversy swirls around writer from Trinidad and Tobago who won a
+      prestigious prize
+    url: https://techxplore.com/news/2026-05-ai-controversy-swirls-writer-trinidad.html
+    summary: A prize-winning Caribbean writer from Trinidad and Tobago is embroiled
+      in the latest controversy involving the use of AI for a creative work,
+      after allegations that artificial intelligence was used to write a short
+      story.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-05-22T19:00:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Enhanced YOLO framework boosts 360-degree small-object detection to 90%
+      accuracy
+    url: https://techxplore.com/news/2026-05-yolo-framework-boosts-degree-small.html
+    summary: Omnidirectional cameras are widely popular as they capture a full
+      360-degree view. They are often utilized for surveillance, traffic
+      analysis, and autonomous systems. But the same wide-angle vision also
+      leads to a technical problem. Objects far from the camera often appear
+      distorted and tiny, making it difficult for computer vision systems to
+      accurately recognize them.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/improved-omnidirection.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-05-22T18:00:04.000Z
+    source: TechXplore — Computer Science
+  - title: "Video Friday: Atlas Versus a Fridge"
+    url: https://spectrum.ieee.org/video-friday-humanoid-robot-learning
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/bipedal-humanoid-robot-does-one-legged-spinning-kick-in-a-brightly-lit-industrial-workshop.gif?id=66779183&width=1245&height=700&coordinates=0%2C0%2C0%2C0
+    categories:
+      - Humanoid-robots
+      - Video-friday
+      - Robot-videos
+      - Educational-robots
+      - Biomimetics
+      - Quadruped-robots
+    publishedAt: 2026-05-22T16:00:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Even If You Hate AI, You Will Use Google AI Search
+    url: https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/
+    summary: The search giant’s AI-crafted answers are so convenient, you’ll be
+      sucked in—to the detriment of the web and the artists and thinkers behind
+      it.
+    imageUrl: https://media.wired.com/photos/6a0f3c884bfa87f10e0f1aa1/191:100/w_1280,c_limit/Backchannel-Google-Search-Business-2276578156.jpg
     categories:
       - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-05-22T00:04:25.000Z
+      - Business / Tech Culture
+    publishedAt: 2026-05-22T15:00:00.000Z
     source: WIRED (AI)
+  - title: "Unlocking soft robotics control with AI's cousin: Reservoir computing"
+    url: https://techxplore.com/news/2026-05-soft-robotics-ai-cousin-reservoir.html
+    summary: "Soft robotics—machines made of flexible, muscle-like materials—can
+      bend and stretch in fluid ways that put the rigid robots of old sci-fi
+      movies to shame. But the flexibility that lets them pick ripe tomatoes or
+      navigate a search-and-rescue site comes at a cost: Soft robotics are
+      notoriously difficult to control."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/researchers-control-so.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-05-22T14:20:04.000Z
+    source: TechXplore — Robotics
+  - title: All the Fancy Measuring Devices Used in Science Rely on Two Stone-Age
+      Techniques
+    url: https://www.wired.com/story/story/all-measuring-devices-run-on-two-stone-age-techniques/
+    summary: The many methods we use to gather data ultimately boil down to either
+      counting or comparing.
+    imageUrl: https://media.wired.com/photos/6a0f914d9e18cc3e8178a5a5/191:100/w_1280,c_limit/GettyImages-2161734123%20copy.jpg
+    categories:
+      - Science
+      - Science / Physics and Math
+    publishedAt: 2026-05-22T11:00:00.000Z
+    source: WIRED science
   - title: Perovskite/silicon tandem solar cells reach 32.89% certified efficiency
       with peak-selective passivation strategy
     url: https://techxplore.com/news/2026-05-perovskitesilicon-tandem-solar-cells-certified.html
@@ -35,45 +111,6 @@ articles:
     categories: []
     publishedAt: 2026-05-21T20:00:00.000Z
     source: MIT Engineering
-  - title: Researchers discover novel IT attacks—the defense mechanism is already
-      operational
-    url: https://techxplore.com/news/2026-05-defense-mechanism.html
-    summary: Researchers at the University of Stuttgart's Institute of Information
-      Security have developed a new security standard to counter a novel form of
-      cyberattack—one they had previously identified themselves. The attacks
-      specifically target web protocols used, for example, to manage login
-      processes. This affects, among others, industries that handle sensitive
-      data—such as health care, insurance, and banking. Researchers from
-      Stuttgart will present their defense mechanism at the IEEE Symposium on
-      Security and Privacy (SP2026) held in San Francisco May 18–21.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-and-cyberattacks.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-05-21T18:00:03.000Z
-    source: TechXplore — Computer Science
-  - title: Robotic collective flows like matter, adapting without centralized control
-    url: https://techxplore.com/news/2026-05-robotic-centralized.html
-    summary: Cornell engineers have developed a robotic collective that behaves less
-      like a machine and more like a material that flows, reshapes, and adapts
-      to its environment without centralized control. The system, called the
-      Cross-Link Collective, consists of dozens of small robots that have
-      limited mobility individually, but together exhibit coordinated and
-      sustained motion.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/robotic-matter-flows-a.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-05-21T17:40:06.000Z
-    source: TechXplore — Robotics
-  - title: Why the 2026 Hurricane Season Might Not Be That Bad
-    url: https://www.wired.com/story/why-the-2026-hurricane-season-might-not-be-that-bad/
-    summary: The impending arrival of El Niño will help keep the number of storms
-      low. But it only takes one landfall to create a catastrophe.
-    imageUrl: https://media.wired.com/photos/6a0f1e8766610aa7774367c9/191:100/w_1280,c_limit/GettyImages-2231055494.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-05-21T15:58:27.000Z
-    source: WIRED science
   - title: Māori Text-to-Speech Model Spurns Big Tech’s Values
     url: https://spectrum.ieee.org/indigenous-ai-voice-models-maori
     summary: New Zealand is a country famed for its dramatic landscapes, but its
@@ -89,21 +126,6 @@ articles:
       - Ai-models
     publishedAt: 2026-05-21T15:00:02.000Z
     source: IEEE Spectrum — AI
-  - title: Open-Source Software Is Starting to Help Robots Think
-    url: https://spectrum.ieee.org/open-source-robot-ai-platforms
-    summary: When a group of academics started making open-source robotics hardware,
-      a generation of roboticists got years of their lives back. Now, the bigger
-      challenge is getting robots to think—and that’s starting to be open
-      sourced too.
-    imageUrl: https://spectrum.ieee.org/media-library/a-smiling-emoji-with-red-eyes-and-a-grey-face-resembling-a-robot.jpg?id=66750560&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Open-robotics
-      - Robot-ai
-      - Huggingface
-      - Ros
-      - Nvidia
-    publishedAt: 2026-05-21T14:00:02.000Z
-    source: IEEE Spectrum — Robotics
   - title: Bolt Challenges Nvidia With a Focus on Cutting-Edge Graphics
     url: https://spectrum.ieee.org/bolt-graphics-zeus-gpu
     summary: Darwesh Singh thinks Nvidia has a weakness. The last decade of Nvidia’s
@@ -225,20 +247,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/photonic-computing-component.webp
     categories: []
     publishedAt: 2026-05-19T00:23:26.000Z
-    source: ScienceDaily — Robotics
-  - title: AI reveals the invisible magnetic chaos wasting energy inside electric
-      motors
-    url: https://www.sciencedaily.com/releases/2026/05/260517211433.htm
-    summary: "Electric vehicles are pushing scientists to tackle one of the biggest
-      hidden energy drains inside electric motors: magnetic energy loss. Now,
-      researchers in Japan have developed a powerful AI-driven physics model
-      that can peer into the chaotic “maze-like” magnetic patterns inside motor
-      materials and reveal how heat and microscopic magnetic structures trigger
-      wasted energy."
-    imageUrl: https://www.sciencedaily.com/images/1920/computational-model-identifies-origin-of-complex-magnetization-reversal-in-soft-magnets.webp
-    categories: []
-    publishedAt: 2026-05-18T04:02:36.000Z
-    source: ScienceDaily — Engineering
+    source: ScienceDaily — Computer Science
   - title: Reviving Teletext for Ham Radio
     url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
     summary: Once upon a time in Europe, television remote controls had a magic
@@ -248,7 +257,7 @@ articles:
       family accessed the national teletext service—Aertel—multiple times a day
       for weather and news bulletins, as well as things like TV program guides
       and updates on airport flight arrivals.
-    imageUrl: https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&width=1245&height=700&coordinates=0%2C372%2C0%2C372
+    imageUrl: https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&width=1200&height=800&coordinates=0%2C275%2C0%2C275
     categories:
       - Amateur-radio
       - Ham-radio
