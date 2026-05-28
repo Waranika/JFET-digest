@@ -1,121 +1,119 @@
-date: 2026-05-26
+date: 2026-05-28
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: AI speeds up discovery of next-gen computer chips and electronic materials
-    url: https://techxplore.com/news/2026-05-ai-discovery-gen-chips-electronic.html
-    summary: An international study team, led by Flinders University in
-      collaboration with Khalifa University UAE, built the machine-learning
-      platform to act like a "smart materials discovery engine," which is
-      capable of dramatically reducing the time spent on complex computer or lab
-      experiments to test and find new materials for future semiconductors.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-speeds-up-discovery.jpg
+  - title: Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill
+    url: https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/
+    summary: The bill requires companies like OpenAI, Anthropic, and Google to have
+      third parties confirm they’re following safety standards. Illinois
+      governor JB Pritzker says he’ll sign it.
+    imageUrl: https://media.wired.com/photos/6a1769e135f75a644600c4ac/191:100/w_1280,c_limit/Illionois-AI-Safetry-Bill-Business-2270597563.jpg
     categories:
-      - Electronics & Semiconductors
-    publishedAt: 2026-05-25T17:20:01.000Z
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-05-28T00:10:42.000Z
+    source: WIRED (AI)
+  - title: The race to regulate AI systems has lawyers getting creative
+    url: https://techxplore.com/news/2026-05-ai-lawyers-creative.html
+    summary: Can an artificial intelligence tool, such as a chatbot, be held
+      responsible if people committed crimes based on information they got from
+      the tool? Should chatbots, which are programmed to closely mimic human
+      thought patterns and are increasingly treated as companions, be subject to
+      legal checks that acknowledge those tools' developing independence or
+      autonomy?
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/the-race-to-regulate-a.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-05-27T22:00:02.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Motion tracking system shows robots the path most traveled by, keeping
-      them on task
-    url: https://techxplore.com/news/2026-05-motion-tracking-robots-path-task.html
-    summary: There's a delicate art to teaching robots, even when you're preparing
-      them for predictable environments like factories, where they'll repeat the
-      same tasks a little differently depending on the obstacles they face.
-      Whether a human is suddenly in their way or there's new clutter, the
-      machine must closely mimic its operator's actions by staying on a
-      trajectory (or motion path).
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/motion-tracking-system.jpg
+  - title: Pea-size liquid-metal pump runs robot butterfly on under 0.1 V
+    url: https://techxplore.com/news/2026-05-pea-size-liquid-metal-robot.html
+    summary: Engineers have invented an ingenious liquid-metal pump that could make
+      future soft robotics and wearable devices much more portable and agile.
+      The innovation, led by the University of Bristol and published in the
+      journal Nature Communications, presents a low-voltage power source with
+      the potential to transform robotic systems for a wide range of
+      applications, from robotic legs to haptic gloves used in medical and
+      industrial settings.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/pea-size-liquid-metal.jpg
     categories:
       - Robotics
-    publishedAt: 2026-05-25T16:40:01.000Z
+    publishedAt: 2026-05-27T19:40:04.000Z
     source: TechXplore — Robotics
-  - title: GitHub workflows unlock what really speeds software innovation
-    url: https://techxplore.com/news/2026-05-github-workflows-software.html
-    summary: In a bustling restaurant kitchen, efficiency requires more than just
-      machines that wash dishes or chop vegetables. It requires a conductor to
-      ensure the appetizer, main course, and dessert are prepared in the right
-      sequence, that the right chef gets the right order, and that the correct
-      dish reaches the right table on time.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/software-developer.jpg
+  - title: Childlike AI uncovers why language grows more structured across generations
+    url: https://techxplore.com/news/2026-05-childlike-ai-uncovers-language-generations.html
+    summary: New research from the University of the Witwatersrand, South Africa,
+      has significant implications for understanding both human language
+      development and the behavior of large-scale artificial intelligence
+      language models.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/baby-talk-1.jpg
     categories:
-      - Software
-    publishedAt: 2026-05-25T14:40:01.000Z
+      - Computer Sciences
+    publishedAt: 2026-05-27T18:40:05.000Z
     source: TechXplore — Computer Science
-  - title: Pavona Launches Open Hardware Ecosystem for Secure Chips
-    url: https://spectrum.ieee.org/open-source-hardware
-    summary: "Open-source software is ubiquitous: Linux is the dominant operating
-      system on servers and supercomputers worldwide, Wordpress powers over 40
-      percent of all websites, among other major projects. Open-source hardware
-      has existed since the late 1990’s, but has not seen nearly the same level
-      of interest or adoption as its software-focused cousin."
-    imageUrl: https://spectrum.ieee.org/media-library/3d-rendering-of-several-layers-comprising-a-single-computer-chip.jpg?id=66785309&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+  - title: Inspired by armadillos, this soft robotic shell flips from flexible to
+      fortress in an instant
+    url: https://techxplore.com/news/2026-05-armadillos-soft-robotic-shell-flips.html
+    summary: Researchers have drawn inspiration from armadillos to create a
+      protective structure that responds to external threats by curling into a
+      protective ball to protect electronic devices or other payloads. The
+      structure is designed to automatically respond when it detects strain and
+      can be tuned to respond to anything from a delicate touch to a significant
+      impact.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/armadillos-inspire-new.jpg
     categories:
-      - Open-source-hardware
-      - Open-source
-      - Hardware-security
-      - Embedded-security
-    publishedAt: 2026-05-25T14:00:01.000Z
+      - Engineering
+    publishedAt: 2026-05-27T18:00:05.000Z
+    source: TechXplore — Engineering
+  - title: Junctionless Transistors Show a New Path to 3D Chips
+    url: https://spectrum.ieee.org/3d-chips
+    summary: Chipmakers are struggling to shrink the amount of area a transistor
+      takes up, so researchers are trying to build layers of devices on top of
+      each other. However, many experimental 3D chips rely on exotic materials
+      and perform poorly compared with regular silicon devices. But researchers
+      at the University of Illinois Urbana-Champaign have found a new way to
+      build 3D circuits from silicon. The secret is a process that lets them
+      roll multiple layers of nanometers-thin silicon onto a wafer at relatively
+      low temperatures.
+    imageUrl: https://spectrum.ieee.org/media-library/two-asian-mens-faces-reflected-in-a-silicon-wafer.jpg?id=66822290&width=1245&height=700&coordinates=0%2C156%2C0%2C157
+    categories:
+      - 3d-chips
+      - Junctionless-transistors
+      - 3d-integration
+    publishedAt: 2026-05-27T15:00:02.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: AI won’t replace you but someone using AI might
-    url: https://www.sciencedaily.com/releases/2026/05/260525000448.htm
-    summary: Generative AI is transforming the workplace faster than ever, but new
-      research from the University of Vaasa suggests the biggest threat may not
-      be AI itself — it’s falling behind in learning how to use it. Researcher
-      Zhe Zhu found that employees who see tools like ChatGPT and Gemini as
-      helpful collaborators rather than job-stealing rivals tend to be more
-      engaged, adaptable, and optimistic about their careers.
-    imageUrl: https://www.sciencedaily.com/images/1920/ai-cyborg-robot-whispering-secret-to-man.webp
-    categories: []
-    publishedAt: 2026-05-25T11:21:14.000Z
-    source: ScienceDaily — Robotics
-  - title: The AI Era Is Creating a Bug Hunting Arms Race
-    url: https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/
-    summary: As attackers ramp up their AI exploit development, the search for
-      software vulnerabilities is changing rapidly.
-    imageUrl: https://media.wired.com/photos/6a0e3a04aa8901b570a25720/191:100/w_1280,c_limit/security_bug_gettyimages.jpg
-    categories:
-      - Security
-      - Security / Cyberattacks and Hacks
-      - Security / Security News
-    publishedAt: 2026-05-25T10:30:00.000Z
-    source: WIRED (AI)
-  - title: "AI with Model-Based Design: Virtual Sensor Modeling"
-    url: https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/
-    summary: This webinar presents a workflow offering end-to-end solutions for
-      designing, training, validating and verifying, compressing, and deploying
-      AI-based virtual sensor models to embedded processors within a single
-      environment.
-    imageUrl: https://spectrum.ieee.org/media-library/mathworks-logo-with-3d-wave-symbol-and-text-mathworks.png?id=26851519&width=980
-    categories:
-      - Ai-modeling
-      - Battery-management-systems
-      - Neural-netwoks
-      - Validation-verification
-      - Virtual-sensors
-      - Type-webinar
-    publishedAt: 2026-05-25T10:00:01.000Z
-    source: IEEE Spectrum — AI
-  - title: A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid
-    url: https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/
-    summary: NASA took advantage of the recent close approach of the Psyche probe to
-      Mars to calibrate its observation instruments.
-    imageUrl: https://media.wired.com/photos/6a0e191fd0686dea38590442/191:100/w_1280,c_limit/PIA26775.png
+  - title: A New Species of Tiny Octopus Was Discovered in the Galápagos Islands
+    url: https://www.wired.com/story/a-new-species-of-tiny-octopus-was-discovered-in-the-galapagos-islands/
+    summary: An octopus about the size of a golf ball was first spotted in 2015 near
+      Darwin Island. A new study gives it both a formal description and a name.
+    imageUrl: https://media.wired.com/photos/6a15b828344eae09a00e395f/191:100/w_1280,c_limit/Low-Res_Screen%20Shot%202026-05-06%20at%202.16.22%20PM.jpg
     categories:
       - Science
-      - Science / Space
-    publishedAt: 2026-05-25T09:00:00.000Z
+    publishedAt: 2026-05-27T09:30:00.000Z
     source: WIRED science
-  - title: Ordinary WiFi can now identify people with near perfect accuracy
-    url: https://www.sciencedaily.com/releases/2026/05/260522023127.htm
-    summary: "Scientists in Germany have demonstrated a startling new form of
-      surveillance: identifying people using nothing more than ordinary WiFi
-      signals. By analyzing how radio waves bounce around a room, researchers
-      can effectively “see” and recognize individuals — even if they are not
-      carrying a device and even if their phone is turned off."
-    imageUrl: https://www.sciencedaily.com/images/1920/wifi-imaging-secret-spying.webp
+  - title: Ten from MIT accept 2026 Fulbright awards
+    url: https://news.mit.edu/2026/fulbright-awards-0526
+    summary: Ten MIT affiliates — including undergraduates, graduate students, and
+      alumni — have accepted Fulbright grants to conduct research in countries
+      across the world. Five other students declined their awards to pursue
+      other opportunities, and another student is still deciding. In total, 16
+      of MIT’s 30 Fulbright applicants won awards this year.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-Fulbright-2026.jpg?itok=StbbVY97
     categories: []
-    publishedAt: 2026-05-23T03:03:54.000Z
-    source: ScienceDaily — Engineering
+    publishedAt: 2026-05-26T20:40:00.000Z
+    source: MIT Engineering
+  - title: AI-powered spectrometer chip shrinks lab technology to the size of a
+      grain of sand
+    url: https://www.sciencedaily.com/releases/2026/05/260525000501.htm
+    summary: A new AI-powered chip from UC Davis can analyze light and chemicals
+      using a device tiny enough to fit almost anywhere. By combining smart
+      silicon sensors with machine learning, it achieves lab-style spectral
+      analysis without the bulky equipment.
+    imageUrl: https://www.sciencedaily.com/images/1920/spectrometer-chip.webp
+    categories: []
+    publishedAt: 2026-05-26T13:09:27.000Z
+    source: ScienceDaily — Robotics
   - title: "Video Friday: Atlas Versus a Fridge"
     url: https://spectrum.ieee.org/video-friday-humanoid-robot-learning
     summary: Video Friday is your weekly selection of awesome robotics videos,
@@ -132,27 +130,6 @@ articles:
       - Quadruped-robots
     publishedAt: 2026-05-22T16:00:01.000Z
     source: IEEE Spectrum — Robotics
-  - title: Perovskite/silicon tandem solar cells reach 32.89% certified efficiency
-      with peak-selective passivation strategy
-    url: https://techxplore.com/news/2026-05-perovskitesilicon-tandem-solar-cells-certified.html
-    summary: A team of Chinese scientists has developed a new passivation strategy
-      that significantly improves both the efficiency and operational stability
-      of perovskite/silicon tandem solar cells. The study has been published in
-      the journal Matter on May 21.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-passivation-strate.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-05-21T20:00:06.000Z
-    source: TechXplore — Engineering
-  - title: MIT affiliates elected to National Academy of Sciences for 2026
-    url: https://news.mit.edu/2026/mit-affiliates-elected-national-academy-sciences-0521
-    summary: The National Academy of Sciences (NAS) has elected 120 members and 25
-      international members for 2026, including six MIT faculty members and 10
-      additional alumni.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-nas-26.jpg?itok=KQkJxxCF
-    categories: []
-    publishedAt: 2026-05-21T20:00:00.000Z
-    source: MIT Engineering
   - title: Technology usually creates jobs for young, skilled workers. Will AI do
       the same?
     url: https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521
@@ -184,7 +161,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/photonic-computing-component.webp
     categories: []
     publishedAt: 2026-05-19T00:23:26.000Z
-    source: ScienceDaily — Computer Science
+    source: ScienceDaily — Artificial Intelligence
   - title: Reviving Teletext for Ham Radio
     url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
     summary: Once upon a time in Europe, television remote controls had a magic
@@ -194,7 +171,7 @@ articles:
       family accessed the national teletext service—Aertel—multiple times a day
       for weather and news bulletins, as well as things like TV program guides
       and updates on airport flight arrivals.
-    imageUrl: https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&width=1200&height=800&coordinates=0%2C275%2C0%2C275
+    imageUrl: https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&width=1245&height=700&coordinates=0%2C372%2C0%2C372
     categories:
       - Amateur-radio
       - Ham-radio
