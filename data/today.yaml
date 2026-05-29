@@ -1,46 +1,149 @@
-date: 2026-05-28
+date: 2026-05-29
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill
-    url: https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/
-    summary: The bill requires companies like OpenAI, Anthropic, and Google to have
-      third parties confirm they’re following safety standards. Illinois
-      governor JB Pritzker says he’ll sign it.
-    imageUrl: https://media.wired.com/photos/6a1769e135f75a644600c4ac/191:100/w_1280,c_limit/Illionois-AI-Safetry-Bill-Business-2270597563.jpg
+  - title: Graph Time-Frequency Mixed Anomaly Detection framework achieves 99.71%
+      accuracy detecting sensor attacks on drones
+    url: https://techxplore.com/news/2026-05-graph-frequency-anomaly-framework-accuracy.html
+    summary: A new machine learning framework designed to detect malicious
+      interference in unmanned aerial vehicles (UAVs), commonly known as drones,
+      has shown strong performance in identifying both sudden and
+      slow-developing sensor attacks, according to research in the International
+      Journal of Automation and Control. The system, called GTF-MAD (Graph
+      Time-Frequency Mixed Anomaly Detection), achieved a peak F1 score of
+      99.71% in detecting bias in tests on a quadrotor drone.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2020/drone.jpg
     categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-05-28T00:10:42.000Z
-    source: WIRED (AI)
-  - title: The race to regulate AI systems has lawyers getting creative
-    url: https://techxplore.com/news/2026-05-ai-lawyers-creative.html
-    summary: Can an artificial intelligence tool, such as a chatbot, be held
-      responsible if people committed crimes based on information they got from
-      the tool? Should chatbots, which are programmed to closely mimic human
-      thought patterns and are increasingly treated as companions, be subject to
-      legal checks that acknowledge those tools' developing independence or
-      autonomy?
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/the-race-to-regulate-a.jpg
+      - Engineering
+    publishedAt: 2026-05-29T00:40:02.000Z
+    source: TechXplore — Engineering
+  - title: Agentic AI tests the limits of data protection law, study finds
+    url: https://techxplore.com/news/2026-05-agentic-ai-limits-law.html
+    summary: The growing use of agentic artificial intelligence will test how
+      organizations comply with existing data protection law, warns a study
+      appearing in the Computer Law & Security Review.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2018/dataprotecti.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-05-27T22:00:02.000Z
+      - Security
+    publishedAt: 2026-05-28T19:20:02.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Pea-size liquid-metal pump runs robot butterfly on under 0.1 V
-    url: https://techxplore.com/news/2026-05-pea-size-liquid-metal-robot.html
-    summary: Engineers have invented an ingenious liquid-metal pump that could make
-      future soft robotics and wearable devices much more portable and agile.
-      The innovation, led by the University of Bristol and published in the
-      journal Nature Communications, presents a low-voltage power source with
-      the potential to transform robotic systems for a wide range of
-      applications, from robotic legs to haptic gloves used in medical and
-      industrial settings.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/pea-size-liquid-metal.jpg
+  - title: Robot learns to play music by ear, opening new possibilities in medicine
+      and therapy
+    url: https://techxplore.com/news/2026-05-robot-play-music-ear-possibilities.html
+    summary: Scientists at the USC Viterbi School of Engineering have developed a
+      robotic hand that can hear a melody once and play it back after just two
+      minutes of self-taught practice on a keyboard, without relying on sheet
+      music or preprogrammed scores.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/usc-robot-learns-music.jpg
     categories:
       - Robotics
-    publishedAt: 2026-05-27T19:40:04.000Z
+    publishedAt: 2026-05-28T16:00:02.000Z
     source: TechXplore — Robotics
+  - title: "Media Advisory: MIT to establish regional quantum hub"
+    url: https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub
+    summary: Quantum technologies promise transformative changes in fields from
+      computing, security, and navigation to health sciences, defense
+      technologies, and space exploration. But how do we ensure Massachusetts
+      stays on the leading edge of our nation’s coming quantum leap? Doing so is
+      vital to the prosperity and security of our Commonwealth and country,
+      serving to protect and advance America’s technological leadership in a
+      world that has been upended by geopolitical rivalries.   On Thursday, May
+      28, Governor Maura Healey joined President Sally Kornbluth at MIT to
+      announce a new effort aimed at establishing Massachusetts as a national
+      hub for quantum innovation and catalyzing next generation quantum
+      technologies. MIT and the Commonwealth of Massachusetts announced plans to
+      establish the Quantum Systems Laboratory (QSL) at MIT, a new shared-use
+      facility that will serve as a quantum toolbox for the region, aimed at
+      accelerating quantum research, innovation, and growth in this critical
+      field.The QSL seeks to be the first facility in the world to bring
+      together state‑of‑the‑art quantum computers with quantum sensors and
+      peripherals, joined by quantum interconnects (physical channels that
+      transfer quantum information). The facility will provide researchers from
+      MIT and other institutions hands‑on access to significant quantum hardware
+      and specialized experimental capabilities that are necessary to achieve
+      the full transformative potential of quantum science and
+      engineering. Thanks to a $25 million investment from the state, which will
+      match a portion of the federal funding for quantum research already
+      underway at MIT, the Institute is now in a position to move forward as
+      early as this summer with construction on the QSL facility, positioning
+      the region to dominate the next generation of quantum research, according
+      to Institute officials. The Commonwealth’s investment adds to MIT’s own
+      financial commitment, as well as generous philanthropic support from
+      Thomas Tull.“Greater Boston has the greatest concentration of quantum
+      talent anywhere in the world, working on a range of potential
+      applications. Through the new Quantum Systems Laboratory, we will help
+      position Massachusetts to lead the next era of quantum technologies,” says
+      Kornbluth. “This facility will serve those at the edges of our wildest
+      imaginations in physics and quantum computing, yes. But it will also equip
+      the talent in our region -- and ultimately, our nation -- to push our
+      knowledge to new limits, and new innovations.”
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-ManufacturingAnn-01-press_0.jpg?itok=FagXN0Md
+    categories: []
+    publishedAt: 2026-05-28T16:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Precision Agriculture Tech Can Address New Fertilizer Shortages
+    url: https://spectrum.ieee.org/fertilizer-shortage-precision-agricultur
+    summary: The ongoing instability in the Middle East has put fertilizer
+      availability at the center of global food security concerns. Up to 30
+      percent of the global fertilizer trade typically passes through the Strait
+      of Hormuz, along with major flows of liquefied natural gas, a key
+      feedstock for its production. Delayed shipments are rippling through
+      agricultural supply chains, and the United Nation’s Food and Agriculture
+      Organization has warned that the price of urea, a widely used nitrogen
+      fertilizer, had increased by 52 percent in the United States and by 60
+      percent in Brazil by mid-April.
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-a-probe-equipped-with-a-spectrometer-and-environmental-sensors.jpg?id=66826391&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Precision-agriculture
+      - Iran
+      - Robotics
+      - Artificial-intelligence
+      - Machine-vision
+    publishedAt: 2026-05-28T15:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi
+    url: https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/
+    summary: The pale-blue Ojai vehicles will start picking up members of the public
+      in California and Arizona in the next few weeks.
+    imageUrl: https://media.wired.com/photos/6a1765da6f62ca56a1fdfc3c/191:100/w_1280,c_limit/OJAI_EXT_Rider_3.jpg
+    categories:
+      - Gear
+      - Gear / Gear News and Events
+    publishedAt: 2026-05-28T15:00:00.000Z
+    source: WIRED (AI)
+  - title: Finding Success in Industry as a Chip Designer
+    url: https://spectrum.ieee.org/chip-design-academic-vs-industry
+    summary: "I have been an application-specific IC (ASIC) designer for almost
+      three decades. Over that time, I’ve moved through the full academic
+      trajectory, from graduate student to full professor; later, I transitioned
+      to industry after an unsuccessful stint at entrepreneurship. When I made
+      the switch to the private sector in 2019, I began focusing on a critically
+      important aspect of the electronic industry: silicon intellectual
+      property."
+    imageUrl: https://spectrum.ieee.org/media-library/engineer-testing-electronic-components-at-a-lab-bench-with-cables-and-equipment.png?id=66821207&width=1245&height=700&coordinates=0%2C97%2C0%2C97
+    categories:
+      - Ic-design
+      - Semiconductor-industry
+      - Careers
+      - Type-departments
+      - Ip
+      - Asic
+    publishedAt: 2026-05-28T13:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: A 100-year-old piano mystery has finally been solved
+    url: https://www.sciencedaily.com/releases/2026/05/260528073949.htm
+    summary: For more than a century, pianists and music teachers have argued over
+      whether a performer’s touch can actually change the tone color of a piano
+      note — and now scientists say the answer is yes. Using a cutting-edge
+      sensor system that tracked piano key movements at 1,000 frames per second,
+      researchers discovered that elite pianists subtly manipulate keys in ways
+      that listeners can genuinely hear, even if they’ve never played piano
+      before.
+    imageUrl: https://www.sciencedaily.com/images/1920/grand-concert-piano-male-pianist.webp
+    categories: []
+    publishedAt: 2026-05-28T11:51:24.000Z
+    source: ScienceDaily — Engineering
   - title: Childlike AI uncovers why language grows more structured across generations
     url: https://techxplore.com/news/2026-05-childlike-ai-uncovers-language-generations.html
     summary: New research from the University of the Witwatersrand, South Africa,
@@ -52,46 +155,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-05-27T18:40:05.000Z
     source: TechXplore — Computer Science
-  - title: Inspired by armadillos, this soft robotic shell flips from flexible to
-      fortress in an instant
-    url: https://techxplore.com/news/2026-05-armadillos-soft-robotic-shell-flips.html
-    summary: Researchers have drawn inspiration from armadillos to create a
-      protective structure that responds to external threats by curling into a
-      protective ball to protect electronic devices or other payloads. The
-      structure is designed to automatically respond when it detects strain and
-      can be tuned to respond to anything from a delicate touch to a significant
-      impact.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/armadillos-inspire-new.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-05-27T18:00:05.000Z
-    source: TechXplore — Engineering
-  - title: Junctionless Transistors Show a New Path to 3D Chips
-    url: https://spectrum.ieee.org/3d-chips
-    summary: Chipmakers are struggling to shrink the amount of area a transistor
-      takes up, so researchers are trying to build layers of devices on top of
-      each other. However, many experimental 3D chips rely on exotic materials
-      and perform poorly compared with regular silicon devices. But researchers
-      at the University of Illinois Urbana-Champaign have found a new way to
-      build 3D circuits from silicon. The secret is a process that lets them
-      roll multiple layers of nanometers-thin silicon onto a wafer at relatively
-      low temperatures.
-    imageUrl: https://spectrum.ieee.org/media-library/two-asian-mens-faces-reflected-in-a-silicon-wafer.jpg?id=66822290&width=1245&height=700&coordinates=0%2C156%2C0%2C157
-    categories:
-      - 3d-chips
-      - Junctionless-transistors
-      - 3d-integration
-    publishedAt: 2026-05-27T15:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: A New Species of Tiny Octopus Was Discovered in the Galápagos Islands
-    url: https://www.wired.com/story/a-new-species-of-tiny-octopus-was-discovered-in-the-galapagos-islands/
-    summary: An octopus about the size of a golf ball was first spotted in 2015 near
-      Darwin Island. A new study gives it both a formal description and a name.
-    imageUrl: https://media.wired.com/photos/6a15b828344eae09a00e395f/191:100/w_1280,c_limit/Low-Res_Screen%20Shot%202026-05-06%20at%202.16.22%20PM.jpg
-    categories:
-      - Science
-    publishedAt: 2026-05-27T09:30:00.000Z
-    source: WIRED science
   - title: Ten from MIT accept 2026 Fulbright awards
     url: https://news.mit.edu/2026/fulbright-awards-0526
     summary: Ten MIT affiliates — including undergraduates, graduate students, and
@@ -130,19 +193,6 @@ articles:
       - Quadruped-robots
     publishedAt: 2026-05-22T16:00:01.000Z
     source: IEEE Spectrum — Robotics
-  - title: Technology usually creates jobs for young, skilled workers. Will AI do
-      the same?
-    url: https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521
-    summary: "At any given time, technology does two things to employment: It
-      replaces traditional jobs, and it creates new lines of work. Machines
-      replace farmers, but enable, say, aeronautical engineers to exist. So, if
-      tech creates new jobs, who gets them? How well do they pay? How long do
-      new jobs remain new, before they become just another common task any
-      worker can do?"
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-NewWork-01-press.jpg?itok=byMeP8Rb
-    categories: []
-    publishedAt: 2026-05-21T04:00:00.000Z
-    source: MIT Artificial Intelligence
   - title: New research enables a robot to chart a better course
     url: https://news.mit.edu/2026/new-research-enables-robot-to-chart-better-course-0519
     summary: In the aftermath of a devastating earthquake, unpiloted aerial vehicles
