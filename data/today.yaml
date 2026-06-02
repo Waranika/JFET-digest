@@ -1,45 +1,150 @@
-date: 2026-05-29
+date: 2026-06-02
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Graph Time-Frequency Mixed Anomaly Detection framework achieves 99.71%
-      accuracy detecting sensor attacks on drones
-    url: https://techxplore.com/news/2026-05-graph-frequency-anomaly-framework-accuracy.html
-    summary: A new machine learning framework designed to detect malicious
-      interference in unmanned aerial vehicles (UAVs), commonly known as drones,
-      has shown strong performance in identifying both sudden and
-      slow-developing sensor attacks, according to research in the International
-      Journal of Automation and Control. The system, called GTF-MAD (Graph
-      Time-Frequency Mixed Anomaly Detection), achieved a peak F1 score of
-      99.71% in detecting bias in tests on a quadrotor drone.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2020/drone.jpg
+  - title: AI unearths soccer talent beyond scouts' radar
+    url: https://techxplore.com/news/2026-06-ai-unearths-football-talent-scouts.html
+    summary: Brazilian teenager Leo Veiga had almost given up on his dream of
+      becoming a professional soccer player when artificial intelligence helped
+      him secure a spot in the youth ranks of an Italian club.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/footbao-chief-executiv.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-06-02T08:18:51.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: New 30-inch pressure vessel expands deep-sea, high-pressure testing
+    url: https://techxplore.com/news/2026-06-inch-pressure-vessel-deep-sea.html
+    summary: Southwest Research Institute (SwRI) has upgraded its Ocean Simulation
+      Laboratories with a new 30-inch diameter pressure vessel. This new vessel
+      allows SwRI to test larger equipment at conditions that simulate
+      full-ocean depth and features a novel SwRI-designed quick-acting closure.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/swri-expands-deep-sea.jpg
     categories:
       - Engineering
-    publishedAt: 2026-05-29T00:40:02.000Z
+    publishedAt: 2026-06-02T02:20:02.000Z
     source: TechXplore — Engineering
-  - title: Agentic AI tests the limits of data protection law, study finds
-    url: https://techxplore.com/news/2026-05-agentic-ai-limits-law.html
-    summary: The growing use of agentic artificial intelligence will test how
-      organizations comply with existing data protection law, warns a study
-      appearing in the Computer Law & Security Review.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2018/dataprotecti.jpg
+  - title: Quantum computers could expose our digital secrets, but there are much
+      better reasons to build them
+    url: https://techxplore.com/news/2026-06-quantum-expose-digital-secrets.html
+    summary: Quantum computers are coming. Or, at least, that's what current
+      predictions say. These machines harness the power of quantum mechanics,
+      the set of rules governing how physics operates at atomic and sub-atomic
+      scales.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/quantum-computer-1.jpg
     categories:
-      - Security
-    publishedAt: 2026-05-28T19:20:02.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Robot learns to play music by ear, opening new possibilities in medicine
-      and therapy
-    url: https://techxplore.com/news/2026-05-robot-play-music-ear-possibilities.html
-    summary: Scientists at the USC Viterbi School of Engineering have developed a
-      robotic hand that can hear a melody once and play it back after just two
-      minutes of self-taught practice on a keyboard, without relying on sheet
-      music or preprogrammed scores.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/usc-robot-learns-music.jpg
+      - Computer Sciences
+    publishedAt: 2026-06-01T20:40:01.000Z
+    source: TechXplore — Computer Science
+  - title: Anthropic Confidentially Files for What Could Be the Largest IPO Ever
+    url: https://www.wired.com/story/anthropic-files-s1-ipo-sec/
+    summary: The AI giant behind Claude submitted paperwork on Monday that would
+      take it public, just a couple of weeks after SpaceX’s splashy IPO
+      announcement.
+    imageUrl: https://media.wired.com/photos/6a1db04538f4e0fcb2641f17/191:100/w_1280,c_limit/Anthropic-Goes-Public-Business-2274306161.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-06-01T17:17:58.000Z
+    source: WIRED (AI)
+  - title: New Server Hopes to Break Through AI’s “Memory Wall”
+    url: https://spectrum.ieee.org/huge-memory-ai-server
+    summary: Memory is arguably the most serious constraint on modern AI large
+      language models (LLMs). According to one influential paper, LLM token
+      generation is an inherently memory-bound task, meaning the rate at which
+      models output text is limited by how quickly data can be read in from
+      memory. The severity of this bottleneck grows with model size. This
+      creates a “memory wall” that holds back LLM inference performance.AI
+      hardware startup Majestic Labs is taking a direct—and
+      comprehensive—approach to solving this problem. It’s developing a new AI
+      server, Prometheus, with up to 128 terabytes of memory. That’s over 60
+      times more than Nvidia’s DGX B300 server, a cutting-edge AI processing
+      rack.
+    imageUrl: https://spectrum.ieee.org/media-library/3d-rendering-of-an-ai-server.jpg?id=66838211&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Memory
+      - Server
+      - Ai-accelerators
+      - Performance
+    publishedAt: 2026-06-01T15:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: NASA’s X-59 is about to break the sound barrier for the first time
+    url: https://www.sciencedaily.com/releases/2026/06/260601025338.htm
+    summary: "NASA’s futuristic X-59 jet is about to face its biggest challenge yet:
+      breaking the sound barrier for the first time. After a successful series
+      of test flights that pushed the aircraft to near-supersonic speeds,
+      engineers are preparing to fly it faster than Mach 1 and eventually up to
+      Mach 1.6 at 60,000 feet. The sleek experimental aircraft is designed to
+      replace the thunderous sonic boom with a much quieter “thump,” a
+      breakthrough that could help bring supersonic passenger travel back over
+      populated areas."
+    imageUrl: https://www.sciencedaily.com/images/1920/nasa-x-59-flying-over-land-and-water.webp
+    categories: []
+    publishedAt: 2026-06-01T11:48:14.000Z
+    source: ScienceDaily — Engineering
+  - title: ‘Sexual Chocolate’ Faces Recalls After FDA Tests Reveal Undisclosed Viagra
+    url: https://www.wired.com/story/sexual-chocolate-recalls-fda-undisclosed-viagra/
+    summary: Sellers of products with names like Boner Bears and DTF have
+      voluntarily recalled their products after testing positive for the active
+      ingredients in Viagra and Cialis.
+    imageUrl: https://media.wired.com/photos/6a1a069d4fe7951c44a88bce/191:100/w_1280,c_limit/Sexual-Chocolate-Faces-Recalls-After-FDA-Tests-Reveal-Undisclosed-Viagra-Science.jpg
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2026-06-01T10:30:00.000Z
+    source: WIRED science
+  - title: The forgotten organ that could predict how long you live
+    url: https://www.sciencedaily.com/releases/2026/06/260601025352.htm
+    summary: A long-overlooked organ may hold surprising clues to healthy aging and
+      cancer survival. Researchers at Mass General Brigham used AI to analyze CT
+      scans from tens of thousands of adults and found that people with
+      healthier thymuses—a small immune-system organ once thought to become
+      largely irrelevant after childhood—lived longer and had substantially
+      lower risks of heart disease, cancer, and death.
+    imageUrl: https://www.sciencedaily.com/images/1920/human-body-thymus-gland.webp
+    categories: []
+    publishedAt: 2026-06-01T10:17:04.000Z
+    source: ScienceDaily — Robotics
+  - title: A robot is helping an ailing couple stay in their home. Are more to come
+      for an aging population?
+    url: https://techxplore.com/news/2026-06-robot-ailing-couple-stay-home.html
+    summary: After outliving Booker T. Bones, their second service dog, Brenda and
+      Brian Marquis still needed help with some of the more difficult parts of
+      daily life.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-robot-is-helping-an.jpg
     categories:
       - Robotics
-    publishedAt: 2026-05-28T16:00:02.000Z
+    publishedAt: 2026-06-01T08:15:26.000Z
     source: TechXplore — Robotics
+  - title: This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors
+    url: https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot
+    summary: In 1987, Richard Greenhill, a British photographer who was fascinated
+      by (but had no actual training in) robotics, decided he wanted to build a
+      life-size humanoid that could do useful things, like carrying luggage. He
+      was working at a startup called Intergalactic Robots, but he couldn’t
+      convince anyone there to build such a machine, so he set about building
+      one himself, in his attic.
+    imageUrl: https://spectrum.ieee.org/media-library/two-photos-of-a-prototype-humanoid-robot-with-a-wooden-frame-and-wires-and-other-components-strung-on-its-body.jpg?id=66825613&width=1200&height=400&coordinates=0%2C417%2C0%2C417
+    categories:
+      - Past-forward
+      - Type-departments
+      - Humanoid-robots
+      - Shadow-robot
+      - Walking-robots
+      - Pneumatic-robots
+    publishedAt: 2026-05-31T13:00:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: New 3D silicon chip breakthrough could extend Moore’s Law for years
+    url: https://www.sciencedaily.com/releases/2026/05/260530053412.htm
+    summary: As traditional chip miniaturization slows, researchers have found a way
+      to pack more computing power into the same space by stacking silicon
+      circuits in multiple layers. The new process uses ultra-thin silicon
+      membranes and low-temperature manufacturing techniques to overcome a major
+      obstacle that has long blocked the production of true 3D chips.
+    imageUrl: https://www.sciencedaily.com/images/1920/3d-cpu-processor-chip.webp
+    categories: []
+    publishedAt: 2026-05-30T10:26:24.000Z
+    source: ScienceDaily — Computer Science
   - title: "Media Advisory: MIT to establish regional quantum hub"
     url: https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub
     summary: Quantum technologies promise transformative changes in fields from
@@ -82,79 +187,6 @@ articles:
     categories: []
     publishedAt: 2026-05-28T16:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: Precision Agriculture Tech Can Address New Fertilizer Shortages
-    url: https://spectrum.ieee.org/fertilizer-shortage-precision-agricultur
-    summary: The ongoing instability in the Middle East has put fertilizer
-      availability at the center of global food security concerns. Up to 30
-      percent of the global fertilizer trade typically passes through the Strait
-      of Hormuz, along with major flows of liquefied natural gas, a key
-      feedstock for its production. Delayed shipments are rippling through
-      agricultural supply chains, and the United Nation’s Food and Agriculture
-      Organization has warned that the price of urea, a widely used nitrogen
-      fertilizer, had increased by 52 percent in the United States and by 60
-      percent in Brazil by mid-April.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-a-probe-equipped-with-a-spectrometer-and-environmental-sensors.jpg?id=66826391&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Precision-agriculture
-      - Iran
-      - Robotics
-      - Artificial-intelligence
-      - Machine-vision
-    publishedAt: 2026-05-28T15:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi
-    url: https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/
-    summary: The pale-blue Ojai vehicles will start picking up members of the public
-      in California and Arizona in the next few weeks.
-    imageUrl: https://media.wired.com/photos/6a1765da6f62ca56a1fdfc3c/191:100/w_1280,c_limit/OJAI_EXT_Rider_3.jpg
-    categories:
-      - Gear
-      - Gear / Gear News and Events
-    publishedAt: 2026-05-28T15:00:00.000Z
-    source: WIRED (AI)
-  - title: Finding Success in Industry as a Chip Designer
-    url: https://spectrum.ieee.org/chip-design-academic-vs-industry
-    summary: "I have been an application-specific IC (ASIC) designer for almost
-      three decades. Over that time, I’ve moved through the full academic
-      trajectory, from graduate student to full professor; later, I transitioned
-      to industry after an unsuccessful stint at entrepreneurship. When I made
-      the switch to the private sector in 2019, I began focusing on a critically
-      important aspect of the electronic industry: silicon intellectual
-      property."
-    imageUrl: https://spectrum.ieee.org/media-library/engineer-testing-electronic-components-at-a-lab-bench-with-cables-and-equipment.png?id=66821207&width=1245&height=700&coordinates=0%2C97%2C0%2C97
-    categories:
-      - Ic-design
-      - Semiconductor-industry
-      - Careers
-      - Type-departments
-      - Ip
-      - Asic
-    publishedAt: 2026-05-28T13:00:01.000Z
-    source: IEEE Spectrum — AI
-  - title: A 100-year-old piano mystery has finally been solved
-    url: https://www.sciencedaily.com/releases/2026/05/260528073949.htm
-    summary: For more than a century, pianists and music teachers have argued over
-      whether a performer’s touch can actually change the tone color of a piano
-      note — and now scientists say the answer is yes. Using a cutting-edge
-      sensor system that tracked piano key movements at 1,000 frames per second,
-      researchers discovered that elite pianists subtly manipulate keys in ways
-      that listeners can genuinely hear, even if they’ve never played piano
-      before.
-    imageUrl: https://www.sciencedaily.com/images/1920/grand-concert-piano-male-pianist.webp
-    categories: []
-    publishedAt: 2026-05-28T11:51:24.000Z
-    source: ScienceDaily — Engineering
-  - title: Childlike AI uncovers why language grows more structured across generations
-    url: https://techxplore.com/news/2026-05-childlike-ai-uncovers-language-generations.html
-    summary: New research from the University of the Witwatersrand, South Africa,
-      has significant implications for understanding both human language
-      development and the behavior of large-scale artificial intelligence
-      language models.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/baby-talk-1.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-05-27T18:40:05.000Z
-    source: TechXplore — Computer Science
   - title: Ten from MIT accept 2026 Fulbright awards
     url: https://news.mit.edu/2026/fulbright-awards-0526
     summary: Ten MIT affiliates — including undergraduates, graduate students, and
@@ -166,33 +198,6 @@ articles:
     categories: []
     publishedAt: 2026-05-26T20:40:00.000Z
     source: MIT Engineering
-  - title: AI-powered spectrometer chip shrinks lab technology to the size of a
-      grain of sand
-    url: https://www.sciencedaily.com/releases/2026/05/260525000501.htm
-    summary: A new AI-powered chip from UC Davis can analyze light and chemicals
-      using a device tiny enough to fit almost anywhere. By combining smart
-      silicon sensors with machine learning, it achieves lab-style spectral
-      analysis without the bulky equipment.
-    imageUrl: https://www.sciencedaily.com/images/1920/spectrometer-chip.webp
-    categories: []
-    publishedAt: 2026-05-26T13:09:27.000Z
-    source: ScienceDaily — Robotics
-  - title: "Video Friday: Atlas Versus a Fridge"
-    url: https://spectrum.ieee.org/video-friday-humanoid-robot-learning
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/bipedal-humanoid-robot-does-one-legged-spinning-kick-in-a-brightly-lit-industrial-workshop.gif?id=66779183&width=1245&height=700&coordinates=0%2C0%2C0%2C0
-    categories:
-      - Humanoid-robots
-      - Video-friday
-      - Robot-videos
-      - Educational-robots
-      - Biomimetics
-      - Quadruped-robots
-    publishedAt: 2026-05-22T16:00:01.000Z
-    source: IEEE Spectrum — Robotics
   - title: New research enables a robot to chart a better course
     url: https://news.mit.edu/2026/new-research-enables-robot-to-chart-better-course-0519
     summary: In the aftermath of a devastating earthquake, unpiloted aerial vehicles
@@ -212,22 +217,3 @@ articles:
     categories: []
     publishedAt: 2026-05-19T00:23:26.000Z
     source: ScienceDaily — Artificial Intelligence
-  - title: Reviving Teletext for Ham Radio
-    url: https://spectrum.ieee.org/reviving-teletext-for-ham-radio
-    summary: Once upon a time in Europe, television remote controls had a magic
-      teletext button. Years before the internet stole into homes, pressing that
-      button brought up teletext digital information services with hundreds of
-      constantly updated pages. Living in Ireland in the 1980s and ’90s, my
-      family accessed the national teletext service—Aertel—multiple times a day
-      for weather and news bulletins, as well as things like TV program guides
-      and updates on airport flight arrivals.
-    imageUrl: https://spectrum.ieee.org/media-library/a-personal-computer-displays-a-blocky-computer-graphic-depicting-a-city-skyline-with-the-words-cq-cq-cq-de-kb1wnr-in-front-of.png?id=65575350&width=1245&height=700&coordinates=0%2C372%2C0%2C372
-    categories:
-      - Amateur-radio
-      - Ham-radio
-      - Llms
-      - Vibe-coding
-      - Teletext
-      - Ax25
-    publishedAt: 2026-04-22T16:19:08.000Z
-    source: IEEE Spectrum — DIY
