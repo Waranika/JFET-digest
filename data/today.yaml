@@ -1,52 +1,120 @@
-date: 2026-06-02
+date: 2026-06-04
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: AI unearths soccer talent beyond scouts' radar
-    url: https://techxplore.com/news/2026-06-ai-unearths-football-talent-scouts.html
-    summary: Brazilian teenager Leo Veiga had almost given up on his dream of
-      becoming a professional soccer player when artificial intelligence helped
-      him secure a spot in the youth ranks of an Italian club.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/footbao-chief-executiv.jpg
+  - title: Chatbot teddies for three‑year‑olds? Why AI toys are risky for kids
+    url: https://techxplore.com/news/2026-06-chatbot-teddies-threeyearolds-ai-toys.html
+    summary: ChattyBear, a soft, brown-furred teddy bear, begins every conversation
+      with a jubilant, "Hello, my buddy!"
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/teddy-bear.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-06-02T08:18:51.000Z
+      - Consumer & Gadgets
+    publishedAt: 2026-06-04T02:00:01.000Z
     source: TechXplore — AI & Machine Learning
-  - title: New 30-inch pressure vessel expands deep-sea, high-pressure testing
-    url: https://techxplore.com/news/2026-06-inch-pressure-vessel-deep-sea.html
-    summary: Southwest Research Institute (SwRI) has upgraded its Ocean Simulation
-      Laboratories with a new 30-inch diameter pressure vessel. This new vessel
-      allows SwRI to test larger equipment at conditions that simulate
-      full-ocean depth and features a novel SwRI-designed quick-acting closure.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/swri-expands-deep-sea.jpg
+  - title: OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons
+    url: https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/
+    summary: Leading AI labs, executives, and scientists are sending a letter to
+      lawmakers urging them to improve tracking of synthetic DNA sequences that
+      could be used for bioweapons.
+    imageUrl: https://media.wired.com/photos/6a1f6447234d4b89dad80277/191:100/w_1280,c_limit/science_anthropic_final.jpg
     categories:
-      - Engineering
-    publishedAt: 2026-06-02T02:20:02.000Z
-    source: TechXplore — Engineering
-  - title: Quantum computers could expose our digital secrets, but there are much
-      better reasons to build them
-    url: https://techxplore.com/news/2026-06-quantum-expose-digital-secrets.html
-    summary: Quantum computers are coming. Or, at least, that's what current
-      predictions say. These machines harness the power of quantum mechanics,
-      the set of rules governing how physics operates at atomic and sub-atomic
-      scales.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/quantum-computer-1.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-06-01T20:40:01.000Z
-    source: TechXplore — Computer Science
-  - title: Anthropic Confidentially Files for What Could Be the Largest IPO Ever
-    url: https://www.wired.com/story/anthropic-files-s1-ipo-sec/
-    summary: The AI giant behind Claude submitted paperwork on Monday that would
-      take it public, just a couple of weeks after SpaceX’s splashy IPO
-      announcement.
-    imageUrl: https://media.wired.com/photos/6a1db04538f4e0fcb2641f17/191:100/w_1280,c_limit/Anthropic-Goes-Public-Business-2274306161.jpg
+      - Science
+      - Science / Biotech
+    publishedAt: 2026-06-04T01:01:00.000Z
+    source: WIRED (AI)
+  - title: Teaching AI agents to ask better questions by playing “Battleship”
+    url: https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603
+    summary: "In 2026, the hype for artificial intelligence agents is louder than
+      ever before. These semi-autonomous programs can “think” and execute
+      well-defined tasks in areas like customer service and software
+      development, typically using language models (LMs). But fields like
+      medical diagnosis and scientific discovery require them to inquire about a
+      vast range of solutions in uncertain environments, which LMs struggle
+      with.Researchers at MIT’s Computer Science and Artificial Intelligence
+      Laboratory (CSAIL) and Harvard University’s School of Engineering and
+      Applied Sciences (SEAS) peered deeper into LMs to understand their main
+      issues in high-stakes settings. Their test: “Battleship,” a classic
+      guessing game that’s helped cognitive scientists study how humans seek
+      information."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-csail-Co-Battleship.jpg?itok=f3N6UnA0
+    categories: []
+    publishedAt: 2026-06-03T21:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Finding the best ways for humans and robots to work together requires
+      'swarm' thinking
+    url: https://techxplore.com/news/2026-06-ways-humans-robots-requires-swarm.html
+    summary: "If the future of warehouse work belongs to humans and robots working
+      side by side, a key question remains: What is the most effective way for
+      them to collaborate?"
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2023/robot-manufacture.jpg
     categories:
       - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-06-01T17:17:58.000Z
-    source: WIRED (AI)
+    publishedAt: 2026-06-03T19:40:01.000Z
+    source: TechXplore — Robotics
+  - title: 7 Ways New Engineers Can Flourish in the Age of AI
+    url: https://spectrum.ieee.org/7-ways-engineers-flourish-ai
+    summary: New graduates’ careers are unfolding in an era when AI is not optional.
+      The most successful engineers treat artificial intelligence as leverage,
+      not competition.
+    imageUrl: https://spectrum.ieee.org/media-library/collage-of-a-white-female-college-graduate-surrounded-by-technical-symbols.jpg?id=66852442&width=1245&height=700&coordinates=0%2C288%2C0%2C289
+    categories:
+      - Ieee-member-news
+      - Career-advice
+      - Ai
+      - Young-professionals
+      - Type-ti
+    publishedAt: 2026-06-03T18:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: ChartNet trains AI to read charts, boosting smaller models past
+      commercial rivals
+    url: https://techxplore.com/news/2026-06-chartnet-ai-boosting-smaller-commercial.html
+    summary: To accelerate and refine decision-making in a fast-paced, global
+      marketplace, enterprises may deploy generative artificial intelligence
+      models to help summarize and interpret the charts that often fill market
+      summaries and financial reports.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/researchers-teach-ai-m.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-06-03T17:40:05.000Z
+    source: TechXplore — Computer Science
+  - title: "'Baked' yeast-based materials power 3D-printed architectural materials"
+    url: https://techxplore.com/news/2026-06-yeast-based-materials-power-3d.html
+    summary: "Researchers at Chalmers University of Technology, Sweden, have
+      developed a new, entirely bio-based material from a somewhat unexpected
+      ingredient: yeast. The material is 3D printed and customized for use in
+      architectural and interior design elements that are currently made from
+      non-renewable or fossil-based materials, such as plaster, plastic or
+      synthetic textiles. These may be daylight modulating and sunlight
+      protecting screens, room partitions or wall systems."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/baked-printed-ready--p.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-06-03T15:40:06.000Z
+    source: TechXplore — Engineering
+  - title: Ambassadors of STEM
+    url: https://news.mit.edu/2026/ambassadors-stem-0602
+    summary: When a team of MIT students turned up at a national robotics
+      tournament, their robot — aptly named Timbot — wouldn’t work. They’d been
+      invited to demonstrate Timbot at the inaugural United States Governors Cup
+      in Washington, D.C., a March Madness-like competition for high school
+      robotics teams from all 50 states.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-robotics-club-with-Healey.jpg?itok=XZXc0p0a
+    categories: []
+    publishedAt: 2026-06-02T20:25:00.000Z
+    source: MIT Robotics
+  - title: New light-powered chip could accelerate AI and quantum computing
+    url: https://www.sciencedaily.com/releases/2026/06/260601025343.htm
+    summary: Scientists have created a tiny chip that can generate, steer, and read
+      light-based information all in one device, marking a major leap toward
+      ultra-fast, energy-efficient computing. The breakthrough uses atomically
+      thin materials and nanoscale structures to control a unique quantum
+      property of light called the “valley” degree of freedom, allowing
+      information to be encoded in new ways.
+    imageUrl: https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp
+    categories: []
+    publishedAt: 2026-06-02T04:30:26.000Z
+    source: ScienceDaily — Engineering
   - title: New Server Hopes to Break Through AI’s “Memory Wall”
     url: https://spectrum.ieee.org/huge-memory-ai-server
     summary: Memory is arguably the most serious constraint on modern AI large
@@ -60,39 +128,14 @@ articles:
       server, Prometheus, with up to 128 terabytes of memory. That’s over 60
       times more than Nvidia’s DGX B300 server, a cutting-edge AI processing
       rack.
-    imageUrl: https://spectrum.ieee.org/media-library/3d-rendering-of-an-ai-server.jpg?id=66838211&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    imageUrl: https://spectrum.ieee.org/media-library/3d-rendering-of-an-ai-server.jpg?id=66838211&width=1200&height=400&coordinates=0%2C417%2C0%2C417
     categories:
       - Memory
       - Server
       - Ai-accelerators
       - Performance
     publishedAt: 2026-06-01T15:00:01.000Z
-    source: IEEE Spectrum — AI
-  - title: NASA’s X-59 is about to break the sound barrier for the first time
-    url: https://www.sciencedaily.com/releases/2026/06/260601025338.htm
-    summary: "NASA’s futuristic X-59 jet is about to face its biggest challenge yet:
-      breaking the sound barrier for the first time. After a successful series
-      of test flights that pushed the aircraft to near-supersonic speeds,
-      engineers are preparing to fly it faster than Mach 1 and eventually up to
-      Mach 1.6 at 60,000 feet. The sleek experimental aircraft is designed to
-      replace the thunderous sonic boom with a much quieter “thump,” a
-      breakthrough that could help bring supersonic passenger travel back over
-      populated areas."
-    imageUrl: https://www.sciencedaily.com/images/1920/nasa-x-59-flying-over-land-and-water.webp
-    categories: []
-    publishedAt: 2026-06-01T11:48:14.000Z
-    source: ScienceDaily — Engineering
-  - title: ‘Sexual Chocolate’ Faces Recalls After FDA Tests Reveal Undisclosed Viagra
-    url: https://www.wired.com/story/sexual-chocolate-recalls-fda-undisclosed-viagra/
-    summary: Sellers of products with names like Boner Bears and DTF have
-      voluntarily recalled their products after testing positive for the active
-      ingredients in Viagra and Cialis.
-    imageUrl: https://media.wired.com/photos/6a1a069d4fe7951c44a88bce/191:100/w_1280,c_limit/Sexual-Chocolate-Faces-Recalls-After-FDA-Tests-Reveal-Undisclosed-Viagra-Science.jpg
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2026-06-01T10:30:00.000Z
-    source: WIRED science
+    source: IEEE Spectrum — Computing & Chips
   - title: The forgotten organ that could predict how long you live
     url: https://www.sciencedaily.com/releases/2026/06/260601025352.htm
     summary: A long-overlooked organ may hold surprising clues to healthy aging and
@@ -105,17 +148,6 @@ articles:
     categories: []
     publishedAt: 2026-06-01T10:17:04.000Z
     source: ScienceDaily — Robotics
-  - title: A robot is helping an ailing couple stay in their home. Are more to come
-      for an aging population?
-    url: https://techxplore.com/news/2026-06-robot-ailing-couple-stay-home.html
-    summary: After outliving Booker T. Bones, their second service dog, Brenda and
-      Brian Marquis still needed help with some of the more difficult parts of
-      daily life.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-robot-is-helping-an.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-06-01T08:15:26.000Z
-    source: TechXplore — Robotics
   - title: This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors
     url: https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot
     summary: In 1987, Richard Greenhill, a British photographer who was fascinated
@@ -124,7 +156,7 @@ articles:
       was working at a startup called Intergalactic Robots, but he couldn’t
       convince anyone there to build such a machine, so he set about building
       one himself, in his attic.
-    imageUrl: https://spectrum.ieee.org/media-library/two-photos-of-a-prototype-humanoid-robot-with-a-wooden-frame-and-wires-and-other-components-strung-on-its-body.jpg?id=66825613&width=1200&height=400&coordinates=0%2C417%2C0%2C417
+    imageUrl: https://spectrum.ieee.org/media-library/two-photos-of-a-prototype-humanoid-robot-with-a-wooden-frame-and-wires-and-other-components-strung-on-its-body.jpg?id=66825613&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
       - Past-forward
       - Type-departments
@@ -134,79 +166,6 @@ articles:
       - Pneumatic-robots
     publishedAt: 2026-05-31T13:00:01.000Z
     source: IEEE Spectrum — Robotics
-  - title: New 3D silicon chip breakthrough could extend Moore’s Law for years
-    url: https://www.sciencedaily.com/releases/2026/05/260530053412.htm
-    summary: As traditional chip miniaturization slows, researchers have found a way
-      to pack more computing power into the same space by stacking silicon
-      circuits in multiple layers. The new process uses ultra-thin silicon
-      membranes and low-temperature manufacturing techniques to overcome a major
-      obstacle that has long blocked the production of true 3D chips.
-    imageUrl: https://www.sciencedaily.com/images/1920/3d-cpu-processor-chip.webp
-    categories: []
-    publishedAt: 2026-05-30T10:26:24.000Z
-    source: ScienceDaily — Computer Science
-  - title: "Media Advisory: MIT to establish regional quantum hub"
-    url: https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub
-    summary: Quantum technologies promise transformative changes in fields from
-      computing, security, and navigation to health sciences, defense
-      technologies, and space exploration. But how do we ensure Massachusetts
-      stays on the leading edge of our nation’s coming quantum leap? Doing so is
-      vital to the prosperity and security of our Commonwealth and country,
-      serving to protect and advance America’s technological leadership in a
-      world that has been upended by geopolitical rivalries.   On Thursday, May
-      28, Governor Maura Healey joined President Sally Kornbluth at MIT to
-      announce a new effort aimed at establishing Massachusetts as a national
-      hub for quantum innovation and catalyzing next generation quantum
-      technologies. MIT and the Commonwealth of Massachusetts announced plans to
-      establish the Quantum Systems Laboratory (QSL) at MIT, a new shared-use
-      facility that will serve as a quantum toolbox for the region, aimed at
-      accelerating quantum research, innovation, and growth in this critical
-      field.The QSL seeks to be the first facility in the world to bring
-      together state‑of‑the‑art quantum computers with quantum sensors and
-      peripherals, joined by quantum interconnects (physical channels that
-      transfer quantum information). The facility will provide researchers from
-      MIT and other institutions hands‑on access to significant quantum hardware
-      and specialized experimental capabilities that are necessary to achieve
-      the full transformative potential of quantum science and
-      engineering. Thanks to a $25 million investment from the state, which will
-      match a portion of the federal funding for quantum research already
-      underway at MIT, the Institute is now in a position to move forward as
-      early as this summer with construction on the QSL facility, positioning
-      the region to dominate the next generation of quantum research, according
-      to Institute officials. The Commonwealth’s investment adds to MIT’s own
-      financial commitment, as well as generous philanthropic support from
-      Thomas Tull.“Greater Boston has the greatest concentration of quantum
-      talent anywhere in the world, working on a range of potential
-      applications. Through the new Quantum Systems Laboratory, we will help
-      position Massachusetts to lead the next era of quantum technologies,” says
-      Kornbluth. “This facility will serve those at the edges of our wildest
-      imaginations in physics and quantum computing, yes. But it will also equip
-      the talent in our region -- and ultimately, our nation -- to push our
-      knowledge to new limits, and new innovations.”
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-ManufacturingAnn-01-press_0.jpg?itok=FagXN0Md
-    categories: []
-    publishedAt: 2026-05-28T16:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Ten from MIT accept 2026 Fulbright awards
-    url: https://news.mit.edu/2026/fulbright-awards-0526
-    summary: Ten MIT affiliates — including undergraduates, graduate students, and
-      alumni — have accepted Fulbright grants to conduct research in countries
-      across the world. Five other students declined their awards to pursue
-      other opportunities, and another student is still deciding. In total, 16
-      of MIT’s 30 Fulbright applicants won awards this year.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-Fulbright-2026.jpg?itok=StbbVY97
-    categories: []
-    publishedAt: 2026-05-26T20:40:00.000Z
-    source: MIT Engineering
-  - title: New research enables a robot to chart a better course
-    url: https://news.mit.edu/2026/new-research-enables-robot-to-chart-better-course-0519
-    summary: In the aftermath of a devastating earthquake, unpiloted aerial vehicles
-      (UAVs) could fly through a collapsed building to map the scene, giving
-      rescuers information they need to quickly reach survivors.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-MightyPlanner-01-press.jpg?itok=YZTtAzie
-    categories: []
-    publishedAt: 2026-05-19T04:00:00.000Z
-    source: MIT Robotics
   - title: Forget electrons, this breakthrough uses light-matter particles to power AI
     url: https://www.sciencedaily.com/releases/2026/05/260518041341.htm
     summary: Researchers at Penn have created a hybrid light-matter particle that
