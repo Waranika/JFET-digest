@@ -1,57 +1,147 @@
-date: 2026-06-04
+date: 2026-06-05
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Chatbot teddies for three‑year‑olds? Why AI toys are risky for kids
-    url: https://techxplore.com/news/2026-06-chatbot-teddies-threeyearolds-ai-toys.html
-    summary: ChattyBear, a soft, brown-furred teddy bear, begins every conversation
-      with a jubilant, "Hello, my buddy!"
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/teddy-bear.jpg
+  - title: Startup helps retailers track their products in real-time
+    url: https://news.mit.edu/2026/cartesian-helps-retailers-track-their-products-in-real-time-0605
+    summary: When you picture a worker at a retail store, you probably think of
+      someone at a cash register or helping a customer. But employees also spend
+      a lot of their time combing through stockrooms and shop floors, fulfilling
+      requests or online orders and generally trying to keep track of all their
+      inventory.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT_Cartesian-Systems-01-press.jpg?itok=G2DSRyAG
+    categories: []
+    publishedAt: 2026-06-05T04:00:00.000Z
+    source: MIT Robotics
+  - title: Researchers improve efficiency, durability of nickel-based SOECs for
+      electrochemical CO₂ conversion
+    url: https://techxplore.com/news/2026-06-efficiency-durability-nickel-based-soecs.html
+    summary: A Korean research team has resolved a major durability issue in solid
+      oxide electrolysis cells (SOECs), a technology that converts carbon
+      dioxide (CO₂) into high-value chemical feedstocks. Researchers at the
+      Korea Research Institute of Chemical Technology (KRICT), led by Drs.
+      Min-Chul Kim, Ji Hoon Park, and Jin Hee Lee, developed a new electrolyte
+      interface engineering technology for nickel-based SOECs.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/krict-improves-efficie-1.jpg
     categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-06-04T02:00:01.000Z
+      - Engineering
+    publishedAt: 2026-06-05T01:00:05.000Z
+    source: TechXplore — Engineering
+  - title: AI system spots fake reviews by combining text, images and user behavior
+    url: https://techxplore.com/news/2026-06-ai-fake-combining-text-images.html
+    summary: Research published in the International Journal of Information and
+      Communication Technology discusses the development of an artificial
+      intelligence system that combines text, images and reviewer behavior to
+      detect and trace fake e-commerce reviews. The system could address the
+      growing challenge faced by online marketplaces as deceptive feedback
+      becomes increasingly sophisticated.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/bad-review.jpg
+    categories:
+      - Internet
+    publishedAt: 2026-06-04T23:00:03.000Z
     source: TechXplore — AI & Machine Learning
-  - title: OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons
-    url: https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/
-    summary: Leading AI labs, executives, and scientists are sending a letter to
-      lawmakers urging them to improve tracking of synthetic DNA sequences that
-      could be used for bioweapons.
-    imageUrl: https://media.wired.com/photos/6a1f6447234d4b89dad80277/191:100/w_1280,c_limit/science_anthropic_final.jpg
+  - title: Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US
+    url: https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/
+    summary: The USDA this week confirmed the first known infection of the
+      carnivorous fly larva, which feast on the flesh of living mammals, after
+      the United States eradicated the nightmare bugs in the 1960s.
+    imageUrl: https://media.wired.com/photos/6a21dc78733250a1d799491a/191:100/w_1280,c_limit/GettyImages-2212569697%20(1).jpg
     categories:
       - Science
-      - Science / Biotech
-    publishedAt: 2026-06-04T01:01:00.000Z
-    source: WIRED (AI)
-  - title: Teaching AI agents to ask better questions by playing “Battleship”
-    url: https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603
-    summary: "In 2026, the hype for artificial intelligence agents is louder than
-      ever before. These semi-autonomous programs can “think” and execute
-      well-defined tasks in areas like customer service and software
-      development, typically using language models (LMs). But fields like
-      medical diagnosis and scientific discovery require them to inquire about a
-      vast range of solutions in uncertain environments, which LMs struggle
-      with.Researchers at MIT’s Computer Science and Artificial Intelligence
-      Laboratory (CSAIL) and Harvard University’s School of Engineering and
-      Applied Sciences (SEAS) peered deeper into LMs to understand their main
-      issues in high-stakes settings. Their test: “Battleship,” a classic
-      guessing game that’s helped cognitive scientists study how humans seek
-      information."
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-csail-Co-Battleship.jpg?itok=f3N6UnA0
-    categories: []
-    publishedAt: 2026-06-03T21:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Finding the best ways for humans and robots to work together requires
-      'swarm' thinking
-    url: https://techxplore.com/news/2026-06-ways-humans-robots-requires-swarm.html
-    summary: "If the future of warehouse work belongs to humans and robots working
-      side by side, a key question remains: What is the most effective way for
-      them to collaborate?"
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2023/robot-manufacture.jpg
+      - Science / Environment
+      - Science / Health
+    publishedAt: 2026-06-04T21:30:00.000Z
+    source: WIRED science
+  - title: Making LLMs faster and more efficient across multiple languages
+    url: https://techxplore.com/news/2026-06-llms-faster-efficient-multiple-languages.html
+    summary: Large language models (LLMs), which are the artificial intelligence
+      (AI) systems behind modern chatbots, translation tools, and virtual
+      assistants, have become revolutionary tools worldwide. Companies,
+      governments, schools, and developers now rely on them to serve users
+      across dozens of languages. Unfortunately, as these systems grow more
+      capable and incorporate support for more and more languages, they also
+      become more computationally demanding. Generating responses from large
+      multilingual models not only costs more but also takes significantly more
+      time.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/adaspec-making-large-l-1.jpg
     categories:
-      - Business
-    publishedAt: 2026-06-03T19:40:01.000Z
-    source: TechXplore — Robotics
+      - Computer Sciences
+    publishedAt: 2026-06-04T21:20:03.000Z
+    source: TechXplore — Computer Science
+  - title: Developing innovative alternatives to conventional carbon capture methods
+    url: https://news.mit.edu/2026/developing-innovative-carbon-capture-methods-0604
+    summary: Carbon capture is an important climate change mitigation strategy, but
+      it faces technological barriers and can be energy-intensive and expensive.
+      To help make necessary advances in this area, a team of MIT researchers,
+      with support from the MIT Climate and Sustainability Consortium (MCSC),
+      are exploring energy-efficient and scalable alternatives to conventional
+      carbon dioxide (CO2) capture methods. Conventional amine scrubbing, which
+      is the current standard for CO2 capture, is energy-intensive and difficult
+      to scale, limiting its impact despite the urgent need to reduce carbon
+      emissions and upgrade CO2 into valuable products. In a new
+      article published in Nature Energy, MIT researchers — graduate
+      students Fang-Yu Kuo of the Department of Chemical Engineering, and Gi
+      Hyun Byun of the Department of Mechanical Engineering (MechE); Professor
+      Betar Gallant of MechE; and former MCSC postdoctoral Impact Fellows Glen
+      Junor and Akachukwu Obi — investigate a promising alternative to these
+      conventional CO2 capture methods. Their findings could move the needle on
+      achieving efficient and flexible carbon capture and removal.In their
+      paper, the team explores an alternative, electrochemically mediated CO2
+      capture (EMCC). This approach enables electrification of CO2 separation —
+      driven ideally by renewables — but currently faces challenges, such as
+      relying on sorbents that require highly reducing potentials, where oxygen
+      reduction side reactions become significant. This can compromise both
+      efficiency and long-term performance. To tackle this shortcoming of EMCC,
+      the MIT team researched whether N-heterocyclic imines (NHIs) is a useful
+      new class of EMCC sorbent.“NHIs have shown promise in recent years as CO2
+      sorbents because of the ease of NHI molecular modifications for tuning
+      basicity,” says Fang-Yu Kuo. “Our work translates these NHIs for the first
+      time into the EMCC application space, and demonstrates that NHI-based
+      sorbents can be modulated electrochemically for CO2 separation by a unique
+      separation mechanism that avoids the need of applying highly reducing
+      potentials.”The team’s initial research establishes a novel bis(NHI)
+      structure that can enable a theoretical CO2 modulation of two molecules
+      per electron during cell operation. The initial published result also
+      indicates that with further molecular engineering of bis(NHI) structures
+      to strengthen CO2 binding affinity, the bis(NHI) could operate in more
+      diverse electrolyte environments, opening new possibilities to optimize
+      system performance in terms of electron efficiency, energy efficiency, and
+      operational flexibility.“A critical future direction of our work involves
+      gaining deeper mechanistic insight into the stability and degradation
+      pathways of the bis(NHI) radical cation,” says Kuo. “Understanding these
+      pathways will inform the rational design of next-generation bis(NHI)
+      molecules, enabling longer operational lifetimes and enhanced cycling
+      durability for practical deployment.”
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-climate-sustainability-consortium.jpg?itok=5C5j4s8_
+    categories: []
+    publishedAt: 2026-06-04T20:35:00.000Z
+    source: MIT Engineering
+  - title: PATH to boost AI training and career opportunities for industry-aligned
+      jobs
+    url: https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604
+    summary: MIT, in collaboration with Georgia State University and a growing
+      network of educational institutions, has announced expanded work under
+      PATH (Pathways for AI Training and Hiring) — a multiyear initiative
+      designed to scale effective, affordable, industry-aligned AI training for
+      entry-level and current workers, with a particular focus on transforming
+      community colleges into engines powering an AI-enabled workforce for the
+      nation.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-raise.jpg?itok=m2Y3rah1
+    categories: []
+    publishedAt: 2026-06-04T19:50:00.000Z
+    source: MIT Artificial Intelligence
+  - title: After 20 years, scientists finally shrink a powerful laser onto a chip
+    url: https://www.sciencedaily.com/releases/2026/06/260604044240.htm
+    summary: Researchers at EPFL have developed a chip-scale ultrafast laser that
+      performs on par with traditional tabletop femtosecond lasers. The
+      innovation could make advanced laser technologies far smaller, cheaper,
+      and more accessible for applications ranging from medical diagnostics to
+      atomic clocks.
+    imageUrl: https://www.sciencedaily.com/images/1920/chip-based-ultrafast-laser.webp
+    categories: []
+    publishedAt: 2026-06-04T14:54:57.000Z
+    source: ScienceDaily — Engineering
   - title: 7 Ways New Engineers Can Flourish in the Age of AI
     url: https://spectrum.ieee.org/7-ways-engineers-flourish-ai
     summary: New graduates’ careers are unfolding in an era when AI is not optional.
@@ -66,43 +156,6 @@ articles:
       - Type-ti
     publishedAt: 2026-06-03T18:00:02.000Z
     source: IEEE Spectrum — AI
-  - title: ChartNet trains AI to read charts, boosting smaller models past
-      commercial rivals
-    url: https://techxplore.com/news/2026-06-chartnet-ai-boosting-smaller-commercial.html
-    summary: To accelerate and refine decision-making in a fast-paced, global
-      marketplace, enterprises may deploy generative artificial intelligence
-      models to help summarize and interpret the charts that often fill market
-      summaries and financial reports.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/researchers-teach-ai-m.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-06-03T17:40:05.000Z
-    source: TechXplore — Computer Science
-  - title: "'Baked' yeast-based materials power 3D-printed architectural materials"
-    url: https://techxplore.com/news/2026-06-yeast-based-materials-power-3d.html
-    summary: "Researchers at Chalmers University of Technology, Sweden, have
-      developed a new, entirely bio-based material from a somewhat unexpected
-      ingredient: yeast. The material is 3D printed and customized for use in
-      architectural and interior design elements that are currently made from
-      non-renewable or fossil-based materials, such as plaster, plastic or
-      synthetic textiles. These may be daylight modulating and sunlight
-      protecting screens, room partitions or wall systems."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/baked-printed-ready--p.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-06-03T15:40:06.000Z
-    source: TechXplore — Engineering
-  - title: Ambassadors of STEM
-    url: https://news.mit.edu/2026/ambassadors-stem-0602
-    summary: When a team of MIT students turned up at a national robotics
-      tournament, their robot — aptly named Timbot — wouldn’t work. They’d been
-      invited to demonstrate Timbot at the inaugural United States Governors Cup
-      in Washington, D.C., a March Madness-like competition for high school
-      robotics teams from all 50 states.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-robotics-club-with-Healey.jpg?itok=XZXc0p0a
-    categories: []
-    publishedAt: 2026-06-02T20:25:00.000Z
-    source: MIT Robotics
   - title: New light-powered chip could accelerate AI and quantum computing
     url: https://www.sciencedaily.com/releases/2026/06/260601025343.htm
     summary: Scientists have created a tiny chip that can generate, steer, and read
@@ -114,28 +167,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp
     categories: []
     publishedAt: 2026-06-02T04:30:26.000Z
-    source: ScienceDaily — Engineering
-  - title: New Server Hopes to Break Through AI’s “Memory Wall”
-    url: https://spectrum.ieee.org/huge-memory-ai-server
-    summary: Memory is arguably the most serious constraint on modern AI large
-      language models (LLMs). According to one influential paper, LLM token
-      generation is an inherently memory-bound task, meaning the rate at which
-      models output text is limited by how quickly data can be read in from
-      memory. The severity of this bottleneck grows with model size. This
-      creates a “memory wall” that holds back LLM inference performance.AI
-      hardware startup Majestic Labs is taking a direct—and
-      comprehensive—approach to solving this problem. It’s developing a new AI
-      server, Prometheus, with up to 128 terabytes of memory. That’s over 60
-      times more than Nvidia’s DGX B300 server, a cutting-edge AI processing
-      rack.
-    imageUrl: https://spectrum.ieee.org/media-library/3d-rendering-of-an-ai-server.jpg?id=66838211&width=1200&height=400&coordinates=0%2C417%2C0%2C417
-    categories:
-      - Memory
-      - Server
-      - Ai-accelerators
-      - Performance
-    publishedAt: 2026-06-01T15:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
+    source: ScienceDaily — Computer Science
   - title: The forgotten organ that could predict how long you live
     url: https://www.sciencedaily.com/releases/2026/06/260601025352.htm
     summary: A long-overlooked organ may hold surprising clues to healthy aging and
