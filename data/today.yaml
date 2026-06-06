@@ -1,8 +1,90 @@
-date: 2026-06-05
+date: 2026-06-06
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: The crucial human component in computing and AI
+    url: https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605
+    summary: On April 30, the MIT Schwarzman College of Computing’s Social and
+      Ethical Responsibilities of Computing (SERC) initiative hosted a full-day
+      research symposium examining how artificial intelligence is shaping the
+      world and its implications for society.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-schwarzman-ethics-of-computing.jpg?itok=HYfZyqXf
+    categories: []
+    publishedAt: 2026-06-05T20:10:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Anthropic urges industry coordination to allow for a 'pause' in AI
+      development if risks grow
+    url: https://techxplore.com/news/2026-06-anthropic-urges-industry-ai.html
+    summary: Anthropic is proposing that the world's top artificial intelligence
+      companies come up with a coordinated way to pause development of advanced
+      AI systems, warning the technology is improving so quickly there's a risk
+      humans would lose control.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/anthropic-urges-indust.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-06-05T19:40:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: The US Has a Plan to Combat Screwworm. It Involves a Lot More Flies
+    url: https://www.wired.com/story/us-plans-to-stop-screwworm-texas-outbreak/
+    summary: Releasing sterilized flies can crash a local population of flesh-eating
+      screwworms. But the US currently has limited capacity to produce them.
+    imageUrl: https://media.wired.com/photos/6a230980315a6d7e7d3fe38d/191:100/w_1280,c_limit/How-US-Plans-to-Stop-Screwworm-Outbreak-Science-2195014611.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-06-05T18:16:22.000Z
+    source: WIRED science
+  - title: Grounded in reality, new AI model spots fake images with less training
+    url: https://techxplore.com/news/2026-06-grounded-reality-ai-fake-images.html
+    summary: Artificial intelligence (AI)-generated images have become increasingly
+      more sophisticated than early ones that showed humans with more than five
+      fingers on a hand, making it even harder to determine whether photos are
+      authentic. Now, a team of computer scientists in the McKelvey School of
+      Engineering at Washington University in St. Louis has developed a model
+      that can detect fake images by learning which are real.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/model-uses-real-image.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-06-05T17:00:06.000Z
+    source: TechXplore — Computer Science
+  - title: "Q&A: How organic glass scintillators could improve nuclear security"
+    url: https://techxplore.com/news/2026-06-qa-glass-scintillators-nuclear.html
+    summary: As the demand for nuclear security solutions grows, distinguishing a
+      benign medical isotope from a potential threat is critical. Organic glass
+      scintillators can help meet the need for accurate, cost-effective
+      radiation detectors.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/organic-glass-scintill.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-06-05T15:40:04.000Z
+    source: TechXplore — Engineering
+  - title: "Video Friday: Watch This Running Robot Not Fall Down Stairs"
+    url: https://spectrum.ieee.org/video-friday-humanoid-robot-running
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robot-running-down-stone-steps-in-a-green-park.gif?id=66866536&width=1200&height=400&coordinates=0%2C147%2C0%2C147
+    categories:
+      - Humanoid-robots
+      - Video-friday
+      - Robot-arms
+      - Robot-videos
+      - Bipedal-robots
+    publishedAt: 2026-06-05T15:30:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Has Microsoft Lost Its Mojo (Again)?
+    url: https://www.wired.com/story/has-microsoft-lost-its-mojo-again/
+    summary: Microsoft’s AI products aren’t selling, and Github’s been plagued with
+      troubles. WIRED spoke with VP Scott Hanselman about whether the company is
+      in catch-up mode.
+    imageUrl: https://media.wired.com/photos/6a21bf0470a986f0e78c96a3/191:100/w_1280,c_limit/Backchannel-Q-A-Scott-Hanselma-Business-681613422.jpg
+    categories:
+      - Business
+      - Business / Tech Culture
+    publishedAt: 2026-06-05T15:00:00.000Z
+    source: WIRED (AI)
   - title: Startup helps retailers track their products in real-time
     url: https://news.mit.edu/2026/cartesian-helps-retailers-track-their-products-in-real-time-0605
     summary: When you picture a worker at a retail store, you probably think of
@@ -14,61 +96,6 @@ articles:
     categories: []
     publishedAt: 2026-06-05T04:00:00.000Z
     source: MIT Robotics
-  - title: Researchers improve efficiency, durability of nickel-based SOECs for
-      electrochemical CO₂ conversion
-    url: https://techxplore.com/news/2026-06-efficiency-durability-nickel-based-soecs.html
-    summary: A Korean research team has resolved a major durability issue in solid
-      oxide electrolysis cells (SOECs), a technology that converts carbon
-      dioxide (CO₂) into high-value chemical feedstocks. Researchers at the
-      Korea Research Institute of Chemical Technology (KRICT), led by Drs.
-      Min-Chul Kim, Ji Hoon Park, and Jin Hee Lee, developed a new electrolyte
-      interface engineering technology for nickel-based SOECs.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/krict-improves-efficie-1.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-06-05T01:00:05.000Z
-    source: TechXplore — Engineering
-  - title: AI system spots fake reviews by combining text, images and user behavior
-    url: https://techxplore.com/news/2026-06-ai-fake-combining-text-images.html
-    summary: Research published in the International Journal of Information and
-      Communication Technology discusses the development of an artificial
-      intelligence system that combines text, images and reviewer behavior to
-      detect and trace fake e-commerce reviews. The system could address the
-      growing challenge faced by online marketplaces as deceptive feedback
-      becomes increasingly sophisticated.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/bad-review.jpg
-    categories:
-      - Internet
-    publishedAt: 2026-06-04T23:00:03.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US
-    url: https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/
-    summary: The USDA this week confirmed the first known infection of the
-      carnivorous fly larva, which feast on the flesh of living mammals, after
-      the United States eradicated the nightmare bugs in the 1960s.
-    imageUrl: https://media.wired.com/photos/6a21dc78733250a1d799491a/191:100/w_1280,c_limit/GettyImages-2212569697%20(1).jpg
-    categories:
-      - Science
-      - Science / Environment
-      - Science / Health
-    publishedAt: 2026-06-04T21:30:00.000Z
-    source: WIRED science
-  - title: Making LLMs faster and more efficient across multiple languages
-    url: https://techxplore.com/news/2026-06-llms-faster-efficient-multiple-languages.html
-    summary: Large language models (LLMs), which are the artificial intelligence
-      (AI) systems behind modern chatbots, translation tools, and virtual
-      assistants, have become revolutionary tools worldwide. Companies,
-      governments, schools, and developers now rely on them to serve users
-      across dozens of languages. Unfortunately, as these systems grow more
-      capable and incorporate support for more and more languages, they also
-      become more computationally demanding. Generating responses from large
-      multilingual models not only costs more but also takes significantly more
-      time.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/adaspec-making-large-l-1.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-06-04T21:20:03.000Z
-    source: TechXplore — Computer Science
   - title: Developing innovative alternatives to conventional carbon capture methods
     url: https://news.mit.edu/2026/developing-innovative-carbon-capture-methods-0604
     summary: Carbon capture is an important climate change mitigation strategy, but
@@ -117,20 +144,6 @@ articles:
     categories: []
     publishedAt: 2026-06-04T20:35:00.000Z
     source: MIT Engineering
-  - title: PATH to boost AI training and career opportunities for industry-aligned
-      jobs
-    url: https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604
-    summary: MIT, in collaboration with Georgia State University and a growing
-      network of educational institutions, has announced expanded work under
-      PATH (Pathways for AI Training and Hiring) — a multiyear initiative
-      designed to scale effective, affordable, industry-aligned AI training for
-      entry-level and current workers, with a particular focus on transforming
-      community colleges into engines powering an AI-enabled workforce for the
-      nation.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-raise.jpg?itok=m2Y3rah1
-    categories: []
-    publishedAt: 2026-06-04T19:50:00.000Z
-    source: MIT Artificial Intelligence
   - title: After 20 years, scientists finally shrink a powerful laser onto a chip
     url: https://www.sciencedaily.com/releases/2026/06/260604044240.htm
     summary: Researchers at EPFL have developed a chip-scale ultrafast laser that
@@ -197,7 +210,7 @@ articles:
       - Walking-robots
       - Pneumatic-robots
     publishedAt: 2026-05-31T13:00:01.000Z
-    source: IEEE Spectrum — Robotics
+    source: IEEE Spectrum — DIY
   - title: Forget electrons, this breakthrough uses light-matter particles to power AI
     url: https://www.sciencedaily.com/releases/2026/05/260518041341.htm
     summary: Researchers at Penn have created a hybrid light-matter particle that
