@@ -1,202 +1,184 @@
-date: 2026-06-07
+date: 2026-06-13
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Pilot plant uses catalytic process to convert mixed plastic waste into oil
-    url: https://techxplore.com/news/2026-06-catalytic-plastic-oil.html
-    summary: The Catalysis Engineering Group at the University of Amsterdam (UvA)
-      has developed a new robust process for the recycling of mixed plastics
-      waste. A newly developed pilot plant aims to demonstrate how this can be
-      transformed into valuable resources, supporting the transition toward a
-      circular economy. The pilot plant will be put to the test in Spain,
-      processing real municipal plastics waste.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/cooking-plastics-into-1.jpg
+  - title: Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US
+      Government Order
+    url: https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/
+    summary: “The government believes it has become aware of a method of bypassing,
+      or ‘jailbreaking’ Fable 5,” the company said in a blog post.
+    imageUrl: https://media.wired.com/photos/6a2cb2e540437fd74449a752/191:100/w_1280,c_limit/Anthropic-Says-US-Gov-Ordered-it-to-Shut-Down-Mythos-Models-Business-2280583841.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-06-13T02:26:10.000Z
+    source: WIRED (AI)
+  - title: Award-Winning Researcher Trains Robots to Make Educated Guesses
+    url: https://spectrum.ieee.org/researcher-trains-robots-to-guess
+    summary: Yen-Ling Kuo always wanted to understand how things worked. When she
+      was growing up in Taiwan, reading the story of Michael Faraday in
+      elementary school piqued her curiosity about the natural world. During
+      that time, she was introduced to Logo, a computer program with a turtle
+      cursor to help children learn basic coding through hands-on
+      experimentation.
+    imageUrl: https://spectrum.ieee.org/media-library/a-young-asian-professor-monitors-her-student-as-they-control-a-robotic-gripper.jpg?id=66879067&width=1245&height=700&coordinates=0%2C469%2C0%2C469
+    categories:
+      - Ieee-member-news
+      - Robots
+      - Artificial-intelligence
+      - Ieee-robotics-and-automation-soc
+      - Careers
+      - Type-ti
+    publishedAt: 2026-06-12T18:00:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Surface pre-treatment, barrier layer, automated machining and assembly of
+      cryogenic CFRP hydrogen tanks
+    url: https://techxplore.com/news/2026-06-surface-pre-treatment-barrier-layer.html
+    summary: Researchers from Plasma Technology and Surfaces, Paint/Lacquer
+      Technology, as well as Automation and Production Technology at Fraunhofer
+      IFAM, in collaboration with HYTANK project partners, developed
+      resource-efficient manufacturing and joining technologies for the
+      production of large-format, double-walled hydrogen tanks made of carbon
+      fiber-reinforced plastic (CFRP)—ranging from suitable surface
+      pretreatments and functional barrier layers to automated production on a
+      1:1 scale, including machining and adhesive-bonding assembly. The goal was
+      to lay the groundwork for the future efficient production of lighter,
+      leak-tight and—under cryogenic conditions—more reliable tank structures,
+      for example, for the aerospace industry.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/surface-pre-treatment.jpg
     categories:
       - Engineering
-    publishedAt: 2026-06-06T12:00:03.000Z
+    publishedAt: 2026-06-12T16:20:07.000Z
     source: TechXplore — Engineering
-  - title: Nvidia’s AI Hardware Comes to Windows in RTX Spark PCs
-    url: https://spectrum.ieee.org/nvidia-rtx-spark-windows-pc
-    summary: At Computex 2026, an annual computer trade show held in Taipei, Taiwan,
-      Nvidia made a long anticipated announcement—a version of the company’s
-      Blackwell GB10 superchip for Windows PCs, called RTX Spark. Originally
-      rumored to launch in 2025, it was finally introduced at this year’s show.
-    imageUrl: https://spectrum.ieee.org/media-library/3d-rendering-of-a-pc-chip.jpg?id=66865922&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+  - title: "Q&A: Can we trust AI models? Researchers explore the roots of chatbot
+      errors"
+    url: https://techxplore.com/news/2026-06-qa-ai-explore-roots-chatbot.html
+    summary: "The rapid rise of artificial intelligence (AI) has inserted a new
+      character into people's lives: the chatbot."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/ai-chatbot.jpg
     categories:
-      - Nvidia
-      - Pcs
-      - Windows
-      - Arm
-      - Ai-hardware
-    publishedAt: 2026-06-06T12:00:01.000Z
-    source: IEEE Spectrum — AI
-  - title: China can build humanoids at scale. The hard part is finding enough buyers
-    url: https://techxplore.com/news/2026-06-china-humanoids-scale-hard-buyers.html
-    summary: Chinese-made humanoid robots are making waves with their ability to do
-      backflips, direct traffic, and even make coffee as the companies
-      developing them seek ways to expand and dominate the market.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/china-can-build-humano.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-06-06T11:20:02.000Z
-    source: TechXplore — Robotics
-  - title: Crypto-Funded Chinese Peptide Labs Are Booming
-    url: https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/
-    summary: "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic
-      helps NSA hackers, a decades-long GPS satellite mystery may have been
-      solved, and more."
-    imageUrl: https://media.wired.com/photos/6a2312eb2b342fb72975a62e/191:100/w_1280,c_limit/Security-Roundup-Crypto-funded-Chinese-labs-sales-of-peptides-Security-1312618198.jpg
-    categories:
-      - Security
-      - Security / Cyberattacks and Hacks
-      - Security / National Security
-      - Security / Privacy
-      - Security / Security News
-    publishedAt: 2026-06-06T10:30:00.000Z
-    source: WIRED (AI)
-  - title: The Moons of Uranus May Hold the Key to Finding Missing Planets
-    url: https://www.wired.com/story/the-moons-of-uranus-may-hold-the-key-to-finding-missing-planets/
-    summary: New simulations reveal that the moons of Uranus may retain traces of
-      giant planets.
-    imageUrl: https://media.wired.com/photos/6a1f57f22dd56ccdeabd077c/191:100/w_1280,c_limit/GettyImages-1088373686.jpg
+      - Machine learning & AI
+    publishedAt: 2026-06-12T16:00:07.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Real-Life Disclosure Day Will Look Nothing Like Steven Spielberg’s New
+      Movie
+    url: https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie/
+    summary: Previous landmark scientific discoveries like the Higgs boson provide a
+      better template for what it will take to confirm whether aliens have made
+      contact with Earth.
+    imageUrl: https://media.wired.com/photos/6a28743ce76eea53dfe3ee41/191:100/w_1280,c_limit/Real-Life-Disclosure-Day-Wont-Look-Like-This-Science-MCDDIDA_UV014.jpg
     categories:
       - Science
       - Science / Space
-    publishedAt: 2026-06-06T09:30:00.000Z
+      - Culture
+    publishedAt: 2026-06-12T11:00:00.000Z
     source: WIRED science
-  - title: A tiny atomic shift gives scientists powerful control over metals
-    url: https://www.sciencedaily.com/releases/2026/06/260605023415.htm
-    summary: A team at the University of Minnesota discovered that changing a metal
-      film's thickness by just a few nanometers can dramatically alter how it
-      behaves electronically. The finding reveals a surprising new way to
-      control metals and could help power future advances in electronics,
-      catalysis, and quantum technology.
-    imageUrl: https://www.sciencedaily.com/images/1920/atomic-metal-electronic-properties.webp
+  - title: Brain-inspired chip runs near absolute zero and could transform quantum
+      computing
+    url: https://www.sciencedaily.com/releases/2026/06/260612032024.htm
+    summary: Scientists at the University of Hong Kong have created a remarkable new
+      type of brain-inspired chip that can function just above absolute zero,
+      one of the coldest environments imaginable. By using a standard silicon
+      carbide transistor in a completely new way, the team made a single device
+      behave like an energy-efficient neuron, firing electrical “spikes” similar
+      to those in the human brain.
+    imageUrl: https://www.sciencedaily.com/images/1920/digital-brain-circuit-computer-chip.webp
     categories: []
-    publishedAt: 2026-06-06T05:27:37.000Z
-    source: ScienceDaily — Engineering
-  - title: The crucial human component in computing and AI
-    url: https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605
-    summary: On April 30, the MIT Schwarzman College of Computing’s Social and
-      Ethical Responsibilities of Computing (SERC) initiative hosted a full-day
-      research symposium examining how artificial intelligence is shaping the
-      world and its implications for society.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-schwarzman-ethics-of-computing.jpg?itok=HYfZyqXf
+    publishedAt: 2026-06-12T10:38:54.000Z
+    source: ScienceDaily — Computer Science
+  - title: MIT engineers find a way to deliver drugs directly to the esophagus
+    url: https://news.mit.edu/2026/mit-engineers-find-way-to-deliver-drugs-directly-to-esophagus-0612
+    summary: There are few treatment options available for people with disorders of
+      the esophagus. Delivering drugs directly to this part of the body is
+      difficult, so patients are usually treated with systemic drugs, which can
+      have unwanted side effects.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT-Esophageal-Drug-Delivery-01-press.jpg?itok=dNKnccVZ
     categories: []
-    publishedAt: 2026-06-05T20:10:00.000Z
+    publishedAt: 2026-06-12T09:00:00.000Z
+    source: MIT Engineering
+  - title: NASA robotic tech demonstration will advance prototype gamma-ray detectors
+    url: https://techxplore.com/news/2026-06-nasa-robotic-tech-advance-prototype.html
+    summary: A new type of gamma-ray sensor developed by NASA, called AstroPix, will
+      take part in a robotic arm demonstration on the agency's upcoming Fly
+      Foundational Robots mission, set to launch in late 2027.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/nasa-robotic-tech-demo.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-06-11T21:00:06.000Z
+    source: TechXplore — Robotics
+  - title: Jinhua Zhao named head of the Department of Urban Studies and Planning
+    url: https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611
+    summary: Jinhua Zhao MCP ’04, SM ’04, PhD ’09 has been appointed head of the
+      Department of Urban Studies and Planning (DUSP), effective July 1. Zhao is
+      the Class of 1941 Professor of Cities and Transportation at MIT.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-dusp-zhao.jpg?itok=rT3KQlN1
+    categories: []
+    publishedAt: 2026-06-11T20:20:00.000Z
     source: MIT Artificial Intelligence
-  - title: Grounded in reality, new AI model spots fake images with less training
-    url: https://techxplore.com/news/2026-06-grounded-reality-ai-fake-images.html
-    summary: Artificial intelligence (AI)-generated images have become increasingly
-      more sophisticated than early ones that showed humans with more than five
-      fingers on a hand, making it even harder to determine whether photos are
-      authentic. Now, a team of computer scientists in the McKelvey School of
-      Engineering at Washington University in St. Louis has developed a model
-      that can detect fake images by learning which are real.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/model-uses-real-image.jpg
+  - title: Single snapshot unlocks 3D depth with coded aperture and AI
+    url: https://techxplore.com/news/2026-06-snapshot-3d-depth-coded-aperture.html
+    summary: A single photograph contains a wealth of information, but determining
+      3D spatial relationships from a 2D scene is no simple task. Many attempts
+      have been made to develop a method to reconstruct both depth and sharp
+      color images from a single snapshot, but many struggle to deliver accurate
+      and reliable output.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/blurred-lines-reconstr.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-06-05T17:00:06.000Z
+    publishedAt: 2026-06-11T19:00:08.000Z
     source: TechXplore — Computer Science
-  - title: AI-designed universal coronavirus vaccine passes first human trial
-    url: https://www.sciencedaily.com/releases/2026/06/260605023357.htm
-    summary: Scientists have successfully tested an AI-designed universal
-      coronavirus vaccine in humans for the first time, finding it to be safe
-      and well tolerated. The vaccine generated immune responses against
-      multiple coronaviruses, including SARS-CoV-2, SARS, and related bat
-      viruses with pandemic potential. By targeting features shared across an
-      entire virus family, it aims to provide protection even as viruses evolve.
-    imageUrl: https://www.sciencedaily.com/images/1920/clinical-trial-volunteer-receiving-new-universal-vaccine.webp
+  - title: MIT affiliates win 2026 Hertz Foundation Fellowships
+    url: https://news.mit.edu/2026/hertz-foundation-fellowships-0611
+    summary: "The Hertz Foundation announced that it awarded 2026 fellowships to
+      three current MIT students as well as an incoming graduate student. They
+      are: Annika Marschner, Alvin Q. Meng, Zachary S. Siegel, and Matthew
+      Wanta."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-Hertz-winners-2026.jpg?itok=YEtq13vO
     categories: []
-    publishedAt: 2026-06-05T15:42:19.000Z
-    source: ScienceDaily — Robotics
-  - title: "Video Friday: Watch This Running Robot Not Fall Down Stairs"
-    url: https://spectrum.ieee.org/video-friday-humanoid-robot-running
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robot-running-down-stone-steps-in-a-green-park.gif?id=66866536&width=1200&height=400&coordinates=0%2C147%2C0%2C147
-    categories:
-      - Humanoid-robots
-      - Video-friday
-      - Robot-arms
-      - Robot-videos
-      - Bipedal-robots
-    publishedAt: 2026-06-05T15:30:01.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Scientists are seriously asking if bees and ChatGPT are conscious
-    url: https://www.sciencedaily.com/releases/2026/06/260604044258.htm
-    summary: New studies suggest consciousness can't be judged solely by behavior,
-      whether it's a chatbot discussing philosophy or a bee searching for
-      nectar. Researchers are increasingly focusing on the internal mechanisms
-      of brains and computers, concluding that today's AI is likely not
-      conscious while leaving open the possibility for both conscious insects
-      and future machines.
-    imageUrl: https://www.sciencedaily.com/images/1920/extreme-close-up-of-eye.webp
-    categories: []
-    publishedAt: 2026-06-05T05:27:32.000Z
-    source: ScienceDaily — Computer Science
-  - title: Startup helps retailers track their products in real-time
-    url: https://news.mit.edu/2026/cartesian-helps-retailers-track-their-products-in-real-time-0605
-    summary: When you picture a worker at a retail store, you probably think of
-      someone at a cash register or helping a customer. But employees also spend
-      a lot of their time combing through stockrooms and shop floors, fulfilling
-      requests or online orders and generally trying to keep track of all their
-      inventory.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT_Cartesian-Systems-01-press.jpg?itok=G2DSRyAG
-    categories: []
-    publishedAt: 2026-06-05T04:00:00.000Z
+    publishedAt: 2026-06-11T17:30:00.000Z
     source: MIT Robotics
-  - title: Developing innovative alternatives to conventional carbon capture methods
-    url: https://news.mit.edu/2026/developing-innovative-carbon-capture-methods-0604
-    summary: Carbon capture is an important climate change mitigation strategy, but
-      it faces technological barriers and can be energy-intensive and expensive.
-      To help make necessary advances in this area, a team of MIT researchers,
-      with support from the MIT Climate and Sustainability Consortium (MCSC),
-      are exploring energy-efficient and scalable alternatives to conventional
-      carbon dioxide (CO2) capture methods. Conventional amine scrubbing, which
-      is the current standard for CO2 capture, is energy-intensive and difficult
-      to scale, limiting its impact despite the urgent need to reduce carbon
-      emissions and upgrade CO2 into valuable products. In a new
-      article published in Nature Energy, MIT researchers — graduate
-      students Fang-Yu Kuo of the Department of Chemical Engineering, and Gi
-      Hyun Byun of the Department of Mechanical Engineering (MechE); Professor
-      Betar Gallant of MechE; and former MCSC postdoctoral Impact Fellows Glen
-      Junor and Akachukwu Obi — investigate a promising alternative to these
-      conventional CO2 capture methods. Their findings could move the needle on
-      achieving efficient and flexible carbon capture and removal.In their
-      paper, the team explores an alternative, electrochemically mediated CO2
-      capture (EMCC). This approach enables electrification of CO2 separation —
-      driven ideally by renewables — but currently faces challenges, such as
-      relying on sorbents that require highly reducing potentials, where oxygen
-      reduction side reactions become significant. This can compromise both
-      efficiency and long-term performance. To tackle this shortcoming of EMCC,
-      the MIT team researched whether N-heterocyclic imines (NHIs) is a useful
-      new class of EMCC sorbent.“NHIs have shown promise in recent years as CO2
-      sorbents because of the ease of NHI molecular modifications for tuning
-      basicity,” says Fang-Yu Kuo. “Our work translates these NHIs for the first
-      time into the EMCC application space, and demonstrates that NHI-based
-      sorbents can be modulated electrochemically for CO2 separation by a unique
-      separation mechanism that avoids the need of applying highly reducing
-      potentials.”The team’s initial research establishes a novel bis(NHI)
-      structure that can enable a theoretical CO2 modulation of two molecules
-      per electron during cell operation. The initial published result also
-      indicates that with further molecular engineering of bis(NHI) structures
-      to strengthen CO2 binding affinity, the bis(NHI) could operate in more
-      diverse electrolyte environments, opening new possibilities to optimize
-      system performance in terms of electron efficiency, energy efficiency, and
-      operational flexibility.“A critical future direction of our work involves
-      gaining deeper mechanistic insight into the stability and degradation
-      pathways of the bis(NHI) radical cation,” says Kuo. “Understanding these
-      pathways will inform the rational design of next-generation bis(NHI)
-      molecules, enabling longer operational lifetimes and enhanced cycling
-      durability for practical deployment.”
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-climate-sustainability-consortium.jpg?itok=5C5j4s8_
+  - title: Why Orbital Data Centers Are Harder Than Silicon Valley Thinks
+    url: https://spectrum.ieee.org/orbital-data-centers-heat
+    summary: “Space computing, the final frontier, has arrived,” Nvidia CEO Jensen
+      Huang declared at the Nvidia GTC conference in March.
+    imageUrl: https://spectrum.ieee.org/media-library/globe-surrounded-by-zeroes-and-ones-on-a-blue-background.png?id=66895710&width=1245&height=700&coordinates=0%2C95%2C0%2C96
+    categories:
+      - Orbital-data-centers
+      - Radiative-cooling
+      - Thermal-management
+      - Solar-energy
+    publishedAt: 2026-06-11T13:00:02.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Scientists discover a strange property in rice and turn it into a smart
+      material
+    url: https://www.sciencedaily.com/releases/2026/06/260611024621.htm
+    summary: "Scientists discovered that rice behaves in a highly unusual way: it
+      weakens under rapid compression but stays stronger when pressure is
+      applied slowly. Using this effect, they engineered a new material that
+      reacts differently to gentle movements and sudden impacts. The material
+      can adapt its stiffness automatically, opening the door to safer soft
+      robots and protective equipment that responds instantly to collisions."
+    imageUrl: https://www.sciencedaily.com/images/1920/rice-petri-dish-gmo-science.webp
     categories: []
-    publishedAt: 2026-06-04T20:35:00.000Z
-    source: MIT Engineering
+    publishedAt: 2026-06-11T12:29:52.000Z
+    source: ScienceDaily — Robotics
+  - title: How a Google DeepMind Spin-off Hunts Hidden Drug Targets
+    url: https://spectrum.ieee.org/isomorphic-labs-ai-drug-discovery
+    summary: For more than a decade, artificial intelligence has been touted as a
+      way to dramatically accelerate drug discovery. Yet despite billions of
+      dollars in investment, relatively few AI-designed medicines have made it
+      to patients. That’s partially because the timelines for careful drug
+      testing can’t be easily compressed—and partially because drug development
+      is just really hard.
+    imageUrl: https://spectrum.ieee.org/media-library/3d-rendering-of-a-molecule-interacting-with-a-proteins-binding-site.jpg?id=66884870&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Google-deepmind
+      - Drug-discovery
+      - Proteins
+      - Isomorphic-labs
+    publishedAt: 2026-06-11T12:00:01.000Z
+    source: IEEE Spectrum — AI
   - title: This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors
     url: https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot
     summary: In 1987, Richard Greenhill, a British photographer who was fascinated
