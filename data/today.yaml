@@ -1,79 +1,101 @@
-date: 2026-06-13
+date: 2026-06-16
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US
-      Government Order
-    url: https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/
-    summary: “The government believes it has become aware of a method of bypassing,
-      or ‘jailbreaking’ Fable 5,” the company said in a blog post.
-    imageUrl: https://media.wired.com/photos/6a2cb2e540437fd74449a752/191:100/w_1280,c_limit/Anthropic-Says-US-Gov-Ordered-it-to-Shut-Down-Mythos-Models-Business-2280583841.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-06-13T02:26:10.000Z
-    source: WIRED (AI)
-  - title: Award-Winning Researcher Trains Robots to Make Educated Guesses
-    url: https://spectrum.ieee.org/researcher-trains-robots-to-guess
-    summary: Yen-Ling Kuo always wanted to understand how things worked. When she
-      was growing up in Taiwan, reading the story of Michael Faraday in
-      elementary school piqued her curiosity about the natural world. During
-      that time, she was introduced to Logo, a computer program with a turtle
-      cursor to help children learn basic coding through hands-on
-      experimentation.
-    imageUrl: https://spectrum.ieee.org/media-library/a-young-asian-professor-monitors-her-student-as-they-control-a-robotic-gripper.jpg?id=66879067&width=1245&height=700&coordinates=0%2C469%2C0%2C469
-    categories:
-      - Ieee-member-news
-      - Robots
-      - Artificial-intelligence
-      - Ieee-robotics-and-automation-soc
-      - Careers
-      - Type-ti
-    publishedAt: 2026-06-12T18:00:01.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Surface pre-treatment, barrier layer, automated machining and assembly of
-      cryogenic CFRP hydrogen tanks
-    url: https://techxplore.com/news/2026-06-surface-pre-treatment-barrier-layer.html
-    summary: Researchers from Plasma Technology and Surfaces, Paint/Lacquer
-      Technology, as well as Automation and Production Technology at Fraunhofer
-      IFAM, in collaboration with HYTANK project partners, developed
-      resource-efficient manufacturing and joining technologies for the
-      production of large-format, double-walled hydrogen tanks made of carbon
-      fiber-reinforced plastic (CFRP)—ranging from suitable surface
-      pretreatments and functional barrier layers to automated production on a
-      1:1 scale, including machining and adhesive-bonding assembly. The goal was
-      to lay the groundwork for the future efficient production of lighter,
-      leak-tight and—under cryogenic conditions—more reliable tank structures,
-      for example, for the aerospace industry.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/surface-pre-treatment.jpg
+  - title: Advanced 3D printing creates origami-inspired structures
+    url: https://techxplore.com/news/2026-06-advanced-3d-origami.html
+    summary: Researchers at the Department of Energy's Manufacturing Demonstration
+      Facility at Oak Ridge National Laboratory have introduced an innovation in
+      additive manufacturing by integrating origami-inspired 3D printing
+      techniques with hybrid composites—materials made from mixed reinforcing
+      components. By eliminating the need for molds to fabricate a part, this
+      process produces lightweight, cost-efficient structures with faster build
+      times and greater adaptability.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/advanced-3d-printing-c.jpg
     categories:
       - Engineering
-    publishedAt: 2026-06-12T16:20:07.000Z
+    publishedAt: 2026-06-15T21:00:09.000Z
     source: TechXplore — Engineering
-  - title: "Q&A: Can we trust AI models? Researchers explore the roots of chatbot
-      errors"
-    url: https://techxplore.com/news/2026-06-qa-ai-explore-roots-chatbot.html
-    summary: "The rapid rise of artificial intelligence (AI) has inserted a new
-      character into people's lives: the chatbot."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/ai-chatbot.jpg
+  - title: The tenured engineers of 2026
+    url: https://news.mit.edu/2026/tenured-engineers-0615
+    summary: In 2026, MIT granted tenure to 10 faculty members across the School of
+      Engineering. This year’s tenured engineers hold appointments in the
+      departments of Aeronautics and Astronautics, Civil and Environmental
+      Engineering, Electrical Engineering and Computer Science (EECS) — which
+      reports jointly to the School of Engineering and MIT Schwarzman College of
+      Computing — and Mechanical Engineering, as well as within the Institute
+      for Medical Engineering and Sciences (IMES).
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-SoE-tenured-engineers-2026.jpg?itok=IN8AhLlp
+    categories: []
+    publishedAt: 2026-06-15T20:25:00.000Z
+    source: MIT Engineering
+  - title: Wing-shape tests could unlock smoother water-to-air drone launches
+    url: https://techxplore.com/news/2026-06-wing-smoother-air-drone.html
+    summary: A bird bursting from the ocean or a mobula ray launching skyward makes
+      the transition from water to air look effortless. For unmanned aerial
+      vehicles (UAVs), commonly known as drones, it's one of the hardest
+      maneuvers to replicate.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ucf-researchers-are-st.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-06-12T16:00:07.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Real-Life Disclosure Day Will Look Nothing Like Steven Spielberg’s New
-      Movie
-    url: https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie/
-    summary: Previous landmark scientific discoveries like the Higgs boson provide a
-      better template for what it will take to confirm whether aliens have made
-      contact with Earth.
-    imageUrl: https://media.wired.com/photos/6a28743ce76eea53dfe3ee41/191:100/w_1280,c_limit/Real-Life-Disclosure-Day-Wont-Look-Like-This-Science-MCDDIDA_UV014.jpg
+      - Robotics
+    publishedAt: 2026-06-15T20:20:11.000Z
+    source: TechXplore — Robotics
+  - title: Tensordyne Claims Massive Speed and Power Improvement Over Nvidia
+    url: https://spectrum.ieee.org/tensordyne-inference-claim
+    summary: If simulations are to be believed, startup Tensordyne’s new AI chip
+      could crush the performance of market leader Nvidia in terms of energy
+      efficiency and latency for inferencing. The company just sent the plans
+      for its first chip to be manufactured, with commercial sales of a 72-chip
+      system scheduled for the second half of 2027. Tensordyne claims its
+      72-chip system can run large LLMs four times as fast using one-fifth the
+      power compared to a 72-Nvidia GB300 system. However, real systems won’t be
+      around to back these figures up until the end of the year.
+    imageUrl: https://spectrum.ieee.org/media-library/two-views-of-a-black-rack-mounted-server-chassis-with-stacked-hardware-modules.jpg?id=66906634&width=1200&height=400&coordinates=0%2C292%2C0%2C292
     categories:
-      - Science
-      - Science / Space
-      - Culture
-    publishedAt: 2026-06-12T11:00:00.000Z
-    source: WIRED science
+      - Inferencing
+      - Ai-hardware
+      - Nvidia
+      - Mathematics
+    publishedAt: 2026-06-15T17:31:09.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: This strange material can become strong or fall apart in seconds
+    url: https://www.sciencedaily.com/releases/2026/06/260615033849.htm
+    summary: Scientists have found that staple-shaped particles can tangle together
+      to create a material that is both strong and flexible. Unlike conventional
+      materials, these particles can be locked into a sturdy structure or
+      rapidly unraveled using vibrations. The unusual behavior could open the
+      door to recyclable buildings, reconfigurable structures, and even
+      futuristic robotic technologies.
+    imageUrl: https://www.sciencedaily.com/images/1920/metal-staples-arch.webp
+    categories: []
+    publishedAt: 2026-06-15T11:54:43.000Z
+    source: ScienceDaily — Engineering
+  - title: Why asking people to rank three options could sharpen AI and
+      recommendation systems
+    url: https://techxplore.com/news/2026-06-people-options-sharpen-ai.html
+    summary: In his 1927 paper, "A law of comparative judgment," the American
+      psychologist L. L. Thurstone proposed that when people select one option
+      among multiple alternatives, they are picking the one that has the highest
+      value to them, even though they cannot assign a particular number to that
+      choice.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/when-it-comes-to-predi.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-06-14T14:40:01.000Z
+    source: TechXplore — Computer Science
+  - title: Visual Language Models Train Robots to Read Human Emotions
+    url: https://spectrum.ieee.org/robot-emotions-visual-language-models
+    summary: This article is part of our exclusive IEEE Journal Watch series in
+      partnership with IEEE Xplore.
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-shoulders-up-human-silhouette-with-facial-attributes-vaguely-outlined-by-recognition-points.jpg?id=66888123&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Robotics
+      - Journal-watch
+      - Ai-models
+      - Emotion-recognition
+    publishedAt: 2026-06-13T13:00:01.000Z
+    source: IEEE Spectrum — Robotics
   - title: Brain-inspired chip runs near absolute zero and could transform quantum
       computing
     url: https://www.sciencedaily.com/releases/2026/06/260612032024.htm
@@ -87,26 +109,6 @@ articles:
     categories: []
     publishedAt: 2026-06-12T10:38:54.000Z
     source: ScienceDaily — Computer Science
-  - title: MIT engineers find a way to deliver drugs directly to the esophagus
-    url: https://news.mit.edu/2026/mit-engineers-find-way-to-deliver-drugs-directly-to-esophagus-0612
-    summary: There are few treatment options available for people with disorders of
-      the esophagus. Delivering drugs directly to this part of the body is
-      difficult, so patients are usually treated with systemic drugs, which can
-      have unwanted side effects.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT-Esophageal-Drug-Delivery-01-press.jpg?itok=dNKnccVZ
-    categories: []
-    publishedAt: 2026-06-12T09:00:00.000Z
-    source: MIT Engineering
-  - title: NASA robotic tech demonstration will advance prototype gamma-ray detectors
-    url: https://techxplore.com/news/2026-06-nasa-robotic-tech-advance-prototype.html
-    summary: A new type of gamma-ray sensor developed by NASA, called AstroPix, will
-      take part in a robotic arm demonstration on the agency's upcoming Fly
-      Foundational Robots mission, set to launch in late 2027.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/nasa-robotic-tech-demo.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-06-11T21:00:06.000Z
-    source: TechXplore — Robotics
   - title: Jinhua Zhao named head of the Department of Urban Studies and Planning
     url: https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611
     summary: Jinhua Zhao MCP ’04, SM ’04, PhD ’09 has been appointed head of the
@@ -116,18 +118,6 @@ articles:
     categories: []
     publishedAt: 2026-06-11T20:20:00.000Z
     source: MIT Artificial Intelligence
-  - title: Single snapshot unlocks 3D depth with coded aperture and AI
-    url: https://techxplore.com/news/2026-06-snapshot-3d-depth-coded-aperture.html
-    summary: A single photograph contains a wealth of information, but determining
-      3D spatial relationships from a 2D scene is no simple task. Many attempts
-      have been made to develop a method to reconstruct both depth and sharp
-      color images from a single snapshot, but many struggle to deliver accurate
-      and reliable output.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/blurred-lines-reconstr.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-06-11T19:00:08.000Z
-    source: TechXplore — Computer Science
   - title: MIT affiliates win 2026 Hertz Foundation Fellowships
     url: https://news.mit.edu/2026/hertz-foundation-fellowships-0611
     summary: "The Hertz Foundation announced that it awarded 2026 fellowships to
@@ -138,18 +128,6 @@ articles:
     categories: []
     publishedAt: 2026-06-11T17:30:00.000Z
     source: MIT Robotics
-  - title: Why Orbital Data Centers Are Harder Than Silicon Valley Thinks
-    url: https://spectrum.ieee.org/orbital-data-centers-heat
-    summary: “Space computing, the final frontier, has arrived,” Nvidia CEO Jensen
-      Huang declared at the Nvidia GTC conference in March.
-    imageUrl: https://spectrum.ieee.org/media-library/globe-surrounded-by-zeroes-and-ones-on-a-blue-background.png?id=66895710&width=1245&height=700&coordinates=0%2C95%2C0%2C96
-    categories:
-      - Orbital-data-centers
-      - Radiative-cooling
-      - Thermal-management
-      - Solar-energy
-    publishedAt: 2026-06-11T13:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: Scientists discover a strange property in rice and turn it into a smart
       material
     url: https://www.sciencedaily.com/releases/2026/06/260611024621.htm
@@ -163,22 +141,6 @@ articles:
     categories: []
     publishedAt: 2026-06-11T12:29:52.000Z
     source: ScienceDaily — Robotics
-  - title: How a Google DeepMind Spin-off Hunts Hidden Drug Targets
-    url: https://spectrum.ieee.org/isomorphic-labs-ai-drug-discovery
-    summary: For more than a decade, artificial intelligence has been touted as a
-      way to dramatically accelerate drug discovery. Yet despite billions of
-      dollars in investment, relatively few AI-designed medicines have made it
-      to patients. That’s partially because the timelines for careful drug
-      testing can’t be easily compressed—and partially because drug development
-      is just really hard.
-    imageUrl: https://spectrum.ieee.org/media-library/3d-rendering-of-a-molecule-interacting-with-a-proteins-binding-site.jpg?id=66884870&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Google-deepmind
-      - Drug-discovery
-      - Proteins
-      - Isomorphic-labs
-    publishedAt: 2026-06-11T12:00:01.000Z
-    source: IEEE Spectrum — AI
   - title: This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors
     url: https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot
     summary: In 1987, Richard Greenhill, a British photographer who was fascinated
