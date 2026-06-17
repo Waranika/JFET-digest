@@ -1,45 +1,83 @@
-date: 2026-06-16
+date: 2026-06-17
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Advanced 3D printing creates origami-inspired structures
-    url: https://techxplore.com/news/2026-06-advanced-3d-origami.html
-    summary: Researchers at the Department of Energy's Manufacturing Demonstration
-      Facility at Oak Ridge National Laboratory have introduced an innovation in
-      additive manufacturing by integrating origami-inspired 3D printing
-      techniques with hybrid composites—materials made from mixed reinforcing
-      components. By eliminating the need for molds to fabricate a part, this
-      process produces lightweight, cost-efficient structures with faster build
-      times and greater adaptability.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/advanced-3d-printing-c.jpg
+  - title: "DeepSeek valued at more than $50 bn after funding round: reports"
+    url: https://techxplore.com/news/2026-06-deepseek-valued-bn-funding.html
+    summary: Investors have valued Chinese artificial intelligence startup DeepSeek
+      at more than $50 billion in the company's first fundraising round, reports
+      said.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/deepseek-2.jpg
+    categories:
+      - Business
+    publishedAt: 2026-06-17T08:06:57.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Could AI tell you where you left your keys?
+    url: https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617
+    summary: An auto factory worker can remember the storage bin where she left a
+      partly assembled component the night before, and quickly return to that
+      spot to pick it up. But robots that may work side-by-side with her would
+      struggle to develop and access this same type of “spatiotemporal” memory.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT-DescribeAnything-01-press.jpg?itok=RxMov68e
+    categories: []
+    publishedAt: 2026-06-17T04:00:00.000Z
+    source: MIT Robotics
+  - title: MIT’s Initiative for New Manufacturing builds momentum
+    url: https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616
+    summary: In May, the Initiative for New Manufacturing (INM) marked its first
+      anniversary with MIT Manufacturing Week, four days of events that
+      attracted more than 800 registrants including students, faculty, industry
+      leaders, investors, entrepreneurs, and government officials to explore
+      topics ranging from how companies are using AI on factory floors to the
+      role of startups in introducing innovation to new workforce solutions to
+      address the worker shortage.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-inm-manufacturing.jpg?itok=Ffoqz9lZ
+    categories: []
+    publishedAt: 2026-06-16T20:30:00.000Z
+    source: MIT Engineering
+  - title: ‘Dangerous’ AI Models Are Coming No Matter What
+    url: https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/
+    summary: "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5
+      hides a glaring truth: AI models with advanced hacking capabilities will
+      soon be the norm."
+    imageUrl: https://media.wired.com/photos/6a30202e9402edb0adc1701d/191:100/w_1280,c_limit/GettyImages-2280291188.jpg
+    categories:
+      - Security
+      - Security / Cyberattacks and Hacks
+      - Security / National Security
+      - Security / Security News
+    publishedAt: 2026-06-16T17:50:52.000Z
+    source: WIRED (AI)
+  - title: Simple coating could make next-generation chip transistors easier to
+      manufacture without damaging ultrathin layers
+    url: https://techxplore.com/news/2026-06-simple-coating-generation-chip-transistors.html
+    summary: "Inside computer chips are billions of tiny transistors made from
+      silicon. But the material is approaching its limits. In an effort to build
+      smaller, more capable devices, researchers are exploring how they might
+      build transistors with other materials alongside silicon, including a
+      class of extremely thin materials called transition metal dichalcogenides
+      (TMD). One of the leading TMD candidates is a material called molybdenum
+      disulfide. It is only three atoms thick: one layer of molybdenum
+      sandwiched between two layers of sulfur."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-method-boosts-futu.jpg
     categories:
       - Engineering
-    publishedAt: 2026-06-15T21:00:09.000Z
+    publishedAt: 2026-06-16T17:20:06.000Z
     source: TechXplore — Engineering
-  - title: The tenured engineers of 2026
-    url: https://news.mit.edu/2026/tenured-engineers-0615
-    summary: In 2026, MIT granted tenure to 10 faculty members across the School of
-      Engineering. This year’s tenured engineers hold appointments in the
-      departments of Aeronautics and Astronautics, Civil and Environmental
-      Engineering, Electrical Engineering and Computer Science (EECS) — which
-      reports jointly to the School of Engineering and MIT Schwarzman College of
-      Computing — and Mechanical Engineering, as well as within the Institute
-      for Medical Engineering and Sciences (IMES).
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-SoE-tenured-engineers-2026.jpg?itok=IN8AhLlp
-    categories: []
-    publishedAt: 2026-06-15T20:25:00.000Z
-    source: MIT Engineering
-  - title: Wing-shape tests could unlock smoother water-to-air drone launches
-    url: https://techxplore.com/news/2026-06-wing-smoother-air-drone.html
-    summary: A bird bursting from the ocean or a mobula ray launching skyward makes
-      the transition from water to air look effortless. For unmanned aerial
-      vehicles (UAVs), commonly known as drones, it's one of the hardest
-      maneuvers to replicate.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ucf-researchers-are-st.jpg
+  - title: Elephant trunk skin reveals design that could reshape soft robotics
+    url: https://techxplore.com/news/2026-06-elephant-trunk-skin-reveals-reshape.html
+    summary: An elephant's trunk is both strong and capable of extremely fine motor
+      movements. With this muscular, boneless structure, an elephant can carry
+      heavy logs—or deftly peel a banana. Lucia Beccai and colleagues studied
+      the skin of the trunk, hoping to understand its properties and derive
+      lessons for the next generation of advanced soft robotics. The authors
+      obtained a trunk from a single adult Asian elephant (Elephas maximus) that
+      died of natural causes at Zurich Zoo, Switzerland, in 2020.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/elephant-trunks-and-ro.jpg
     categories:
       - Robotics
-    publishedAt: 2026-06-15T20:20:11.000Z
+    publishedAt: 2026-06-16T16:00:03.000Z
     source: TechXplore — Robotics
   - title: Tensordyne Claims Massive Speed and Power Improvement Over Nvidia
     url: https://spectrum.ieee.org/tensordyne-inference-claim
@@ -51,7 +89,7 @@ articles:
       72-chip system can run large LLMs four times as fast using one-fifth the
       power compared to a 72-Nvidia GB300 system. However, real systems won’t be
       around to back these figures up until the end of the year.
-    imageUrl: https://spectrum.ieee.org/media-library/two-views-of-a-black-rack-mounted-server-chassis-with-stacked-hardware-modules.jpg?id=66906634&width=1200&height=400&coordinates=0%2C292%2C0%2C292
+    imageUrl: https://spectrum.ieee.org/media-library/two-views-of-a-black-rack-mounted-server-chassis-with-stacked-hardware-modules.jpg?id=66906634&width=1245&height=700&coordinates=0%2C62%2C0%2C63
     categories:
       - Inferencing
       - Ai-hardware
@@ -109,25 +147,6 @@ articles:
     categories: []
     publishedAt: 2026-06-12T10:38:54.000Z
     source: ScienceDaily — Computer Science
-  - title: Jinhua Zhao named head of the Department of Urban Studies and Planning
-    url: https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611
-    summary: Jinhua Zhao MCP ’04, SM ’04, PhD ’09 has been appointed head of the
-      Department of Urban Studies and Planning (DUSP), effective July 1. Zhao is
-      the Class of 1941 Professor of Cities and Transportation at MIT.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-dusp-zhao.jpg?itok=rT3KQlN1
-    categories: []
-    publishedAt: 2026-06-11T20:20:00.000Z
-    source: MIT Artificial Intelligence
-  - title: MIT affiliates win 2026 Hertz Foundation Fellowships
-    url: https://news.mit.edu/2026/hertz-foundation-fellowships-0611
-    summary: "The Hertz Foundation announced that it awarded 2026 fellowships to
-      three current MIT students as well as an incoming graduate student. They
-      are: Annika Marschner, Alvin Q. Meng, Zachary S. Siegel, and Matthew
-      Wanta."
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-Hertz-winners-2026.jpg?itok=YEtq13vO
-    categories: []
-    publishedAt: 2026-06-11T17:30:00.000Z
-    source: MIT Robotics
   - title: Scientists discover a strange property in rice and turn it into a smart
       material
     url: https://www.sciencedaily.com/releases/2026/06/260611024621.htm
