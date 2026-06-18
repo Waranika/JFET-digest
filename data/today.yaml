@@ -1,18 +1,116 @@
-date: 2026-06-17
+date: 2026-06-18
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "DeepSeek valued at more than $50 bn after funding round: reports"
-    url: https://techxplore.com/news/2026-06-deepseek-valued-bn-funding.html
-    summary: Investors have valued Chinese artificial intelligence startup DeepSeek
-      at more than $50 billion in the company's first fundraising round, reports
-      said.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/deepseek-2.jpg
+  - title: The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the
+      Tech Is Flawed
+    url: https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/
+    summary: Internal Home Office tests of age-verification technology show the
+      risks of life-altering errors. It’s moving forward anyway.
+    imageUrl: https://media.wired.com/photos/6a32f1cdd9e60209eb61b7f3/191:100/w_1280,c_limit/GettyImages-2151441286.jpg
+    categories:
+      - Security
+      - Security / National Security
+      - Security / Privacy
+      - Security / Security News
+    publishedAt: 2026-06-18T06:00:00.000Z
+    source: WIRED (AI)
+  - title: QS ranks MIT the world’s No. 1 university for 2026-27
+    url: https://news.mit.edu/2026/qs-ranks-mit-worlds-no-1-university-0617
+    summary: MIT has again been named the world’s top university by the QS World
+      University Rankings, which were announced today. This is the 15th year in
+      a row MIT has received this distinction.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT-QSWorld-01-press.jpg?itok=gkeYTZ6p
+    categories: []
+    publishedAt: 2026-06-17T23:01:00.000Z
+    source: MIT Engineering
+  - title: In game theory, generalists sometimes win out over specialists, finds
+      research
+    url: https://techxplore.com/news/2026-06-game-theory-generalists-specialists.html
+    summary: Whether you're playing poker against a single opponent or find yourself
+      in a bidding war over a home purchase with another prospective buyer, you
+      are operating under conditions of imperfect information. You know what
+      cards you're holding in the poker game, and you also know how much above
+      the home's asking price you can afford, but you don't know your opponent's
+      hand in the card game or how high the other home buyer is willing to go.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/poker.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-06-17T20:00:16.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: In game theory, generalists sometimes win out over specialists
+    url: https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617
+    summary: Whether you’re playing poker against a single opponent or find yourself
+      in a bidding war over a home purchase with another prospective buyer, you
+      are operating under conditions of imperfect information. You know what
+      cards you’re holding in the poker game, and you also know how much above
+      the home’s asking price you can afford, but you don’t know your opponent’s
+      hand in the card game or how high the other home buyer is willing to go.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-lids-game-theory.jpg?itok=VxYl6kBb
+    categories: []
+    publishedAt: 2026-06-17T19:20:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Humanizing robots makes factory workers more productive
+    url: https://techxplore.com/news/2026-06-humanizing-robots-factory-workers-productive.html
+    summary: When factory workers treat industrial robots as co-workers—even
+      attributing certain human qualities to them—productivity and well-being
+      improve, according to new research out of the Alberta School of Business.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/humanizing-robots-make.jpg
     categories:
       - Business
-    publishedAt: 2026-06-17T08:06:57.000Z
-    source: TechXplore — AI & Machine Learning
+    publishedAt: 2026-06-17T16:00:10.000Z
+    source: TechXplore — Robotics
+  - title: How Musicians Can Get Paid for Training AI
+    url: https://spectrum.ieee.org/ai-music-attribution
+    summary: "Musicians are accustomed to getting paid each time their creative work
+      is used. Across vinyl/CD sales, streams, radio, cover versions, and those
+      numerous niches like karaoke, there are agreements in place about what
+      “use” means. Underlying this is a simple economic principle: The more
+      something is used, the more money it makes."
+    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-two-quarter-note-stems-going-through-an-s-resembling-a-dollar-sign.jpg?id=66750724&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Copyright
+      - Training-data
+      - Generative-ai
+      - Music
+    publishedAt: 2026-06-17T15:04:23.000Z
+    source: IEEE Spectrum — AI
+  - title: Redesigned high-NA lithography optical system aims to overcome challenges
+      in semiconductor chipmaking
+    url: https://techxplore.com/news/2026-06-redesigned-high-na-lithography-optical.html
+    summary: From data centers powering next-generation AI to vital medical
+      technology, cars, and the mobile device or computer you're probably
+      reading this on, semiconductor-based computer chips are essential to
+      modern life.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/redesigned-high-na-lit-3.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-06-17T14:00:11.000Z
+    source: TechXplore — Engineering
+  - title: The Secret to Marathon-Winning Humanoid Robots
+    url: https://spectrum.ieee.org/china-humanoid-robot-marathon
+    summary: On April 19, 2026, the Honor Lightning humanoid robot ran a
+      half-marathon in 50 minutes and 26 seconds, beating the human world record
+      by 7 minutes and the best robot time from 2025 by almost two hours.
+    imageUrl: https://spectrum.ieee.org/media-library/a-red-and-black-humanoid-runs-alone-through-a-marathon-course.jpg?id=66940897&width=1245&height=700&coordinates=0%2C66%2C0%2C66
+    categories:
+      - Robotics
+      - Running-robots
+      - Robot-sports
+      - Humanoid-robots
+    publishedAt: 2026-06-17T12:19:27.000Z
+    source: IEEE Spectrum — Robotics
+  - title: West Antarctica Is Missing Way Too Much Ice
+    url: https://www.wired.com/story/west-antarctica-is-missing-way-too-much-ice/
+    summary: Temperatures have climbed up to 45 degrees Fahrenheit above normal,
+      stopping ice from forming in the dead of Antarctic winter.
+    imageUrl: https://media.wired.com/photos/6a2c5ebd95a4195f91619a81/191:100/w_1280,c_limit/Why-Antarctica-Missing-Too-Much-Ice-Science-2264862520.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-06-17T10:30:00.000Z
+    source: WIRED science
   - title: Could AI tell you where you left your keys?
     url: https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617
     summary: An auto factory worker can remember the storage bin where she left a
@@ -23,62 +121,6 @@ articles:
     categories: []
     publishedAt: 2026-06-17T04:00:00.000Z
     source: MIT Robotics
-  - title: MIT’s Initiative for New Manufacturing builds momentum
-    url: https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616
-    summary: In May, the Initiative for New Manufacturing (INM) marked its first
-      anniversary with MIT Manufacturing Week, four days of events that
-      attracted more than 800 registrants including students, faculty, industry
-      leaders, investors, entrepreneurs, and government officials to explore
-      topics ranging from how companies are using AI on factory floors to the
-      role of startups in introducing innovation to new workforce solutions to
-      address the worker shortage.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-inm-manufacturing.jpg?itok=Ffoqz9lZ
-    categories: []
-    publishedAt: 2026-06-16T20:30:00.000Z
-    source: MIT Engineering
-  - title: ‘Dangerous’ AI Models Are Coming No Matter What
-    url: https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/
-    summary: "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5
-      hides a glaring truth: AI models with advanced hacking capabilities will
-      soon be the norm."
-    imageUrl: https://media.wired.com/photos/6a30202e9402edb0adc1701d/191:100/w_1280,c_limit/GettyImages-2280291188.jpg
-    categories:
-      - Security
-      - Security / Cyberattacks and Hacks
-      - Security / National Security
-      - Security / Security News
-    publishedAt: 2026-06-16T17:50:52.000Z
-    source: WIRED (AI)
-  - title: Simple coating could make next-generation chip transistors easier to
-      manufacture without damaging ultrathin layers
-    url: https://techxplore.com/news/2026-06-simple-coating-generation-chip-transistors.html
-    summary: "Inside computer chips are billions of tiny transistors made from
-      silicon. But the material is approaching its limits. In an effort to build
-      smaller, more capable devices, researchers are exploring how they might
-      build transistors with other materials alongside silicon, including a
-      class of extremely thin materials called transition metal dichalcogenides
-      (TMD). One of the leading TMD candidates is a material called molybdenum
-      disulfide. It is only three atoms thick: one layer of molybdenum
-      sandwiched between two layers of sulfur."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-method-boosts-futu.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-06-16T17:20:06.000Z
-    source: TechXplore — Engineering
-  - title: Elephant trunk skin reveals design that could reshape soft robotics
-    url: https://techxplore.com/news/2026-06-elephant-trunk-skin-reveals-reshape.html
-    summary: An elephant's trunk is both strong and capable of extremely fine motor
-      movements. With this muscular, boneless structure, an elephant can carry
-      heavy logs—or deftly peel a banana. Lucia Beccai and colleagues studied
-      the skin of the trunk, hoping to understand its properties and derive
-      lessons for the next generation of advanced soft robotics. The authors
-      obtained a trunk from a single adult Asian elephant (Elephas maximus) that
-      died of natural causes at Zurich Zoo, Switzerland, in 2020.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/elephant-trunks-and-ro.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-06-16T16:00:03.000Z
-    source: TechXplore — Robotics
   - title: Tensordyne Claims Massive Speed and Power Improvement Over Nvidia
     url: https://spectrum.ieee.org/tensordyne-inference-claim
     summary: If simulations are to be believed, startup Tensordyne’s new AI chip
@@ -122,18 +164,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-06-14T14:40:01.000Z
     source: TechXplore — Computer Science
-  - title: Visual Language Models Train Robots to Read Human Emotions
-    url: https://spectrum.ieee.org/robot-emotions-visual-language-models
-    summary: This article is part of our exclusive IEEE Journal Watch series in
-      partnership with IEEE Xplore.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-shoulders-up-human-silhouette-with-facial-attributes-vaguely-outlined-by-recognition-points.jpg?id=66888123&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Robotics
-      - Journal-watch
-      - Ai-models
-      - Emotion-recognition
-    publishedAt: 2026-06-13T13:00:01.000Z
-    source: IEEE Spectrum — Robotics
   - title: Brain-inspired chip runs near absolute zero and could transform quantum
       computing
     url: https://www.sciencedaily.com/releases/2026/06/260612032024.htm
