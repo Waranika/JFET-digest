@@ -1,21 +1,160 @@
-date: 2026-06-18
+date: 2026-06-23
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the
-      Tech Is Flawed
-    url: https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/
-    summary: Internal Home Office tests of age-verification technology show the
-      risks of life-altering errors. It’s moving forward anyway.
-    imageUrl: https://media.wired.com/photos/6a32f1cdd9e60209eb61b7f3/191:100/w_1280,c_limit/GettyImages-2151441286.jpg
+  - title: NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in
+      space
+    url: https://www.sciencedaily.com/releases/2026/06/260622091507.htm
+    summary: NASA’s upgraded Cold Atom Lab is turning the International Space
+      Station into a frontier for quantum research, creating ultra-cold matter
+      that behaves in astonishing ways. The experiments could unlock new
+      discoveries about the universe while paving the way for powerful future
+      technologies in space and on Earth.
+    imageUrl: https://www.sciencedaily.com/images/1920/nasa-cold-atom-lab-ultracold-bubbles-on-space-station.webp
+    categories: []
+    publishedAt: 2026-06-23T04:45:34.000Z
+    source: ScienceDaily — Engineering
+  - title: New chip could help tiny robots traverse complex environments
+    url: https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623
+    summary: A new chip developed by MIT researchers could help tiny, low-power UAVs
+      avoid obstacles as they zip around tight corners inside an industrial HVAC
+      system to check for gas leaks.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT-Map-Chip-01.jpg?itok=j9rx_STs
+    categories: []
+    publishedAt: 2026-06-23T04:00:00.000Z
+    source: MIT Robotics
+  - title: A Source of Mysterious Repeating Radio Signals From Space Has Been
+      Identified
+    url: https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/
+    summary: Researchers say the discovery could be a “Rosetta stone” for cosmic
+      signals.
+    imageUrl: https://media.wired.com/photos/6a3958bcdf5a1d50d09fc7ed/191:100/w_1280,c_limit/GettyImages-2275575477.jpg
     categories:
-      - Security
-      - Security / National Security
-      - Security / Privacy
-      - Security / Security News
-    publishedAt: 2026-06-18T06:00:00.000Z
+      - Science
+      - Science / Space
+    publishedAt: 2026-06-22T22:15:10.000Z
+    source: WIRED science
+  - title: Haptic insoles and forearm band improve balance by substituting lost
+      foot-pressure feedback
+    url: https://techxplore.com/news/2026-06-haptic-insoles-forearm-band-substituting.html
+    summary: Misjudge a curb or miss a step on the stairs, and there is a split
+      second of panic as your foot doesn't land when you expect it to. That
+      brief loss of pressure can be enough to throw off your balance entirely.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-wearable-reroutes-1.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-06-22T21:40:01.000Z
+    source: TechXplore — Engineering
+  - title: Mouse moves unlock realistic AI video control with no extra computing cost
+    url: https://techxplore.com/news/2026-06-mouse-realistic-ai-video-extra.html
+    summary: A technology developed at the Technion enables ordinary users to create
+      realistic video clips intuitively, without the need for massive computing
+      resources. Called Time-to-Move (TTM), it offers unprecedented control over
+      the movement of objects and characters in AI-generated videos using
+      nothing more than mouse movements, eliminating the need for complex and
+      expensive infrastructure or training on millions of videos.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/mouse-moves-unlock-rea-1.jpg
+    categories:
+      - Software
+    publishedAt: 2026-06-22T21:20:08.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Meta Pauses Employee-Tracking Program Following Internal Data Leak
+    url: https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/
+    summary: The move comes after the company left potentially sensitive data from
+      the initiative exposed internally.
+    imageUrl: https://media.wired.com/photos/6a39a2a46c59c72c499e05ba/191:100/w_1280,c_limit/2281617231
+    categories:
+      - Business
+      - Business / Big Tech
+    publishedAt: 2026-06-22T21:08:09.000Z
     source: WIRED (AI)
+  - title: Commemorating 70 Years of Artificial Intelligence
+    url: https://spectrum.ieee.org/70-years-of-artificial-intelligence
+    summary: Artificial intelligence is the transformative, strategic technology of
+      the early 21st century. It is significantly reshaping practically every
+      aspect of our lives, including in ways that probably no one anticipated.
+      Its rate of adoption and impact have been unprecedented when compared with
+      other technologies.
+    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-image-of-a-suited-white-man-placing-an-electromechanical-mouse-inside-a-miniature-maze.jpg?id=66957463&width=1200&height=400&coordinates=0%2C1042%2C0%2C1042
+    categories:
+      - Type-ti
+      - Ieee-history
+      - Artificial-intelligence
+      - Ai
+      - History-of-technology
+    publishedAt: 2026-06-22T18:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: Robot 'Floaty' rides the wind like a bird, staying stable without
+      propellers
+    url: https://techxplore.com/news/2026-06-robot-floaty-bird-staying-stable.html
+    summary: "Current flying objects face a trade-off: Drones with propellers, for
+      instance, are very agile and able to hover; however, they use up a lot of
+      energy. Airplanes, on the other hand, feature fixed wings that allow them
+      to fly very efficiently. The downside: They can't remain suspended in the
+      air like a kestrel on the lookout for prey."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/flying-robot-rides-the-1.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-06-22T17:40:14.000Z
+    source: TechXplore — Robotics
+  - title: Revocable fingerprint IDs may reduce permanent biometric theft risks,
+      paper suggests
+    url: https://techxplore.com/news/2026-06-revocable-fingerprint-ids-permanent-biometric.html
+    summary: The obvious problem with biometrics is that once someone has stolen
+      your fingerprint or iris ID, you cannot simply reset those to block their
+      access as you might a password. Now, research published in the
+      International Journal of Computational Vision and Robotics offers a new
+      approach to protecting biometric authentication data so that the risk
+      associated with this kind of irreversible identity theft can be largely
+      avoided and gives users an option to reset their fingerprints and other
+      biometrics, as it were.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/fingerprint.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-06-22T17:40:07.000Z
+    source: TechXplore — Computer Science
+  - title: This Device Takes Photographs With a Single Atom
+    url: https://spectrum.ieee.org/single-atom-camera-quantum-computing
+    summary: Today, it’s quite possible to see individual atoms in photographs. It’s
+      one of the great triumphs of imaging. What, then, of the inverse? Can you
+      use a single atom to capture an image?
+    imageUrl: https://spectrum.ieee.org/media-library/pixelated-light-patterns-captured-with-an-atom-camera-including-a-lattice-comet-like-shape-and-two-circles-side-by-side.jpg?id=66947683&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Neutral-atom
+      - Quantum-computing
+      - Super-resolution-imaging
+      - Optical-tweezers
+    publishedAt: 2026-06-21T13:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: "Video Friday: Do Robots Even Need Legs?"
+    url: https://spectrum.ieee.org/video-friday-agentic-ai-robot
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/white-service-robot-on-a-square-mobile-base-working-at-a-countertop-in-a-modern-wooden-kitchen.png?id=66959675&width=1245&height=700&coordinates=0%2C0%2C0%2C0
+    categories:
+      - Video-friday
+      - Robot-videos
+      - Lunar-rover
+      - Inspection-robots
+      - Robot-hands
+      - Robot-ai
+    publishedAt: 2026-06-19T15:00:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: SpaceX wants to build AI data centers in space. Will it work?
+    url: https://www.sciencedaily.com/releases/2026/06/260618041501.htm
+    summary: The race to build data centers in space is gaining momentum as AI
+      drives unprecedented demand for computing power. Orbital facilities could
+      tap into abundant solar energy and avoid many of the environmental
+      challenges faced on Earth. Yet space remains a harsh and expensive place
+      to operate, with major hurdles including cooling, maintenance, radiation
+      exposure, and orbital debris.
+    imageUrl: https://www.sciencedaily.com/images/1920/spacecraft-satellite-orbiting-earth.webp
+    categories: []
+    publishedAt: 2026-06-19T03:43:09.000Z
+    source: ScienceDaily — Robotics
   - title: QS ranks MIT the world’s No. 1 university for 2026-27
     url: https://news.mit.edu/2026/qs-ranks-mit-worlds-no-1-university-0617
     summary: MIT has again been named the world’s top university by the QS World
@@ -25,171 +164,6 @@ articles:
     categories: []
     publishedAt: 2026-06-17T23:01:00.000Z
     source: MIT Engineering
-  - title: In game theory, generalists sometimes win out over specialists, finds
-      research
-    url: https://techxplore.com/news/2026-06-game-theory-generalists-specialists.html
-    summary: Whether you're playing poker against a single opponent or find yourself
-      in a bidding war over a home purchase with another prospective buyer, you
-      are operating under conditions of imperfect information. You know what
-      cards you're holding in the poker game, and you also know how much above
-      the home's asking price you can afford, but you don't know your opponent's
-      hand in the card game or how high the other home buyer is willing to go.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/poker.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-06-17T20:00:16.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: In game theory, generalists sometimes win out over specialists
-    url: https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617
-    summary: Whether you’re playing poker against a single opponent or find yourself
-      in a bidding war over a home purchase with another prospective buyer, you
-      are operating under conditions of imperfect information. You know what
-      cards you’re holding in the poker game, and you also know how much above
-      the home’s asking price you can afford, but you don’t know your opponent’s
-      hand in the card game or how high the other home buyer is willing to go.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-lids-game-theory.jpg?itok=VxYl6kBb
-    categories: []
-    publishedAt: 2026-06-17T19:20:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Humanizing robots makes factory workers more productive
-    url: https://techxplore.com/news/2026-06-humanizing-robots-factory-workers-productive.html
-    summary: When factory workers treat industrial robots as co-workers—even
-      attributing certain human qualities to them—productivity and well-being
-      improve, according to new research out of the Alberta School of Business.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/humanizing-robots-make.jpg
-    categories:
-      - Business
-    publishedAt: 2026-06-17T16:00:10.000Z
-    source: TechXplore — Robotics
-  - title: How Musicians Can Get Paid for Training AI
-    url: https://spectrum.ieee.org/ai-music-attribution
-    summary: "Musicians are accustomed to getting paid each time their creative work
-      is used. Across vinyl/CD sales, streams, radio, cover versions, and those
-      numerous niches like karaoke, there are agreements in place about what
-      “use” means. Underlying this is a simple economic principle: The more
-      something is used, the more money it makes."
-    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-two-quarter-note-stems-going-through-an-s-resembling-a-dollar-sign.jpg?id=66750724&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Copyright
-      - Training-data
-      - Generative-ai
-      - Music
-    publishedAt: 2026-06-17T15:04:23.000Z
-    source: IEEE Spectrum — AI
-  - title: Redesigned high-NA lithography optical system aims to overcome challenges
-      in semiconductor chipmaking
-    url: https://techxplore.com/news/2026-06-redesigned-high-na-lithography-optical.html
-    summary: From data centers powering next-generation AI to vital medical
-      technology, cars, and the mobile device or computer you're probably
-      reading this on, semiconductor-based computer chips are essential to
-      modern life.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/redesigned-high-na-lit-3.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-06-17T14:00:11.000Z
-    source: TechXplore — Engineering
-  - title: The Secret to Marathon-Winning Humanoid Robots
-    url: https://spectrum.ieee.org/china-humanoid-robot-marathon
-    summary: On April 19, 2026, the Honor Lightning humanoid robot ran a
-      half-marathon in 50 minutes and 26 seconds, beating the human world record
-      by 7 minutes and the best robot time from 2025 by almost two hours.
-    imageUrl: https://spectrum.ieee.org/media-library/a-red-and-black-humanoid-runs-alone-through-a-marathon-course.jpg?id=66940897&width=1245&height=700&coordinates=0%2C66%2C0%2C66
-    categories:
-      - Robotics
-      - Running-robots
-      - Robot-sports
-      - Humanoid-robots
-    publishedAt: 2026-06-17T12:19:27.000Z
-    source: IEEE Spectrum — Robotics
-  - title: West Antarctica Is Missing Way Too Much Ice
-    url: https://www.wired.com/story/west-antarctica-is-missing-way-too-much-ice/
-    summary: Temperatures have climbed up to 45 degrees Fahrenheit above normal,
-      stopping ice from forming in the dead of Antarctic winter.
-    imageUrl: https://media.wired.com/photos/6a2c5ebd95a4195f91619a81/191:100/w_1280,c_limit/Why-Antarctica-Missing-Too-Much-Ice-Science-2264862520.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-06-17T10:30:00.000Z
-    source: WIRED science
-  - title: Could AI tell you where you left your keys?
-    url: https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617
-    summary: An auto factory worker can remember the storage bin where she left a
-      partly assembled component the night before, and quickly return to that
-      spot to pick it up. But robots that may work side-by-side with her would
-      struggle to develop and access this same type of “spatiotemporal” memory.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT-DescribeAnything-01-press.jpg?itok=RxMov68e
-    categories: []
-    publishedAt: 2026-06-17T04:00:00.000Z
-    source: MIT Robotics
-  - title: Tensordyne Claims Massive Speed and Power Improvement Over Nvidia
-    url: https://spectrum.ieee.org/tensordyne-inference-claim
-    summary: If simulations are to be believed, startup Tensordyne’s new AI chip
-      could crush the performance of market leader Nvidia in terms of energy
-      efficiency and latency for inferencing. The company just sent the plans
-      for its first chip to be manufactured, with commercial sales of a 72-chip
-      system scheduled for the second half of 2027. Tensordyne claims its
-      72-chip system can run large LLMs four times as fast using one-fifth the
-      power compared to a 72-Nvidia GB300 system. However, real systems won’t be
-      around to back these figures up until the end of the year.
-    imageUrl: https://spectrum.ieee.org/media-library/two-views-of-a-black-rack-mounted-server-chassis-with-stacked-hardware-modules.jpg?id=66906634&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Inferencing
-      - Ai-hardware
-      - Nvidia
-      - Mathematics
-    publishedAt: 2026-06-15T17:31:09.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: This strange material can become strong or fall apart in seconds
-    url: https://www.sciencedaily.com/releases/2026/06/260615033849.htm
-    summary: Scientists have found that staple-shaped particles can tangle together
-      to create a material that is both strong and flexible. Unlike conventional
-      materials, these particles can be locked into a sturdy structure or
-      rapidly unraveled using vibrations. The unusual behavior could open the
-      door to recyclable buildings, reconfigurable structures, and even
-      futuristic robotic technologies.
-    imageUrl: https://www.sciencedaily.com/images/1920/metal-staples-arch.webp
-    categories: []
-    publishedAt: 2026-06-15T11:54:43.000Z
-    source: ScienceDaily — Engineering
-  - title: Why asking people to rank three options could sharpen AI and
-      recommendation systems
-    url: https://techxplore.com/news/2026-06-people-options-sharpen-ai.html
-    summary: In his 1927 paper, "A law of comparative judgment," the American
-      psychologist L. L. Thurstone proposed that when people select one option
-      among multiple alternatives, they are picking the one that has the highest
-      value to them, even though they cannot assign a particular number to that
-      choice.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/when-it-comes-to-predi.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-06-14T14:40:01.000Z
-    source: TechXplore — Computer Science
-  - title: Brain-inspired chip runs near absolute zero and could transform quantum
-      computing
-    url: https://www.sciencedaily.com/releases/2026/06/260612032024.htm
-    summary: Scientists at the University of Hong Kong have created a remarkable new
-      type of brain-inspired chip that can function just above absolute zero,
-      one of the coldest environments imaginable. By using a standard silicon
-      carbide transistor in a completely new way, the team made a single device
-      behave like an energy-efficient neuron, firing electrical “spikes” similar
-      to those in the human brain.
-    imageUrl: https://www.sciencedaily.com/images/1920/digital-brain-circuit-computer-chip.webp
-    categories: []
-    publishedAt: 2026-06-12T10:38:54.000Z
-    source: ScienceDaily — Computer Science
-  - title: Scientists discover a strange property in rice and turn it into a smart
-      material
-    url: https://www.sciencedaily.com/releases/2026/06/260611024621.htm
-    summary: "Scientists discovered that rice behaves in a highly unusual way: it
-      weakens under rapid compression but stays stronger when pressure is
-      applied slowly. Using this effect, they engineered a new material that
-      reacts differently to gentle movements and sudden impacts. The material
-      can adapt its stiffness automatically, opening the door to safer soft
-      robots and protective equipment that responds instantly to collisions."
-    imageUrl: https://www.sciencedaily.com/images/1920/rice-petri-dish-gmo-science.webp
-    categories: []
-    publishedAt: 2026-06-11T12:29:52.000Z
-    source: ScienceDaily — Robotics
   - title: This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors
     url: https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot
     summary: In 1987, Richard Greenhill, a British photographer who was fascinated
@@ -198,7 +172,7 @@ articles:
       was working at a startup called Intergalactic Robots, but he couldn’t
       convince anyone there to build such a machine, so he set about building
       one himself, in his attic.
-    imageUrl: https://spectrum.ieee.org/media-library/two-photos-of-a-prototype-humanoid-robot-with-a-wooden-frame-and-wires-and-other-components-strung-on-its-body.jpg?id=66825613&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    imageUrl: https://spectrum.ieee.org/media-library/two-photos-of-a-prototype-humanoid-robot-with-a-wooden-frame-and-wires-and-other-components-strung-on-its-body.jpg?id=66825613&width=1200&height=400&coordinates=0%2C417%2C0%2C417
     categories:
       - Past-forward
       - Type-departments
