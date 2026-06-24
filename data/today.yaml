@@ -1,8 +1,95 @@
-date: 2026-06-23
+date: 2026-06-24
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: French Startup Uses Special Polymers to Better Help Nerves Heal
+    url: https://www.wired.com/story/startup-using-polymers-and-blue-light-to-help-tissue-heal/
+    summary: The biodegradable material can help improve healing after surgery—or an
+      avocado-related accident.
+    imageUrl: https://media.wired.com/photos/6a3b0f887b75838f8f0aa7ac/191:100/w_1280,c_limit/Startup-Using-Special-Polymers-Science-2158853453.jpg
+    categories:
+      - Science
+      - Science / Biotech
+    publishedAt: 2026-06-24T05:00:00.000Z
+    source: WIRED science
+  - title: "Smart drones, safe skies: Student's system tests and coordinates drone
+      fleets"
+    url: https://techxplore.com/news/2026-06-smart-drones-safe-skies-student.html
+    summary: Autonomous drones could deliver packages, inspect bridges and
+      skyscrapers, monitor emergencies like wildfires and, eventually, ferry
+      people. But the airspace still lacks the testing and coordination
+      infrastructure needed to prove drones can operate safely around people,
+      buildings, aircraft and each other.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/smart-drones-safe-skie-1.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-06-24T02:00:06.000Z
+    source: TechXplore — Robotics
+  - title: AI gives building inspection photos the location data they were missing
+    url: https://techxplore.com/news/2026-06-ai-photos.html
+    summary: When a building inspector takes a photo of a cracked wall, a leaking
+      pipe or a faulty ceiling panel, that image carries almost no information
+      about where exactly it was taken. There's no GPS signal indoors, and
+      manually recording locations is slow, error-prone and easily forgotten. As
+      a result, thousands of inspection photos sit in folders with no spatial
+      context, making it hard to track problems over time or link them to the
+      correct part of a building's maintenance records.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-gives-building-insp.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-06-23T20:00:04.000Z
+    source: TechXplore — Engineering
+  - title: Forgetting may be the secret to better AI language learning
+    url: https://techxplore.com/news/2026-06-secret-ai-language.html
+    summary: Giving AI a human-like memory limitation may actually help it learn
+      language better. In their new proof-of-principle study, Abishek Thamma
+      (University of Amsterdam) and Micha Heilbron (Max Planck Institute for
+      Psycholinguistics) show that small language models equipped with a
+      transient memory learn grammar more efficiently when trained on
+      child-scale amounts of language input. The findings demonstrate how
+      insights from psycholinguistics can inspire new approaches to AI learning.
+      The findings are published in the journal Transactions of the Association
+      for Computational Linguistics.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/brain-construction.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-06-23T18:40:18.000Z
+    source: TechXplore — Computer Science
+  - title: AI Is Learning to Read the Room
+    url: https://spectrum.ieee.org/emotion-ai-context
+    summary: Imagine sitting down at your desk and logging in for a performance
+      review, with an AI system analyzing the conversation. You’ve been working
+      long hours, balancing deadlines, and your manager asks how you’re doing.
+      You say you’re fine, and maybe even smile, but there’s a hint of
+      hesitation and your voice wavers. As you shift your posture, your
+      shoulders slump.
+    imageUrl: https://spectrum.ieee.org/media-library/pixel-art-figure-in-a-colorful-digital-cube-with-shadow-and-connected-emoji-faces.png?id=66966345&width=1200&height=400&coordinates=0%2C467%2C0%2C467
+    categories:
+      - Emotions
+      - Affective-computing
+      - Facial-expressions
+      - Companion-robots
+      - Multimodal-ai
+      - Machine-learning
+    publishedAt: 2026-06-23T12:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: Vibecoded Malware Is Flooding the Internet
+    url: https://spectrum.ieee.org/vibecoding-malware
+    summary: Vibe coding’s dark side, “vibe hacking,” is on the rise. Cybersecurity
+      companies such as McAfee and Bitdefender have observed recent spikes in
+      vibe-coded malware, also called “vibeware,” with telltale signs such as
+      explanatory code comments or template placeholders akin to what vibe-coded
+      apps contain. But just how challenging is it to stop the spread of bad
+      vibes from these emerging cyberattacks?
+    imageUrl: https://spectrum.ieee.org/media-library/graphic-of-a-forward-slash-between-two-brackets-meant-to-represent-computer-programming.jpg?id=66953058&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Malware
+      - Ai
+      - Vibe-coding
+      - Antivirus
+    publishedAt: 2026-06-23T11:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
   - title: NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in
       space
     url: https://www.sciencedaily.com/releases/2026/06/260622091507.htm
@@ -15,50 +102,6 @@ articles:
     categories: []
     publishedAt: 2026-06-23T04:45:34.000Z
     source: ScienceDaily — Engineering
-  - title: New chip could help tiny robots traverse complex environments
-    url: https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623
-    summary: A new chip developed by MIT researchers could help tiny, low-power UAVs
-      avoid obstacles as they zip around tight corners inside an industrial HVAC
-      system to check for gas leaks.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT-Map-Chip-01.jpg?itok=j9rx_STs
-    categories: []
-    publishedAt: 2026-06-23T04:00:00.000Z
-    source: MIT Robotics
-  - title: A Source of Mysterious Repeating Radio Signals From Space Has Been
-      Identified
-    url: https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/
-    summary: Researchers say the discovery could be a “Rosetta stone” for cosmic
-      signals.
-    imageUrl: https://media.wired.com/photos/6a3958bcdf5a1d50d09fc7ed/191:100/w_1280,c_limit/GettyImages-2275575477.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-06-22T22:15:10.000Z
-    source: WIRED science
-  - title: Haptic insoles and forearm band improve balance by substituting lost
-      foot-pressure feedback
-    url: https://techxplore.com/news/2026-06-haptic-insoles-forearm-band-substituting.html
-    summary: Misjudge a curb or miss a step on the stairs, and there is a split
-      second of panic as your foot doesn't land when you expect it to. That
-      brief loss of pressure can be enough to throw off your balance entirely.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-wearable-reroutes-1.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-06-22T21:40:01.000Z
-    source: TechXplore — Engineering
-  - title: Mouse moves unlock realistic AI video control with no extra computing cost
-    url: https://techxplore.com/news/2026-06-mouse-realistic-ai-video-extra.html
-    summary: A technology developed at the Technion enables ordinary users to create
-      realistic video clips intuitively, without the need for massive computing
-      resources. Called Time-to-Move (TTM), it offers unprecedented control over
-      the movement of objects and characters in AI-generated videos using
-      nothing more than mouse movements, eliminating the need for complex and
-      expensive infrastructure or training on millions of videos.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/mouse-moves-unlock-rea-1.jpg
-    categories:
-      - Software
-    publishedAt: 2026-06-22T21:20:08.000Z
-    source: TechXplore — AI & Machine Learning
   - title: Meta Pauses Employee-Tracking Program Following Internal Data Leak
     url: https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/
     summary: The move comes after the company left potentially sensitive data from
@@ -69,64 +112,6 @@ articles:
       - Business / Big Tech
     publishedAt: 2026-06-22T21:08:09.000Z
     source: WIRED (AI)
-  - title: Commemorating 70 Years of Artificial Intelligence
-    url: https://spectrum.ieee.org/70-years-of-artificial-intelligence
-    summary: Artificial intelligence is the transformative, strategic technology of
-      the early 21st century. It is significantly reshaping practically every
-      aspect of our lives, including in ways that probably no one anticipated.
-      Its rate of adoption and impact have been unprecedented when compared with
-      other technologies.
-    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-image-of-a-suited-white-man-placing-an-electromechanical-mouse-inside-a-miniature-maze.jpg?id=66957463&width=1200&height=400&coordinates=0%2C1042%2C0%2C1042
-    categories:
-      - Type-ti
-      - Ieee-history
-      - Artificial-intelligence
-      - Ai
-      - History-of-technology
-    publishedAt: 2026-06-22T18:00:01.000Z
-    source: IEEE Spectrum — AI
-  - title: Robot 'Floaty' rides the wind like a bird, staying stable without
-      propellers
-    url: https://techxplore.com/news/2026-06-robot-floaty-bird-staying-stable.html
-    summary: "Current flying objects face a trade-off: Drones with propellers, for
-      instance, are very agile and able to hover; however, they use up a lot of
-      energy. Airplanes, on the other hand, feature fixed wings that allow them
-      to fly very efficiently. The downside: They can't remain suspended in the
-      air like a kestrel on the lookout for prey."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/flying-robot-rides-the-1.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-06-22T17:40:14.000Z
-    source: TechXplore — Robotics
-  - title: Revocable fingerprint IDs may reduce permanent biometric theft risks,
-      paper suggests
-    url: https://techxplore.com/news/2026-06-revocable-fingerprint-ids-permanent-biometric.html
-    summary: The obvious problem with biometrics is that once someone has stolen
-      your fingerprint or iris ID, you cannot simply reset those to block their
-      access as you might a password. Now, research published in the
-      International Journal of Computational Vision and Robotics offers a new
-      approach to protecting biometric authentication data so that the risk
-      associated with this kind of irreversible identity theft can be largely
-      avoided and gives users an option to reset their fingerprints and other
-      biometrics, as it were.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/fingerprint.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-06-22T17:40:07.000Z
-    source: TechXplore — Computer Science
-  - title: This Device Takes Photographs With a Single Atom
-    url: https://spectrum.ieee.org/single-atom-camera-quantum-computing
-    summary: Today, it’s quite possible to see individual atoms in photographs. It’s
-      one of the great triumphs of imaging. What, then, of the inverse? Can you
-      use a single atom to capture an image?
-    imageUrl: https://spectrum.ieee.org/media-library/pixelated-light-patterns-captured-with-an-atom-camera-including-a-lattice-comet-like-shape-and-two-circles-side-by-side.jpg?id=66947683&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Neutral-atom
-      - Quantum-computing
-      - Super-resolution-imaging
-      - Optical-tweezers
-    publishedAt: 2026-06-21T13:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: "Video Friday: Do Robots Even Need Legs?"
     url: https://spectrum.ieee.org/video-friday-agentic-ai-robot
     summary: Video Friday is your weekly selection of awesome robotics videos,
@@ -172,7 +157,7 @@ articles:
       was working at a startup called Intergalactic Robots, but he couldn’t
       convince anyone there to build such a machine, so he set about building
       one himself, in his attic.
-    imageUrl: https://spectrum.ieee.org/media-library/two-photos-of-a-prototype-humanoid-robot-with-a-wooden-frame-and-wires-and-other-components-strung-on-its-body.jpg?id=66825613&width=1200&height=400&coordinates=0%2C417%2C0%2C417
+    imageUrl: https://spectrum.ieee.org/media-library/two-photos-of-a-prototype-humanoid-robot-with-a-wooden-frame-and-wires-and-other-components-strung-on-its-body.jpg?id=66825613&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
       - Past-forward
       - Type-departments
