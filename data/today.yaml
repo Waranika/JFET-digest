@@ -1,95 +1,131 @@
-date: 2026-06-24
+date: 2026-06-27
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: French Startup Uses Special Polymers to Better Help Nerves Heal
-    url: https://www.wired.com/story/startup-using-polymers-and-blue-light-to-help-tissue-heal/
-    summary: The biodegradable material can help improve healing after surgery—or an
-      avocado-related accident.
-    imageUrl: https://media.wired.com/photos/6a3b0f887b75838f8f0aa7ac/191:100/w_1280,c_limit/Startup-Using-Special-Polymers-Science-2158853453.jpg
+  - title: How to See the Giant Asteroid That Will Pass by Earth This Weekend
+    url: https://www.wired.com/story/how-to-see-1997-nc1-asteroid-pass-by-earth-this-weekend/
+    summary: The asteroid will be visible for several nights from different parts of
+      the world. We’ll tell you when and where to look, and what equipment
+      you’ll need to spot it.
+    imageUrl: https://media.wired.com/photos/6a3e91c52a254c7dcc47c3d6/191:100/w_1280,c_limit/GettyImages-160936161.jpg
     categories:
       - Science
-      - Science / Biotech
-    publishedAt: 2026-06-24T05:00:00.000Z
+      - Science / Space
+    publishedAt: 2026-06-26T18:45:16.000Z
     source: WIRED science
-  - title: "Smart drones, safe skies: Student's system tests and coordinates drone
-      fleets"
-    url: https://techxplore.com/news/2026-06-smart-drones-safe-skies-student.html
-    summary: Autonomous drones could deliver packages, inspect bridges and
-      skyscrapers, monitor emergencies like wildfires and, eventually, ferry
-      people. But the airspace still lacks the testing and coordination
-      infrastructure needed to prove drones can operate safely around people,
-      buildings, aircraft and each other.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/smart-drones-safe-skie-1.jpg
+  - title: Shifting data center power to off-peak hours could cut grid costs in the
+      age of AI
+    url: https://techxplore.com/news/2026-06-shifting-center-power-peak-hours.html
+    summary: The number of U.S. data centers is growing, largely to power artificial
+      intelligence programs. That has led to concern about the environmental
+      consequences of data centers—and their impact on the energy grid itself.
+      What will happen if scores of new data centers come online?
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/how-data-centers-can-b-1.jpg
     categories:
-      - Robotics
-    publishedAt: 2026-06-24T02:00:06.000Z
-    source: TechXplore — Robotics
-  - title: AI gives building inspection photos the location data they were missing
-    url: https://techxplore.com/news/2026-06-ai-photos.html
-    summary: When a building inspector takes a photo of a cracked wall, a leaking
-      pipe or a faulty ceiling panel, that image carries almost no information
-      about where exactly it was taken. There's no GPS signal indoors, and
-      manually recording locations is slow, error-prone and easily forgotten. As
-      a result, thousands of inspection photos sit in folders with no spatial
-      context, making it hard to track problems over time or link them to the
-      correct part of a building's maintenance records.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-gives-building-insp.jpg
+      - Energy & Green Tech
+    publishedAt: 2026-06-26T18:00:05.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: "Video Friday: Give Robots a Hand"
+    url: https://spectrum.ieee.org/video-friday-robot-grippers
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=1245&height=700&coordinates=0%2C0%2C0%2C0
     categories:
-      - Engineering
-    publishedAt: 2026-06-23T20:00:04.000Z
-    source: TechXplore — Engineering
-  - title: Forgetting may be the secret to better AI language learning
-    url: https://techxplore.com/news/2026-06-secret-ai-language.html
-    summary: Giving AI a human-like memory limitation may actually help it learn
-      language better. In their new proof-of-principle study, Abishek Thamma
-      (University of Amsterdam) and Micha Heilbron (Max Planck Institute for
-      Psycholinguistics) show that small language models equipped with a
-      transient memory learn grammar more efficiently when trained on
-      child-scale amounts of language input. The findings demonstrate how
-      insights from psycholinguistics can inspire new approaches to AI learning.
-      The findings are published in the journal Transactions of the Association
-      for Computational Linguistics.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/brain-construction.jpg
+      - Humanoid-robots
+      - Video-friday
+      - Robot-hands
+      - Quadruped-robots
+      - Robot-videos
+      - Firefighting-robots
+    publishedAt: 2026-06-26T16:30:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: An AI model that thinks like we do offers new ways to peer inside the
+      black box
+    url: https://techxplore.com/news/2026-06-ai-ways-peer-black.html
+    summary: When a standard large language model (LLM) is confronted with a
+      problem, it tries to solve it by matching it to similar information it has
+      seen before, and then give an answer based on those past patterns. But how
+      it decides which information to use and what value it gives to different
+      pieces of information can be somewhat inscrutable from the outside. An
+      EPFL team has created a new large language model that is structured
+      similarly to a human brain, allowing users more control and moving away
+      from "black box" AI.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/researchers-create-an.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-06-23T18:40:18.000Z
+    publishedAt: 2026-06-26T16:20:03.000Z
     source: TechXplore — Computer Science
-  - title: AI Is Learning to Read the Room
-    url: https://spectrum.ieee.org/emotion-ai-context
-    summary: Imagine sitting down at your desk and logging in for a performance
-      review, with an AI system analyzing the conversation. You’ve been working
-      long hours, balancing deadlines, and your manager asks how you’re doing.
-      You say you’re fine, and maybe even smile, but there’s a hint of
-      hesitation and your voice wavers. As you shift your posture, your
-      shoulders slump.
-    imageUrl: https://spectrum.ieee.org/media-library/pixel-art-figure-in-a-colorful-digital-cube-with-shadow-and-connected-emoji-faces.png?id=66966345&width=1200&height=400&coordinates=0%2C467%2C0%2C467
+  - title: Artificial skin enables robots to simultaneously sense temperature and
+      pressure like humans
+    url: https://techxplore.com/news/2026-06-artificial-skin-enables-robots-simultaneously.html
+    summary: A research team led by Prof. Seung Hwan Ko of Seoul National University
+      College of Engineering's Department of Mechanical Engineering has
+      developed an artificial skin technology that enables robots to sense
+      temperature and pressure simultaneously, similar to human skin.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/researchers-develop-ar.jpg
     categories:
-      - Emotions
-      - Affective-computing
-      - Facial-expressions
-      - Companion-robots
-      - Multimodal-ai
-      - Machine-learning
-    publishedAt: 2026-06-23T12:00:01.000Z
+      - Robotics
+    publishedAt: 2026-06-26T16:00:05.000Z
+    source: TechXplore — Robotics
+  - title: David Autor named head of the Department of Economics
+    url: https://news.mit.edu/2026/david-autor-named-head-department-economics-0626
+    summary: David Autor, the Daniel (1972) and Gail Rubinfeld Professor in the MIT
+      Department of Economics, has been named head of the Department of
+      Economics, effective July 1.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-economics-david-autor.jpg?itok=3NT1SZ0s
+    categories: []
+    publishedAt: 2026-06-26T16:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: BurgerAI creates custom burgers tailored for taste, health and the planet
+    url: https://techxplore.com/news/2026-06-burgerai-custom-burgers-tailored-health.html
+    summary: Stanford researcher Ellen Kuhl estimates that there are some 1043
+      potential burger recipes in the world. And with BurgerAI, a new tool
+      developed in her lab, artificial intelligence can now design the best one
+      for you based on your age, taste, nutritional needs and even your
+      sustainability goal.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-designs-the-ideal-b.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-06-26T14:00:01.000Z
+    source: TechXplore — Engineering
+  - title: LLMs help robots understand vague instructions and focus on key details
+    url: https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626
+    summary: "Imagine working at a warehouse or office sometime in the near future,
+      and you’re asked to help a new trainee learn the basics of their job. The
+      catch: It’s a robot. To teach them, you might want to play a game of “show
+      and tell” — that is, physically showing how to do something a few
+      different ways, while also explaining what you’re doing."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-csail-Masked-RL.jpg?itok=AWLkvb-L
+    categories: []
+    publishedAt: 2026-06-26T13:00:00.000Z
+    source: MIT Robotics
+  - title: Why Does a Bank Need a Chief Scientist?
+    url: https://spectrum.ieee.org/capital-one-science-ai-finance-innovation
+    summary: This article is brought to you by Capital One.
+    imageUrl: https://spectrum.ieee.org/media-library/silhouetted-team-working-on-laptops-in-a-glass-walled-office-at-sunset.jpg?id=66903903&width=1245&height=700&coordinates=9%2C0%2C9%2C0
+    categories:
+      - Ai-research
+      - Agentic-ai
+      - Financial-services
+      - Tech-careers
+      - Type-sponsored
+      - Financial-technology
+    publishedAt: 2026-06-25T17:32:32.000Z
     source: IEEE Spectrum — AI
-  - title: Vibecoded Malware Is Flooding the Internet
-    url: https://spectrum.ieee.org/vibecoding-malware
-    summary: Vibe coding’s dark side, “vibe hacking,” is on the rise. Cybersecurity
-      companies such as McAfee and Bitdefender have observed recent spikes in
-      vibe-coded malware, also called “vibeware,” with telltale signs such as
-      explanatory code comments or template placeholders akin to what vibe-coded
-      apps contain. But just how challenging is it to stop the spread of bad
-      vibes from these emerging cyberattacks?
-    imageUrl: https://spectrum.ieee.org/media-library/graphic-of-a-forward-slash-between-two-brackets-meant-to-represent-computer-programming.jpg?id=66953058&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+  - title: Make an Origami Circuit Board
+    url: https://spectrum.ieee.org/origami-circuit-boards
+    summary: What could you do if you could make a circuit trace by just bending a
+      piece of paper? How about bridging modern technologies and traditional
+      handicrafts while providing opportunities for learning skills in both.
+    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1245&height=700&coordinates=0%2C469%2C0%2C470
     categories:
-      - Malware
-      - Ai
-      - Vibe-coding
-      - Antivirus
-    publishedAt: 2026-06-23T11:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
+      - Typedepartments
+      - Origami
+    publishedAt: 2026-06-24T14:00:01.000Z
+    source: IEEE Spectrum — DIY
   - title: NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in
       space
     url: https://www.sciencedaily.com/releases/2026/06/260622091507.htm
@@ -102,32 +138,6 @@ articles:
     categories: []
     publishedAt: 2026-06-23T04:45:34.000Z
     source: ScienceDaily — Engineering
-  - title: Meta Pauses Employee-Tracking Program Following Internal Data Leak
-    url: https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/
-    summary: The move comes after the company left potentially sensitive data from
-      the initiative exposed internally.
-    imageUrl: https://media.wired.com/photos/6a39a2a46c59c72c499e05ba/191:100/w_1280,c_limit/2281617231
-    categories:
-      - Business
-      - Business / Big Tech
-    publishedAt: 2026-06-22T21:08:09.000Z
-    source: WIRED (AI)
-  - title: "Video Friday: Do Robots Even Need Legs?"
-    url: https://spectrum.ieee.org/video-friday-agentic-ai-robot
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/white-service-robot-on-a-square-mobile-base-working-at-a-countertop-in-a-modern-wooden-kitchen.png?id=66959675&width=1245&height=700&coordinates=0%2C0%2C0%2C0
-    categories:
-      - Video-friday
-      - Robot-videos
-      - Lunar-rover
-      - Inspection-robots
-      - Robot-hands
-      - Robot-ai
-    publishedAt: 2026-06-19T15:00:02.000Z
-    source: IEEE Spectrum — Robotics
   - title: SpaceX wants to build AI data centers in space. Will it work?
     url: https://www.sciencedaily.com/releases/2026/06/260618041501.htm
     summary: The race to build data centers in space is gaining momentum as AI
@@ -149,21 +159,3 @@ articles:
     categories: []
     publishedAt: 2026-06-17T23:01:00.000Z
     source: MIT Engineering
-  - title: This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors
-    url: https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot
-    summary: In 1987, Richard Greenhill, a British photographer who was fascinated
-      by (but had no actual training in) robotics, decided he wanted to build a
-      life-size humanoid that could do useful things, like carrying luggage. He
-      was working at a startup called Intergalactic Robots, but he couldn’t
-      convince anyone there to build such a machine, so he set about building
-      one himself, in his attic.
-    imageUrl: https://spectrum.ieee.org/media-library/two-photos-of-a-prototype-humanoid-robot-with-a-wooden-frame-and-wires-and-other-components-strung-on-its-body.jpg?id=66825613&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Past-forward
-      - Type-departments
-      - Humanoid-robots
-      - Shadow-robot
-      - Walking-robots
-      - Pneumatic-robots
-    publishedAt: 2026-05-31T13:00:01.000Z
-    source: IEEE Spectrum — DIY
