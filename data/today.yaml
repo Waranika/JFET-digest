@@ -1,29 +1,76 @@
-date: 2026-06-30
+date: 2026-07-01
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Want to Boost Your Home’s Resale Value? Install a Heat Pump
-    url: https://www.wired.com/story/boost-your-homes-resale-value-install-heat-pump/
-    summary: Heat pumps are more than just a way to keep your home comfortable
-      without using fossil fuels.
-    imageUrl: https://media.wired.com/photos/6a3f01c471b549a9a681caf0/191:100/w_1280,c_limit/Heat-Pump-Science-2266178546.jpg
+  - title: US govt lifts restrictions on powerful AI models, Anthropic says
+    url: https://techxplore.com/news/2026-07-govt-restrictions-powerful-ai-anthropic.html
+    summary: Anthropic will soon begin restoring access globally to its most
+      powerful AI models, Fable 5 and Mythos 5, after the U.S. government lifted
+      a restriction on where they could be released, the company said Tuesday.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/us-artificial-intellig.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-07-01T06:20:04.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: LiDAR approach could change factory inspections for tiny hard-to-reach
+      parts
+    url: https://techxplore.com/news/2026-06-lidar-approach-factory-tiny-hard.html
+    summary: Researchers have developed a new LiDAR approach that makes it possible
+      to image small objects with much greater precision and accuracy than
+      conventional LiDAR. The method could be useful for acquiring noncontact
+      measurements of critical parts or features during manufacturing.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/lidar-imaging-method-d.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-06-30T18:00:02.000Z
+    source: TechXplore — Engineering
+  - title: MIT student teams win top honors in NASA competition
+    url: https://news.mit.edu/2026/interdisciplinary-mit-teams-win-top-honors-nasa-competition-0630
+    summary: Three teams comprising 35 students across eight different MIT
+      departments and Wellesley College have been at work since fall 2025,
+      designing critical early infrastructure elements that a moon base would
+      require. This June, their designs were recognized with five awards at
+      NASA’s 2026 Revolutionary Aerospace Systems Concepts — Academic Linkage
+      (RASC-AL) Forum.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-aeroastro-nasa-competition.jpg?itok=GLDg3KQK
+    categories: []
+    publishedAt: 2026-06-30T17:30:00.000Z
+    source: MIT Robotics
+  - title: "Q&A: What is agentic AI today, and what do we want it to be?"
+    url: https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630
+    summary: The deployment of automated software systems called AI agents has
+      recently exploded. A November 2025 report by MIT Sloan School of
+      Management and Boston Consulting Group found that 35 percent of surveyed
+      businesses had already deployed AI agents, while another 44 percent
+      planned to implement agentic AI soon.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT-3QAgenticAI-01.jpg?itok=CCI-vFri
+    categories: []
+    publishedAt: 2026-06-30T15:30:00.000Z
+    source: MIT Artificial Intelligence
+  - title: New York Is About to Feel Hotter Than Phoenix
+    url: https://www.wired.com/story/new-york-about-feel-hotter-than-phoenix/
+    summary: Extreme heat coupled with humidity will make it feel like 109 degrees
+      Fahrenheit as the holiday weekend approaches.
+    imageUrl: https://media.wired.com/photos/6a4304a19ec6fcabfa38b311/191:100/w_1280,c_limit/New-York-Is-About-to-Fee-Hotter-Than-Phoenix-Science-1012325148.jpg
     categories:
       - Science
       - Science / Environment
-    publishedAt: 2026-06-30T06:00:00.000Z
+    publishedAt: 2026-06-30T15:18:08.000Z
     source: WIRED science
-  - title: TikTok's torn ACL content assessed for reliability
-    url: https://techxplore.com/news/2026-06-tiktok-torn-acl-content-reliability.html
-    summary: A 16-year-old footballer twists his knee midtackle. He's diagnosed with
-      an anterior cruciate ligament (ACL) tear. Before seeing his physical
-      therapist or asking his doctor questions, he goes to TikTok and searches
-      for "ACL rehab exercises."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/tiktok-5.jpg
+  - title: Emily Bender Sets the Record Straight on “Stochastic Parrots”
+    url: https://spectrum.ieee.org/stochastic-parrot
+    summary: "In March 2021, a group of four linguists and computer scientists
+      published their now legendary paper “On the Dangers of Stochastic Parrots:
+      Can Language Models Be Too Big? 🦜”"
+    imageUrl: https://spectrum.ieee.org/media-library/collage-of-a-white-brunette-woman-against-a-background-with-two-abstract-parrots-composed-of-coding-slashes.jpg?id=67050137&width=1245&height=700&coordinates=0%2C62%2C0%2C63
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-06-30T02:20:01.000Z
-    source: TechXplore — AI & Machine Learning
+      - Emily-bender
+      - Large-language-models
+      - Llms
+      - Ai-ethics
+    publishedAt: 2026-06-30T14:00:02.000Z
+    source: IEEE Spectrum — AI
   - title: Millions of exploding stars could soon reveal dark energy's secrets
     url: https://www.sciencedaily.com/releases/2026/06/260621060315.htm
     summary: A new AI-powered framework could transform how astronomers measure the
@@ -36,30 +83,6 @@ articles:
     categories: []
     publishedAt: 2026-06-29T21:57:17.000Z
     source: ScienceDaily — Robotics
-  - title: Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide,
-      Sex, and Drugs
-    url: https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/
-    summary: Hundreds of contractors working on a project for Meta pretended to be
-      kids in order to see how other chatbots like Gemini and ChatGPT would
-      respond to high-risk subjects, WIRED found.
-    imageUrl: https://media.wired.com/photos/6a429931b8212c2a1f822da2/191:100/w_1280,c_limit/Meta-Paid-Contractors-to-Pose-as-Children-Security-2268011998.jpg
-    categories:
-      - Security
-      - Security / Security News
-    publishedAt: 2026-06-29T21:49:26.000Z
-    source: WIRED (AI)
-  - title: A simple way to tune wave energy devices for higher efficiency
-    url: https://techxplore.com/news/2026-06-simple-tune-energy-devices-higher.html
-    summary: "Wave energy has long been seen as a promising source of clean
-      electricity. The ocean is always moving, and that motion carries a huge
-      amount of energy. But many wave energy devices have one important
-      limitation: They do not naturally move in sync with ocean waves. When that
-      happens, they capture less power."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-simple-way-to-tune-w.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-06-29T21:00:05.000Z
-    source: TechXplore — Engineering
   - title: "Designed to tempt: How mini AI lines up carrots to look their best"
     url: https://techxplore.com/news/2026-06-mini-ai-lines-carrots.html
     summary: "The researchers teach the packaging machine what is up and down on a
@@ -71,21 +94,6 @@ articles:
       - Robotics
     publishedAt: 2026-06-29T20:40:10.000Z
     source: TechXplore — Robotics
-  - title: "Inaugural Music Technology Research Showcase celebrates work of new
-      graduate program’s initial students "
-    url: https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629
-    summary: The MIT Music Technology and Computation (MTC) Graduate Program —
-      launched in fall 2024 as a collaboration between the Music and Theater
-      Arts Section in the School of Humanities, Arts, and Social Sciences
-      (SHASS), and the School of Engineering (SoE) — presented its inaugural MIT
-      Music Technology Research Showcase on May 13. The event played to a
-      standing room-only house in the Edward and Joyce Linde Music Building’s
-      Thomas Tull Concert Hall and featured diverse and captivating research
-      presentations and music performances.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-music-tech-showcase.jpg?itok=viJf9zsW
-    categories: []
-    publishedAt: 2026-06-29T19:00:00.000Z
-    source: MIT Artificial Intelligence
   - title: Dark web survey reveals Tor is smaller, shakier and more duplicated than
       expected
     url: https://techxplore.com/news/2026-06-dark-web-survey-reveals-tor.html
@@ -116,31 +124,7 @@ articles:
       - Robot-videos
       - Firefighting-robots
     publishedAt: 2026-06-26T16:30:01.000Z
-    source: IEEE Spectrum — Automaton (Robotics blog)
-  - title: LLMs help robots understand vague instructions and focus on key details
-    url: https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626
-    summary: "Imagine working at a warehouse or office sometime in the near future,
-      and you’re asked to help a new trainee learn the basics of their job. The
-      catch: It’s a robot. To teach them, you might want to play a game of “show
-      and tell” — that is, physically showing how to do something a few
-      different ways, while also explaining what you’re doing."
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-csail-Masked-RL.jpg?itok=AWLkvb-L
-    categories: []
-    publishedAt: 2026-06-26T13:00:00.000Z
-    source: MIT Robotics
-  - title: Why Does a Bank Need a Chief Scientist?
-    url: https://spectrum.ieee.org/capital-one-science-ai-finance-innovation
-    summary: This article is brought to you by Capital One.
-    imageUrl: https://spectrum.ieee.org/media-library/silhouetted-team-working-on-laptops-in-a-glass-walled-office-at-sunset.jpg?id=66903903&width=1245&height=700&coordinates=9%2C0%2C9%2C0
-    categories:
-      - Ai-research
-      - Agentic-ai
-      - Financial-services
-      - Tech-careers
-      - Type-sponsored
-      - Financial-technology
-    publishedAt: 2026-06-25T17:32:32.000Z
-    source: IEEE Spectrum — Computing & Chips
+    source: IEEE Spectrum — Robotics
   - title: Make an Origami Circuit Board
     url: https://spectrum.ieee.org/origami-circuit-boards
     summary: What could you do if you could make a circuit trace by just bending a
@@ -148,8 +132,8 @@ articles:
       handicrafts while providing opportunities for learning skills in both.
     imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1245&height=700&coordinates=0%2C469%2C0%2C470
     categories:
-      - Typedepartments
       - Origami
+      - Type-departments
     publishedAt: 2026-06-24T14:00:01.000Z
     source: IEEE Spectrum — DIY
   - title: NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in
