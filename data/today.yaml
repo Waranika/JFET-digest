@@ -1,30 +1,94 @@
-date: 2026-07-01
+date: 2026-07-02
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: US govt lifts restrictions on powerful AI models, Anthropic says
-    url: https://techxplore.com/news/2026-07-govt-restrictions-powerful-ai-anthropic.html
-    summary: Anthropic will soon begin restoring access globally to its most
-      powerful AI models, Fable 5 and Mythos 5, after the U.S. government lifted
-      a restriction on where they could be released, the company said Tuesday.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/us-artificial-intellig.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-07-01T06:20:04.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: LiDAR approach could change factory inspections for tiny hard-to-reach
-      parts
-    url: https://techxplore.com/news/2026-06-lidar-approach-factory-tiny-hard.html
-    summary: Researchers have developed a new LiDAR approach that makes it possible
-      to image small objects with much greater precision and accuracy than
-      conventional LiDAR. The method could be useful for acquiring noncontact
-      measurements of critical parts or features during manufacturing.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/lidar-imaging-method-d.jpg
+  - title: Physicists create sensor that detects and locates radiation with precision
+    url: https://techxplore.com/news/2026-07-physicists-sensor-precision.html
+    summary: Scientists from the Faculty of Physics at Vilnius University (VU) have
+      developed a sensor capable of accurately detecting radiation, identifying
+      its sources, and determining its intensity and precise location. The
+      device, developed by physicists at the Institute of Photonics and
+      Nanotechnology, Photoelectric Phenomena Research Group, can detect doses
+      ranging from very small to very large, including those typical of
+      industrial environments or nuclear emergencies, from a few gray to
+      megagray.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/physicists-create-sens-1.jpg
     categories:
       - Engineering
-    publishedAt: 2026-06-30T18:00:02.000Z
+    publishedAt: 2026-07-02T00:00:02.000Z
     source: TechXplore — Engineering
+  - title: Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial
+      Earthquake?
+    url: https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/
+    summary: Fans’ euphoric reactions to the Mexican national team’s recent victory
+      in the 2026 World Cup caused a series of unusual vibrations that were
+      detected by seismic warning systems.
+    imageUrl: https://media.wired.com/photos/6a4578b359073610a9b6b035/191:100/w_1280,c_limit/seleccionnacional.jpg
+    categories:
+      - Science
+    publishedAt: 2026-07-01T21:34:03.000Z
+    source: WIRED science
+  - title: "Why AI fiction still feels flat: New test shows characters lack mystery
+      and complexity"
+    url: https://techxplore.com/news/2026-07-ai-fiction-flat-characters-lack.html
+    summary: "Researchers at the University of North Carolina at Chapel Hill have
+      found that while artificial intelligence can spin increasingly convincing
+      stories, its characters may still lack one of the qualities that make
+      human-written fiction memorable: mystery."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-writer.jpg
+    categories:
+      - Consumer & Gadgets
+    publishedAt: 2026-07-01T21:20:07.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: "MIT in the media: Innovating and educating for the next 250 years of
+      America"
+    url: https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america
+    summary: Without federal support for curiosity-driven research, the innovation
+      and talent pipeline that has helped ensure our nation’s prosperity and
+      safety could run dry, warned President Sally Kornbluth during a Washington
+      Post Live event.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/WP%20Live.png?itok=J4GyDMKj
+    categories: []
+    publishedAt: 2026-07-01T20:30:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Goose, a New Gay Dating App, Appears to Be a Psyop
+    url: https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/
+    summary: Touted as a less-hookup-focused Grindr, Goose is an invite-only space
+      for gay men. The problem is the people promoting it don’t seem real.
+    imageUrl: https://media.wired.com/photos/6a457cf259073610a9b6b04c/191:100/w_1280,c_limit/Goose-New-Gay-Dating-App-Appears-to-Be-Psyop-Culture-86489432.jpg
+    categories:
+      - Culture
+      - Culture / Digital Culture
+    publishedAt: 2026-07-01T20:28:57.000Z
+    source: WIRED (AI)
+  - title: Horror-movie cue inspires wearable that turns robot movements into
+      warning music
+    url: https://techxplore.com/news/2026-07-horror-movie-cue-wearable-robot.html
+    summary: "In horror movies, music is a dead giveaway. Tension builds with each
+      note, and you brace for the inevitable jump scare. The same sense of
+      anticipation has taken a leading role in an unlikely venue: a Georgia Tech
+      robotics lab."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/taking-a-cue-from-horr.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-07-01T18:40:01.000Z
+    source: TechXplore — Robotics
+  - title: As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering
+      Collaboration
+    url: https://spectrum.ieee.org/ai-energy-systems-melbourne
+    summary: This article is brought to you by Melbourne Convention Bureau (MCB)
+      supported by Business Events Australia.
+    imageUrl: https://spectrum.ieee.org/media-library/glowing-digital-network-map-of-australia-and-surrounding-asia-pacific-region.png?id=66945530&width=1245&height=700&coordinates=0%2C0%2C0%2C1
+    categories:
+      - Artificial-intelligence
+      - Australia
+      - Energy-systems
+      - University-of-melbourne
+      - Ai-data-centers
+      - Power-grid
+    publishedAt: 2026-07-01T16:01:27.000Z
+    source: IEEE Spectrum — Computing & Chips
   - title: MIT student teams win top honors in NASA competition
     url: https://news.mit.edu/2026/interdisciplinary-mit-teams-win-top-honors-nasa-competition-0630
     summary: Three teams comprising 35 students across eight different MIT
@@ -37,40 +101,6 @@ articles:
     categories: []
     publishedAt: 2026-06-30T17:30:00.000Z
     source: MIT Robotics
-  - title: "Q&A: What is agentic AI today, and what do we want it to be?"
-    url: https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630
-    summary: The deployment of automated software systems called AI agents has
-      recently exploded. A November 2025 report by MIT Sloan School of
-      Management and Boston Consulting Group found that 35 percent of surveyed
-      businesses had already deployed AI agents, while another 44 percent
-      planned to implement agentic AI soon.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT-3QAgenticAI-01.jpg?itok=CCI-vFri
-    categories: []
-    publishedAt: 2026-06-30T15:30:00.000Z
-    source: MIT Artificial Intelligence
-  - title: New York Is About to Feel Hotter Than Phoenix
-    url: https://www.wired.com/story/new-york-about-feel-hotter-than-phoenix/
-    summary: Extreme heat coupled with humidity will make it feel like 109 degrees
-      Fahrenheit as the holiday weekend approaches.
-    imageUrl: https://media.wired.com/photos/6a4304a19ec6fcabfa38b311/191:100/w_1280,c_limit/New-York-Is-About-to-Fee-Hotter-Than-Phoenix-Science-1012325148.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-06-30T15:18:08.000Z
-    source: WIRED science
-  - title: Emily Bender Sets the Record Straight on “Stochastic Parrots”
-    url: https://spectrum.ieee.org/stochastic-parrot
-    summary: "In March 2021, a group of four linguists and computer scientists
-      published their now legendary paper “On the Dangers of Stochastic Parrots:
-      Can Language Models Be Too Big? 🦜”"
-    imageUrl: https://spectrum.ieee.org/media-library/collage-of-a-white-brunette-woman-against-a-background-with-two-abstract-parrots-composed-of-coding-slashes.jpg?id=67050137&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Emily-bender
-      - Large-language-models
-      - Llms
-      - Ai-ethics
-    publishedAt: 2026-06-30T14:00:02.000Z
-    source: IEEE Spectrum — AI
   - title: Millions of exploding stars could soon reveal dark energy's secrets
     url: https://www.sciencedaily.com/releases/2026/06/260621060315.htm
     summary: A new AI-powered framework could transform how astronomers measure the
@@ -83,17 +113,6 @@ articles:
     categories: []
     publishedAt: 2026-06-29T21:57:17.000Z
     source: ScienceDaily — Robotics
-  - title: "Designed to tempt: How mini AI lines up carrots to look their best"
-    url: https://techxplore.com/news/2026-06-mini-ai-lines-carrots.html
-    summary: "The researchers teach the packaging machine what is up and down on a
-      snack carrot. The program runs on a small, local PC—not on huge servers in
-      some faraway cloud. The goal: to pack quickly, cheaply and attractively—so
-      that consumers like us are tempted by locally sourced, healthy snacks."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/designed-to-tempt-how-1.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-06-29T20:40:10.000Z
-    source: TechXplore — Robotics
   - title: Dark web survey reveals Tor is smaller, shakier and more duplicated than
       expected
     url: https://techxplore.com/news/2026-06-dark-web-survey-reveals-tor.html
@@ -115,7 +134,7 @@ articles:
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=1245&height=700&coordinates=0%2C0%2C0%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=1200&height=800&coordinates=100%2C0%2C100%2C0
     categories:
       - Humanoid-robots
       - Video-friday
@@ -124,7 +143,7 @@ articles:
       - Robot-videos
       - Firefighting-robots
     publishedAt: 2026-06-26T16:30:01.000Z
-    source: IEEE Spectrum — Robotics
+    source: IEEE Spectrum — Automaton (Robotics blog)
   - title: Make an Origami Circuit Board
     url: https://spectrum.ieee.org/origami-circuit-boards
     summary: What could you do if you could make a circuit trace by just bending a
