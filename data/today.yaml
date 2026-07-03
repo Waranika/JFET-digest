@@ -1,46 +1,61 @@
-date: 2026-07-02
+date: 2026-07-03
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Physicists create sensor that detects and locates radiation with precision
-    url: https://techxplore.com/news/2026-07-physicists-sensor-precision.html
-    summary: Scientists from the Faculty of Physics at Vilnius University (VU) have
-      developed a sensor capable of accurately detecting radiation, identifying
-      its sources, and determining its intensity and precise location. The
-      device, developed by physicists at the Institute of Photonics and
-      Nanotechnology, Photoelectric Phenomena Research Group, can detect doses
-      ranging from very small to very large, including those typical of
-      industrial environments or nuclear emergencies, from a few gray to
-      megagray.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/physicists-create-sens-1.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-07-02T00:00:02.000Z
-    source: TechXplore — Engineering
-  - title: Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial
-      Earthquake?
-    url: https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/
-    summary: Fans’ euphoric reactions to the Mexican national team’s recent victory
-      in the 2026 World Cup caused a series of unusual vibrations that were
-      detected by seismic warning systems.
-    imageUrl: https://media.wired.com/photos/6a4578b359073610a9b6b035/191:100/w_1280,c_limit/seleccionnacional.jpg
-    categories:
-      - Science
-    publishedAt: 2026-07-01T21:34:03.000Z
-    source: WIRED science
-  - title: "Why AI fiction still feels flat: New test shows characters lack mystery
-      and complexity"
-    url: https://techxplore.com/news/2026-07-ai-fiction-flat-characters-lack.html
-    summary: "Researchers at the University of North Carolina at Chapel Hill have
-      found that while artificial intelligence can spin increasingly convincing
-      stories, its characters may still lack one of the qualities that make
-      human-written fiction memorable: mystery."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-writer.jpg
+  - title: By modeling visual saliency, AI improves ratings of artistic product
+      designs
+    url: https://techxplore.com/news/2026-07-visual-saliency-ai-artistic-product.html
+    summary: Researchers have developed an artificial intelligence (AI) system that
+      evaluates the visual appeal of literary and artistic product designs by
+      mimicking how people naturally direct their attention across an image, a
+      step that could help designers create products that better match consumer
+      preferences. The work was published in the International Journal of
+      Engineering Systems Modelling and Simulation.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-design-for-life.jpg
     categories:
       - Consumer & Gadgets
-    publishedAt: 2026-07-01T21:20:07.000Z
+    publishedAt: 2026-07-03T01:00:01.000Z
     source: TechXplore — AI & Machine Learning
+  - title: New 4D-printing method creates lighter, faster-spinning wind turbine blades
+    url: https://techxplore.com/news/2026-07-4d-method-lighter-faster-turbine.html
+    summary: A new manufacturing technique developed by Concordia researchers could
+      make small wind turbines lighter, less expensive and easier to produce.
+      Using a process known as 4D printing of composites, Ph.D. candidate Emad
+      Fakhimi and Suong Van Hoa, a professor at the Concordia Center for
+      Composites, created curved blades for vertical-axis wind turbines from
+      flat carbon-fiber composite panels. The study is published in the journal
+      Polymer Composites.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-4d-printing-method-1.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-07-02T21:40:07.000Z
+    source: TechXplore — Engineering
+  - title: Giving drones a sense of 'pain' could help them predict instability
+      before it happens
+    url: https://techxplore.com/news/2026-07-drones-pain-instability.html
+    summary: "Imagine you're running and you sprain your ankle. The pain makes you
+      gingerly limp the rest of the way home. This is a great example of how
+      nature adapts to failures in a system. The pain tells you: \"If you
+      continue running like normal, the injury will only get worse.\" So you
+      naturally adjust the way you run. Drones currently cannot do this with a
+      worn-out propeller."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/giving-drones-a-sense.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-07-02T19:00:06.000Z
+    source: TechXplore — Robotics
+  - title: Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside
+      SpaceX?
+    url: https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/
+    summary: Cursor hopes to continue offering third-party AI models after it's
+      acquired by SpaceX, testing the relationships between frontier AI labs.
+    imageUrl: https://media.wired.com/photos/6a45a0b0f1efb2d48b192c77/191:100/w_1280,c_limit/Model-Behavior-Cursor-Will-Keep-Using-Anthropic-OpenAI-Models-After-SpaceX-Deal-Business.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-07-02T18:01:20.000Z
+    source: WIRED (AI)
   - title: "MIT in the media: Innovating and educating for the next 250 years of
       America"
     url: https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america
@@ -52,28 +67,6 @@ articles:
     categories: []
     publishedAt: 2026-07-01T20:30:00.000Z
     source: MIT Artificial Intelligence
-  - title: Goose, a New Gay Dating App, Appears to Be a Psyop
-    url: https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/
-    summary: Touted as a less-hookup-focused Grindr, Goose is an invite-only space
-      for gay men. The problem is the people promoting it don’t seem real.
-    imageUrl: https://media.wired.com/photos/6a457cf259073610a9b6b04c/191:100/w_1280,c_limit/Goose-New-Gay-Dating-App-Appears-to-Be-Psyop-Culture-86489432.jpg
-    categories:
-      - Culture
-      - Culture / Digital Culture
-    publishedAt: 2026-07-01T20:28:57.000Z
-    source: WIRED (AI)
-  - title: Horror-movie cue inspires wearable that turns robot movements into
-      warning music
-    url: https://techxplore.com/news/2026-07-horror-movie-cue-wearable-robot.html
-    summary: "In horror movies, music is a dead giveaway. Tension builds with each
-      note, and you brace for the inevitable jump scare. The same sense of
-      anticipation has taken a leading role in an unlikely venue: a Georgia Tech
-      robotics lab."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/taking-a-cue-from-horr.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-07-01T18:40:01.000Z
-    source: TechXplore — Robotics
   - title: As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering
       Collaboration
     url: https://spectrum.ieee.org/ai-energy-systems-melbourne
@@ -134,7 +127,7 @@ articles:
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=1200&height=800&coordinates=100%2C0%2C100%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=1245&height=700&coordinates=0%2C0%2C0%2C0
     categories:
       - Humanoid-robots
       - Video-friday
