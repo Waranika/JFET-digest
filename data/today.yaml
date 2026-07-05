@@ -1,61 +1,97 @@
-date: 2026-07-03
+date: 2026-07-05
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: By modeling visual saliency, AI improves ratings of artistic product
-      designs
-    url: https://techxplore.com/news/2026-07-visual-saliency-ai-artistic-product.html
-    summary: Researchers have developed an artificial intelligence (AI) system that
-      evaluates the visual appeal of literary and artistic product designs by
-      mimicking how people naturally direct their attention across an image, a
-      step that could help designers create products that better match consumer
-      preferences. The work was published in the International Journal of
-      Engineering Systems Modelling and Simulation.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-design-for-life.jpg
+  - title: Food Preservatives May Increase the Risk of High Blood Pressure and
+      Cardiovascular Disease
+    url: https://www.wired.com/story/food-preservatives-may-increase-the-risk-of-high-blood-pressure-and-cardiovascular-disease/
+    summary: Aa large-scale study demonstrates that preservatives widely used in
+      everyday processed foods may exacerbate common health risks.
+    imageUrl: https://media.wired.com/photos/6a4570f1dae48c15b88ce83f/191:100/w_1280,c_limit/2269394826
     categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-07-03T01:00:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: New 4D-printing method creates lighter, faster-spinning wind turbine blades
-    url: https://techxplore.com/news/2026-07-4d-method-lighter-faster-turbine.html
-    summary: A new manufacturing technique developed by Concordia researchers could
-      make small wind turbines lighter, less expensive and easier to produce.
-      Using a process known as 4D printing of composites, Ph.D. candidate Emad
-      Fakhimi and Suong Van Hoa, a professor at the Concordia Center for
-      Composites, created curved blades for vertical-axis wind turbines from
-      flat carbon-fiber composite panels. The study is published in the journal
-      Polymer Composites.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-4d-printing-method-1.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-07-02T21:40:07.000Z
-    source: TechXplore — Engineering
-  - title: Giving drones a sense of 'pain' could help them predict instability
-      before it happens
-    url: https://techxplore.com/news/2026-07-drones-pain-instability.html
-    summary: "Imagine you're running and you sprain your ankle. The pain makes you
-      gingerly limp the rest of the way home. This is a great example of how
-      nature adapts to failures in a system. The pain tells you: \"If you
-      continue running like normal, the injury will only get worse.\" So you
-      naturally adjust the way you run. Drones currently cannot do this with a
-      worn-out propeller."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/giving-drones-a-sense.jpg
+      - Science
+      - Science / Health
+    publishedAt: 2026-07-04T09:30:00.000Z
+    source: WIRED science
+  - title: Robots can now 'see' touch thanks to a new color-changing tactile sensor
+    url: https://techxplore.com/news/2026-07-robots-tactile-sensor.html
+    summary: Engineers at Queen Mary University of London have built a new
+      color-changing tactile sensor, which allows robots to "see" and touch in
+      real-time. The novel idea was invented by Giacomo Sasso, a postdoctoral
+      researcher at the School of Engineering and Materials Science at Queen
+      Mary University of London, and it works by transforming invisible forces
+      into dynamic color patterns. This enables high-resolution maps of contact,
+      strain and pressure to emerge instantly.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/robots-can-now-see-tou.jpg
     categories:
       - Robotics
-    publishedAt: 2026-07-02T19:00:06.000Z
-    source: TechXplore — Robotics
-  - title: Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside
-      SpaceX?
-    url: https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/
-    summary: Cursor hopes to continue offering third-party AI models after it's
-      acquired by SpaceX, testing the relationships between frontier AI labs.
-    imageUrl: https://media.wired.com/photos/6a45a0b0f1efb2d48b192c77/191:100/w_1280,c_limit/Model-Behavior-Cursor-Will-Keep-Using-Anthropic-OpenAI-Models-After-SpaceX-Deal-Business.jpg
+    publishedAt: 2026-07-03T18:00:01.000Z
+    source: TechXplore — Engineering
+  - title: Google DeepMind Unionization Talks Are Off to a Rocky Start
+    url: https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/
+    summary: During negotiations on Wednesday, employees voiced frustrations with
+      what they consider an unwillingness among executives to engage
+      meaningfully with the prospect of unionization.
+    imageUrl: https://media.wired.com/photos/6a47cb0ef78eee0a42c7fd67/191:100/w_1280,c_limit/GettyImages-2273112054.jpg
     categories:
       - Business
+      - Business / Big Tech
       - Business / Artificial Intelligence
-    publishedAt: 2026-07-02T18:01:20.000Z
+    publishedAt: 2026-07-03T16:30:00.000Z
     source: WIRED (AI)
+  - title: "Video Friday: An Earthbound Mars Rover for the Moon"
+    url: https://spectrum.ieee.org/video-friday-nasa-lunar-rover
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/mars-style-rover-prototype-on-rugged-ground-under-a-clear-sky-with-the-moon-visible.png?id=67083121&width=1245&height=700&coordinates=0%2C0%2C0%2C0
+    categories:
+      - Video-friday
+      - Home-robots
+      - Rovers
+      - Humanoids
+    publishedAt: 2026-07-03T15:00:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: AI’s Volatile Power Use Quietly Tests Grid Limits
+    url: https://spectrum.ieee.org/data-centers-grid-instability
+    summary: "The rapid expansion of artificial intelligence infrastructure is
+      typically framed as an energy problem. Data centers are projected to
+      consume a growing share of global electricity demand: The International
+      Energy Agency estimates they could account for 3 to 4 percent of total
+      global consumption within this decade."
+    imageUrl: https://spectrum.ieee.org/media-library/aerial-view-of-a-large-industrial-complex-near-housing-and-power-lines-in-autumn.jpg?id=67080460&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Data-centers
+      - Artificial-intelligence
+      - Electrical-grid
+      - Demand-response
+    publishedAt: 2026-07-03T12:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: Move over, Messi! Robot footballers thrill crowds in South Korea
+    url: https://techxplore.com/news/2026-07-messi-robot-footballers-thrill-crowds.html
+    summary: Thirty seconds before kick-off, humanoid robot footballers in red and
+      blue jerseys await the referee's signal in the South Korean port city of
+      Incheon.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/visitors-said-watching.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-07-03T11:48:36.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Tiny magnetic waves could unlock quantum computers the size of a penny
+    url: https://www.sciencedaily.com/releases/2026/06/260626030431.htm
+    summary: A major breakthrough in quantum technology has turned magnons, tiny
+      magnetic waves once considered too short-lived for practical use, into
+      promising carriers of quantum information. Researchers extended their
+      lifetime by nearly 100 times, reaching up to 18 microseconds, and
+      discovered that the main limitation is not a law of physics but the purity
+      of the material itself. That means future improvements could come from
+      better manufacturing rather than entirely new discoveries.
+    imageUrl: https://www.sciencedaily.com/images/1920/twisted-quantum-material-computer-technology.webp
+    categories: []
+    publishedAt: 2026-07-02T06:48:14.000Z
+    source: ScienceDaily — Computer Science
   - title: "MIT in the media: Innovating and educating for the next 250 years of
       America"
     url: https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america
@@ -72,7 +108,7 @@ articles:
     url: https://spectrum.ieee.org/ai-energy-systems-melbourne
     summary: This article is brought to you by Melbourne Convention Bureau (MCB)
       supported by Business Events Australia.
-    imageUrl: https://spectrum.ieee.org/media-library/glowing-digital-network-map-of-australia-and-surrounding-asia-pacific-region.png?id=66945530&width=1245&height=700&coordinates=0%2C0%2C0%2C1
+    imageUrl: https://spectrum.ieee.org/media-library/glowing-digital-network-map-of-australia-and-surrounding-asia-pacific-region.png?id=66945530&width=1200&height=800&coordinates=58%2C0%2C59%2C0
     categories:
       - Artificial-intelligence
       - Australia
@@ -121,28 +157,12 @@ articles:
       - Internet
     publishedAt: 2026-06-29T14:20:06.000Z
     source: TechXplore — Computer Science
-  - title: "Video Friday: Give Robots a Hand"
-    url: https://spectrum.ieee.org/video-friday-robot-grippers
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=1245&height=700&coordinates=0%2C0%2C0%2C0
-    categories:
-      - Humanoid-robots
-      - Video-friday
-      - Robot-hands
-      - Quadruped-robots
-      - Robot-videos
-      - Firefighting-robots
-    publishedAt: 2026-06-26T16:30:01.000Z
-    source: IEEE Spectrum — Automaton (Robotics blog)
   - title: Make an Origami Circuit Board
     url: https://spectrum.ieee.org/origami-circuit-boards
     summary: What could you do if you could make a circuit trace by just bending a
       piece of paper? How about bridging modern technologies and traditional
       handicrafts while providing opportunities for learning skills in both.
-    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1245&height=700&coordinates=0%2C469%2C0%2C470
+    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1200&height=800&coordinates=0%2C365%2C0%2C366
     categories:
       - Origami
       - Type-departments
@@ -160,18 +180,6 @@ articles:
     categories: []
     publishedAt: 2026-06-23T04:45:34.000Z
     source: ScienceDaily — Engineering
-  - title: SpaceX wants to build AI data centers in space. Will it work?
-    url: https://www.sciencedaily.com/releases/2026/06/260618041501.htm
-    summary: The race to build data centers in space is gaining momentum as AI
-      drives unprecedented demand for computing power. Orbital facilities could
-      tap into abundant solar energy and avoid many of the environmental
-      challenges faced on Earth. Yet space remains a harsh and expensive place
-      to operate, with major hurdles including cooling, maintenance, radiation
-      exposure, and orbital debris.
-    imageUrl: https://www.sciencedaily.com/images/1920/spacecraft-satellite-orbiting-earth.webp
-    categories: []
-    publishedAt: 2026-06-19T03:43:09.000Z
-    source: ScienceDaily — Computer Science
   - title: QS ranks MIT the world’s No. 1 university for 2026-27
     url: https://news.mit.edu/2026/qs-ranks-mit-worlds-no-1-university-0617
     summary: MIT has again been named the world’s top university by the QS World
