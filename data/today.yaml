@@ -1,18 +1,39 @@
-date: 2026-07-05
+date: 2026-07-06
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Food Preservatives May Increase the Risk of High Blood Pressure and
-      Cardiovascular Disease
-    url: https://www.wired.com/story/food-preservatives-may-increase-the-risk-of-high-blood-pressure-and-cardiovascular-disease/
-    summary: Aa large-scale study demonstrates that preservatives widely used in
-      everyday processed foods may exacerbate common health risks.
-    imageUrl: https://media.wired.com/photos/6a4570f1dae48c15b88ce83f/191:100/w_1280,c_limit/2269394826
+  - title: "World must not let AI 'vibe-code' humanity's future: UN chief"
+    url: https://techxplore.com/news/2026-07-world-ai-vibe-code-humanity.html
+    summary: The United Nations chief called Monday for a global governance system
+      to shape artificial intelligence for the good of humanity, warning against
+      allowing the technology itself to "vibe-code" our future.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/artificial-intelligenc-1.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-07-06T08:20:04.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Quantum mechanics once baffled scientists. Now it's changing the world
+    url: https://www.sciencedaily.com/releases/2026/06/260624025516.htm
+    summary: Quantum mechanics has journeyed from a strange and controversial idea
+      to the foundation of some of humanity’s most advanced technologies. Now
+      researchers are pushing its boundaries even further, with potential
+      breakthroughs in energy, medicine, computing, and our understanding of the
+      universe.
+    imageUrl: https://www.sciencedaily.com/images/1920/majorana-qubits-quantum-entanglement.webp
+    categories: []
+    publishedAt: 2026-07-05T18:13:44.000Z
+    source: ScienceDaily — Engineering
+  - title: Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your
+      Town
+    url: https://www.wired.com/story/prediction-markets-let-you-bet-wildfire/
+    summary: Wildfire survivors call fire-prediction markets “morally reprehensible”
+      and worry they could increase the risk of arson.
+    imageUrl: https://media.wired.com/photos/6a46b606a501cf42d472ee9a/191:100/w_1280,c_limit/S062626-fire-prediction-3.jpg
     categories:
       - Science
-      - Science / Health
-    publishedAt: 2026-07-04T09:30:00.000Z
+      - Science / Environment
+    publishedAt: 2026-07-05T11:00:00.000Z
     source: WIRED science
   - title: Robots can now 'see' touch thanks to a new color-changing tactile sensor
     url: https://techxplore.com/news/2026-07-robots-tactile-sensor.html
@@ -69,16 +90,6 @@ articles:
       - Demand-response
     publishedAt: 2026-07-03T12:00:01.000Z
     source: IEEE Spectrum — AI
-  - title: Move over, Messi! Robot footballers thrill crowds in South Korea
-    url: https://techxplore.com/news/2026-07-messi-robot-footballers-thrill-crowds.html
-    summary: Thirty seconds before kick-off, humanoid robot footballers in red and
-      blue jerseys await the referee's signal in the South Korean port city of
-      Incheon.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/visitors-said-watching.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-07-03T11:48:36.000Z
-    source: TechXplore — AI & Machine Learning
   - title: Tiny magnetic waves could unlock quantum computers the size of a penny
     url: https://www.sciencedaily.com/releases/2026/06/260626030431.htm
     summary: A major breakthrough in quantum technology has turned magnons, tiny
@@ -168,18 +179,6 @@ articles:
       - Type-departments
     publishedAt: 2026-06-24T14:00:01.000Z
     source: IEEE Spectrum — DIY
-  - title: NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in
-      space
-    url: https://www.sciencedaily.com/releases/2026/06/260622091507.htm
-    summary: NASA’s upgraded Cold Atom Lab is turning the International Space
-      Station into a frontier for quantum research, creating ultra-cold matter
-      that behaves in astonishing ways. The experiments could unlock new
-      discoveries about the universe while paving the way for powerful future
-      technologies in space and on Earth.
-    imageUrl: https://www.sciencedaily.com/images/1920/nasa-cold-atom-lab-ultracold-bubbles-on-space-station.webp
-    categories: []
-    publishedAt: 2026-06-23T04:45:34.000Z
-    source: ScienceDaily — Engineering
   - title: QS ranks MIT the world’s No. 1 university for 2026-27
     url: https://news.mit.edu/2026/qs-ranks-mit-worlds-no-1-university-0617
     summary: MIT has again been named the world’s top university by the QS World
