@@ -1,89 +1,159 @@
-date: 2026-07-07
+date: 2026-07-13
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Toward a future that preserves benefits of neurotechnology for all
-    url: https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706
-    summary: As advanced medical technology gets closer to hitting consumer markets,
-      the need for guardrails on protected usage should increase. What might
-      begin as a neural implant to aid in communication could become a device
-      used to police one’s innermost thoughts.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-SERC-Prize.JPG?itok=ARDkgV-T
+  - title: New method aims to keep kids safe from illegal AI-generated content
+    url: https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713
+    summary: With the exploding popularity of generative artificial intelligence,
+      many open-source models are now available online for anyone to adapt for
+      their task, such as generating product renderings in a certain artistic
+      style.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-Nongenerative-Assessment-01-press.jpg?itok=vUcnqySk
     categories: []
-    publishedAt: 2026-07-06T19:50:00.000Z
+    publishedAt: 2026-07-13T04:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: Oxide-based chip element merges processing and memory, advancing
-      neuromorphic computing
-    url: https://techxplore.com/news/2026-07-oxide-based-chip-element-merges.html
-    summary: Neuromorphic computing is a computational paradigm that mimics the way
-      the brain functions in terms of both architecture and dynamics. It creates
-      electronic circuits that store and process information in an integrated
-      manner, similar to networks of neurons and synapses.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-device-advances-co.jpg
+  - title: New soft sensor can turn touch into robotic action without electronics
+    url: https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html
+    summary: Built from flexible, compliant materials, soft robots are gaining
+      relevance for tasks ranging from minimally invasive surgery to deep-sea
+      exploration but remain held back by a fundamental constraint. To sense
+      their surroundings and react, most soft robots rely on separate electronic
+      sensors, signal-processing circuits and powered actuators, all coordinated
+      by computers. This chain of components adds weight, complexity and points
+      of failure, particularly in wet, hot or high-pressure settings where
+      electronics are highly susceptible to disruption.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/nus-cde-researchers-de-8.jpg
     categories:
-      - Engineering
-    publishedAt: 2026-07-06T19:20:05.000Z
-    source: TechXplore — Engineering
-  - title: "AI as a listening ear: Helpful or risky?"
-    url: https://techxplore.com/news/2026-07-ai-ear-risky.html
-    summary: "More and more people are turning to AI when they feel stressed or
-      worried. Researchers at Leiden University studied how and why people use
-      chatbots for emotional support. Their conclusion: AI meets a real need,
-      but also raises serious concerns."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-as-a-listening-ear.jpg
-    categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-07-06T18:40:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Small AI Models Gain Traction Around the World
-    url: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals
-    summary: "One morning in 2019, Adebayo Alonge was in a Cape Town hotel room,
-      preparing to demonstrate his startup’s AI answer to a serious problem in
-      African health care: counterfeit medication, which kills thousands of
-      people across the continent every year."
-    imageUrl: https://spectrum.ieee.org/media-library/a-middle-aged-man-monitors-his-younger-colleague-through-a-simulator-lab-window-as-he-conducts-heart-rhythm-experiments-on-a-med.jpg?id=67101131&width=1245&height=700&coordinates=0%2C469%2C0%2C469
-    categories:
-      - Small-language-models
-      - Artificial-intelligence
-      - Llms
-    publishedAt: 2026-07-06T16:06:23.000Z
-    source: IEEE Spectrum — AI
-  - title: Seven years of testing exposed hidden trade-offs in MLB's AI strike zone
-    url: https://techxplore.com/news/2026-07-years-exposed-hidden-offs-mlb.html
-    summary: Training artificial intelligence to enforce even seemingly
-      straightforward rules—like balls and strikes in Major League Baseball
-      (MLB)—is a messy, dynamic process that takes time and careful evaluation
-      of the technology in the wild, according to new Cornell research.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/inside-baseball-ai-ena.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-07-06T15:00:02.000Z
-    source: TechXplore — Computer Science
-  - title: The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting
-      Their Socks
-    url: https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/
-    summary: Holes in socks have become a curious sight at this year’s World Cup.
-      The reasons why are a weird mix of biomechanics, perception, and player
-      habits.
-    imageUrl: https://media.wired.com/photos/6a4bb2899a04d6f37d84ef36/191:100/w_1280,c_limit/GettyImages-2166320719.jpg
+      - Robotics
+    publishedAt: 2026-07-12T15:20:01.000Z
+    source: TechXplore — Robotics
+  - title: Physicists recreate black hole energy extraction in the lab
+    url: https://www.sciencedaily.com/releases/2026/07/260711010120.htm
+    summary: Researchers have recreated the physics of extracting energy from a
+      spinning black hole using a stationary device that produces synthetic
+      ultrafast rotation. The achievement transforms a long-standing theoretical
+      idea into a practical experiment and could inspire new advances in optics,
+      wireless communications, and quantum science.
+    imageUrl: https://www.sciencedaily.com/images/1920/penrose-super-radiance-artwork.webp
+    categories: []
+    publishedAt: 2026-07-12T12:28:41.000Z
+    source: ScienceDaily — Engineering
+  - title: Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New
+      Peptides
+    url: https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/
+    summary: Researchers cobbled together funding and time to show how quantum
+      computing could aid in the development of drugs to help underserved
+      populations and combat rare diseases.
+    imageUrl: https://media.wired.com/photos/6a50c6b5d12b964679cc91a9/191:100/w_1280,c_limit/Quantum%20Computing.jpg
     categories:
       - Science
-    publishedAt: 2026-07-06T14:50:52.000Z
-    source: WIRED science
-  - title: "VHF Propagation: What Every RF Engineer Should Know"
-    url: https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/
-    summary: A practical educational guide to common and uncommon VHF propagation
-      modes, covering the physics, range implications, and real-world behaviors
-      engineers need to understand.
-    imageUrl: https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-slogan-make-ideas-real-and-rs-monogram-in-diamond.png?id=67100642&width=980
+      - Science / Biotech
+    publishedAt: 2026-07-12T10:00:00.000Z
+    source: WIRED (AI)
+  - title: New test measures how well humanoid robots handle real-world forces
+    url: https://techxplore.com/news/2026-07-humanoid-robots-real-world.html
+    summary: As technology advances, more is expected from humanoid robots. What
+      were once seen as gimmicks that could walk, if not like us, then close to
+      it, are now pulling their weight and doing more work in places like
+      factories. They are being developed for real work, such as carrying heavy
+      boxes, pushing furniture, pulling heavy objects and wiping tables.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-test-measures-how.jpg
     categories:
-      - Vhf
-      - Type-whitepaper
-      - Propagation
-      - Wireless-communication
-    publishedAt: 2026-07-06T13:54:01.000Z
+      - Robotics
+    publishedAt: 2026-07-11T16:00:01.000Z
+    source: TechXplore — Engineering
+  - title: Music industry launches AI-generated content labels
+    url: https://techxplore.com/news/2026-07-music-industry-ai-generated-content.html
+    summary: Several major music industry organizations on Friday unveiled a
+      labeling system for content created with generative artificial
+      intelligence that they would like to see widely adopted.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/british-artist-harry-y.jpg
+    categories:
+      - Internet
+    publishedAt: 2026-07-11T07:50:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: "Video Friday: A World Cup for Robots"
+    url: https://spectrum.ieee.org/video-friday-robot-world-cup
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=1245&height=700&coordinates=0%2C312%2C0%2C313
+    categories:
+      - Video-friday
+      - Humanoids
+      - Robotics
+      - World-cup
+    publishedAt: 2026-07-10T16:00:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Easier parameter tuning for prediction using echo state networks
+    url: https://techxplore.com/news/2026-07-easier-parameter-tuning-echo-state.html
+    summary: Neural networks, a fascinating technology inspired by the human brain,
+      form the basis of artificial intelligence. These networks consist of
+      layers of interconnected nodes, or artificial neurons, that learn patterns
+      from data and make predictions. For example, large language models
+      generate text by predicting the next word or phrase based on the words
+      that came before it.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/easier-parameter-tunin.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-07-10T15:00:03.000Z
+    source: TechXplore — Computer Science
+  - title: New flapping robot swims and flies like a diving bird
+    url: https://news.mit.edu/2026/new-flapping-robot-swims-and-flies-like-diving-bird-0709
+    summary: Loons, gulls, puffins, and petrels are some of the 100 species of birds
+      that can both fly and swim. These diving birds can plunge in water to swim
+      after prey, and leap back into the air to fly away.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-flapping-robot-01-press.jpg?itok=8PB63O4l
+    categories: []
+    publishedAt: 2026-07-09T18:00:00.000Z
+    source: MIT Robotics
+  - title: Is Optical Scale-Up Finally Approaching?
+    url: https://spectrum.ieee.org/nvlink-fusion-optics
+    summary: Currently, most data centers use both electronic and optical
+      communication protocols, for different tasks. Scale-out networks connect
+      thousands of AI computers across a data center, making optics the obvious
+      choice for long distances. Scale-up networks connect several GPUs inside a
+      single mega-computer or rack, where latency is critical, and dense copper
+      interconnects, such as Nvidia’s NVLink, have long been the engineering
+      solution of choice.
+    imageUrl: https://spectrum.ieee.org/media-library/a-gpu-equipped-with-a-scale-up-interconnect.jpg?id=67114792&width=1245&height=700&coordinates=0%2C156%2C0%2C157
+    categories:
+      - Optical-networking
+      - Data-centers
+      - Nvidia
+      - Gpu
+    publishedAt: 2026-07-09T13:00:01.000Z
     source: IEEE Spectrum — Computing & Chips
+  - title: Large Tabular Models Excel Where LLMs Fail
+    url: https://spectrum.ieee.org/large-tabular-models-nexus
+    summary: "The large language models (LLMs) that form the basis of generative AI
+      chatbots such as ChatGPT, Claude, and Gemini can generate uncannily
+      human-like text and images. But these models still struggle with a skill
+      that, ironically, looks at face value to be right in their wheelhouse:
+      analyzing structured data. A new type of generative AI is set to change
+      this situation."
+    imageUrl: https://spectrum.ieee.org/media-library/three-people-smiling-while-seated-on-a-couch-in-a-casual-office-environment.jpg?id=67114725&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Data-analytics
+      - Llms
+      - Foundation-models
+      - Databases
+    publishedAt: 2026-07-09T12:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: Harvard scientists turn a silicon chip into a DNA writing machine
+    url: https://www.sciencedaily.com/releases/2026/07/260708022202.htm
+    summary: Scientists have created a silicon chip that can write dozens of DNA
+      sequences simultaneously using electricity and water-based enzymes,
+      offering a cleaner alternative to conventional DNA manufacturing. The
+      breakthrough could eventually support portable DNA-writing devices and
+      even massive DNA data storage, although new chemistry will be needed to
+      scale the technology further.
+    imageUrl: https://www.sciencedaily.com/images/1920/chip-dna-writer.webp
+    categories: []
+    publishedAt: 2026-07-09T02:48:06.000Z
+    source: ScienceDaily — Robotics
   - title: Quantum mechanics once baffled scientists. Now it's changing the world
     url: https://www.sciencedaily.com/releases/2026/06/260624025516.htm
     summary: Quantum mechanics has journeyed from a strange and controversial idea
@@ -94,102 +164,15 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/majorana-qubits-quantum-entanglement.webp
     categories: []
     publishedAt: 2026-07-05T18:13:44.000Z
-    source: ScienceDaily — Engineering
-  - title: Japan Pioneered Humanoid Robots—Can It Now Catch China?
-    url: https://spectrum.ieee.org/humanoid-robots-japan
-    summary: “In the future, the relationship between humans and robots will deepen,
-      and the distinction between them will probably disappear.” This
-      prediction, from one of the attendees at the recent Humanoids Summit in
-      Tokyo, might have been unremarkable had it not come directly from an
-      android that was first introduced to the world 20 years ago.
-    imageUrl: https://spectrum.ieee.org/media-library/a-middle-aged-asian-man-seated-next-to-an-uncanny-humanoid-robot-dressed-in-identical-glasses-hair-and-clothing.jpg?id=67080305&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Japan
-      - Robotics
-      - Humanoids
-      - Humanoid-robots
-    publishedAt: 2026-07-04T11:00:01.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Robots can now 'see' touch thanks to a new color-changing tactile sensor
-    url: https://techxplore.com/news/2026-07-robots-tactile-sensor.html
-    summary: Engineers at Queen Mary University of London have built a new
-      color-changing tactile sensor, which allows robots to "see" and touch in
-      real-time. The novel idea was invented by Giacomo Sasso, a postdoctoral
-      researcher at the School of Engineering and Materials Science at Queen
-      Mary University of London, and it works by transforming invisible forces
-      into dynamic color patterns. This enables high-resolution maps of contact,
-      strain and pressure to emerge instantly.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/robots-can-now-see-tou.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-07-03T18:00:01.000Z
-    source: TechXplore — Robotics
-  - title: Google DeepMind Unionization Talks Are Off to a Rocky Start
-    url: https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/
-    summary: During negotiations on Wednesday, employees voiced frustrations with
-      what they consider an unwillingness among executives to engage
-      meaningfully with the prospect of unionization.
-    imageUrl: https://media.wired.com/photos/6a47cb0ef78eee0a42c7fd67/191:100/w_1280,c_limit/GettyImages-2273112054.jpg
-    categories:
-      - Business
-      - Business / Big Tech
-      - Business / Artificial Intelligence
-    publishedAt: 2026-07-03T16:30:00.000Z
-    source: WIRED (AI)
-  - title: Tiny magnetic waves could unlock quantum computers the size of a penny
-    url: https://www.sciencedaily.com/releases/2026/06/260626030431.htm
-    summary: A major breakthrough in quantum technology has turned magnons, tiny
-      magnetic waves once considered too short-lived for practical use, into
-      promising carriers of quantum information. Researchers extended their
-      lifetime by nearly 100 times, reaching up to 18 microseconds, and
-      discovered that the main limitation is not a law of physics but the purity
-      of the material itself. That means future improvements could come from
-      better manufacturing rather than entirely new discoveries.
-    imageUrl: https://www.sciencedaily.com/images/1920/twisted-quantum-material-computer-technology.webp
-    categories: []
-    publishedAt: 2026-07-02T06:48:14.000Z
-    source: ScienceDaily — Computer Science
-  - title: MIT student teams win top honors in NASA competition
-    url: https://news.mit.edu/2026/interdisciplinary-mit-teams-win-top-honors-nasa-competition-0630
-    summary: Three teams comprising 35 students across eight different MIT
-      departments and Wellesley College have been at work since fall 2025,
-      designing critical early infrastructure elements that a moon base would
-      require. This June, their designs were recognized with five awards at
-      NASA’s 2026 Revolutionary Aerospace Systems Concepts — Academic Linkage
-      (RASC-AL) Forum.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-aeroastro-nasa-competition.jpg?itok=GLDg3KQK
-    categories: []
-    publishedAt: 2026-06-30T17:30:00.000Z
-    source: MIT Robotics
-  - title: Millions of exploding stars could soon reveal dark energy's secrets
-    url: https://www.sciencedaily.com/releases/2026/06/260621060315.htm
-    summary: A new AI-powered framework could transform how astronomers measure the
-      expansion of the Universe. By analyzing images of Type Ia supernovae and
-      modeling their environments in unprecedented detail, researchers can
-      estimate cosmic distances with near-spectroscopic accuracy. The technique
-      is designed for the flood of data expected from the upcoming Vera C. Rubin
-      Observatory and may greatly improve our understanding of dark energy.
-    imageUrl: https://www.sciencedaily.com/images/1920/millions-of-exploding-stars.webp
-    categories: []
-    publishedAt: 2026-06-29T21:57:17.000Z
-    source: ScienceDaily — Robotics
+    source: ScienceDaily — Artificial Intelligence
   - title: Make an Origami Circuit Board
     url: https://spectrum.ieee.org/origami-circuit-boards
     summary: What could you do if you could make a circuit trace by just bending a
       piece of paper? How about bridging modern technologies and traditional
       handicrafts while providing opportunities for learning skills in both.
-    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1200&height=800&coordinates=0%2C365%2C0%2C366
+    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1245&height=700&coordinates=0%2C469%2C0%2C470
     categories:
       - Origami
       - Type-departments
     publishedAt: 2026-06-24T14:00:01.000Z
     source: IEEE Spectrum — DIY
-  - title: QS ranks MIT the world’s No. 1 university for 2026-27
-    url: https://news.mit.edu/2026/qs-ranks-mit-worlds-no-1-university-0617
-    summary: MIT has again been named the world’s top university by the QS World
-      University Rankings, which were announced today. This is the 15th year in
-      a row MIT has received this distinction.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT-QSWorld-01-press.jpg?itok=gkeYTZ6p
-    categories: []
-    publishedAt: 2026-06-17T23:01:00.000Z
-    source: MIT Engineering
