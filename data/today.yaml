@@ -1,33 +1,155 @@
-date: 2026-07-13
+date: 2026-07-14
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: New method aims to keep kids safe from illegal AI-generated content
-    url: https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713
-    summary: With the exploding popularity of generative artificial intelligence,
-      many open-source models are now available online for anyone to adapt for
-      their task, such as generating product renderings in a certain artistic
-      style.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-Nongenerative-Assessment-01-press.jpg?itok=vUcnqySk
+  - title: MIT engineers find a precise way to grow artificial blood vessels
+    url: https://news.mit.edu/2026/mit-engineers-find-precise-way-to-grow-artificial-blood-vessels-0714
+    summary: Tissue engineers are finding ways to grow living organs and tissues
+      from cells, with the aim of replacing diseased and damaged counterparts in
+      the body. Scientists have successfully grown artificial muscles, livers,
+      kidneys, skin, and other tissues. But there’s been no reliable way to
+      engineer precisely patterned networks of blood vessels, some of which can
+      be finer than a human hair.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT_Building-Blood%20Vessels-01-press.jpg?itok=9sQeg--H
     categories: []
-    publishedAt: 2026-07-13T04:00:00.000Z
+    publishedAt: 2026-07-14T04:00:00.000Z
+    source: MIT Engineering
+  - title: "Designing high density data centers: Computational fluid dynamics
+      analysis eliminates costly guesswork"
+    url: https://techxplore.com/news/2026-07-high-density-centers-fluid-dynamics.html
+    summary: As data centers and crypto-mining facilities expand to handle growing
+      digital demands, keeping massive banks of servers cool has become a
+      primary operational challenge. To address the energy inefficiencies
+      plaguing these high-density computing spaces, engineering researchers at
+      Lehigh University's Energy Research Center have developed a specialized
+      modeling framework designed to reduce hot spots and improve thermal
+      management.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/data-center-6.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-07-13T22:20:03.000Z
+    source: TechXplore — Engineering
+  - title: Siri AI Is Becoming Apple’s Everything Tool
+    url: https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/
+    summary: Apple’s revamped Siri is more than a voice assistant; it’s now the
+      backbone of the iPhone user experience. You can try it now through the iOS
+      27 public beta.
+    imageUrl: https://media.wired.com/photos/6a55464e20012bbe11800495/191:100/w_1280,c_limit/Siri-Apple-Everything-Tool-Gear-2260718787.jpg
+    categories:
+      - Gear
+      - Gear / Gear News and Events
+      - Gear / Products / Phones
+    publishedAt: 2026-07-13T21:39:09.000Z
+    source: WIRED (AI)
+  - title: How MIT students are helping to prevent cyberattacks
+    url: https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713
+    summary: In May 2019, the government of Baltimore, Maryland, fell into chaos.
+      Cybercriminals had locked the city out of many of its critical files and
+      demanded payment to decrypt them. The city refused to pay ransom. The
+      attack incapacitated a swath of services, including real estate
+      transactions and bill payment, and recovery costs soared into the
+      millions.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-dusp-Cybersecurity-Clinic.jpg?itok=EOIqtxuK
+    categories: []
+    publishedAt: 2026-07-13T19:10:00.000Z
     source: MIT Artificial Intelligence
-  - title: New soft sensor can turn touch into robotic action without electronics
-    url: https://techxplore.com/news/2026-07-soft-sensor-robotic-action-electronics.html
-    summary: Built from flexible, compliant materials, soft robots are gaining
-      relevance for tasks ranging from minimally invasive surgery to deep-sea
-      exploration but remain held back by a fundamental constraint. To sense
-      their surroundings and react, most soft robots rely on separate electronic
-      sensors, signal-processing circuits and powered actuators, all coordinated
-      by computers. This chain of components adds weight, complexity and points
-      of failure, particularly in wet, hot or high-pressure settings where
-      electronics are highly susceptible to disruption.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/nus-cde-researchers-de-8.jpg
+  - title: AI agents create virtual playgrounds to help robots get crucial training
+      data
+    url: https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713
+    summary: Robots walking down the street, surrounded by astounded onlookers, is
+      an increasingly common sight. But these machines aren’t yet the do-it-all
+      assistants you’d want working in a kitchen or factory, and a major
+      bottleneck is data. Much like humans, robots learn best by experience. The
+      challenge is that it’s labor-intensive and time-consuming to physically
+      teach these machines so many actions across different settings. “One
+      natural idea is to use simulation as a training ground. While there has
+      been significant progress over the last few years in the physics engines
+      that power robotics simulators, one of the remaining challenges has been
+      creating sufficiently rich and diverse simulation content to capture the
+      complexity of the real world,” says Russ Tedrake, the Toyota Professor of
+      Electrical Engineering and Computer Science (EECS), Aeronautics and
+      Astronautics, and Mechanical Engineering at MIT, and a principal
+      investigator at MIT’s Computer Science and Artificial Intelligence
+      Laboratory (CSAIL).
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-csail-SceneSmith.gif?itok=glbqc2dd
+    categories: []
+    publishedAt: 2026-07-13T18:50:00.000Z
+    source: MIT Robotics
+  - title: Analysis of 380 trillion AI tokens reveals how the technology is
+      transforming financial markets
+    url: https://techxplore.com/news/2026-07-analysis-trillion-ai-tokens-reveals.html
+    summary: Financial markets are rewarding companies that are well-positioned to
+      benefit from widespread adoption of artificial intelligence (AI) with
+      higher returns, according to a new Yale-led analysis of 380 trillion AI
+      tokens, one of the largest datasets of real-world AI consumption ever
+      studied.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg
+    categories:
+      - Business
+    publishedAt: 2026-07-13T16:40:17.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: "Batter up, bias down: Robot umpires curb favoritism for star hitters"
+    url: https://techxplore.com/news/2026-07-batter-bias-robot-umpires-curb.html
+    summary: When South Korea's professional baseball league introduced "robot
+      umpire" ball-and-strike calls in 2024, famous batters appeared to lose an
+      edge—but star pitchers did not.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/baseball-umpire.jpg
     categories:
       - Robotics
-    publishedAt: 2026-07-12T15:20:01.000Z
+    publishedAt: 2026-07-13T16:20:06.000Z
     source: TechXplore — Robotics
+  - title: The AI Arms Race in Technical Interviews Is Escalating
+    url: https://spectrum.ieee.org/technical-interview-ai-arms-race
+    summary: Software engineering jobs are under threat from AI. Some applicants are
+      fighting back by using AI in the interview process, employing AI
+      assistants that suggest responses on the fly during remote technical
+      interviews.
+    imageUrl: https://spectrum.ieee.org/media-library/photo-collage-of-a-man-and-woman-surrounded-by-silhouettes-that-resemble-video-conferencing-windows.jpg?id=67134825&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Hiring-trends
+      - Interviews
+      - Ai-bias
+      - Software-engineering
+    publishedAt: 2026-07-13T15:15:03.000Z
+    source: IEEE Spectrum — AI
+  - title: Scientists discovered the brain doesn't make decisions the way we thought
+    url: https://www.sciencedaily.com/releases/2026/07/260712011757.htm
+    summary: A new study suggests the brain begins making decisions much earlier
+      than scientists previously thought. Researchers found that even primary
+      sensory regions are influenced by higher brain areas through rapid
+      feedback loops, rather than simply passing information forward. This more
+      dynamic view of brain function could help engineers design future AI
+      systems that think more like biological brains while using far less power.
+    imageUrl: https://www.sciencedaily.com/images/1920/functional-brain-mapping.webp
+    categories: []
+    publishedAt: 2026-07-13T12:12:27.000Z
+    source: ScienceDaily — Robotics
+  - title: Building out the quantum computing toolkit
+    url: https://techxplore.com/news/2026-07-quantum-toolkit.html
+    summary: Quantum computers lack useful functionality without the right
+      algorithms to facilitate their operation. Currently, there are few simple,
+      standardized operations, known as "primitives," in the quantum toolkit
+      that can help deliver the unique quantum behaviors required for such
+      computers to achieve results beyond classical systems.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/quantum-computer.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-07-13T11:40:02.000Z
+    source: TechXplore — Computer Science
+  - title: "VHF Propagation: What Every RF Engineer Should Know"
+    url: https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/
+    summary: A practical educational guide to common and uncommon VHF propagation
+      modes, covering thephysics, range implications, and real-world behaviors
+      engineers need to understand.
+    imageUrl: https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-slogan-make-ideas-real-and-rs-monogram-in-diamond-shape.png?id=67101511&width=980
+    categories:
+      - Type-whitepaper
+      - Vhf-propagation
+      - Line-of-sight
+      - High-frequency
+    publishedAt: 2026-07-13T10:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
   - title: Physicists recreate black hole energy extraction in the lab
     url: https://www.sciencedaily.com/releases/2026/07/260711010120.htm
     summary: Researchers have recreated the physics of extracting energy from a
@@ -50,29 +172,7 @@ articles:
       - Science
       - Science / Biotech
     publishedAt: 2026-07-12T10:00:00.000Z
-    source: WIRED (AI)
-  - title: New test measures how well humanoid robots handle real-world forces
-    url: https://techxplore.com/news/2026-07-humanoid-robots-real-world.html
-    summary: As technology advances, more is expected from humanoid robots. What
-      were once seen as gimmicks that could walk, if not like us, then close to
-      it, are now pulling their weight and doing more work in places like
-      factories. They are being developed for real work, such as carrying heavy
-      boxes, pushing furniture, pulling heavy objects and wiping tables.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-test-measures-how.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-07-11T16:00:01.000Z
-    source: TechXplore — Engineering
-  - title: Music industry launches AI-generated content labels
-    url: https://techxplore.com/news/2026-07-music-industry-ai-generated-content.html
-    summary: Several major music industry organizations on Friday unveiled a
-      labeling system for content created with generative artificial
-      intelligence that they would like to see widely adopted.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/british-artist-harry-y.jpg
-    categories:
-      - Internet
-    publishedAt: 2026-07-11T07:50:01.000Z
-    source: TechXplore — AI & Machine Learning
+    source: WIRED science
   - title: "Video Friday: A World Cup for Robots"
     url: https://spectrum.ieee.org/video-friday-robot-world-cup
     summary: Video Friday is your weekly selection of awesome robotics videos,
@@ -87,61 +187,6 @@ articles:
       - World-cup
     publishedAt: 2026-07-10T16:00:01.000Z
     source: IEEE Spectrum — Robotics
-  - title: Easier parameter tuning for prediction using echo state networks
-    url: https://techxplore.com/news/2026-07-easier-parameter-tuning-echo-state.html
-    summary: Neural networks, a fascinating technology inspired by the human brain,
-      form the basis of artificial intelligence. These networks consist of
-      layers of interconnected nodes, or artificial neurons, that learn patterns
-      from data and make predictions. For example, large language models
-      generate text by predicting the next word or phrase based on the words
-      that came before it.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/easier-parameter-tunin.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-07-10T15:00:03.000Z
-    source: TechXplore — Computer Science
-  - title: New flapping robot swims and flies like a diving bird
-    url: https://news.mit.edu/2026/new-flapping-robot-swims-and-flies-like-diving-bird-0709
-    summary: Loons, gulls, puffins, and petrels are some of the 100 species of birds
-      that can both fly and swim. These diving birds can plunge in water to swim
-      after prey, and leap back into the air to fly away.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-flapping-robot-01-press.jpg?itok=8PB63O4l
-    categories: []
-    publishedAt: 2026-07-09T18:00:00.000Z
-    source: MIT Robotics
-  - title: Is Optical Scale-Up Finally Approaching?
-    url: https://spectrum.ieee.org/nvlink-fusion-optics
-    summary: Currently, most data centers use both electronic and optical
-      communication protocols, for different tasks. Scale-out networks connect
-      thousands of AI computers across a data center, making optics the obvious
-      choice for long distances. Scale-up networks connect several GPUs inside a
-      single mega-computer or rack, where latency is critical, and dense copper
-      interconnects, such as Nvidia’s NVLink, have long been the engineering
-      solution of choice.
-    imageUrl: https://spectrum.ieee.org/media-library/a-gpu-equipped-with-a-scale-up-interconnect.jpg?id=67114792&width=1245&height=700&coordinates=0%2C156%2C0%2C157
-    categories:
-      - Optical-networking
-      - Data-centers
-      - Nvidia
-      - Gpu
-    publishedAt: 2026-07-09T13:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: Large Tabular Models Excel Where LLMs Fail
-    url: https://spectrum.ieee.org/large-tabular-models-nexus
-    summary: "The large language models (LLMs) that form the basis of generative AI
-      chatbots such as ChatGPT, Claude, and Gemini can generate uncannily
-      human-like text and images. But these models still struggle with a skill
-      that, ironically, looks at face value to be right in their wheelhouse:
-      analyzing structured data. A new type of generative AI is set to change
-      this situation."
-    imageUrl: https://spectrum.ieee.org/media-library/three-people-smiling-while-seated-on-a-couch-in-a-casual-office-environment.jpg?id=67114725&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Data-analytics
-      - Llms
-      - Foundation-models
-      - Databases
-    publishedAt: 2026-07-09T12:00:01.000Z
-    source: IEEE Spectrum — AI
   - title: Harvard scientists turn a silicon chip into a DNA writing machine
     url: https://www.sciencedaily.com/releases/2026/07/260708022202.htm
     summary: Scientists have created a silicon chip that can write dozens of DNA
@@ -153,18 +198,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/chip-dna-writer.webp
     categories: []
     publishedAt: 2026-07-09T02:48:06.000Z
-    source: ScienceDaily — Robotics
-  - title: Quantum mechanics once baffled scientists. Now it's changing the world
-    url: https://www.sciencedaily.com/releases/2026/06/260624025516.htm
-    summary: Quantum mechanics has journeyed from a strange and controversial idea
-      to the foundation of some of humanity’s most advanced technologies. Now
-      researchers are pushing its boundaries even further, with potential
-      breakthroughs in energy, medicine, computing, and our understanding of the
-      universe.
-    imageUrl: https://www.sciencedaily.com/images/1920/majorana-qubits-quantum-entanglement.webp
-    categories: []
-    publishedAt: 2026-07-05T18:13:44.000Z
-    source: ScienceDaily — Artificial Intelligence
+    source: ScienceDaily — Computer Science
   - title: Make an Origami Circuit Board
     url: https://spectrum.ieee.org/origami-circuit-boards
     summary: What could you do if you could make a circuit trace by just bending a
