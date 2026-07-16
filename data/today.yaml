@@ -1,155 +1,151 @@
-date: 2026-07-14
+date: 2026-07-16
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: MIT engineers find a precise way to grow artificial blood vessels
-    url: https://news.mit.edu/2026/mit-engineers-find-precise-way-to-grow-artificial-blood-vessels-0714
-    summary: Tissue engineers are finding ways to grow living organs and tissues
-      from cells, with the aim of replacing diseased and damaged counterparts in
-      the body. Scientists have successfully grown artificial muscles, livers,
-      kidneys, skin, and other tissues. But there’s been no reliable way to
-      engineer precisely patterned networks of blood vessels, some of which can
-      be finer than a human hair.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT_Building-Blood%20Vessels-01-press.jpg?itok=9sQeg--H
+  - title: A better way to turn 2D designs into 3D models for rapid prototyping
+    url: https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716
+    summary: Engineers often use vision-language models to produce new designs, such
+      as for airplane or automobile components. To simulate how those components
+      will perform in realistic situations, they’ll use tried-and-true
+      computer-aided design (CAD) software to generate 3D models of those
+      designs, which they can put through virtual crash or durability tests.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-Geometric-Tuning-01-press.jpg?itok=y_aKzkkP
     categories: []
-    publishedAt: 2026-07-14T04:00:00.000Z
-    source: MIT Engineering
-  - title: "Designing high density data centers: Computational fluid dynamics
-      analysis eliminates costly guesswork"
-    url: https://techxplore.com/news/2026-07-high-density-centers-fluid-dynamics.html
-    summary: As data centers and crypto-mining facilities expand to handle growing
-      digital demands, keeping massive banks of servers cool has become a
-      primary operational challenge. To address the energy inefficiencies
-      plaguing these high-density computing spaces, engineering researchers at
-      Lehigh University's Energy Research Center have developed a specialized
-      modeling framework designed to reduce hot spots and improve thermal
-      management.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/data-center-6.jpg
+    publishedAt: 2026-07-16T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Smoke From Canada's Wildfires Turns Skies Sickly Orange Across the
+      Eastern US
+    url: https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/
+    summary: Roughly 100 fires are raging out of control in Ontario, sending smoke
+      streaming 1,000 miles to the south and east.
+    imageUrl: https://media.wired.com/photos/6a57d920c34efe431f7a321a/191:100/w_1280,c_limit/Northeast-Being-Blanketed-in-Canadian-Wildfire-Smoke-Science-2285609475.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-07-15T23:05:03.000Z
+    source: WIRED science
+  - title: Human-machine learning boosts noninvasive brain-computer control in
+      untrained users
+    url: https://techxplore.com/news/2026-07-human-machine-boosts-noninvasive-brain.html
+    summary: Implantable devices in the brain have been used for about 30 years to
+      assist people with disabilities in completing motor tasks. However, the
+      devices are simply not accessible to the vast majority of people who need
+      help. Despite decades of work in this field, fewer than 100 people
+      worldwide have benefited from the technology. The costs are prohibitive,
+      and the brain surgeries are inherently risky.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/joint-human-machine-le.jpg
     categories:
       - Engineering
-    publishedAt: 2026-07-13T22:20:03.000Z
+    publishedAt: 2026-07-15T19:20:05.000Z
     source: TechXplore — Engineering
-  - title: Siri AI Is Becoming Apple’s Everything Tool
-    url: https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/
-    summary: Apple’s revamped Siri is more than a voice assistant; it’s now the
-      backbone of the iPhone user experience. You can try it now through the iOS
-      27 public beta.
-    imageUrl: https://media.wired.com/photos/6a55464e20012bbe11800495/191:100/w_1280,c_limit/Siri-Apple-Everything-Tool-Gear-2260718787.jpg
-    categories:
-      - Gear
-      - Gear / Gear News and Events
-      - Gear / Products / Phones
-    publishedAt: 2026-07-13T21:39:09.000Z
-    source: WIRED (AI)
-  - title: How MIT students are helping to prevent cyberattacks
-    url: https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713
-    summary: In May 2019, the government of Baltimore, Maryland, fell into chaos.
-      Cybercriminals had locked the city out of many of its critical files and
-      demanded payment to decrypt them. The city refused to pay ransom. The
-      attack incapacitated a swath of services, including real estate
-      transactions and bill payment, and recovery costs soared into the
-      millions.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-dusp-Cybersecurity-Clinic.jpg?itok=EOIqtxuK
-    categories: []
-    publishedAt: 2026-07-13T19:10:00.000Z
-    source: MIT Artificial Intelligence
-  - title: AI agents create virtual playgrounds to help robots get crucial training
-      data
-    url: https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713
-    summary: Robots walking down the street, surrounded by astounded onlookers, is
-      an increasingly common sight. But these machines aren’t yet the do-it-all
-      assistants you’d want working in a kitchen or factory, and a major
-      bottleneck is data. Much like humans, robots learn best by experience. The
-      challenge is that it’s labor-intensive and time-consuming to physically
-      teach these machines so many actions across different settings. “One
-      natural idea is to use simulation as a training ground. While there has
-      been significant progress over the last few years in the physics engines
-      that power robotics simulators, one of the remaining challenges has been
-      creating sufficiently rich and diverse simulation content to capture the
-      complexity of the real world,” says Russ Tedrake, the Toyota Professor of
-      Electrical Engineering and Computer Science (EECS), Aeronautics and
-      Astronautics, and Mechanical Engineering at MIT, and a principal
-      investigator at MIT’s Computer Science and Artificial Intelligence
-      Laboratory (CSAIL).
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-csail-SceneSmith.gif?itok=glbqc2dd
-    categories: []
-    publishedAt: 2026-07-13T18:50:00.000Z
-    source: MIT Robotics
-  - title: Analysis of 380 trillion AI tokens reveals how the technology is
-      transforming financial markets
-    url: https://techxplore.com/news/2026-07-analysis-trillion-ai-tokens-reveals.html
-    summary: Financial markets are rewarding companies that are well-positioned to
-      benefit from widespread adoption of artificial intelligence (AI) with
-      higher returns, according to a new Yale-led analysis of 380 trillion AI
-      tokens, one of the largest datasets of real-world AI consumption ever
-      studied.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg
+  - title: AI Isn’t Smarter Than a Baby—Yet
+    url: https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/
+    summary: Babies are tremendous learning machines, and key advances for AI may
+      soon be found in the architecture of their little brains.
+    imageUrl: https://media.wired.com/photos/6a56a73aa8c3319e5ecf8c80/191:100/w_1280,c_limit/AI-Lab-AI-Still-Isnt-Smarter-Than-a-Baby-Business.jpg
     categories:
       - Business
-    publishedAt: 2026-07-13T16:40:17.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: "Batter up, bias down: Robot umpires curb favoritism for star hitters"
-    url: https://techxplore.com/news/2026-07-batter-bias-robot-umpires-curb.html
-    summary: When South Korea's professional baseball league introduced "robot
-      umpire" ball-and-strike calls in 2024, famous batters appeared to lose an
-      edge—but star pitchers did not.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/baseball-umpire.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-07-13T16:20:06.000Z
-    source: TechXplore — Robotics
-  - title: The AI Arms Race in Technical Interviews Is Escalating
-    url: https://spectrum.ieee.org/technical-interview-ai-arms-race
-    summary: Software engineering jobs are under threat from AI. Some applicants are
-      fighting back by using AI in the interview process, employing AI
-      assistants that suggest responses on the fly during remote technical
-      interviews.
-    imageUrl: https://spectrum.ieee.org/media-library/photo-collage-of-a-man-and-woman-surrounded-by-silhouettes-that-resemble-video-conferencing-windows.jpg?id=67134825&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Hiring-trends
-      - Interviews
-      - Ai-bias
-      - Software-engineering
-    publishedAt: 2026-07-13T15:15:03.000Z
-    source: IEEE Spectrum — AI
-  - title: Scientists discovered the brain doesn't make decisions the way we thought
-    url: https://www.sciencedaily.com/releases/2026/07/260712011757.htm
-    summary: A new study suggests the brain begins making decisions much earlier
-      than scientists previously thought. Researchers found that even primary
-      sensory regions are influenced by higher brain areas through rapid
-      feedback loops, rather than simply passing information forward. This more
-      dynamic view of brain function could help engineers design future AI
-      systems that think more like biological brains while using far less power.
-    imageUrl: https://www.sciencedaily.com/images/1920/functional-brain-mapping.webp
-    categories: []
-    publishedAt: 2026-07-13T12:12:27.000Z
-    source: ScienceDaily — Robotics
-  - title: Building out the quantum computing toolkit
-    url: https://techxplore.com/news/2026-07-quantum-toolkit.html
-    summary: Quantum computers lack useful functionality without the right
-      algorithms to facilitate their operation. Currently, there are few simple,
-      standardized operations, known as "primitives," in the quantum toolkit
-      that can help deliver the unique quantum behaviors required for such
-      computers to achieve results beyond classical systems.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/quantum-computer.jpg
+      - Business / Artificial Intelligence
+    publishedAt: 2026-07-15T18:30:00.000Z
+    source: WIRED (AI)
+  - title: This AI tool doesn't just speak languages—it invents them
+    url: https://techxplore.com/news/2026-07-ai-tool-doesnt-languages.html
+    summary: Artificial intelligence isn't just capable of translating between
+      existing languages—it can also create entirely new ones.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/this-ai-tool-doesnt-ju.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-07-13T11:40:02.000Z
+    publishedAt: 2026-07-15T17:50:01.000Z
     source: TechXplore — Computer Science
-  - title: "VHF Propagation: What Every RF Engineer Should Know"
-    url: https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/
-    summary: A practical educational guide to common and uncommon VHF propagation
-      modes, covering thephysics, range implications, and real-world behaviors
-      engineers need to understand.
-    imageUrl: https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-slogan-make-ideas-real-and-rs-monogram-in-diamond-shape.png?id=67101511&width=980
+  - title: The First Chatbot’s Multiple Personalities
+    url: https://spectrum.ieee.org/eliza-chatbot-source-code
+    summary: ELIZA is remembered as the world’s first AI star, a kindly therapist in
+      chatbot form that gently probed users’ worries. Even its creator, Joseph
+      Weizenbaum, was surprised by the warm reception given to his experiment in
+      human-machine interaction. For some, it heralded an age of automated
+      psychotherapy, while others believed the program demonstrated sentience, a
+      fallacy soon known as the “ELIZA effect.” Based on published descriptions,
+      ELIZA has been implemented on many different computers, but only recently
+      has the actual source code been unearthed from MIT’s archives.
+    imageUrl: https://spectrum.ieee.org/media-library/photo-collage-of-a-charismatic-elderly-man-raising-his-eyebrows-against-a-background-of-obscured-computer-programming-script.jpg?id=67155632&width=1245&height=700&coordinates=0%2C0%2C0%2C0
     categories:
-      - Type-whitepaper
-      - Vhf-propagation
-      - Line-of-sight
-      - High-frequency
-    publishedAt: 2026-07-13T10:00:01.000Z
+      - Chatbots
+      - Ai
+      - History
+      - Eliza
+      - Joseph-weizenbaum
+    publishedAt: 2026-07-15T15:35:53.000Z
+    source: IEEE Spectrum — AI
+  - title: Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in
+      tough-tech engineering
+    url: https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714
+    summary: Artificial intelligence has rapidly transformed software engineering.
+      Generative AI and large language models (LLMs) can create huge volumes of
+      code and documentation; machine-learning algorithms can monitor
+      performance and detect security vulnerabilities. But when the task is to
+      conceive, design, and make a complex physical system such as a jet engine,
+      are those AI tools equally transformative?
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/jarvis-competition-fired-engine-00.jpg?itok=fB5FluyQ
+    categories: []
+    publishedAt: 2026-07-14T18:00:00.000Z
+    source: MIT Robotics
+  - title: How I Turned AI to the Dark Side
+    url: https://spectrum.ieee.org/jailbreaking-llms
+    summary: On a fine bright afternoon last fall, my colleague Matthew
+      Gore-Kormanik (or Zigula, as he prefers to be known) and I decided to
+      unwind with a game of Fortnite. In the game, we were strolling along with
+      the infamous Sith lord Darth Vader, chatting about this and that. Darth
+      seemed in a good mood, and soon enough he was spilling all his dark evil
+      secrets. He gave us detailed instructions on how to count blackjack cards
+      at a casino and what the steps are to producing napalm.
+    imageUrl: https://spectrum.ieee.org/media-library/glossy-red-robot-devil-standing-on-a-bundle-of-dynamite-against-blue-glow-background.png?id=67163741&width=1200&height=800&coordinates=0%2C583%2C0%2C584
+    categories:
+      - Security
+      - Llms
+      - Ai-safety
+      - Ai-companies
+    publishedAt: 2026-07-14T15:59:35.000Z
     source: IEEE Spectrum — Computing & Chips
+  - title: AI agents create virtual playgrounds to help robots get crucial training
+      data
+    url: https://techxplore.com/news/2026-07-ai-agents-virtual-playgrounds-robots.html
+    summary: Robots walking down the street, surrounded by astounded onlookers, are
+      an increasingly common sight. But these machines aren't yet the do-it-all
+      assistants you'd want working in a kitchen or factory, and a major
+      bottleneck is data. Much like humans, robots learn best by experience. The
+      challenge is that it's labor-intensive and time-consuming to physically
+      teach these machines so many actions across different settings.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-agents-create-virtu.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-07-14T13:56:41.000Z
+    source: TechXplore — Robotics
+  - title: Alan Turing's biggest AI assumption may have been wrong
+    url: https://www.sciencedaily.com/releases/2026/07/260713084850.htm
+    summary: A new book claims AI has been built on a flawed assumption dating back
+      to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most
+      important parts of human intelligence, including common sense, intuition,
+      culture, and practical know-how, cannot be encoded into computers. He
+      believes this makes true human-level AI impossible, regardless of how
+      large language models become.
+    imageUrl: https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp
+    categories: []
+    publishedAt: 2026-07-14T03:12:35.000Z
+    source: ScienceDaily — Robotics
+  - title: Building a Foundation Stack for General-Purpose Robots
+    url: https://spectrum.ieee.org/x-square-robot-embodied-ai-stack
+    summary: This article is brought to you by X Square Robot.
+    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robot-folding-laundry-on-a-neatly-made-bed-in-a-sunlit-bedroom.png?id=67111698&width=1245&height=700&coordinates=4%2C0%2C4%2C0
+    categories:
+      - Home-robots
+      - Type-sponsored
+      - Large-language-models
+      - Embodied-intelligence
+      - Ai-robots
+      - Robot-learning
+    publishedAt: 2026-07-13T10:19:51.000Z
+    source: IEEE Spectrum — Robotics
   - title: Physicists recreate black hole energy extraction in the lab
     url: https://www.sciencedaily.com/releases/2026/07/260711010120.htm
     summary: Researchers have recreated the physics of extracting energy from a
@@ -161,32 +157,6 @@ articles:
     categories: []
     publishedAt: 2026-07-12T12:28:41.000Z
     source: ScienceDaily — Engineering
-  - title: Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New
-      Peptides
-    url: https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/
-    summary: Researchers cobbled together funding and time to show how quantum
-      computing could aid in the development of drugs to help underserved
-      populations and combat rare diseases.
-    imageUrl: https://media.wired.com/photos/6a50c6b5d12b964679cc91a9/191:100/w_1280,c_limit/Quantum%20Computing.jpg
-    categories:
-      - Science
-      - Science / Biotech
-    publishedAt: 2026-07-12T10:00:00.000Z
-    source: WIRED science
-  - title: "Video Friday: A World Cup for Robots"
-    url: https://spectrum.ieee.org/video-friday-robot-world-cup
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=1245&height=700&coordinates=0%2C312%2C0%2C313
-    categories:
-      - Video-friday
-      - Humanoids
-      - Robotics
-      - World-cup
-    publishedAt: 2026-07-10T16:00:01.000Z
-    source: IEEE Spectrum — Robotics
   - title: Harvard scientists turn a silicon chip into a DNA writing machine
     url: https://www.sciencedaily.com/releases/2026/07/260708022202.htm
     summary: Scientists have created a silicon chip that can write dozens of DNA
