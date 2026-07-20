@@ -1,8 +1,173 @@
-date: 2026-07-16
+date: 2026-07-20
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: New driving AI ranks possible routes for safer, clearer decisions
+    url: https://techxplore.com/news/2026-07-ai-routes-safer-clearer-decisions.html
+    summary: A research team led by Jun Won Choi, a professor in the Department of
+      Electrical and Computer Engineering at Seoul National University College
+      of Engineering, has developed SafeDrive, an end-to-end (E2E) autonomous
+      driving AI model aligned with recent global trends in autonomous driving
+      technology. The work was selected as a highlight paper at the Conference
+      on Computer Vision and Pattern Recognition (CVPR) 2026.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/snu-ece-prof-jun-won-c.jpg
+    categories:
+      - Automotive
+    publishedAt: 2026-07-19T17:40:02.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: New AI blood test predicts heart disease 15 years early
+    url: https://www.sciencedaily.com/releases/2026/07/260716023603.htm
+    summary: A new AI-powered blood test could give people a remarkably early
+      warning of serious heart and circulation problems. Developed by
+      researchers at the University of Hong Kong, CardiOmicScore analyzes
+      thousands of proteins and metabolites to estimate the risk of six major
+      cardiovascular diseases, including heart attack, stroke, heart failure,
+      and atrial fibrillation. Unlike genetic risk scores, which remain fixed
+      throughout life, the system captures biological changes linked to a
+      person’s current health, lifestyle, and environment.
+    imageUrl: https://www.sciencedaily.com/images/1920/ai-cardiology.webp
+    categories: []
+    publishedAt: 2026-07-19T14:58:00.000Z
+    source: ScienceDaily — Robotics
+  - title: New AR display tech boosts real‑world visibility while keeping virtual
+      objects lifelike
+    url: https://techxplore.com/news/2026-07-ar-display-tech-boosts-realworld.html
+    summary: Optical see-through augmented reality (AR) glasses are designed to
+      overlay digital information onto the real world, but improving the realism
+      of virtual objects often comes at a cost. Existing occlusion technologies
+      physically block part of the incoming light, reducing the brightness of
+      the real environment and making everyday tasks more challenging.
+      Overcoming this balance between virtual realism and real-world visibility
+      is a key hurdle for next-generation AR systems.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-perception-based-t.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-07-19T12:00:04.000Z
+    source: TechXplore — Engineering
+  - title: The Search for Another Earth-Like Planet Just Took a Big Step Forward
+    url: https://www.wired.com/story/search-for-earth-like-planet-step-forward/
+    summary: Astronomers have discovered a rocky exoplanet that has an atmosphere
+      and sits within the habitable zone of a solar system.
+    imageUrl: https://media.wired.com/photos/6a5a9d867702499ff489cd91/191:100/w_1280,c_limit/cfa-055-helium_atomsphere_planet3H_lrg_0.jpg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-07-19T10:00:00.000Z
+    source: WIRED science
+  - title: CivilBot turns structural designs into computer models up to 30 times
+      faster
+    url: https://techxplore.com/news/2026-07-civilbot-faster.html
+    summary: When architects create plans for a new building, they typically work
+      with an engineer to design the structure so that the building is safely
+      supported.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/designing-buildings-mo.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-07-18T18:52:28.000Z
+    source: TechXplore — Computer Science
+  - title: Largest Probabilistic Computer Hits 1 Million P-Bits
+    url: https://spectrum.ieee.org/biggest-probabilistic-computer
+    summary: Probabilistic computers might one day tackle certain problems well
+      beyond standard computers while at the same time avoiding the many
+      hardware challenges that currently vex quantum computing. Now scientists
+      reveal they have created the largest probabilistic computer yet, one with
+      1 million “probabilistic bits,” a new study they suggest reveals the way
+      forward to building even bigger machines.
+    imageUrl: https://spectrum.ieee.org/media-library/computer-chips-spread-vertically-across-several-shelves-to-create-a-1-million-probabilistic-bit-computer.jpg?id=67500450&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Probabalistic-computing
+      - Fpga
+      - Networking
+      - Ising-machine
+      - Probabilistic-computing
+    publishedAt: 2026-07-18T13:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Your Period Tracker Is (Probably) Spying on You
+    url: https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/
+    summary: "Plus: Russian cyberspies turn to infrastructure hacking, DHS
+      repeatedly fails to realize it’d been hacked, a breach exposes an AI music
+      generator’s scraping ways, and more."
+    imageUrl: https://media.wired.com/photos/6a5ac7c5087b4a8eadcc0752/191:100/w_1280,c_limit/Security-News-Period-Tracker-Spying-on-You-Security.jpg
+    categories:
+      - Security
+      - Security / Security News
+    publishedAt: 2026-07-18T10:30:00.000Z
+    source: WIRED (AI)
+  - title: This Graduate Student Equips NASA’s Robots With Assembly Skills
+    url: https://spectrum.ieee.org/graduate-student-nasas-robots-assembly
+    summary: Like many engineers, Sarah Downs says she knew she wanted to pursue a
+      STEM career from a young age. As a teenager, she discovered robotics
+      through her Tulsa, Okla., middle school’s First Lego League team, and she
+      fell in love with the field, she says. Downs participated in the
+      international robotics program from 2014 to 2016.
+    imageUrl: https://spectrum.ieee.org/media-library/a-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg?id=67499761&width=1245&height=700&coordinates=0%2C156%2C0%2C157
+    categories:
+      - Type-ti
+      - Ieee-member-news
+      - Robots
+      - Nasa
+      - Student-member
+      - Satellites
+    publishedAt: 2026-07-17T18:00:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Following the questions where they lead
+    url: https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717
+    summary: Ever since she was a child playing on her family’s farmland in
+      Wisconsin, Bailey Flanigan was guided by her own selective, yet
+      wide-ranging, curiosity. Describing her young self as spirited and a bit
+      unruly, she directed her energies to everything from building booby traps
+      to doing experimental construction projects to exploring an intense
+      interest in medicine to writing fiction and music to planning nonprofit
+      organizations to help lessen social inequality.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-lids-Bailey-Flanigan.jpg?itok=DtZFVT8B
+    categories: []
+    publishedAt: 2026-07-17T17:25:00.000Z
+    source: MIT Artificial Intelligence
+  - title: A new robotic hand capable of switching between multiple grippers using a
+      single motor
+    url: https://techxplore.com/news/2026-07-robotic-capable-multiple-grippers-motor.html
+    summary: For robots to be used in various settings, such as factories,
+      logistics, service industries and households, they must be able to stably
+      handle a diverse range of objects differing in shape, size, weight and
+      rigidity. However, conventional robotic hands often require multiple
+      motors and complex control systems, presenting challenges in terms of
+      weight, cost, failure risk and control difficulties.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-new-robotic-hand-cap.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-07-17T14:00:10.000Z
+    source: TechXplore — Robotics
+  - title: Scientists built a camera that can track invisible particles in 3D
+    url: https://www.sciencedaily.com/releases/2026/07/260716023610.htm
+    summary: A new particle detector called PLATON could replace millions of tiny
+      detector components with a single block of light-producing material. Using
+      a light-field camera, highly sensitive photon sensors, and AI, it
+      reconstructs particle paths in fast, detailed 3D. Simulations suggest it
+      could match or surpass today’s best detectors while being far easier to
+      scale. The technology may also lead to sharper PET medical scans.
+    imageUrl: https://www.sciencedaily.com/images/1920/neutrinos-interaction-camera.webp
+    categories: []
+    publishedAt: 2026-07-17T06:04:57.000Z
+    source: ScienceDaily — Engineering
+  - title: How to Make an Invisible Drone
+    url: https://spectrum.ieee.org/invisible-spinning-drone
+    summary: "There are many words that I would never, ever use to describe a drone.
+      Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is
+      because of the giant angry bee sound that drones tend to make, but it’s
+      also the way that they look in flight: With uncannily linear movements and
+      an even less canny ability to hover perfectly still, they tend to draw the
+      eye as affronts to nature."
+    imageUrl: https://spectrum.ieee.org/media-library/low-visibility-drone-flying-in-front-of-an-office-plant.jpg?id=67480624&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Robotics
+      - Drones
+      - Spinning-drones
+      - Invisible-drones
+      - Ai-design-optimization
+      - Uav
+    publishedAt: 2026-07-16T16:09:21.000Z
+    source: IEEE Spectrum — AI
   - title: A better way to turn 2D designs into 3D models for rapid prototyping
     url: https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716
     summary: Engineers often use vision-language models to produce new designs, such
@@ -13,70 +178,7 @@ articles:
     imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-Geometric-Tuning-01-press.jpg?itok=y_aKzkkP
     categories: []
     publishedAt: 2026-07-16T04:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Smoke From Canada's Wildfires Turns Skies Sickly Orange Across the
-      Eastern US
-    url: https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/
-    summary: Roughly 100 fires are raging out of control in Ontario, sending smoke
-      streaming 1,000 miles to the south and east.
-    imageUrl: https://media.wired.com/photos/6a57d920c34efe431f7a321a/191:100/w_1280,c_limit/Northeast-Being-Blanketed-in-Canadian-Wildfire-Smoke-Science-2285609475.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-07-15T23:05:03.000Z
-    source: WIRED science
-  - title: Human-machine learning boosts noninvasive brain-computer control in
-      untrained users
-    url: https://techxplore.com/news/2026-07-human-machine-boosts-noninvasive-brain.html
-    summary: Implantable devices in the brain have been used for about 30 years to
-      assist people with disabilities in completing motor tasks. However, the
-      devices are simply not accessible to the vast majority of people who need
-      help. Despite decades of work in this field, fewer than 100 people
-      worldwide have benefited from the technology. The costs are prohibitive,
-      and the brain surgeries are inherently risky.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/joint-human-machine-le.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-07-15T19:20:05.000Z
-    source: TechXplore — Engineering
-  - title: AI Isn’t Smarter Than a Baby—Yet
-    url: https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/
-    summary: Babies are tremendous learning machines, and key advances for AI may
-      soon be found in the architecture of their little brains.
-    imageUrl: https://media.wired.com/photos/6a56a73aa8c3319e5ecf8c80/191:100/w_1280,c_limit/AI-Lab-AI-Still-Isnt-Smarter-Than-a-Baby-Business.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-07-15T18:30:00.000Z
-    source: WIRED (AI)
-  - title: This AI tool doesn't just speak languages—it invents them
-    url: https://techxplore.com/news/2026-07-ai-tool-doesnt-languages.html
-    summary: Artificial intelligence isn't just capable of translating between
-      existing languages—it can also create entirely new ones.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/this-ai-tool-doesnt-ju.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-07-15T17:50:01.000Z
-    source: TechXplore — Computer Science
-  - title: The First Chatbot’s Multiple Personalities
-    url: https://spectrum.ieee.org/eliza-chatbot-source-code
-    summary: ELIZA is remembered as the world’s first AI star, a kindly therapist in
-      chatbot form that gently probed users’ worries. Even its creator, Joseph
-      Weizenbaum, was surprised by the warm reception given to his experiment in
-      human-machine interaction. For some, it heralded an age of automated
-      psychotherapy, while others believed the program demonstrated sentience, a
-      fallacy soon known as the “ELIZA effect.” Based on published descriptions,
-      ELIZA has been implemented on many different computers, but only recently
-      has the actual source code been unearthed from MIT’s archives.
-    imageUrl: https://spectrum.ieee.org/media-library/photo-collage-of-a-charismatic-elderly-man-raising-his-eyebrows-against-a-background-of-obscured-computer-programming-script.jpg?id=67155632&width=1245&height=700&coordinates=0%2C0%2C0%2C0
-    categories:
-      - Chatbots
-      - Ai
-      - History
-      - Eliza
-      - Joseph-weizenbaum
-    publishedAt: 2026-07-15T15:35:53.000Z
-    source: IEEE Spectrum — AI
+    source: MIT Engineering
   - title: Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in
       tough-tech engineering
     url: https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714
@@ -90,37 +192,6 @@ articles:
     categories: []
     publishedAt: 2026-07-14T18:00:00.000Z
     source: MIT Robotics
-  - title: How I Turned AI to the Dark Side
-    url: https://spectrum.ieee.org/jailbreaking-llms
-    summary: On a fine bright afternoon last fall, my colleague Matthew
-      Gore-Kormanik (or Zigula, as he prefers to be known) and I decided to
-      unwind with a game of Fortnite. In the game, we were strolling along with
-      the infamous Sith lord Darth Vader, chatting about this and that. Darth
-      seemed in a good mood, and soon enough he was spilling all his dark evil
-      secrets. He gave us detailed instructions on how to count blackjack cards
-      at a casino and what the steps are to producing napalm.
-    imageUrl: https://spectrum.ieee.org/media-library/glossy-red-robot-devil-standing-on-a-bundle-of-dynamite-against-blue-glow-background.png?id=67163741&width=1200&height=800&coordinates=0%2C583%2C0%2C584
-    categories:
-      - Security
-      - Llms
-      - Ai-safety
-      - Ai-companies
-    publishedAt: 2026-07-14T15:59:35.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: AI agents create virtual playgrounds to help robots get crucial training
-      data
-    url: https://techxplore.com/news/2026-07-ai-agents-virtual-playgrounds-robots.html
-    summary: Robots walking down the street, surrounded by astounded onlookers, are
-      an increasingly common sight. But these machines aren't yet the do-it-all
-      assistants you'd want working in a kitchen or factory, and a major
-      bottleneck is data. Much like humans, robots learn best by experience. The
-      challenge is that it's labor-intensive and time-consuming to physically
-      teach these machines so many actions across different settings.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-agents-create-virtu.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-07-14T13:56:41.000Z
-    source: TechXplore — Robotics
   - title: Alan Turing's biggest AI assumption may have been wrong
     url: https://www.sciencedaily.com/releases/2026/07/260713084850.htm
     summary: A new book claims AI has been built on a flawed assumption dating back
@@ -132,31 +203,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp
     categories: []
     publishedAt: 2026-07-14T03:12:35.000Z
-    source: ScienceDaily — Robotics
-  - title: Building a Foundation Stack for General-Purpose Robots
-    url: https://spectrum.ieee.org/x-square-robot-embodied-ai-stack
-    summary: This article is brought to you by X Square Robot.
-    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robot-folding-laundry-on-a-neatly-made-bed-in-a-sunlit-bedroom.png?id=67111698&width=1245&height=700&coordinates=4%2C0%2C4%2C0
-    categories:
-      - Home-robots
-      - Type-sponsored
-      - Large-language-models
-      - Embodied-intelligence
-      - Ai-robots
-      - Robot-learning
-    publishedAt: 2026-07-13T10:19:51.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Physicists recreate black hole energy extraction in the lab
-    url: https://www.sciencedaily.com/releases/2026/07/260711010120.htm
-    summary: Researchers have recreated the physics of extracting energy from a
-      spinning black hole using a stationary device that produces synthetic
-      ultrafast rotation. The achievement transforms a long-standing theoretical
-      idea into a practical experiment and could inspire new advances in optics,
-      wireless communications, and quantum science.
-    imageUrl: https://www.sciencedaily.com/images/1920/penrose-super-radiance-artwork.webp
-    categories: []
-    publishedAt: 2026-07-12T12:28:41.000Z
-    source: ScienceDaily — Engineering
+    source: ScienceDaily — Artificial Intelligence
   - title: Harvard scientists turn a silicon chip into a DNA writing machine
     url: https://www.sciencedaily.com/releases/2026/07/260708022202.htm
     summary: Scientists have created a silicon chip that can write dozens of DNA
