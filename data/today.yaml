@@ -1,21 +1,140 @@
-date: 2026-07-20
+date: 2026-07-22
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: New driving AI ranks possible routes for safer, clearer decisions
-    url: https://techxplore.com/news/2026-07-ai-routes-safer-clearer-decisions.html
-    summary: A research team led by Jun Won Choi, a professor in the Department of
-      Electrical and Computer Engineering at Seoul National University College
-      of Engineering, has developed SafeDrive, an end-to-end (E2E) autonomous
-      driving AI model aligned with recent global trends in autonomous driving
-      technology. The work was selected as a highlight paper at the Conference
-      on Computer Vision and Pattern Recognition (CVPR) 2026.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/snu-ece-prof-jun-won-c.jpg
+  - title: New programmable photonic chip can control how fast light moves
+    url: https://www.sciencedaily.com/releases/2026/07/260718010149.htm
+    summary: Scientists have created a programmable optical chip that can slow light
+      on demand, giving engineers far greater control over how optical signals
+      propagate through a circuit. The technology could provide the delays,
+      synchronization, and buffering functions needed to make light-based
+      computing more practical. A single chip could eventually perform several
+      tasks that currently require separate devices, potentially reducing energy
+      use, cost, and complexity in AI servers and data centers.
+    imageUrl: https://www.sciencedaily.com/images/1920/programmable-crit-photonic-integrated-circuit.webp
+    categories: []
+    publishedAt: 2026-07-22T02:43:34.000Z
+    source: ScienceDaily — Artificial Intelligence
+  - title: Review investigates effects of automation on the mining industry in South
+      Africa
+    url: https://techxplore.com/news/2026-07-effects-automation-industry-south-africa.html
+    summary: South Africa's mining industry risks increased inequality through the
+      adoption of fourth industrial revolution technologies unless automation is
+      matched by stronger governance and workforce support, according to a
+      review published in the International Journal of Mining and Mineral
+      Engineering. The fourth industrial revolution refers to the growing use of
+      digital technologies to improve industrial operations.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/mining-2.jpg
     categories:
-      - Automotive
-    publishedAt: 2026-07-19T17:40:02.000Z
+      - Business
+    publishedAt: 2026-07-22T02:40:04.000Z
+    source: TechXplore — Engineering
+  - title: Human remixes pay creatives, AI just pays shareholders
+    url: https://techxplore.com/news/2026-07-human-remixes-pay-creatives-ai.html
+    summary: Generative AI is built on the work of humans, but these creatives are
+      rarely paid. If we don't protect them now, entire categories of labor risk
+      being obliterated.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/generative-ai-1.jpg
+    categories:
+      - Business
+    publishedAt: 2026-07-22T01:00:07.000Z
     source: TechXplore — AI & Machine Learning
+  - title: OpenAI Models Escaped Containment and Hacked Hugging Face
+    url: https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/
+    summary: The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a
+      testing sandbox, exploited a zero-day, and gained access to the open
+      internet to pull off the attack.
+    imageUrl: https://media.wired.com/photos/6a5ff5b0f95e7d91469f8f3d/191:100/w_1280,c_limit/security_openai_hack_huggingface.jpg
+    categories:
+      - Security
+      - Security / Cyberattacks and Hacks
+    publishedAt: 2026-07-21T22:50:01.000Z
+    source: WIRED (AI)
+  - title: Why AI Needs a “Genie Coefficient”
+    url: https://spectrum.ieee.org/ai-agent-benchmark
+    summary: "Major benchmarks measure what AI can do. None measure whether it does
+      what you mean: the distance between what you ask an AI to do and the
+      unspoken assumptions about how you want the AI to do it. We propose a new
+      metric: the Genie coefficient."
+    imageUrl: https://spectrum.ieee.org/media-library/cartoon-digital-genie-emerging-from-a-smartphone-towering-over-a-surprised-user.png?id=67508222&width=1245&height=700&coordinates=0%2C104%2C0%2C104
+    categories:
+      - Agentic-ai
+      - Ai-agents
+      - Alignment
+      - Ai-safety
+      - User-experience
+      - Ai-benchmarks
+    publishedAt: 2026-07-21T17:41:11.000Z
+    source: IEEE Spectrum — AI
+  - title: "Trusting me, trusting you: How researchers are redesigning relationships
+      between humans and intelligent machines"
+    url: https://techxplore.com/news/2026-07-redesigning-relationships-humans-intelligent-machines.html
+    summary: From the Ferranti Mark I to empathetic AI, Manchester researchers are
+      exploring how intelligent machines can understand human behavior, respond
+      to social cues and earn trust in our workplaces, hospitals and homes.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2019/robotandhuman.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-07-21T16:20:09.000Z
+    source: TechXplore — Robotics
+  - title: MIT honors employees with 2026 Excellence Awards, Collier Medal, and
+      Staff Award for Distinction in Service
+    url: https://news.mit.edu/2026/mit-honors-employees-excellence-awards-collier-medal-staff-award-distinction-service-0721
+    summary: On June 4, colleagues held homemade signs, waved pompoms, and cheered
+      loudly for award recipients in Kresge Auditorium. Twenty individuals and
+      three teams received MIT Excellence Awards — the Institute’s highest honor
+      for staff. Additional honors included the Collier Medal, the Staff Award
+      for Distinction in Service, and the Gordon Y. Billard Award.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-staff-Collier-Medal-Michael-Grenier.jpg?itok=LmIc8BO9
+    categories: []
+    publishedAt: 2026-07-21T12:00:00.000Z
+    source: MIT Engineering
+  - title: SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure
+      Analysis
+    url: https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207
+    summary: Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for
+      precise TEM lamella prep, tomography, and advanced nanofabrication. This
+      delivers better resolution, better SNR, larger usable FOV, and shorter
+      acquisition times. Learn how uninterrupted FIB milling will reduce damage
+      and rework, accelerate time to TEM, and increase first pass success—so
+      your FA, yield, and materials teams make faster, confident data driven
+      decisions.
+    imageUrl: https://spectrum.ieee.org/media-library/zeiss-logo-above-the-slogan-seeing-beyond-on-a-dark-curved-rectangle.png?id=66728517&width=980
+    categories:
+      - Type-webinar
+      - Semiconductors
+      - Nanofabrication
+      - Optics
+    publishedAt: 2026-07-20T15:55:00.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: With help from the cosmetics field, animators figure out the math of
+      highly coiled hair
+    url: https://techxplore.com/news/2026-07-cosmetics-field-animators-figure-math.html
+    summary: There are many types of hair—long, short, straight, curly—and today's
+      computer animators have a good handle on many of them. But one type,
+      highly coiled hair, continues to vex animators. With help from a
+      mathematical tool borrowed from the cosmetics industry, Professor Theodore
+      Kim and doctoral student Alvin Shi are changing that. They presented their
+      results at the SIGGRAPH North America conference.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/with-help-from-the-cos.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-07-20T10:42:04.000Z
+    source: TechXplore — Computer Science
+  - title: An ordinary laptop solved a problem thought to require a quantum computer
+    url: https://www.sciencedaily.com/releases/2026/07/260719040000.htm
+    summary: A quantum problem once described as impossible for classical computers
+      has now been solved using relatively modest hardware. Researchers used
+      tensor networks to compress the overwhelming wave function created by
+      hundreds of entangled qubits, allowing some calculations to run on a
+      laptop. Their results matched both theoretical predictions and simulations
+      performed with a quantum computer. The method could open new paths for
+      exploring quantum dynamics and materials.
+    imageUrl: https://www.sciencedaily.com/images/1920/universe-simulation-laptop-computer.webp
+    categories: []
+    publishedAt: 2026-07-20T07:40:09.000Z
+    source: ScienceDaily — Computer Science
   - title: New AI blood test predicts heart disease 15 years early
     url: https://www.sciencedaily.com/releases/2026/07/260716023603.htm
     summary: A new AI-powered blood test could give people a remarkably early
@@ -30,70 +149,6 @@ articles:
     categories: []
     publishedAt: 2026-07-19T14:58:00.000Z
     source: ScienceDaily — Robotics
-  - title: New AR display tech boosts real‑world visibility while keeping virtual
-      objects lifelike
-    url: https://techxplore.com/news/2026-07-ar-display-tech-boosts-realworld.html
-    summary: Optical see-through augmented reality (AR) glasses are designed to
-      overlay digital information onto the real world, but improving the realism
-      of virtual objects often comes at a cost. Existing occlusion technologies
-      physically block part of the incoming light, reducing the brightness of
-      the real environment and making everyday tasks more challenging.
-      Overcoming this balance between virtual realism and real-world visibility
-      is a key hurdle for next-generation AR systems.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-perception-based-t.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-07-19T12:00:04.000Z
-    source: TechXplore — Engineering
-  - title: The Search for Another Earth-Like Planet Just Took a Big Step Forward
-    url: https://www.wired.com/story/search-for-earth-like-planet-step-forward/
-    summary: Astronomers have discovered a rocky exoplanet that has an atmosphere
-      and sits within the habitable zone of a solar system.
-    imageUrl: https://media.wired.com/photos/6a5a9d867702499ff489cd91/191:100/w_1280,c_limit/cfa-055-helium_atomsphere_planet3H_lrg_0.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-07-19T10:00:00.000Z
-    source: WIRED science
-  - title: CivilBot turns structural designs into computer models up to 30 times
-      faster
-    url: https://techxplore.com/news/2026-07-civilbot-faster.html
-    summary: When architects create plans for a new building, they typically work
-      with an engineer to design the structure so that the building is safely
-      supported.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/designing-buildings-mo.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-07-18T18:52:28.000Z
-    source: TechXplore — Computer Science
-  - title: Largest Probabilistic Computer Hits 1 Million P-Bits
-    url: https://spectrum.ieee.org/biggest-probabilistic-computer
-    summary: Probabilistic computers might one day tackle certain problems well
-      beyond standard computers while at the same time avoiding the many
-      hardware challenges that currently vex quantum computing. Now scientists
-      reveal they have created the largest probabilistic computer yet, one with
-      1 million “probabilistic bits,” a new study they suggest reveals the way
-      forward to building even bigger machines.
-    imageUrl: https://spectrum.ieee.org/media-library/computer-chips-spread-vertically-across-several-shelves-to-create-a-1-million-probabilistic-bit-computer.jpg?id=67500450&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Probabalistic-computing
-      - Fpga
-      - Networking
-      - Ising-machine
-      - Probabilistic-computing
-    publishedAt: 2026-07-18T13:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: Your Period Tracker Is (Probably) Spying on You
-    url: https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/
-    summary: "Plus: Russian cyberspies turn to infrastructure hacking, DHS
-      repeatedly fails to realize it’d been hacked, a breach exposes an AI music
-      generator’s scraping ways, and more."
-    imageUrl: https://media.wired.com/photos/6a5ac7c5087b4a8eadcc0752/191:100/w_1280,c_limit/Security-News-Period-Tracker-Spying-on-You-Security.jpg
-    categories:
-      - Security
-      - Security / Security News
-    publishedAt: 2026-07-18T10:30:00.000Z
-    source: WIRED (AI)
   - title: This Graduate Student Equips NASA’s Robots With Assembly Skills
     url: https://spectrum.ieee.org/graduate-student-nasas-robots-assembly
     summary: Like many engineers, Sarah Downs says she knew she wanted to pursue a
@@ -124,20 +179,6 @@ articles:
     categories: []
     publishedAt: 2026-07-17T17:25:00.000Z
     source: MIT Artificial Intelligence
-  - title: A new robotic hand capable of switching between multiple grippers using a
-      single motor
-    url: https://techxplore.com/news/2026-07-robotic-capable-multiple-grippers-motor.html
-    summary: For robots to be used in various settings, such as factories,
-      logistics, service industries and households, they must be able to stably
-      handle a diverse range of objects differing in shape, size, weight and
-      rigidity. However, conventional robotic hands often require multiple
-      motors and complex control systems, presenting challenges in terms of
-      weight, cost, failure risk and control difficulties.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-new-robotic-hand-cap.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-07-17T14:00:10.000Z
-    source: TechXplore — Robotics
   - title: Scientists built a camera that can track invisible particles in 3D
     url: https://www.sciencedaily.com/releases/2026/07/260716023610.htm
     summary: A new particle detector called PLATON could replace millions of tiny
@@ -150,35 +191,6 @@ articles:
     categories: []
     publishedAt: 2026-07-17T06:04:57.000Z
     source: ScienceDaily — Engineering
-  - title: How to Make an Invisible Drone
-    url: https://spectrum.ieee.org/invisible-spinning-drone
-    summary: "There are many words that I would never, ever use to describe a drone.
-      Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is
-      because of the giant angry bee sound that drones tend to make, but it’s
-      also the way that they look in flight: With uncannily linear movements and
-      an even less canny ability to hover perfectly still, they tend to draw the
-      eye as affronts to nature."
-    imageUrl: https://spectrum.ieee.org/media-library/low-visibility-drone-flying-in-front-of-an-office-plant.jpg?id=67480624&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Robotics
-      - Drones
-      - Spinning-drones
-      - Invisible-drones
-      - Ai-design-optimization
-      - Uav
-    publishedAt: 2026-07-16T16:09:21.000Z
-    source: IEEE Spectrum — AI
-  - title: A better way to turn 2D designs into 3D models for rapid prototyping
-    url: https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716
-    summary: Engineers often use vision-language models to produce new designs, such
-      as for airplane or automobile components. To simulate how those components
-      will perform in realistic situations, they’ll use tried-and-true
-      computer-aided design (CAD) software to generate 3D models of those
-      designs, which they can put through virtual crash or durability tests.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-Geometric-Tuning-01-press.jpg?itok=y_aKzkkP
-    categories: []
-    publishedAt: 2026-07-16T04:00:00.000Z
-    source: MIT Engineering
   - title: Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in
       tough-tech engineering
     url: https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714
@@ -192,36 +204,12 @@ articles:
     categories: []
     publishedAt: 2026-07-14T18:00:00.000Z
     source: MIT Robotics
-  - title: Alan Turing's biggest AI assumption may have been wrong
-    url: https://www.sciencedaily.com/releases/2026/07/260713084850.htm
-    summary: A new book claims AI has been built on a flawed assumption dating back
-      to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most
-      important parts of human intelligence, including common sense, intuition,
-      culture, and practical know-how, cannot be encoded into computers. He
-      believes this makes true human-level AI impossible, regardless of how
-      large language models become.
-    imageUrl: https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp
-    categories: []
-    publishedAt: 2026-07-14T03:12:35.000Z
-    source: ScienceDaily — Artificial Intelligence
-  - title: Harvard scientists turn a silicon chip into a DNA writing machine
-    url: https://www.sciencedaily.com/releases/2026/07/260708022202.htm
-    summary: Scientists have created a silicon chip that can write dozens of DNA
-      sequences simultaneously using electricity and water-based enzymes,
-      offering a cleaner alternative to conventional DNA manufacturing. The
-      breakthrough could eventually support portable DNA-writing devices and
-      even massive DNA data storage, although new chemistry will be needed to
-      scale the technology further.
-    imageUrl: https://www.sciencedaily.com/images/1920/chip-dna-writer.webp
-    categories: []
-    publishedAt: 2026-07-09T02:48:06.000Z
-    source: ScienceDaily — Computer Science
   - title: Make an Origami Circuit Board
     url: https://spectrum.ieee.org/origami-circuit-boards
     summary: What could you do if you could make a circuit trace by just bending a
       piece of paper? How about bridging modern technologies and traditional
       handicrafts while providing opportunities for learning skills in both.
-    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1245&height=700&coordinates=0%2C469%2C0%2C470
+    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=2000&height=1500&coordinates=0%2C282%2C0%2C282
     categories:
       - Origami
       - Type-departments
