@@ -1,56 +1,115 @@
-date: 2026-07-22
+date: 2026-07-23
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: New programmable photonic chip can control how fast light moves
-    url: https://www.sciencedaily.com/releases/2026/07/260718010149.htm
-    summary: Scientists have created a programmable optical chip that can slow light
-      on demand, giving engineers far greater control over how optical signals
-      propagate through a circuit. The technology could provide the delays,
-      synchronization, and buffering functions needed to make light-based
-      computing more practical. A single chip could eventually perform several
-      tasks that currently require separate devices, potentially reducing energy
-      use, cost, and complexity in AI servers and data centers.
-    imageUrl: https://www.sciencedaily.com/images/1920/programmable-crit-photonic-integrated-circuit.webp
-    categories: []
-    publishedAt: 2026-07-22T02:43:34.000Z
-    source: ScienceDaily — Artificial Intelligence
-  - title: Review investigates effects of automation on the mining industry in South
-      Africa
-    url: https://techxplore.com/news/2026-07-effects-automation-industry-south-africa.html
-    summary: South Africa's mining industry risks increased inequality through the
-      adoption of fourth industrial revolution technologies unless automation is
-      matched by stronger governance and workforce support, according to a
-      review published in the International Journal of Mining and Mineral
-      Engineering. The fourth industrial revolution refers to the growing use of
-      digital technologies to improve industrial operations.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/mining-2.jpg
+  - title: AI chatbots can be as effective as humans at emotional support—sometimes
+      better
+    url: https://techxplore.com/news/2026-07-ai-chatbots-effective-humans-emotional.html
+    summary: New research led by The University of Manchester in collaboration with
+      Durham University has found that AI chatbots such as ChatGPT can match—and
+      in some situations outperform—humans as a source of everyday emotional
+      support. However, the advantage depends on the emotional context, and a
+      key ingredient for effective support—offering specific, actionable
+      guidance—can boost the quality of support from both humans and AI alike.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-chatbot.jpg
     categories:
-      - Business
-    publishedAt: 2026-07-22T02:40:04.000Z
-    source: TechXplore — Engineering
-  - title: Human remixes pay creatives, AI just pays shareholders
-    url: https://techxplore.com/news/2026-07-human-remixes-pay-creatives-ai.html
-    summary: Generative AI is built on the work of humans, but these creatives are
-      rarely paid. If we don't protect them now, entire categories of labor risk
-      being obliterated.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/generative-ai-1.jpg
-    categories:
-      - Business
-    publishedAt: 2026-07-22T01:00:07.000Z
+      - Consumer & Gadgets
+    publishedAt: 2026-07-22T23:00:01.000Z
     source: TechXplore — AI & Machine Learning
-  - title: OpenAI Models Escaped Containment and Hacked Hugging Face
-    url: https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/
-    summary: The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a
-      testing sandbox, exploited a zero-day, and gained access to the open
-      internet to pull off the attack.
-    imageUrl: https://media.wired.com/photos/6a5ff5b0f95e7d91469f8f3d/191:100/w_1280,c_limit/security_openai_hack_huggingface.jpg
+  - title: Why Lettuce Is Always Making People Sick
+    url: https://www.wired.com/story/why-lettuce-always-making-people-sick/
+    summary: The cyclospora diarrhea outbreak isn’t an isolated incident. It’s part
+      of a pattern of leafy greens wreaking digestive havoc.
+    imageUrl: https://media.wired.com/photos/6a5fb97049c6e5150c344a38/191:100/w_1280,c_limit/Science_HowLettuceKeepsGettingUsSick_v1.jpg
     categories:
-      - Security
-      - Security / Cyberattacks and Hacks
-    publishedAt: 2026-07-21T22:50:01.000Z
-    source: WIRED (AI)
+      - Science
+      - Science / Health
+    publishedAt: 2026-07-22T21:41:29.000Z
+    source: WIRED science
+  - title: Attitudes toward autonomous service robots at real-life events reveal
+      social behaviors
+    url: https://techxplore.com/news/2026-07-attitudes-autonomous-robots-real-life.html
+    summary: When a robot offers you candy, it is hard not to be curious. In an
+      experiment conducted by ethologists at ELTE, visitors at public events
+      noticed an autonomous service robot more often than a human server, and
+      the candy on the robot's tray disappeared faster. The study also suggests
+      that the presence of robots may influence the way people behave in social
+      situations.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/elte-ethologists-servi.jpg
+    categories:
+      - Consumer & Gadgets
+    publishedAt: 2026-07-22T18:40:01.000Z
+    source: TechXplore — Robotics
+  - title: The Computer That Helped Win World War II
+    url: https://spectrum.ieee.org/colossus-computer-ieee-milestone
+    summary: One summer day in 1941, a British radio operator was monitoring German
+      military frequencies and heard something unexpected in her headphones. A
+      later report called it “strange new music.” Sounding unlike the familiar
+      Morse dit-dit-dah of enciphered messages sent over the German Enigma
+      network, the “new music” was a rhythmic warble of binary teletype code
+      being transmitted at high speed.
+    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-image-of-two-women-operating-a-wall-sized-1940s-computer.jpg?id=67520993&width=1200&height=800&coordinates=62%2C0%2C63%2C0
+    categories:
+      - Type-ti
+      - Ieee-history
+      - Ieee-milestone
+      - Computing
+      - Encryption
+      - Colossus
+    publishedAt: 2026-07-22T18:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Exploring a smarter way to build climate-resilient roads
+    url: https://techxplore.com/news/2026-07-exploring-smarter-climate-resilient-roads.html
+    summary: Every year from June to September, India experiences the monsoon
+      season. While the visible heavy rainfall often takes the blame for many
+      roads requiring repairs much sooner than expected, a far less visible yet
+      critical force is at play long before the first raindrop falls on the
+      road.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/damaged-road.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-07-22T17:20:07.000Z
+    source: TechXplore — Engineering
+  - title: Professor Emeritus Dimitri Bertsekas, influential computer scientist and
+      prolific author, dies at 83
+    url: https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722
+    summary: Dimitri Bertsekas PhD ’71, the Jerry McAfee (1940) Emeritus Professor
+      in Engineering in the Department of Electrical Engineering and Computer
+      Science (EECS), a principal investigator in the Laboratory for Information
+      and Decision Systems (LIDS), and the Fulton Professor of Computational
+      Decision Making at Arizona State University, died on June 3 at his home in
+      Belmont, Massachusetts. He was 83 years old.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-lids-Bertsekas-obit.jpg?itok=a4V9w4Hq
+    categories: []
+    publishedAt: 2026-07-22T17:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Graphics advances preserve stretched textures and cut shape-computation
+      costs tenfold
+    url: https://techxplore.com/news/2026-07-graphics-advances-textures-tenfold.html
+    summary: Researchers from the Institute of Science and Technology Austria (ISTA)
+      presented two papers at SIGGRAPH in Los Angeles. One paper introduces new
+      methods for texturing highly deformable surfaces, and the other proposes a
+      faster, more precise way to compute geometric properties of shapes. Both
+      show how to boost graphics accuracy while cutting computational cost, with
+      potential applications across video gaming, visual effects and simulation.
+      The studies have been published in ACM Transactions on Graphics.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-computer-graphics-3.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-07-22T15:20:01.000Z
+    source: TechXplore — Computer Science
+  - title: MIT’s new lidar chip could give self-driving cars a wider view
+    url: https://www.sciencedaily.com/releases/2026/07/260722032127.htm
+    summary: MIT engineers have found a way to give chip-based lidar a wider,
+      clearer view without relying on moving parts. Their design uses
+      differently shaped antennas that can sit close together without scrambling
+      one another’s signals. In tests, the system sharply reduced interference
+      while steering a single precise beam across a broad field of view.
+    imageUrl: https://www.sciencedaily.com/images/1920/mit-array-of-integrated-antennas.webp
+    categories: []
+    publishedAt: 2026-07-22T10:00:54.000Z
+    source: ScienceDaily — Computer Science
   - title: Why AI Needs a “Genie Coefficient”
     url: https://spectrum.ieee.org/ai-agent-benchmark
     summary: "Major benchmarks measure what AI can do. None measure whether it does
@@ -67,17 +126,6 @@ articles:
       - Ai-benchmarks
     publishedAt: 2026-07-21T17:41:11.000Z
     source: IEEE Spectrum — AI
-  - title: "Trusting me, trusting you: How researchers are redesigning relationships
-      between humans and intelligent machines"
-    url: https://techxplore.com/news/2026-07-redesigning-relationships-humans-intelligent-machines.html
-    summary: From the Ferranti Mark I to empathetic AI, Manchester researchers are
-      exploring how intelligent machines can understand human behavior, respond
-      to social cues and earn trust in our workplaces, hospitals and homes.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2019/robotandhuman.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-07-21T16:20:09.000Z
-    source: TechXplore — Robotics
   - title: MIT honors employees with 2026 Excellence Awards, Collier Medal, and
       Staff Award for Distinction in Service
     url: https://news.mit.edu/2026/mit-honors-employees-excellence-awards-collier-medal-staff-award-distinction-service-0721
@@ -90,51 +138,6 @@ articles:
     categories: []
     publishedAt: 2026-07-21T12:00:00.000Z
     source: MIT Engineering
-  - title: SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure
-      Analysis
-    url: https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207
-    summary: Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for
-      precise TEM lamella prep, tomography, and advanced nanofabrication. This
-      delivers better resolution, better SNR, larger usable FOV, and shorter
-      acquisition times. Learn how uninterrupted FIB milling will reduce damage
-      and rework, accelerate time to TEM, and increase first pass success—so
-      your FA, yield, and materials teams make faster, confident data driven
-      decisions.
-    imageUrl: https://spectrum.ieee.org/media-library/zeiss-logo-above-the-slogan-seeing-beyond-on-a-dark-curved-rectangle.png?id=66728517&width=980
-    categories:
-      - Type-webinar
-      - Semiconductors
-      - Nanofabrication
-      - Optics
-    publishedAt: 2026-07-20T15:55:00.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: With help from the cosmetics field, animators figure out the math of
-      highly coiled hair
-    url: https://techxplore.com/news/2026-07-cosmetics-field-animators-figure-math.html
-    summary: There are many types of hair—long, short, straight, curly—and today's
-      computer animators have a good handle on many of them. But one type,
-      highly coiled hair, continues to vex animators. With help from a
-      mathematical tool borrowed from the cosmetics industry, Professor Theodore
-      Kim and doctoral student Alvin Shi are changing that. They presented their
-      results at the SIGGRAPH North America conference.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/with-help-from-the-cos.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-07-20T10:42:04.000Z
-    source: TechXplore — Computer Science
-  - title: An ordinary laptop solved a problem thought to require a quantum computer
-    url: https://www.sciencedaily.com/releases/2026/07/260719040000.htm
-    summary: A quantum problem once described as impossible for classical computers
-      has now been solved using relatively modest hardware. Researchers used
-      tensor networks to compress the overwhelming wave function created by
-      hundreds of entangled qubits, allowing some calculations to run on a
-      laptop. Their results matched both theoretical predictions and simulations
-      performed with a quantum computer. The method could open new paths for
-      exploring quantum dynamics and materials.
-    imageUrl: https://www.sciencedaily.com/images/1920/universe-simulation-laptop-computer.webp
-    categories: []
-    publishedAt: 2026-07-20T07:40:09.000Z
-    source: ScienceDaily — Computer Science
   - title: New AI blood test predicts heart disease 15 years early
     url: https://www.sciencedaily.com/releases/2026/07/260716023603.htm
     summary: A new AI-powered blood test could give people a remarkably early
@@ -166,19 +169,6 @@ articles:
       - Satellites
     publishedAt: 2026-07-17T18:00:01.000Z
     source: IEEE Spectrum — Robotics
-  - title: Following the questions where they lead
-    url: https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717
-    summary: Ever since she was a child playing on her family’s farmland in
-      Wisconsin, Bailey Flanigan was guided by her own selective, yet
-      wide-ranging, curiosity. Describing her young self as spirited and a bit
-      unruly, she directed her energies to everything from building booby traps
-      to doing experimental construction projects to exploring an intense
-      interest in medicine to writing fiction and music to planning nonprofit
-      organizations to help lessen social inequality.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-lids-Bailey-Flanigan.jpg?itok=DtZFVT8B
-    categories: []
-    publishedAt: 2026-07-17T17:25:00.000Z
-    source: MIT Artificial Intelligence
   - title: Scientists built a camera that can track invisible particles in 3D
     url: https://www.sciencedaily.com/releases/2026/07/260716023610.htm
     summary: A new particle detector called PLATON could replace millions of tiny
