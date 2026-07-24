@@ -1,46 +1,101 @@
-date: 2026-07-23
+date: 2026-07-24
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: AI chatbots can be as effective as humans at emotional support—sometimes
-      better
-    url: https://techxplore.com/news/2026-07-ai-chatbots-effective-humans-emotional.html
-    summary: New research led by The University of Manchester in collaboration with
-      Durham University has found that AI chatbots such as ChatGPT can match—and
-      in some situations outperform—humans as a source of everyday emotional
-      support. However, the advantage depends on the emotional context, and a
-      key ingredient for effective support—offering specific, actionable
-      guidance—can boost the quality of support from both humans and AI alike.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-chatbot.jpg
-    categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-07-22T23:00:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Why Lettuce Is Always Making People Sick
-    url: https://www.wired.com/story/why-lettuce-always-making-people-sick/
-    summary: The cyclospora diarrhea outbreak isn’t an isolated incident. It’s part
-      of a pattern of leafy greens wreaking digestive havoc.
-    imageUrl: https://media.wired.com/photos/6a5fb97049c6e5150c344a38/191:100/w_1280,c_limit/Science_HowLettuceKeepsGettingUsSick_v1.jpg
+  - title: Working to automate nuclear plant operations
+    url: https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724
+    summary: For nuclear to be considered as a viable clean energy source, it has to
+      be competitively priced and economical to produce.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-NSE-Lauren-Fortier.jpg?itok=WCLAGTfL
+    categories: []
+    publishedAt: 2026-07-24T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: An FDA Panel Just Endorsed These Unproven Peptides
+    url: https://www.wired.com/story/fda-panel-endorses-unproven-peptides/
+    summary: Outside experts—some with a vested interest in peptides—recommended
+      adding a number of the amino acids to the FDA’s bulks list, including the
+      “Wolverine stack” touted by Joe Rogan and other influencers.
+    imageUrl: https://media.wired.com/photos/6a60f44261702616274b2c3e/191:100/w_1280,c_limit/FDA%20Peptide.jpg
     categories:
       - Science
       - Science / Health
-    publishedAt: 2026-07-22T21:41:29.000Z
+    publishedAt: 2026-07-23T23:45:12.000Z
     source: WIRED science
-  - title: Attitudes toward autonomous service robots at real-life events reveal
-      social behaviors
-    url: https://techxplore.com/news/2026-07-attitudes-autonomous-robots-real-life.html
-    summary: When a robot offers you candy, it is hard not to be curious. In an
-      experiment conducted by ethologists at ELTE, visitors at public events
-      noticed an autonomous service robot more often than a human server, and
-      the candy on the robot's tray disappeared faster. The study also suggests
-      that the presence of robots may influence the way people behave in social
-      situations.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/elte-ethologists-servi.jpg
+  - title: "China has cracked down on AI companions: What can we learn from this?"
+    url: https://techxplore.com/news/2026-07-china-ai-companions.html
+    summary: Since November 2022, generative artificial intelligence (AI) has been
+      rewriting billions of emails, student assignments, reports and breakup
+      text messages. Alongside these mundane uses, we've seen a proliferation of
+      chatbots as AI "companions".
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/china-has-cracked-down.jpg
     categories:
       - Consumer & Gadgets
-    publishedAt: 2026-07-22T18:40:01.000Z
+    publishedAt: 2026-07-23T23:00:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Novel method lets multimodal AI update knowledge without losing earlier
+      information
+    url: https://techxplore.com/news/2026-07-method-multimodal-ai-knowledge-earlier.html
+    summary: Korean researchers have developed a core technology that allows
+      multimodal artificial intelligence (AI) to reliably retain existing
+      knowledge while repeatedly learning new information.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/etri-develops-forgetfu.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-07-23T19:40:07.000Z
+    source: TechXplore — Computer Science
+  - title: AI extracts hidden material rules from microscopic data to predict
+      large-scale behavior
+    url: https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html
+    summary: Researchers from the National University of Singapore (NUS) have
+      developed artificial intelligence (AI) methods that learn the large-scale
+      behavior of complex materials from microscopic data. By automatically
+      identifying a small number of hidden variables that capture the collective
+      behavior of a system, the methods can predict how materials evolve over
+      time while reducing the need for costly simulations.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-methods-to-discover.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-07-23T19:20:07.000Z
+    source: TechXplore — Engineering
+  - title: Meta’s New Feel-Good AI Ad Uses a Song About the World Ending
+    url: https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/
+    summary: The clip features the David Bowie track “Five Years,” which includes
+      lyrics such as “Earth was really dying (dying).”
+    imageUrl: https://media.wired.com/photos/6a6231b4185179636cee2e10/191:100/w_1280,c_limit/MetaDavid.jpg
+    categories:
+      - Business
+      - Business / Big Tech
+    publishedAt: 2026-07-23T18:45:52.000Z
+    source: WIRED (AI)
+  - title: "A better future rather than faster robots: 'Sustainable Robotics' as a
+      new academic field"
+    url: https://techxplore.com/news/2026-07-future-faster-robots-sustainable-robotics.html
+    summary: Professor Sukho Song of the Department of Robotics and Mechatronics
+      Engineering at DGIST has proposed "Sustainability Robotics," a new
+      academic field that evaluates robots not only in terms of their technical
+      performance but also their contributions to environmental, social and
+      economic sustainability.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/robot.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-07-23T17:40:10.000Z
     source: TechXplore — Robotics
+  - title: NASA Puts Google’s Gemma Large Language Model in Orbit
+    url: https://spectrum.ieee.org/nasa-ai-satellite-image-analysis
+    summary: The viability of orbital data centers hosting the largest and most
+      capable large language models (LLMs) remains hotly contested. But enormous
+      deployments that require thousands of GPUs aren’t the only way LLMs might
+      prove useful in space.
+    imageUrl: https://spectrum.ieee.org/media-library/satellite-image-of-an-arid-coastal-landscape-with-a-small-concentrated-metropolitan-area.jpg?id=67522667&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Nasa
+      - Image-analysis
+      - Llms
+      - Satellite-imagery
+      - Google
+    publishedAt: 2026-07-23T13:00:01.000Z
+    source: IEEE Spectrum — AI
   - title: The Computer That Helped Win World War II
     url: https://spectrum.ieee.org/colossus-computer-ieee-milestone
     summary: One summer day in 1941, a British radio operator was monitoring German
@@ -49,7 +104,7 @@ articles:
       Morse dit-dit-dah of enciphered messages sent over the German Enigma
       network, the “new music” was a rhythmic warble of binary teletype code
       being transmitted at high speed.
-    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-image-of-two-women-operating-a-wall-sized-1940s-computer.jpg?id=67520993&width=1200&height=800&coordinates=62%2C0%2C63%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-image-of-two-women-operating-a-wall-sized-1940s-computer.jpg?id=67520993&width=1245&height=700&coordinates=0%2C62%2C0%2C63
     categories:
       - Type-ti
       - Ieee-history
@@ -59,46 +114,6 @@ articles:
       - Colossus
     publishedAt: 2026-07-22T18:00:01.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Exploring a smarter way to build climate-resilient roads
-    url: https://techxplore.com/news/2026-07-exploring-smarter-climate-resilient-roads.html
-    summary: Every year from June to September, India experiences the monsoon
-      season. While the visible heavy rainfall often takes the blame for many
-      roads requiring repairs much sooner than expected, a far less visible yet
-      critical force is at play long before the first raindrop falls on the
-      road.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/damaged-road.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-07-22T17:20:07.000Z
-    source: TechXplore — Engineering
-  - title: Professor Emeritus Dimitri Bertsekas, influential computer scientist and
-      prolific author, dies at 83
-    url: https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722
-    summary: Dimitri Bertsekas PhD ’71, the Jerry McAfee (1940) Emeritus Professor
-      in Engineering in the Department of Electrical Engineering and Computer
-      Science (EECS), a principal investigator in the Laboratory for Information
-      and Decision Systems (LIDS), and the Fulton Professor of Computational
-      Decision Making at Arizona State University, died on June 3 at his home in
-      Belmont, Massachusetts. He was 83 years old.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-lids-Bertsekas-obit.jpg?itok=a4V9w4Hq
-    categories: []
-    publishedAt: 2026-07-22T17:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Graphics advances preserve stretched textures and cut shape-computation
-      costs tenfold
-    url: https://techxplore.com/news/2026-07-graphics-advances-textures-tenfold.html
-    summary: Researchers from the Institute of Science and Technology Austria (ISTA)
-      presented two papers at SIGGRAPH in Los Angeles. One paper introduces new
-      methods for texturing highly deformable surfaces, and the other proposes a
-      faster, more precise way to compute geometric properties of shapes. Both
-      show how to boost graphics accuracy while cutting computational cost, with
-      potential applications across video gaming, visual effects and simulation.
-      The studies have been published in ACM Transactions on Graphics.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-computer-graphics-3.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-07-22T15:20:01.000Z
-    source: TechXplore — Computer Science
   - title: MIT’s new lidar chip could give self-driving cars a wider view
     url: https://www.sciencedaily.com/releases/2026/07/260722032127.htm
     summary: MIT engineers have found a way to give chip-based lidar a wider,
@@ -110,34 +125,6 @@ articles:
     categories: []
     publishedAt: 2026-07-22T10:00:54.000Z
     source: ScienceDaily — Computer Science
-  - title: Why AI Needs a “Genie Coefficient”
-    url: https://spectrum.ieee.org/ai-agent-benchmark
-    summary: "Major benchmarks measure what AI can do. None measure whether it does
-      what you mean: the distance between what you ask an AI to do and the
-      unspoken assumptions about how you want the AI to do it. We propose a new
-      metric: the Genie coefficient."
-    imageUrl: https://spectrum.ieee.org/media-library/cartoon-digital-genie-emerging-from-a-smartphone-towering-over-a-surprised-user.png?id=67508222&width=1245&height=700&coordinates=0%2C104%2C0%2C104
-    categories:
-      - Agentic-ai
-      - Ai-agents
-      - Alignment
-      - Ai-safety
-      - User-experience
-      - Ai-benchmarks
-    publishedAt: 2026-07-21T17:41:11.000Z
-    source: IEEE Spectrum — AI
-  - title: MIT honors employees with 2026 Excellence Awards, Collier Medal, and
-      Staff Award for Distinction in Service
-    url: https://news.mit.edu/2026/mit-honors-employees-excellence-awards-collier-medal-staff-award-distinction-service-0721
-    summary: On June 4, colleagues held homemade signs, waved pompoms, and cheered
-      loudly for award recipients in Kresge Auditorium. Twenty individuals and
-      three teams received MIT Excellence Awards — the Institute’s highest honor
-      for staff. Additional honors included the Collier Medal, the Staff Award
-      for Distinction in Service, and the Gordon Y. Billard Award.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-staff-Collier-Medal-Michael-Grenier.jpg?itok=LmIc8BO9
-    categories: []
-    publishedAt: 2026-07-21T12:00:00.000Z
-    source: MIT Engineering
   - title: New AI blood test predicts heart disease 15 years early
     url: https://www.sciencedaily.com/releases/2026/07/260716023603.htm
     summary: A new AI-powered blood test could give people a remarkably early
@@ -199,7 +186,7 @@ articles:
     summary: What could you do if you could make a circuit trace by just bending a
       piece of paper? How about bridging modern technologies and traditional
       handicrafts while providing opportunities for learning skills in both.
-    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=2000&height=1500&coordinates=0%2C282%2C0%2C282
+    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1200&height=400&coordinates=0%2C699%2C0%2C699
     categories:
       - Origami
       - Type-departments
