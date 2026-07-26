@@ -1,8 +1,77 @@
-date: 2026-07-24
+date: 2026-07-26
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Seed crystals push solvent‑free perovskite cells to 25.53% efficiency
+    url: https://techxplore.com/news/2026-07-seed-crystals-solventfree-perovskite-cells.html
+    summary: Solar cells, devices that can convert sunlight into electricity, are
+      now widely used in many countries, where they are helping to reduce
+      reliance on electricity generated from fossil fuels. While most solar
+      cells used today are made of silicon, energy engineers have been assessing
+      the potential of cells based on other materials with lower manufacturing
+      costs.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-vacuum-deposition-1.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-07-25T14:40:01.000Z
+    source: TechXplore — Engineering
+  - title: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’
+      for Days
+    url: https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/
+    summary: "Plus: Russian hackers are trying to steal US nuclear scientists’
+      emails, the State Department bans known scammers from entering the United
+      States, and more."
+    imageUrl: https://media.wired.com/photos/6a639d3adc5893971a3d0afd/191:100/w_1280,c_limit/GettyImages-2278950606.jpg
+    categories:
+      - Security
+      - Security / Security News
+    publishedAt: 2026-07-25T10:30:00.000Z
+    source: WIRED (AI)
+  - title: Contagious Cancer Found in North American Catfish
+    url: https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/
+    summary: Scientists identified the first known cancer transmissible among
+      freshwater fish in a lake that spans the US and Canada.
+    imageUrl: https://media.wired.com/photos/6a63805aa56b8af2db51d70f/191:100/w_1280,c_limit/pezgato.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-07-25T09:00:00.000Z
+    source: WIRED science
+  - title: Has AI become too powerful to control?
+    url: https://techxplore.com/news/2026-07-ai-powerful.html
+    summary: One of OpenAI's most advanced models broke out of a locked-down test
+      and attacked another company's website—reviving fears that AI systems are
+      slipping beyond their creators' control.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/openai-runs-model-test.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-07-24T16:40:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: "Video Friday: An Italian Humanoid Comes to Life"
+    url: https://spectrum.ieee.org/video-friday-physical-ai-robotics
+    summary: Your weekly selection of awesome robot videos
+    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robot-with-red-armor-and-glowing-lights-stands-against-a-dark-background.png?id=67531350&width=1245&height=700&coordinates=0%2C0%2C0%2C0
+    categories:
+      - Humanoid-robots
+      - Video-friday
+      - Robot-hands
+      - Robot-videos
+      - Physical-ai
+      - Drone-delivery
+    publishedAt: 2026-07-24T15:30:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: A spider-inspired robotic boat could track and rescue people in water
+    url: https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html
+    summary: Rescue teams in coastal cities and towns often need to rescue people
+      who are at risk of drowning. These operations often require emergency
+      teams to locate and reach people in distress as quickly as possible, as
+      even a short delay could have serious or even fatal consequences.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-four-legged-robot-in.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-07-24T12:40:01.000Z
+    source: TechXplore — Robotics
   - title: Working to automate nuclear plant operations
     url: https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724
     summary: For nuclear to be considered as a viable clean energy source, it has to
@@ -11,28 +80,6 @@ articles:
     categories: []
     publishedAt: 2026-07-24T04:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: An FDA Panel Just Endorsed These Unproven Peptides
-    url: https://www.wired.com/story/fda-panel-endorses-unproven-peptides/
-    summary: Outside experts—some with a vested interest in peptides—recommended
-      adding a number of the amino acids to the FDA’s bulks list, including the
-      “Wolverine stack” touted by Joe Rogan and other influencers.
-    imageUrl: https://media.wired.com/photos/6a60f44261702616274b2c3e/191:100/w_1280,c_limit/FDA%20Peptide.jpg
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2026-07-23T23:45:12.000Z
-    source: WIRED science
-  - title: "China has cracked down on AI companions: What can we learn from this?"
-    url: https://techxplore.com/news/2026-07-china-ai-companions.html
-    summary: Since November 2022, generative artificial intelligence (AI) has been
-      rewriting billions of emails, student assignments, reports and breakup
-      text messages. Alongside these mundane uses, we've seen a proliferation of
-      chatbots as AI "companions".
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/china-has-cracked-down.jpg
-    categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-07-23T23:00:01.000Z
-    source: TechXplore — AI & Machine Learning
   - title: Novel method lets multimodal AI update knowledge without losing earlier
       information
     url: https://techxplore.com/news/2026-07-method-multimodal-ai-knowledge-earlier.html
@@ -44,43 +91,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-07-23T19:40:07.000Z
     source: TechXplore — Computer Science
-  - title: AI extracts hidden material rules from microscopic data to predict
-      large-scale behavior
-    url: https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html
-    summary: Researchers from the National University of Singapore (NUS) have
-      developed artificial intelligence (AI) methods that learn the large-scale
-      behavior of complex materials from microscopic data. By automatically
-      identifying a small number of hidden variables that capture the collective
-      behavior of a system, the methods can predict how materials evolve over
-      time while reducing the need for costly simulations.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-methods-to-discover.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-07-23T19:20:07.000Z
-    source: TechXplore — Engineering
-  - title: Meta’s New Feel-Good AI Ad Uses a Song About the World Ending
-    url: https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/
-    summary: The clip features the David Bowie track “Five Years,” which includes
-      lyrics such as “Earth was really dying (dying).”
-    imageUrl: https://media.wired.com/photos/6a6231b4185179636cee2e10/191:100/w_1280,c_limit/MetaDavid.jpg
-    categories:
-      - Business
-      - Business / Big Tech
-    publishedAt: 2026-07-23T18:45:52.000Z
-    source: WIRED (AI)
-  - title: "A better future rather than faster robots: 'Sustainable Robotics' as a
-      new academic field"
-    url: https://techxplore.com/news/2026-07-future-faster-robots-sustainable-robotics.html
-    summary: Professor Sukho Song of the Department of Robotics and Mechatronics
-      Engineering at DGIST has proposed "Sustainability Robotics," a new
-      academic field that evaluates robots not only in terms of their technical
-      performance but also their contributions to environmental, social and
-      economic sustainability.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/robot.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-07-23T17:40:10.000Z
-    source: TechXplore — Robotics
   - title: NASA Puts Google’s Gemma Large Language Model in Orbit
     url: https://spectrum.ieee.org/nasa-ai-satellite-image-analysis
     summary: The viability of orbital data centers hosting the largest and most
@@ -139,23 +149,6 @@ articles:
     categories: []
     publishedAt: 2026-07-19T14:58:00.000Z
     source: ScienceDaily — Robotics
-  - title: This Graduate Student Equips NASA’s Robots With Assembly Skills
-    url: https://spectrum.ieee.org/graduate-student-nasas-robots-assembly
-    summary: Like many engineers, Sarah Downs says she knew she wanted to pursue a
-      STEM career from a young age. As a teenager, she discovered robotics
-      through her Tulsa, Okla., middle school’s First Lego League team, and she
-      fell in love with the field, she says. Downs participated in the
-      international robotics program from 2014 to 2016.
-    imageUrl: https://spectrum.ieee.org/media-library/a-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg?id=67499761&width=1245&height=700&coordinates=0%2C156%2C0%2C157
-    categories:
-      - Type-ti
-      - Ieee-member-news
-      - Robots
-      - Nasa
-      - Student-member
-      - Satellites
-    publishedAt: 2026-07-17T18:00:01.000Z
-    source: IEEE Spectrum — Robotics
   - title: Scientists built a camera that can track invisible particles in 3D
     url: https://www.sciencedaily.com/releases/2026/07/260716023610.htm
     summary: A new particle detector called PLATON could replace millions of tiny
@@ -186,7 +179,7 @@ articles:
     summary: What could you do if you could make a circuit trace by just bending a
       piece of paper? How about bridging modern technologies and traditional
       handicrafts while providing opportunities for learning skills in both.
-    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1200&height=400&coordinates=0%2C699%2C0%2C699
+    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1200&height=800&coordinates=0%2C365%2C0%2C366
     categories:
       - Origami
       - Type-departments
