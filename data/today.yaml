@@ -1,21 +1,56 @@
-date: 2026-07-26
+date: 2026-07-27
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Seed crystals push solvent‑free perovskite cells to 25.53% efficiency
-    url: https://techxplore.com/news/2026-07-seed-crystals-solventfree-perovskite-cells.html
-    summary: Solar cells, devices that can convert sunlight into electricity, are
-      now widely used in many countries, where they are helping to reduce
-      reliance on electricity generated from fossil fuels. While most solar
-      cells used today are made of silicon, energy engineers have been assessing
-      the potential of cells based on other materials with lower manufacturing
-      costs.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-vacuum-deposition-1.jpg
+  - title: New AI tools let readers talk to books
+    url: https://techxplore.com/news/2026-07-ai-tools-readers.html
+    summary: Imagine a world where you could ask a book a question as you read it.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/people-walk-past-a-ban.jpg
+    categories:
+      - Consumer & Gadgets
+    publishedAt: 2026-07-27T07:30:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: 3D-printable material can heal the body, build better robots and recover
+      critical minerals
+    url: https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html
+    summary: A new type of 3D-printable material developed by researchers at The
+      University of Texas at Austin mimics human tissue's ability to sort and
+      filter, allowing certain molecules to pass through while keeping others
+      out. This broad functionality means the material can be used in a variety
+      of applications across medicine, water and robotics.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/3d-printable-material-1.jpg
     categories:
       - Engineering
-    publishedAt: 2026-07-25T14:40:01.000Z
+    publishedAt: 2026-07-26T17:30:01.000Z
     source: TechXplore — Engineering
+  - title: Optical Tech Would Update a Robot’s AI on the Fly
+    url: https://spectrum.ieee.org/ai-in-robotics
+    summary: Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He
+      positions the lens of an optical receiver almost a meter away from an LED
+      emitting a beam of red light. The computer monitor attached to the
+      receiver takes a beat to refresh, then displays an array of squares that
+      resemble a QR code.
+    imageUrl: https://spectrum.ieee.org/media-library/an-asian-man-positions-the-lens-of-an-optical-receiver-a-meter-away-from-a-beam-of-led-light-in-a-lab.jpg?id=67530602&width=1245&height=700&coordinates=0%2C469%2C0%2C470
+    categories:
+      - Robot-ai
+      - Sram
+      - Memory
+      - Edge-ai
+      - Vlsi-symposium
+    publishedAt: 2026-07-26T13:00:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: The Solution to the Power Grid's Woes Might Just Be Sitting in Your
+      Driveway
+    url: https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/
+    summary: More electric vehicles are becoming capable of providing backup power
+      at a time when the US is increasingly in need of more electrons.
+    imageUrl: null
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-07-26T10:45:00.000Z
+    source: WIRED science
   - title: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’
       for Days
     url: https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/
@@ -28,39 +63,6 @@ articles:
       - Security / Security News
     publishedAt: 2026-07-25T10:30:00.000Z
     source: WIRED (AI)
-  - title: Contagious Cancer Found in North American Catfish
-    url: https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/
-    summary: Scientists identified the first known cancer transmissible among
-      freshwater fish in a lake that spans the US and Canada.
-    imageUrl: https://media.wired.com/photos/6a63805aa56b8af2db51d70f/191:100/w_1280,c_limit/pezgato.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-07-25T09:00:00.000Z
-    source: WIRED science
-  - title: Has AI become too powerful to control?
-    url: https://techxplore.com/news/2026-07-ai-powerful.html
-    summary: One of OpenAI's most advanced models broke out of a locked-down test
-      and attacked another company's website—reviving fears that AI systems are
-      slipping beyond their creators' control.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/openai-runs-model-test.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-07-24T16:40:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: "Video Friday: An Italian Humanoid Comes to Life"
-    url: https://spectrum.ieee.org/video-friday-physical-ai-robotics
-    summary: Your weekly selection of awesome robot videos
-    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robot-with-red-armor-and-glowing-lights-stands-against-a-dark-background.png?id=67531350&width=1245&height=700&coordinates=0%2C0%2C0%2C0
-    categories:
-      - Humanoid-robots
-      - Video-friday
-      - Robot-hands
-      - Robot-videos
-      - Physical-ai
-      - Drone-delivery
-    publishedAt: 2026-07-24T15:30:01.000Z
-    source: IEEE Spectrum — Robotics
   - title: A spider-inspired robotic boat could track and rescue people in water
     url: https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html
     summary: Rescue teams in coastal cities and towns often need to rescue people
@@ -91,21 +93,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-07-23T19:40:07.000Z
     source: TechXplore — Computer Science
-  - title: NASA Puts Google’s Gemma Large Language Model in Orbit
-    url: https://spectrum.ieee.org/nasa-ai-satellite-image-analysis
-    summary: The viability of orbital data centers hosting the largest and most
-      capable large language models (LLMs) remains hotly contested. But enormous
-      deployments that require thousands of GPUs aren’t the only way LLMs might
-      prove useful in space.
-    imageUrl: https://spectrum.ieee.org/media-library/satellite-image-of-an-arid-coastal-landscape-with-a-small-concentrated-metropolitan-area.jpg?id=67522667&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Nasa
-      - Image-analysis
-      - Llms
-      - Satellite-imagery
-      - Google
-    publishedAt: 2026-07-23T13:00:01.000Z
-    source: IEEE Spectrum — AI
   - title: The Computer That Helped Win World War II
     url: https://spectrum.ieee.org/colossus-computer-ieee-milestone
     summary: One summer day in 1941, a British radio operator was monitoring German
