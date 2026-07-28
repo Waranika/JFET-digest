@@ -1,29 +1,92 @@
-date: 2026-07-27
+date: 2026-07-28
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: New AI tools let readers talk to books
-    url: https://techxplore.com/news/2026-07-ai-tools-readers.html
-    summary: Imagine a world where you could ask a book a question as you read it.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/people-walk-past-a-ban.jpg
+  - title: Hugging Face Has a Deepfake Nudes Problem
+    url: https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/
+    summary: Researchers tested top image editing models on Hugging Face and found
+      they could easily create explicit deepfakes—and 1,000 image editing
+      prompts show how people use the software.
+    imageUrl: https://media.wired.com/photos/6a67cfe8ebdb87bfb99d53b1/191:100/w_1280,c_limit/Seucirty_Hugging%20Face%20Has%20a%20Deepfake%20Nudes%20Problem_v1.jpg
     categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-07-27T07:30:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: 3D-printable material can heal the body, build better robots and recover
-      critical minerals
-    url: https://techxplore.com/news/2026-07-3d-printable-material-body-robots.html
-    summary: A new type of 3D-printable material developed by researchers at The
-      University of Texas at Austin mimics human tissue's ability to sort and
-      filter, allowing certain molecules to pass through while keeping others
-      out. This broad functionality means the material can be used in a variety
-      of applications across medicine, water and robotics.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/3d-printable-material-1.jpg
+      - Security
+      - Security / Privacy
+    publishedAt: 2026-07-28T05:30:00.000Z
+    source: WIRED (AI)
+  - title: France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing
+      Fires
+    url: https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/
+    summary: Extreme fire conditions on the ground have created unprecedented
+      conditions in the atmosphere.
+    imageUrl: https://media.wired.com/photos/6a67dc3d4180a96e737b7769/191:100/w_1280,c_limit/France-Records-Its-First-Ever-Pyrocumulonimbus-Cloud-Science-2286803963.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-07-27T22:57:20.000Z
+    source: WIRED science
+  - title: AI gains a tool to identify Kinyarwanda propaganda, with promise for 600
+      Bantu languages
+    url: https://techxplore.com/news/2026-07-ai-gains-tool-kinyarwanda-propaganda.html
+    summary: A new study led by Fabrice Niyigaba '27 reports the first digital tool
+      for identifying online propaganda in Kinyarwanda, the national language of
+      Rwanda's 15 million people—and possibly the first for any of the Bantu
+      languages spoken by 350 million Africans.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/working-to-combat-prop.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-07-27T20:40:10.000Z
+    source: TechXplore — Computer Science
+  - title: Melt it, spin it, use it again. This new recyclable yarn is as strong and
+      stretchy as spandex-based yarns
+    url: https://techxplore.com/news/2026-07-recyclable-yarn-strong-stretchy-spandex.html
+    summary: After a closet cleanout, what options are there for recycling our old
+      threads? Not many. Apart from bringing used clothes to a donation center,
+      there is no process for recycling textiles like there is for bottles and
+      cans. The average American throws out around 81 pounds of clothing each
+      year. That amounts to more than 11 million tons of textiles that end up in
+      landfills or incinerators.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/engineers-design-recyc.jpg
     categories:
       - Engineering
-    publishedAt: 2026-07-26T17:30:01.000Z
+    publishedAt: 2026-07-27T19:41:25.000Z
     source: TechXplore — Engineering
+  - title: Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare
+    url: https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/
+    summary: An overview of how mode-agile threats challenge static library radar/EW
+      systems, and how AI/ML cognitive architectures enable adaptive, real-time
+      countermeasures.
+    imageUrl: https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-make-ideas-real-tagline-and-rs-monogram-in-diamond.png?id=67541140&width=980
+    categories:
+      - Type-whitepaper
+      - Electronic-warfare
+      - Radar
+      - Artificial-intelligence
+    publishedAt: 2026-07-27T17:54:07.000Z
+    source: IEEE Spectrum — AI
+  - title: AI underwater robots can now track diver stress via exhaled bubbles
+    url: https://techxplore.com/news/2026-07-ai-underwater-robots-track-diver.html
+    summary: University of Minnesota Twin Cities researchers have developed a
+      first-of-its-kind AI system that allows underwater companion robots to
+      monitor a diver's health in real time simply by "watching" their exhaled
+      bubbles.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-underwater-robots-c.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-07-27T17:40:02.000Z
+    source: TechXplore — Robotics
+  - title: "MIT engineers design recyclable elastic yarn "
+    url: https://news.mit.edu/2026/mit-engineers-design-recyclable-elastic-yarn-0727
+    summary: After a closet cleanout, what options are there for recyling our old
+      threads? Not many. Apart from bringing used clothes to a donation center,
+      there is no process for recycling textiles like there is for bottles and
+      cans. And, the average American throws out around 81 pounds of clothing
+      each year. That amounts to more than 11 million tons of textiles that end
+      up in the landfill or incinerator.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-RecyclableYarn-01-press.jpg?itok=IcF6kuYE
+    categories: []
+    publishedAt: 2026-07-27T14:00:00.000Z
+    source: MIT Engineering
   - title: Optical Tech Would Update a Robot’s AI on the Fly
     url: https://spectrum.ieee.org/ai-in-robotics
     summary: Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He
@@ -31,7 +94,7 @@ articles:
       emitting a beam of red light. The computer monitor attached to the
       receiver takes a beat to refresh, then displays an array of squares that
       resemble a QR code.
-    imageUrl: https://spectrum.ieee.org/media-library/an-asian-man-positions-the-lens-of-an-optical-receiver-a-meter-away-from-a-beam-of-led-light-in-a-lab.jpg?id=67530602&width=1245&height=700&coordinates=0%2C469%2C0%2C470
+    imageUrl: https://spectrum.ieee.org/media-library/an-asian-man-positions-the-lens-of-an-optical-receiver-a-meter-away-from-a-beam-of-led-light-in-a-lab.jpg?id=67530602&width=1200&height=800&coordinates=0%2C209%2C0%2C209
     categories:
       - Robot-ai
       - Sram
@@ -40,40 +103,6 @@ articles:
       - Vlsi-symposium
     publishedAt: 2026-07-26T13:00:01.000Z
     source: IEEE Spectrum — Robotics
-  - title: The Solution to the Power Grid's Woes Might Just Be Sitting in Your
-      Driveway
-    url: https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/
-    summary: More electric vehicles are becoming capable of providing backup power
-      at a time when the US is increasingly in need of more electrons.
-    imageUrl: null
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-07-26T10:45:00.000Z
-    source: WIRED science
-  - title: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’
-      for Days
-    url: https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/
-    summary: "Plus: Russian hackers are trying to steal US nuclear scientists’
-      emails, the State Department bans known scammers from entering the United
-      States, and more."
-    imageUrl: https://media.wired.com/photos/6a639d3adc5893971a3d0afd/191:100/w_1280,c_limit/GettyImages-2278950606.jpg
-    categories:
-      - Security
-      - Security / Security News
-    publishedAt: 2026-07-25T10:30:00.000Z
-    source: WIRED (AI)
-  - title: A spider-inspired robotic boat could track and rescue people in water
-    url: https://techxplore.com/news/2026-07-spider-robotic-boat-track-people.html
-    summary: Rescue teams in coastal cities and towns often need to rescue people
-      who are at risk of drowning. These operations often require emergency
-      teams to locate and reach people in distress as quickly as possible, as
-      even a short delay could have serious or even fatal consequences.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-four-legged-robot-in.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-07-24T12:40:01.000Z
-    source: TechXplore — Robotics
   - title: Working to automate nuclear plant operations
     url: https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724
     summary: For nuclear to be considered as a viable clean energy source, it has to
@@ -82,17 +111,6 @@ articles:
     categories: []
     publishedAt: 2026-07-24T04:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: Novel method lets multimodal AI update knowledge without losing earlier
-      information
-    url: https://techxplore.com/news/2026-07-method-multimodal-ai-knowledge-earlier.html
-    summary: Korean researchers have developed a core technology that allows
-      multimodal artificial intelligence (AI) to reliably retain existing
-      knowledge while repeatedly learning new information.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/etri-develops-forgetfu.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-07-23T19:40:07.000Z
-    source: TechXplore — Computer Science
   - title: The Computer That Helped Win World War II
     url: https://spectrum.ieee.org/colossus-computer-ieee-milestone
     summary: One summer day in 1941, a British radio operator was monitoring German
@@ -101,7 +119,7 @@ articles:
       Morse dit-dit-dah of enciphered messages sent over the German Enigma
       network, the “new music” was a rhythmic warble of binary teletype code
       being transmitted at high speed.
-    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-image-of-two-women-operating-a-wall-sized-1940s-computer.jpg?id=67520993&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-image-of-two-women-operating-a-wall-sized-1940s-computer.jpg?id=67520993&width=1200&height=800&coordinates=62%2C0%2C63%2C0
     categories:
       - Type-ti
       - Ieee-history
@@ -166,7 +184,7 @@ articles:
     summary: What could you do if you could make a circuit trace by just bending a
       piece of paper? How about bridging modern technologies and traditional
       handicrafts while providing opportunities for learning skills in both.
-    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1200&height=800&coordinates=0%2C365%2C0%2C366
+    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1200&height=400&coordinates=0%2C699%2C0%2C699
     categories:
       - Origami
       - Type-departments
