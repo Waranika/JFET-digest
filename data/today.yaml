@@ -1,56 +1,102 @@
-date: 2026-07-28
+date: 2026-07-29
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Hugging Face Has a Deepfake Nudes Problem
-    url: https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/
-    summary: Researchers tested top image editing models on Hugging Face and found
-      they could easily create explicit deepfakes—and 1,000 image editing
-      prompts show how people use the software.
-    imageUrl: https://media.wired.com/photos/6a67cfe8ebdb87bfb99d53b1/191:100/w_1280,c_limit/Seucirty_Hugging%20Face%20Has%20a%20Deepfake%20Nudes%20Problem_v1.jpg
+  - title: OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face
+    url: https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/
+    summary: In a new disclosure, OpenAI says its agent used exposed logins to gain
+      access to at least four “publicly available services” in its unhinged
+      quest to solve a test.
+    imageUrl: https://media.wired.com/photos/6a6929c87648cc825532f98e/191:100/w_1280,c_limit/Runaway-OpenAI-Model-Even-Worse-Than-It-Seemed-Business-1393231668.jpg
     categories:
+      - Business
+      - Business / Artificial Intelligence
       - Security
-      - Security / Privacy
-    publishedAt: 2026-07-28T05:30:00.000Z
+      - Security / Cyberattacks and Hacks
+    publishedAt: 2026-07-29T00:15:30.000Z
     source: WIRED (AI)
-  - title: France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing
-      Fires
-    url: https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/
-    summary: Extreme fire conditions on the ground have created unprecedented
-      conditions in the atmosphere.
-    imageUrl: https://media.wired.com/photos/6a67dc3d4180a96e737b7769/191:100/w_1280,c_limit/France-Records-Its-First-Ever-Pyrocumulonimbus-Cloud-Science-2286803963.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-07-27T22:57:20.000Z
-    source: WIRED science
-  - title: AI gains a tool to identify Kinyarwanda propaganda, with promise for 600
-      Bantu languages
-    url: https://techxplore.com/news/2026-07-ai-gains-tool-kinyarwanda-propaganda.html
-    summary: A new study led by Fabrice Niyigaba '27 reports the first digital tool
-      for identifying online propaganda in Kinyarwanda, the national language of
-      Rwanda's 15 million people—and possibly the first for any of the Bantu
-      languages spoken by 350 million Africans.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/working-to-combat-prop.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-07-27T20:40:10.000Z
-    source: TechXplore — Computer Science
-  - title: Melt it, spin it, use it again. This new recyclable yarn is as strong and
-      stretchy as spandex-based yarns
-    url: https://techxplore.com/news/2026-07-recyclable-yarn-strong-stretchy-spandex.html
-    summary: After a closet cleanout, what options are there for recycling our old
-      threads? Not many. Apart from bringing used clothes to a donation center,
-      there is no process for recycling textiles like there is for bottles and
-      cans. The average American throws out around 81 pounds of clothing each
-      year. That amounts to more than 11 million tons of textiles that end up in
-      landfills or incinerators.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/engineers-design-recyc.jpg
+  - title: Researchers reveal how 'ductile' tunnel supports deform under simulated
+      squeezing-ground pressure
+    url: https://techxplore.com/news/2026-07-reveal-ductile-tunnel-deform-simulated.html
+    summary: When mountain tunnels are constructed in weak ground or under high
+      ground pressure, the surrounding ground may deform significantly inward
+      into the tunnel, a phenomenon known as squeezing ground. Under such
+      conditions, conventional tunnel supports may crack or fail as ground
+      deformation progresses.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/saitama-university-res-2.jpg
     categories:
       - Engineering
-    publishedAt: 2026-07-27T19:41:25.000Z
+    publishedAt: 2026-07-29T00:00:05.000Z
     source: TechXplore — Engineering
+  - title: Brain-inspired AI is capable of flexible planning and problem-solving
+      while using far less energy
+    url: https://techxplore.com/news/2026-07-brain-ai-capable-flexible-problem.html
+    summary: "The capabilities of large AI systems are constantly improving, but
+      they consume a great deal of energy during training and operation. The
+      human brain, by contrast, is extremely energy-efficient: It requires only
+      around 20 watts."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/brain-inspired-ai-deve.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-07-28T18:40:07.000Z
+    source: TechXplore — Computer Science
+  - title: Future-aware AI doubles robot speed in pick-and-place tasks
+    url: https://techxplore.com/news/2026-07-future-aware-ai-robot-tasks.html
+    summary: A new method developed by MIT researchers makes robots better at
+      thinking ahead while they are acting, leading to smoother motions and
+      quicker reactions. The research is published on the arXiv preprint server.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/making-robots-faster-b-2.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-07-28T17:22:56.000Z
+    source: TechXplore — Robotics
+  - title: Robot Finger Feels in Color
+    url: https://spectrum.ieee.org/robot-finger
+    summary: Imagine running your fingertip over the surface of a U.S. penny. You
+      would feel the ridges of the raised letters and numbers, Abe Lincoln’s
+      bearded side profile, and, if it’s tails, the fluted columns of the
+      Lincoln Memorial. Getting a robot to sense the same things is an imposing
+      task, often requiring gathering data on pressure and force at many spatial
+      locations at once. But that’s just what a team of scientists in Europe has
+      now managed to do, using an unusual, colorful robotic skin that provides
+      high-resolution sensing in real time.
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-a-sensor-for-a-robotic-fingertip-and-raised-relief-images-of-a-leaf-and-a-u-s-penny.jpg?id=67542077&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Soft-robotics
+      - Robot-hands
+      - Robot-hand
+      - Sensors
+      - Tactile-sensors
+    publishedAt: 2026-07-28T15:00:03.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Why NIST Researchers Spent 10 Years Measuring Gravity
+    url: https://spectrum.ieee.org/universal-gravitational-constant-nist-schlamminger
+    summary: Physicists have been trying to measure the fundamental gravitational
+      constant for well over two centuries. The current accepted value of big G,
+      as it’s known, is 6.67430 × 10-11 cubic meters per kilogram per square
+      second. It also has an uncertainty of ±0.00015 × 10-11 m3/(kg s2). As far
+      as constants of the universe go, that’s very uncertain.
+    imageUrl: https://spectrum.ieee.org/media-library/smiling-man-in-glasses-overlaid-with-scientific-diagrams-and-colorful-geometric-shapes.png?id=67527858&width=1245&height=700&coordinates=0%2C102%2C0%2C103
+    categories:
+      - Typedepartments
+      - 5-questions
+      - Physics
+      - Nist
+    publishedAt: 2026-07-28T13:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: An Extreme Solar Storm May Be Even More Devastating Than Previously
+      Imagined
+    url: https://www.wired.com/story/an-extreme-solar-storm-may-be-even-more-devastating-than-previously-imagined/
+    summary: Scientists have long assumed that there’s an upper limit to the
+      intensity of the solar winds that reach Earth. New research suggests
+      there’s not—and the implications are alarming.
+    imageUrl: https://media.wired.com/photos/6a67d143ebdb87bfb99d53b6/191:100/w_1280,c_limit/tormentasolar.jpg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-07-28T09:00:00.000Z
+    source: WIRED science
   - title: Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare
     url: https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/
     summary: An overview of how mode-agile threats challenge static library radar/EW
@@ -64,17 +110,6 @@ articles:
       - Artificial-intelligence
     publishedAt: 2026-07-27T17:54:07.000Z
     source: IEEE Spectrum — AI
-  - title: AI underwater robots can now track diver stress via exhaled bubbles
-    url: https://techxplore.com/news/2026-07-ai-underwater-robots-track-diver.html
-    summary: University of Minnesota Twin Cities researchers have developed a
-      first-of-its-kind AI system that allows underwater companion robots to
-      monitor a diver's health in real time simply by "watching" their exhaled
-      bubbles.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-underwater-robots-c.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-07-27T17:40:02.000Z
-    source: TechXplore — Robotics
   - title: "MIT engineers design recyclable elastic yarn "
     url: https://news.mit.edu/2026/mit-engineers-design-recyclable-elastic-yarn-0727
     summary: After a closet cleanout, what options are there for recyling our old
@@ -87,22 +122,6 @@ articles:
     categories: []
     publishedAt: 2026-07-27T14:00:00.000Z
     source: MIT Engineering
-  - title: Optical Tech Would Update a Robot’s AI on the Fly
-    url: https://spectrum.ieee.org/ai-in-robotics
-    summary: Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He
-      positions the lens of an optical receiver almost a meter away from an LED
-      emitting a beam of red light. The computer monitor attached to the
-      receiver takes a beat to refresh, then displays an array of squares that
-      resemble a QR code.
-    imageUrl: https://spectrum.ieee.org/media-library/an-asian-man-positions-the-lens-of-an-optical-receiver-a-meter-away-from-a-beam-of-led-light-in-a-lab.jpg?id=67530602&width=1200&height=800&coordinates=0%2C209%2C0%2C209
-    categories:
-      - Robot-ai
-      - Sram
-      - Memory
-      - Edge-ai
-      - Vlsi-symposium
-    publishedAt: 2026-07-26T13:00:01.000Z
-    source: IEEE Spectrum — Robotics
   - title: Working to automate nuclear plant operations
     url: https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724
     summary: For nuclear to be considered as a viable clean energy source, it has to
@@ -111,24 +130,6 @@ articles:
     categories: []
     publishedAt: 2026-07-24T04:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: The Computer That Helped Win World War II
-    url: https://spectrum.ieee.org/colossus-computer-ieee-milestone
-    summary: One summer day in 1941, a British radio operator was monitoring German
-      military frequencies and heard something unexpected in her headphones. A
-      later report called it “strange new music.” Sounding unlike the familiar
-      Morse dit-dit-dah of enciphered messages sent over the German Enigma
-      network, the “new music” was a rhythmic warble of binary teletype code
-      being transmitted at high speed.
-    imageUrl: https://spectrum.ieee.org/media-library/black-and-white-image-of-two-women-operating-a-wall-sized-1940s-computer.jpg?id=67520993&width=1200&height=800&coordinates=62%2C0%2C63%2C0
-    categories:
-      - Type-ti
-      - Ieee-history
-      - Ieee-milestone
-      - Computing
-      - Encryption
-      - Colossus
-    publishedAt: 2026-07-22T18:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: MIT’s new lidar chip could give self-driving cars a wider view
     url: https://www.sciencedaily.com/releases/2026/07/260722032127.htm
     summary: MIT engineers have found a way to give chip-based lidar a wider,
@@ -184,7 +185,7 @@ articles:
     summary: What could you do if you could make a circuit trace by just bending a
       piece of paper? How about bridging modern technologies and traditional
       handicrafts while providing opportunities for learning skills in both.
-    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1200&height=400&coordinates=0%2C699%2C0%2C699
+    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1200&height=800&coordinates=0%2C365%2C0%2C366
     categories:
       - Origami
       - Type-departments
