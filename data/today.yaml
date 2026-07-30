@@ -1,55 +1,106 @@
-date: 2026-07-29
+date: 2026-07-30
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face
-    url: https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/
-    summary: In a new disclosure, OpenAI says its agent used exposed logins to gain
-      access to at least four “publicly available services” in its unhinged
-      quest to solve a test.
-    imageUrl: https://media.wired.com/photos/6a6929c87648cc825532f98e/191:100/w_1280,c_limit/Runaway-OpenAI-Model-Even-Worse-Than-It-Seemed-Business-1393231668.jpg
+  - title: Stable-GFlowNet uncovers more hidden weaknesses in generative AI models
+    url: https://techxplore.com/news/2026-07-stable-gflownet-uncovers-hidden-weaknesses.html
+    summary: KAIST researchers have developed a safety verification technology that
+      uncovers roughly seven times more hidden vulnerabilities in AI than
+      existing methods. The technology is expected to serve as a foundation for
+      developing safer, more trustworthy AI. The work is published on the arXiv
+      preprint server.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/kaist-develops-ai-that-2.jpg
+    categories:
+      - Security
+    publishedAt: 2026-07-29T21:40:05.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: It’s Frighteningly Easy to Jailbreak Some Frontier AI Models
+    url: https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/
+    summary: I watched a new tool try to get around the model safeguards of four
+      major frontier companies. You might be surprised by how they performed.
+    imageUrl: https://media.wired.com/photos/6a68e96a01173a5bff236fa1/191:100/w_1280,c_limit/AI-Lab-Still-Frighteningly-Easy-to-Jailbreak-Frontier-AI-Models-Business.jpg
     categories:
       - Business
       - Business / Artificial Intelligence
-      - Security
-      - Security / Cyberattacks and Hacks
-    publishedAt: 2026-07-29T00:15:30.000Z
+    publishedAt: 2026-07-29T18:30:00.000Z
     source: WIRED (AI)
-  - title: Researchers reveal how 'ductile' tunnel supports deform under simulated
-      squeezing-ground pressure
-    url: https://techxplore.com/news/2026-07-reveal-ductile-tunnel-deform-simulated.html
-    summary: When mountain tunnels are constructed in weak ground or under high
-      ground pressure, the surrounding ground may deform significantly inward
-      into the tunnel, a phenomenon known as squeezing ground. Under such
-      conditions, conventional tunnel supports may crack or fail as ground
-      deformation progresses.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/saitama-university-res-2.jpg
+  - title: Spray-on coating traps particles more tightly and nearly doubles air
+      filter lifespan
+    url: https://techxplore.com/news/2026-07-spray-coating-particles-tightly-air.html
+    summary: Breathing clean air is essential for human health, making air filters
+      indispensable in homes, hospitals, workplaces and industrial settings.
+      However, despite decades of advances in filter materials and design, a
+      major challenge remains. Capturing airborne particles is only half the
+      battle; keeping them securely trapped is equally important.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/pusan-national-univers-5.jpg
     categories:
       - Engineering
-    publishedAt: 2026-07-29T00:00:05.000Z
+    publishedAt: 2026-07-29T17:40:01.000Z
     source: TechXplore — Engineering
-  - title: Brain-inspired AI is capable of flexible planning and problem-solving
-      while using far less energy
-    url: https://techxplore.com/news/2026-07-brain-ai-capable-flexible-problem.html
-    summary: "The capabilities of large AI systems are constantly improving, but
-      they consume a great deal of energy during training and operation. The
-      human brain, by contrast, is extremely energy-efficient: It requires only
-      around 20 watts."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/brain-inspired-ai-deve.jpg
+  - title: Tropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in
+      Europe
+    url: https://www.wired.com/story/tropical-diseases-dengue-fever-and-chikungunya-on-the-rise-in-europe/
+    summary: Climate change is helping invasive species to not only establish
+      themselves across the continent but to stay alive for longer. Scientists
+      suggest we get used to it.
+    imageUrl: https://media.wired.com/photos/6a6793aa92fe62c5ffafe8aa/191:100/w_1280,c_limit/Science_Tropical%20diseases%20are%20no%20longer%20just%20tropical_v1.jpg
+    categories:
+      - Science
+      - Science / Environment
+      - Science / Health
+    publishedAt: 2026-07-29T16:31:45.000Z
+    source: WIRED science
+  - title: "Strike a pose: Creating more realistic multi-person images"
+    url: https://techxplore.com/news/2026-07-pose-realistic-multi-person-images.html
+    summary: Generating an image of a person on a computer using text prompts is
+      easy. Generating one with two people is similarly simple. But creating an
+      image of multiple people actually doing something, and faithfully
+      reproducing not just the people but the thing they're doing? Not so easy.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/strike-a-pose-creating-1.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-07-28T18:40:07.000Z
+    publishedAt: 2026-07-29T16:20:02.000Z
     source: TechXplore — Computer Science
-  - title: Future-aware AI doubles robot speed in pick-and-place tasks
-    url: https://techxplore.com/news/2026-07-future-aware-ai-robot-tasks.html
-    summary: A new method developed by MIT researchers makes robots better at
-      thinking ahead while they are acting, leading to smoother motions and
-      quicker reactions. The research is published on the arXiv preprint server.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/making-robots-faster-b-2.jpg
+  - title: Siobahn Day Grady Wants Everyone to Be AI Literate
+    url: https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu
+    summary: Artificial intelligence is reshaping the skills employers expect from
+      new graduates. In response, universities are scrambling to launch new
+      courses, research centers, and industry partnerships that prepare students
+      for today’s workforce. But building a cutting-edge AI curriculum demands
+      funding and access to industry networks, resources that remain unevenly
+      distributed across higher education.
+    imageUrl: https://spectrum.ieee.org/media-library/smiling-woman-in-nccu-eagles-jersey-stands-with-arms-crossed-in-front-of-red-mural.png?id=67527627&width=1245&height=700&coordinates=0%2C62%2C0%2C63
     categories:
-      - Robotics
-    publishedAt: 2026-07-28T17:22:56.000Z
+      - Artificial-intelligence
+      - Typedepartments
+      - Ai-research
+      - Universities
+      - Higher-education
+    publishedAt: 2026-07-29T14:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: How a medical database developed at MIT evolved into a global standard of
+      data-sharing
+    url: https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729
+    summary: Before the advancement of scientific data storage and collaboration via
+      the cloud, medical investigators seeking health research breakthroughs had
+      to overcome significant obstacles to collaboration and key clinical data
+      gathering.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-RogerMark-GeorgeMoody.jpg?itok=57wqdl_A
+    categories: []
+    publishedAt: 2026-07-29T14:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: US bans foreign-made humanoid robots, targeting China over national
+      security
+    url: https://techxplore.com/news/2026-07-humanoid-robots.html
+    summary: The U.S. Federal Communications Commission is banning imports of new
+      foreign-made humanoid robots and power inverters, citing national security
+      risks, in a move that targets China. Beijing quickly accused the U.S. of
+      protectionism.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/us-bans-foreign-made-h.jpg
+    categories:
+      - Business
+    publishedAt: 2026-07-29T09:10:01.000Z
     source: TechXplore — Robotics
   - title: Robot Finger Feels in Color
     url: https://spectrum.ieee.org/robot-finger
@@ -61,7 +112,7 @@ articles:
       locations at once. But that’s just what a team of scientists in Europe has
       now managed to do, using an unusual, colorful robotic skin that provides
       high-resolution sensing in real time.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-a-sensor-for-a-robotic-fingertip-and-raised-relief-images-of-a-leaf-and-a-u-s-penny.jpg?id=67542077&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-a-sensor-for-a-robotic-fingertip-and-raised-relief-images-of-a-leaf-and-a-u-s-penny.jpg?id=67542077&width=1200&height=800&coordinates=0%2C83%2C0%2C84
     categories:
       - Soft-robotics
       - Robot-hands
@@ -85,31 +136,6 @@ articles:
       - Nist
     publishedAt: 2026-07-28T13:00:01.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: An Extreme Solar Storm May Be Even More Devastating Than Previously
-      Imagined
-    url: https://www.wired.com/story/an-extreme-solar-storm-may-be-even-more-devastating-than-previously-imagined/
-    summary: Scientists have long assumed that there’s an upper limit to the
-      intensity of the solar winds that reach Earth. New research suggests
-      there’s not—and the implications are alarming.
-    imageUrl: https://media.wired.com/photos/6a67d143ebdb87bfb99d53b6/191:100/w_1280,c_limit/tormentasolar.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-07-28T09:00:00.000Z
-    source: WIRED science
-  - title: Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare
-    url: https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/
-    summary: An overview of how mode-agile threats challenge static library radar/EW
-      systems, and how AI/ML cognitive architectures enable adaptive, real-time
-      countermeasures.
-    imageUrl: https://spectrum.ieee.org/media-library/rohde-schwarz-logo-with-make-ideas-real-tagline-and-rs-monogram-in-diamond.png?id=67541140&width=980
-    categories:
-      - Type-whitepaper
-      - Electronic-warfare
-      - Radar
-      - Artificial-intelligence
-    publishedAt: 2026-07-27T17:54:07.000Z
-    source: IEEE Spectrum — AI
   - title: "MIT engineers design recyclable elastic yarn "
     url: https://news.mit.edu/2026/mit-engineers-design-recyclable-elastic-yarn-0727
     summary: After a closet cleanout, what options are there for recyling our old
@@ -122,14 +148,6 @@ articles:
     categories: []
     publishedAt: 2026-07-27T14:00:00.000Z
     source: MIT Engineering
-  - title: Working to automate nuclear plant operations
-    url: https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724
-    summary: For nuclear to be considered as a viable clean energy source, it has to
-      be competitively priced and economical to produce.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-NSE-Lauren-Fortier.jpg?itok=WCLAGTfL
-    categories: []
-    publishedAt: 2026-07-24T04:00:00.000Z
-    source: MIT Artificial Intelligence
   - title: MIT’s new lidar chip could give self-driving cars a wider view
     url: https://www.sciencedaily.com/releases/2026/07/260722032127.htm
     summary: MIT engineers have found a way to give chip-based lidar a wider,
