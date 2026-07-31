@@ -1,43 +1,91 @@
-date: 2026-07-30
+date: 2026-07-31
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Stable-GFlowNet uncovers more hidden weaknesses in generative AI models
-    url: https://techxplore.com/news/2026-07-stable-gflownet-uncovers-hidden-weaknesses.html
-    summary: KAIST researchers have developed a safety verification technology that
-      uncovers roughly seven times more hidden vulnerabilities in AI than
-      existing methods. The technology is expected to serve as a foundation for
-      developing safer, more trustworthy AI. The work is published on the arXiv
-      preprint server.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/kaist-develops-ai-that-2.jpg
-    categories:
-      - Security
-    publishedAt: 2026-07-29T21:40:05.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: It’s Frighteningly Easy to Jailbreak Some Frontier AI Models
-    url: https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/
-    summary: I watched a new tool try to get around the model safeguards of four
-      major frontier companies. You might be surprised by how they performed.
-    imageUrl: https://media.wired.com/photos/6a68e96a01173a5bff236fa1/191:100/w_1280,c_limit/AI-Lab-Still-Frighteningly-Easy-to-Jailbreak-Frontier-AI-Models-Business.jpg
+  - title: Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests
+    url: https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/
+    summary: In a review triggered by OpenAI’s Hugging Face incident, Anthropic
+      discovered three of its AI models had breached real organizations during
+      third-party evaluations.
+    imageUrl: https://media.wired.com/photos/6a6bef5432fc2d440b7d5e3e/191:100/w_1280,c_limit/Business_Claude-Escape.jpg
     categories:
       - Business
       - Business / Artificial Intelligence
-    publishedAt: 2026-07-29T18:30:00.000Z
+      - Security / Cyberattacks and Hacks
+    publishedAt: 2026-07-31T01:24:26.000Z
     source: WIRED (AI)
-  - title: Spray-on coating traps particles more tightly and nearly doubles air
-      filter lifespan
-    url: https://techxplore.com/news/2026-07-spray-coating-particles-tightly-air.html
-    summary: Breathing clean air is essential for human health, making air filters
-      indispensable in homes, hospitals, workplaces and industrial settings.
-      However, despite decades of advances in filter materials and design, a
-      major challenge remains. Capturing airborne particles is only half the
-      battle; keeping them securely trapped is equally important.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/pusan-national-univers-5.jpg
+  - title: Vacuum attachment designed to improve nuclear fallout collection
+    url: https://techxplore.com/news/2026-07-vacuum-nuclear-fallout.html
+    summary: In a nondescript Idaho Falls warehouse, a nuclear nonproliferation
+      researcher at Idaho National Laboratory (INL) picks up a small plastic
+      bottle and pours tiny bits of rounded black glass across a worktable.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/news-idaho-researchers.jpg
     categories:
       - Engineering
-    publishedAt: 2026-07-29T17:40:01.000Z
+    publishedAt: 2026-07-30T21:00:03.000Z
     source: TechXplore — Engineering
+  - title: Daniela Rus receives Bavarian Minister-President's High-Tech Prize
+    url: https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730
+    summary: Daniela Rus, director of MIT's Computer Science and Artificial
+      Intelligence Laboratory (CSAIL) and the Panasonic Professor of Computer
+      Science, has received the 2026 High-Tech Prize of the Bavarian
+      Minister-President for her contributions to robotics, artificial
+      intelligence, and autonomous systems.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-csail-daniela-rus-bavarian-award-00.png?itok=9XnNV8-Q
+    categories: []
+    publishedAt: 2026-07-30T21:00:00.000Z
+    source: MIT Robotics
+  - title: Rethinking how AI supports investment decisions
+    url: https://techxplore.com/news/2026-07-rethinking-ai-investment-decisions.html
+    summary: Artificial intelligence (AI) is rapidly transforming modern finance,
+      powering applications ranging from stock market forecasting to investment
+      advice. But does making more accurate predictions necessarily lead to
+      better investment decisions? According to two recent studies by
+      researchers from Pusan National University and international
+      collaborators, the answer may be no.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/pusan-national-univers-6.jpg
+    categories:
+      - Business
+    publishedAt: 2026-07-30T20:00:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: EAR-Sys could reduce airport computing delays by 14% during major
+      disruptions
+    url: https://techxplore.com/news/2026-07-ear-sys-airport-delays-major.html
+    summary: Airports could become better able to withstand major operational
+      disruptions under a new computing system designed to keep digital services
+      running during periods of intense pressure. Details are reported in the
+      International Journal of Reasoning-based Intelligent Systems.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/airport-1.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-07-30T17:20:09.000Z
+    source: TechXplore — Computer Science
+  - title: Are AI Models Working Harder Than They Need to?
+    url: https://spectrum.ieee.org/ai-energy-weightless-neural-networks
+    summary: Much of modern AI runs on multiplication. Neural networks behind
+      everything from generated answers to photo organization and song
+      recommendations perform millions or billions of operations that multiply
+      inputs by learned weights. Lizy K. John thinks that’s more work than the
+      job requires.
+    imageUrl: https://spectrum.ieee.org/media-library/a-middle-aged-indian-woman-in-professional-attire-smiling-while-holding-an-fpga-board.jpg?id=67554240&width=1200&height=400&coordinates=0%2C416%2C0%2C417
+    categories:
+      - Neural-netwoks
+      - Artificial-intelligence
+      - Ai-energy
+      - Neural-networks
+    publishedAt: 2026-07-30T13:35:32.000Z
+    source: IEEE Spectrum — AI
+  - title: Ultrafast X-rays capture chemistry unfolding atom by atom
+    url: https://www.sciencedaily.com/releases/2026/07/260729010726.htm
+    summary: Ultrafast X-rays revealed how a molecule converts absorbed light into
+      motion in just trillionths of a second. Individual atoms recorded
+      different stages of the process, opening a powerful new window into
+      light-driven chemistry.
+    imageUrl: https://www.sciencedaily.com/images/1920/watching-chemistry-unfold-atom-by-atom.webp
+    categories: []
+    publishedAt: 2026-07-30T02:18:28.000Z
+    source: ScienceDaily — Engineering
   - title: Tropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in
       Europe
     url: https://www.wired.com/story/tropical-diseases-dengue-fever-and-chikungunya-on-the-rise-in-europe/
@@ -51,57 +99,6 @@ articles:
       - Science / Health
     publishedAt: 2026-07-29T16:31:45.000Z
     source: WIRED science
-  - title: "Strike a pose: Creating more realistic multi-person images"
-    url: https://techxplore.com/news/2026-07-pose-realistic-multi-person-images.html
-    summary: Generating an image of a person on a computer using text prompts is
-      easy. Generating one with two people is similarly simple. But creating an
-      image of multiple people actually doing something, and faithfully
-      reproducing not just the people but the thing they're doing? Not so easy.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/strike-a-pose-creating-1.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-07-29T16:20:02.000Z
-    source: TechXplore — Computer Science
-  - title: Siobahn Day Grady Wants Everyone to Be AI Literate
-    url: https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu
-    summary: Artificial intelligence is reshaping the skills employers expect from
-      new graduates. In response, universities are scrambling to launch new
-      courses, research centers, and industry partnerships that prepare students
-      for today’s workforce. But building a cutting-edge AI curriculum demands
-      funding and access to industry networks, resources that remain unevenly
-      distributed across higher education.
-    imageUrl: https://spectrum.ieee.org/media-library/smiling-woman-in-nccu-eagles-jersey-stands-with-arms-crossed-in-front-of-red-mural.png?id=67527627&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Artificial-intelligence
-      - Typedepartments
-      - Ai-research
-      - Universities
-      - Higher-education
-    publishedAt: 2026-07-29T14:00:02.000Z
-    source: IEEE Spectrum — AI
-  - title: How a medical database developed at MIT evolved into a global standard of
-      data-sharing
-    url: https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729
-    summary: Before the advancement of scientific data storage and collaboration via
-      the cloud, medical investigators seeking health research breakthroughs had
-      to overcome significant obstacles to collaboration and key clinical data
-      gathering.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-RogerMark-GeorgeMoody.jpg?itok=57wqdl_A
-    categories: []
-    publishedAt: 2026-07-29T14:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: US bans foreign-made humanoid robots, targeting China over national
-      security
-    url: https://techxplore.com/news/2026-07-humanoid-robots.html
-    summary: The U.S. Federal Communications Commission is banning imports of new
-      foreign-made humanoid robots and power inverters, citing national security
-      risks, in a move that targets China. Beijing quickly accused the U.S. of
-      protectionism.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/us-bans-foreign-made-h.jpg
-    categories:
-      - Business
-    publishedAt: 2026-07-29T09:10:01.000Z
-    source: TechXplore — Robotics
   - title: Robot Finger Feels in Color
     url: https://spectrum.ieee.org/robot-finger
     summary: Imagine running your fingertip over the surface of a U.S. penny. You
@@ -128,7 +125,7 @@ articles:
       as it’s known, is 6.67430 × 10-11 cubic meters per kilogram per square
       second. It also has an uncertainty of ±0.00015 × 10-11 m3/(kg s2). As far
       as constants of the universe go, that’s very uncertain.
-    imageUrl: https://spectrum.ieee.org/media-library/smiling-man-in-glasses-overlaid-with-scientific-diagrams-and-colorful-geometric-shapes.png?id=67527858&width=1245&height=700&coordinates=0%2C102%2C0%2C103
+    imageUrl: https://spectrum.ieee.org/media-library/smiling-man-in-glasses-overlaid-with-scientific-diagrams-and-colorful-geometric-shapes.png?id=67527858&width=1200&height=600&coordinates=0%2C151%2C0%2C151
     categories:
       - Typedepartments
       - 5-questions
@@ -173,39 +170,3 @@ articles:
     categories: []
     publishedAt: 2026-07-19T14:58:00.000Z
     source: ScienceDaily — Robotics
-  - title: Scientists built a camera that can track invisible particles in 3D
-    url: https://www.sciencedaily.com/releases/2026/07/260716023610.htm
-    summary: A new particle detector called PLATON could replace millions of tiny
-      detector components with a single block of light-producing material. Using
-      a light-field camera, highly sensitive photon sensors, and AI, it
-      reconstructs particle paths in fast, detailed 3D. Simulations suggest it
-      could match or surpass today’s best detectors while being far easier to
-      scale. The technology may also lead to sharper PET medical scans.
-    imageUrl: https://www.sciencedaily.com/images/1920/neutrinos-interaction-camera.webp
-    categories: []
-    publishedAt: 2026-07-17T06:04:57.000Z
-    source: ScienceDaily — Engineering
-  - title: Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in
-      tough-tech engineering
-    url: https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714
-    summary: Artificial intelligence has rapidly transformed software engineering.
-      Generative AI and large language models (LLMs) can create huge volumes of
-      code and documentation; machine-learning algorithms can monitor
-      performance and detect security vulnerabilities. But when the task is to
-      conceive, design, and make a complex physical system such as a jet engine,
-      are those AI tools equally transformative?
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/jarvis-competition-fired-engine-00.jpg?itok=fB5FluyQ
-    categories: []
-    publishedAt: 2026-07-14T18:00:00.000Z
-    source: MIT Robotics
-  - title: Make an Origami Circuit Board
-    url: https://spectrum.ieee.org/origami-circuit-boards
-    summary: What could you do if you could make a circuit trace by just bending a
-      piece of paper? How about bridging modern technologies and traditional
-      handicrafts while providing opportunities for learning skills in both.
-    imageUrl: https://spectrum.ieee.org/media-library/a-selection-of-papercraft-objects-including-a-snowflake-with-leds-an-aeroplane-and-helicopter-with-lights-and-motorized-propel.png?id=66989986&width=1200&height=800&coordinates=0%2C365%2C0%2C366
-    categories:
-      - Origami
-      - Type-departments
-    publishedAt: 2026-06-24T14:00:01.000Z
-    source: IEEE Spectrum — DIY
