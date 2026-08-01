@@ -1,30 +1,80 @@
-date: 2026-07-31
+date: 2026-08-01
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests
-    url: https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/
-    summary: In a review triggered by OpenAI’s Hugging Face incident, Anthropic
-      discovered three of its AI models had breached real organizations during
-      third-party evaluations.
-    imageUrl: https://media.wired.com/photos/6a6bef5432fc2d440b7d5e3e/191:100/w_1280,c_limit/Business_Claude-Escape.jpg
+  - title: SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be
+      Visible From Earth
+    url: https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/
+    summary: The impact will kick up a plume of debris so high, it’ll likely be
+      visible through some telescopes. Astronomers will be watching.
+    imageUrl: https://media.wired.com/photos/6a6ce4d0afbe242a6bbbf131/191:100/w_1280,c_limit/GettyImages-2287699812.jpg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-07-31T23:38:56.000Z
+    source: WIRED science
+  - title: Chinese AI Researchers Are Finding Their Voice on X
+    url: https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/
+    summary: As OpenAI and Anthropic employees grow quieter online, researchers at
+      Chinese AI labs are flocking to X to explain their work, recruit talent,
+      and shape the global conversation on AI.
+    imageUrl: https://media.wired.com/photos/6a6bc43ecd95420c8647a339/191:100/w_1280,c_limit/Made-in-China--China-AI-Researchers-Are-Finding-Their-Voice-on-X-Business.jpg
     categories:
       - Business
       - Business / Artificial Intelligence
-      - Security / Cyberattacks and Hacks
-    publishedAt: 2026-07-31T01:24:26.000Z
+    publishedAt: 2026-07-31T18:14:43.000Z
     source: WIRED (AI)
-  - title: Vacuum attachment designed to improve nuclear fallout collection
-    url: https://techxplore.com/news/2026-07-vacuum-nuclear-fallout.html
-    summary: In a nondescript Idaho Falls warehouse, a nuclear nonproliferation
-      researcher at Idaho National Laboratory (INL) picks up a small plastic
-      bottle and pours tiny bits of rounded black glass across a worktable.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/news-idaho-researchers.jpg
+  - title: Study advances solar desalination with multifunctional membrane
+    url: https://techxplore.com/news/2026-07-advances-solar-desalination-multifunctional-membrane.html
+    summary: As the world's population grows and industry expands, many countries in
+      Africa, the Middle East and Southeast Asia are facing a freshwater
+      scarcity crisis. Finding sustainable ways to produce clean water has
+      become an urgent priority, and solar desalination may be one of the most
+      promising routes available. By using sunlight to evaporate and purify
+      seawater, this technology could serve as an efficient source of freshwater
+      in areas facing water shortages.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/pusan-national-univers-7.jpg
     categories:
       - Engineering
-    publishedAt: 2026-07-30T21:00:03.000Z
+    publishedAt: 2026-07-31T17:20:01.000Z
     source: TechXplore — Engineering
+  - title: Porous 3D-printed feet cut quadruped robot power use
+    url: https://techxplore.com/news/2026-07-porous-3d-feet-quadruped-robot.html
+    summary: Quadruped robots, which walk on four legs, are increasingly used for
+      tasks such as inspection, transportation and search-and-rescue operations.
+      However, their repeated leg movements consume far more energy than the
+      rolling motion of wheeled robots, making it challenging to improve energy
+      efficiency.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/seoul-national-univers-1.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-07-31T15:40:05.000Z
+    source: TechXplore — Robotics
+  - title: IBM Claims Quantum Advantage With New Validation Techniques
+    url: https://spectrum.ieee.org/ibm-verifiable-quantum-advantage
+    summary: "Quantum computers promise to solve problems beyond the most powerful
+      classical supercomputers. But this raises a fundamental challenge: how do
+      you prove the validity of answers that can’t be calculated any other way?
+      In a trio of papers released yesterday, IBM and collaborators say they
+      have demonstrated several techniques for solving this conundrum."
+    imageUrl: https://spectrum.ieee.org/media-library/on-the-left-a-many-tiered-gold-structure-with-cylindrical-design-on-the-right-a-metallic-chip.jpg?id=67557437&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Quantum-computing
+      - Quantum-advantage
+      - Ibm
+      - Simulation
+    publishedAt: 2026-07-31T14:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: "CEO of OpenAI says we're 'in the singularity' with AI: Is he right?"
+    url: https://techxplore.com/news/2026-07-ceo-openai-singularity-ai.html
+    summary: '"We are now, like, in the singularity." These are the words of Sam
+      Altman, CEO of OpenAI, speaking on the Relentless podcast on July 25.'
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-64.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-07-31T11:40:02.000Z
+    source: TechXplore — AI & Machine Learning
   - title: Daniela Rus receives Bavarian Minister-President's High-Tech Prize
     url: https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730
     summary: Daniela Rus, director of MIT's Computer Science and Artificial
@@ -36,19 +86,6 @@ articles:
     categories: []
     publishedAt: 2026-07-30T21:00:00.000Z
     source: MIT Robotics
-  - title: Rethinking how AI supports investment decisions
-    url: https://techxplore.com/news/2026-07-rethinking-ai-investment-decisions.html
-    summary: Artificial intelligence (AI) is rapidly transforming modern finance,
-      powering applications ranging from stock market forecasting to investment
-      advice. But does making more accurate predictions necessarily lead to
-      better investment decisions? According to two recent studies by
-      researchers from Pusan National University and international
-      collaborators, the answer may be no.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/pusan-national-univers-6.jpg
-    categories:
-      - Business
-    publishedAt: 2026-07-30T20:00:01.000Z
-    source: TechXplore — AI & Machine Learning
   - title: EAR-Sys could reduce airport computing delays by 14% during major
       disruptions
     url: https://techxplore.com/news/2026-07-ear-sys-airport-delays-major.html
@@ -68,7 +105,7 @@ articles:
       recommendations perform millions or billions of operations that multiply
       inputs by learned weights. Lizy K. John thinks that’s more work than the
       job requires.
-    imageUrl: https://spectrum.ieee.org/media-library/a-middle-aged-indian-woman-in-professional-attire-smiling-while-holding-an-fpga-board.jpg?id=67554240&width=1200&height=400&coordinates=0%2C416%2C0%2C417
+    imageUrl: https://spectrum.ieee.org/media-library/a-middle-aged-indian-woman-in-professional-attire-smiling-while-holding-an-fpga-board.jpg?id=67554240&width=1245&height=700&coordinates=0%2C187%2C0%2C187
     categories:
       - Neural-netwoks
       - Artificial-intelligence
@@ -86,19 +123,6 @@ articles:
     categories: []
     publishedAt: 2026-07-30T02:18:28.000Z
     source: ScienceDaily — Engineering
-  - title: Tropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in
-      Europe
-    url: https://www.wired.com/story/tropical-diseases-dengue-fever-and-chikungunya-on-the-rise-in-europe/
-    summary: Climate change is helping invasive species to not only establish
-      themselves across the continent but to stay alive for longer. Scientists
-      suggest we get used to it.
-    imageUrl: https://media.wired.com/photos/6a6793aa92fe62c5ffafe8aa/191:100/w_1280,c_limit/Science_Tropical%20diseases%20are%20no%20longer%20just%20tropical_v1.jpg
-    categories:
-      - Science
-      - Science / Environment
-      - Science / Health
-    publishedAt: 2026-07-29T16:31:45.000Z
-    source: WIRED science
   - title: Robot Finger Feels in Color
     url: https://spectrum.ieee.org/robot-finger
     summary: Imagine running your fingertip over the surface of a U.S. penny. You
@@ -109,7 +133,7 @@ articles:
       locations at once. But that’s just what a team of scientists in Europe has
       now managed to do, using an unusual, colorful robotic skin that provides
       high-resolution sensing in real time.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-a-sensor-for-a-robotic-fingertip-and-raised-relief-images-of-a-leaf-and-a-u-s-penny.jpg?id=67542077&width=1200&height=800&coordinates=0%2C83%2C0%2C84
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-a-sensor-for-a-robotic-fingertip-and-raised-relief-images-of-a-leaf-and-a-u-s-penny.jpg?id=67542077&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
       - Soft-robotics
       - Robot-hands
@@ -118,21 +142,6 @@ articles:
       - Tactile-sensors
     publishedAt: 2026-07-28T15:00:03.000Z
     source: IEEE Spectrum — Robotics
-  - title: Why NIST Researchers Spent 10 Years Measuring Gravity
-    url: https://spectrum.ieee.org/universal-gravitational-constant-nist-schlamminger
-    summary: Physicists have been trying to measure the fundamental gravitational
-      constant for well over two centuries. The current accepted value of big G,
-      as it’s known, is 6.67430 × 10-11 cubic meters per kilogram per square
-      second. It also has an uncertainty of ±0.00015 × 10-11 m3/(kg s2). As far
-      as constants of the universe go, that’s very uncertain.
-    imageUrl: https://spectrum.ieee.org/media-library/smiling-man-in-glasses-overlaid-with-scientific-diagrams-and-colorful-geometric-shapes.png?id=67527858&width=1200&height=600&coordinates=0%2C151%2C0%2C151
-    categories:
-      - Typedepartments
-      - 5-questions
-      - Physics
-      - Nist
-    publishedAt: 2026-07-28T13:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: "MIT engineers design recyclable elastic yarn "
     url: https://news.mit.edu/2026/mit-engineers-design-recyclable-elastic-yarn-0727
     summary: After a closet cleanout, what options are there for recyling our old
