@@ -1,44 +1,75 @@
-date: 2026-08-01
+date: 2026-08-02
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be
-      Visible From Earth
-    url: https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/
-    summary: The impact will kick up a plume of debris so high, it’ll likely be
-      visible through some telescopes. Astronomers will be watching.
-    imageUrl: https://media.wired.com/photos/6a6ce4d0afbe242a6bbbf131/191:100/w_1280,c_limit/GettyImages-2287699812.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-07-31T23:38:56.000Z
-    source: WIRED science
-  - title: Chinese AI Researchers Are Finding Their Voice on X
-    url: https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/
-    summary: As OpenAI and Anthropic employees grow quieter online, researchers at
-      Chinese AI labs are flocking to X to explain their work, recruit talent,
-      and shape the global conversation on AI.
-    imageUrl: https://media.wired.com/photos/6a6bc43ecd95420c8647a339/191:100/w_1280,c_limit/Made-in-China--China-AI-Researchers-Are-Finding-Their-Voice-on-X-Business.jpg
+  - title: Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives
+    url: https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/
+    summary: New EU rules stipulate that people must be told when they’re
+      interacting with AI or looking at AI-generated or -edited content, leading
+      to fear of “disclosure fatigue.”
+    imageUrl: null
     categories:
       - Business
       - Business / Artificial Intelligence
-    publishedAt: 2026-07-31T18:14:43.000Z
+    publishedAt: 2026-08-02T06:34:40.000Z
     source: WIRED (AI)
-  - title: Study advances solar desalination with multifunctional membrane
-    url: https://techxplore.com/news/2026-07-advances-solar-desalination-multifunctional-membrane.html
-    summary: As the world's population grows and industry expands, many countries in
-      Africa, the Middle East and Southeast Asia are facing a freshwater
-      scarcity crisis. Finding sustainable ways to produce clean water has
-      become an urgent priority, and solar desalination may be one of the most
-      promising routes available. By using sunlight to evaporate and purify
-      seawater, this technology could serve as an efficient source of freshwater
-      in areas facing water shortages.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/pusan-national-univers-7.jpg
+  - title: AI reduces sensory hallucinations, even at night or in smoke
+    url: https://techxplore.com/news/2026-07-ai-sensory-hallucinations-night.html
+    summary: Multimodal large language models (MLLMs), which process multiple types
+      of sensory information, such as text, images and audio, at the same time,
+      are rapidly expanding the range of applications for artificial
+      intelligence (AI). However, in real-world environments, these models can
+      misinterpret the physical characteristics of sensors, mistakenly identify
+      objects or claim to hear sounds that are not actually present simply
+      because a certain object appears in a video. These errors are known as
+      hallucinations.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/kaist-develops-ai-that-5.jpg
+    categories:
+      - Hi Tech & Innovation
+    publishedAt: 2026-08-01T13:40:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Scientists map moon regolith to aid lunar bases
+    url: https://techxplore.com/news/2026-07-scientists-moon-regolith-aid-lunar.html
+    summary: A strong foundation is key to any building, and this doesn't apply only
+      to construction on Earth. As humanity slowly expands throughout the many
+      worlds of our solar system, and possibly beyond, understanding planetary
+      surfaces is key to constructing long-lasting habitats beyond Earth. Thus,
+      it's only natural that this venture begins with our own moon, NASA's
+      target for a permanent base at the lunar south pole. While the moon is
+      covered by a thin layer of dust, also called regolith, engineers need to
+      know the thickness of this regolith to identify the safest locations for
+      future lunar habitats and buildings.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/scientists-map-moon-re.jpg
     categories:
       - Engineering
-    publishedAt: 2026-07-31T17:20:01.000Z
+    publishedAt: 2026-08-01T12:00:04.000Z
     source: TechXplore — Engineering
+  - title: Fridays With Bob
+    url: https://spectrum.ieee.org/risk
+    summary: When I started at Spectrum 25 years ago, a senior editor suggested that
+      I find a “rabbi,” by which he meant someone who could mentor me in how EEs
+      approach problems and evaluate potential solutions.
+    imageUrl: https://spectrum.ieee.org/media-library/a-greenish-yellow-waxwing-bird-sitting-on-a-twig-eating-a-berry.jpg?id=67541842&width=1245&height=700&coordinates=0%2C0%2C0%2C0
+    categories:
+      - Software
+      - Robert-n-charette
+      - It
+      - Risk-analysis
+      - Systems-engineering
+    publishedAt: 2026-08-01T12:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: China’s EV Market Is Booming. There’s Just One Problem
+    url: https://www.wired.com/story/china-millions-of-evs-battery-recycling/
+    summary: More EVs reaching the end of their life means more batteries to
+      recycle. But waste management companies have yet to catch up to the new
+      reality.
+    imageUrl: null
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-08-01T11:00:00.000Z
+    source: WIRED science
   - title: Porous 3D-printed feet cut quadruped robot power use
     url: https://techxplore.com/news/2026-07-porous-3d-feet-quadruped-robot.html
     summary: Quadruped robots, which walk on four legs, are increasingly used for
@@ -51,30 +82,17 @@ articles:
       - Robotics
     publishedAt: 2026-07-31T15:40:05.000Z
     source: TechXplore — Robotics
-  - title: IBM Claims Quantum Advantage With New Validation Techniques
-    url: https://spectrum.ieee.org/ibm-verifiable-quantum-advantage
-    summary: "Quantum computers promise to solve problems beyond the most powerful
-      classical supercomputers. But this raises a fundamental challenge: how do
-      you prove the validity of answers that can’t be calculated any other way?
-      In a trio of papers released yesterday, IBM and collaborators say they
-      have demonstrated several techniques for solving this conundrum."
-    imageUrl: https://spectrum.ieee.org/media-library/on-the-left-a-many-tiered-gold-structure-with-cylindrical-design-on-the-right-a-metallic-chip.jpg?id=67557437&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Quantum-computing
-      - Quantum-advantage
-      - Ibm
-      - Simulation
-    publishedAt: 2026-07-31T14:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: "CEO of OpenAI says we're 'in the singularity' with AI: Is he right?"
-    url: https://techxplore.com/news/2026-07-ceo-openai-singularity-ai.html
-    summary: '"We are now, like, in the singularity." These are the words of Sam
-      Altman, CEO of OpenAI, speaking on the Relentless podcast on July 25.'
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-64.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-07-31T11:40:02.000Z
-    source: TechXplore — AI & Machine Learning
+  - title: World-first photonic time crystal opens a new era of light control
+    url: https://www.sciencedaily.com/releases/2026/07/260731034131.htm
+    summary: Scientists have built the first all-optical photonic time crystal,
+      allowing them to reshape the behavior of terahertz light at extraordinary
+      speeds. The breakthrough could open the door to ultrafast computing,
+      smarter communication systems, advanced imaging, and a new generation of
+      highly tunable lasers.
+    imageUrl: https://www.sciencedaily.com/images/1920/thz-electromagnetic-wave-photonic-time-crystal.webp
+    categories: []
+    publishedAt: 2026-07-31T09:13:30.000Z
+    source: ScienceDaily — Engineering
   - title: Daniela Rus receives Bavarian Minister-President's High-Tech Prize
     url: https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730
     summary: Daniela Rus, director of MIT's Computer Science and Artificial
@@ -98,31 +116,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-07-30T17:20:09.000Z
     source: TechXplore — Computer Science
-  - title: Are AI Models Working Harder Than They Need to?
-    url: https://spectrum.ieee.org/ai-energy-weightless-neural-networks
-    summary: Much of modern AI runs on multiplication. Neural networks behind
-      everything from generated answers to photo organization and song
-      recommendations perform millions or billions of operations that multiply
-      inputs by learned weights. Lizy K. John thinks that’s more work than the
-      job requires.
-    imageUrl: https://spectrum.ieee.org/media-library/a-middle-aged-indian-woman-in-professional-attire-smiling-while-holding-an-fpga-board.jpg?id=67554240&width=1245&height=700&coordinates=0%2C187%2C0%2C187
-    categories:
-      - Neural-netwoks
-      - Artificial-intelligence
-      - Ai-energy
-      - Neural-networks
-    publishedAt: 2026-07-30T13:35:32.000Z
-    source: IEEE Spectrum — AI
-  - title: Ultrafast X-rays capture chemistry unfolding atom by atom
-    url: https://www.sciencedaily.com/releases/2026/07/260729010726.htm
-    summary: Ultrafast X-rays revealed how a molecule converts absorbed light into
-      motion in just trillionths of a second. Individual atoms recorded
-      different stages of the process, opening a powerful new window into
-      light-driven chemistry.
-    imageUrl: https://www.sciencedaily.com/images/1920/watching-chemistry-unfold-atom-by-atom.webp
-    categories: []
-    publishedAt: 2026-07-30T02:18:28.000Z
-    source: ScienceDaily — Engineering
   - title: Robot Finger Feels in Color
     url: https://spectrum.ieee.org/robot-finger
     summary: Imagine running your fingertip over the surface of a U.S. penny. You
