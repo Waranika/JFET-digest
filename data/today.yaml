@@ -1,153 +1,167 @@
-date: 2026-08-03
+date: 2026-08-06
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: The James Webb Telescope Is Changing Astronomers’ Understanding of the
-      Ancient Cosmos
-    url: https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/
-    summary: From how galaxies form to the beginnings of the universe, the images
-      from the space telescope are giving cosmologists new data to explore—and
-      theories to build out.
-    imageUrl: https://media.wired.com/photos/6a6cc52fffa01fba7c8c302e/191:100/w_1280,c_limit/JWSTUpdate-crKristinaArmitage-Default.jpg
+  - title: A new way to watch heat move through electronics
+    url: https://news.mit.edu/2026/new-way-watch-heat-move-through-electronics-0806
+    summary: The same overheating problem that happens to our laptops also plagues
+      computer servers and data centers around the world — and heat management
+      is only getting harder as computer chips get more compact and powerful.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-HiddenHeat-01-press.jpg?itok=8Ts2ykU-
+    categories: []
+    publishedAt: 2026-08-06T04:00:00.000Z
+    source: MIT Engineering
+  - title: Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math
+      conjecture
+    url: https://www.sciencedaily.com/releases/2026/08/260804034634.htm
+    summary: A mathematician working at Anthropic says he used the AI model Claude
+      Fable 5 to uncover a remarkably simple counterexample to the Jacobian
+      conjecture, a famous problem that has resisted mathematicians for more
+      than a century. The result shows that the conjecture is false in three
+      dimensions and above, although the original two-dimensional version
+      remains unsolved.
+    imageUrl: https://www.sciencedaily.com/images/1920/humanoid-ai-robot-hologram-screen-solving-physics-math-problems.webp
+    categories: []
+    publishedAt: 2026-08-06T02:02:49.000Z
+    source: ScienceDaily — Robotics
+  - title: OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their
+      Hacking Spree
+    url: https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/
+    summary: At the Black Hat security conference, the AI giant revealed new details
+      about how its agents went rogue, hacked several other companies—and did it
+      all right under the company’s nose.
+    imageUrl: https://media.wired.com/photos/6a73a2815ac7830744b43e7a/191:100/w_1280,c_limit/080526-openai-agent-hacking.jpg
+    categories:
+      - Security
+      - Security / Cyberattacks and Hacks
+    publishedAt: 2026-08-06T00:15:04.000Z
+    source: WIRED (AI)
+  - title: Welp, Nobody Saw SpaceX’s Falcon 9 Rocket Crash Into the Moon
+    url: https://www.wired.com/story/nobody-saw-spacex-rocket-moon-crash/
+    summary: Although no one captured a direct image of the impact, scientists have
+      detected signals confirming the rocket hit the lunar surface. Orbiters
+      could provide the first images of the crash site in the coming days.
+    imageUrl: https://media.wired.com/photos/6a73b0888fb20107407a0dd3/191:100/w_1280,c_limit/535418491
     categories:
       - Science
       - Science / Space
-    publishedAt: 2026-08-02T11:00:00.000Z
+    publishedAt: 2026-08-05T22:40:53.000Z
     source: WIRED science
-  - title: Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives
-    url: https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/
-    summary: New EU rules stipulate that people must be told when they’re
-      interacting with AI or looking at AI-generated or -edited content, leading
-      to fear of “disclosure fatigue.”
-    imageUrl: https://media.wired.com/photos/6a6cafc65913ec07bfc317fe/191:100/w_1280,c_limit/073126_Europeans%20Are%20About%20to%20See%20How%20Entrenched%20AI%20Is%20in%20Their%20Daily%20Lives.jpg
+  - title: AI models nearly erase female characters when they write kids stories
+      about animals
+    url: https://techxplore.com/news/2026-08-ai-erase-female-characters-kids.html
+    summary: Last year, Melanie Walsh, a University of Washington assistant
+      professor in the Information School, wrote an article examining how 300
+      popular children's books gendered their animal characters. Of the 13 most
+      common animals, most were male—unless they happened to be cats, ducks or
+      birds, which trended slightly more female. But a frog, a wolf? More than a
+      90% chance it was a "he."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/cartoon-animals.jpg
     categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-08-02T10:00:00.000Z
-    source: WIRED (AI)
-  - title: AI reduces sensory hallucinations, even at night or in smoke
-    url: https://techxplore.com/news/2026-07-ai-sensory-hallucinations-night.html
-    summary: Multimodal large language models (MLLMs), which process multiple types
-      of sensory information, such as text, images and audio, at the same time,
-      are rapidly expanding the range of applications for artificial
-      intelligence (AI). However, in real-world environments, these models can
-      misinterpret the physical characteristics of sensors, mistakenly identify
-      objects or claim to hear sounds that are not actually present simply
-      because a certain object appears in a video. These errors are known as
-      hallucinations.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/kaist-develops-ai-that-5.jpg
-    categories:
-      - Hi Tech & Innovation
-    publishedAt: 2026-08-01T13:40:01.000Z
+      - Consumer & Gadgets
+    publishedAt: 2026-08-05T20:20:06.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Scientists map moon regolith to aid lunar bases
-    url: https://techxplore.com/news/2026-07-scientists-moon-regolith-aid-lunar.html
-    summary: A strong foundation is key to any building, and this doesn't apply only
-      to construction on Earth. As humanity slowly expands throughout the many
-      worlds of our solar system, and possibly beyond, understanding planetary
-      surfaces is key to constructing long-lasting habitats beyond Earth. Thus,
-      it's only natural that this venture begins with our own moon, NASA's
-      target for a permanent base at the lunar south pole. While the moon is
-      covered by a thin layer of dust, also called regolith, engineers need to
-      know the thickness of this regolith to identify the safest locations for
-      future lunar habitats and buildings.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/scientists-map-moon-re.jpg
+  - title: "Personalized physical therapy: Stroke rehabilitation powered by AI"
+    url: https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805
+    summary: Stroke is one of the leading causes of death and disability worldwide,
+      affecting 15 million people each year and leaving 5 million with long-term
+      impairments. There’s also a growing shortage of physical therapists,
+      making it harder for patients to access consistent, high-quality care.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202508/mit-Lachner-Hogan-Lab.jpg?itok=uGQCI-8t
+    categories: []
+    publishedAt: 2026-08-05T18:15:00.000Z
+    source: MIT Robotics
+  - title: These 3D-printed objects can tell you if they're being used properly
+    url: https://techxplore.com/news/2026-08-3d-theyre-properly.html
+    summary: Imagine a bottle of hazardous chemicals sitting on a laboratory shelf
+      that changes its appearance to alert scientists that its lid is not
+      properly secured, potentially preventing a dangerous spill.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/these-3d-printed-objec.jpg
     categories:
       - Engineering
-    publishedAt: 2026-08-01T12:00:04.000Z
+    publishedAt: 2026-08-05T18:00:09.000Z
     source: TechXplore — Engineering
-  - title: Fridays With Bob
-    url: https://spectrum.ieee.org/risk
-    summary: When I started at Spectrum 25 years ago, a senior editor suggested that
-      I find a “rabbi,” by which he meant someone who could mentor me in how EEs
-      approach problems and evaluate potential solutions.
-    imageUrl: https://spectrum.ieee.org/media-library/a-greenish-yellow-waxwing-bird-sitting-on-a-twig-eating-a-berry.jpg?id=67541842&width=1245&height=700&coordinates=0%2C0%2C0%2C0
+  - title: IEEE Course Teaches How to Use AI to Modernize Power Grids
+    url: https://spectrum.ieee.org/ieee-course-ai-power-grids
+    summary: Today’s U.S. electrical grid, among the largest, most complex systems
+      ever built, is operating at its limit. The combination of rapid industrial
+      growth, more frequent extreme weather, and a record surge in electricity
+      use has pushed the grid to its breaking point, according to the U.S.
+      Department of Energy.
+    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-man-holding-a-ginormous-lightbulb-with-ai-written-on-it.jpg?id=67568096&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
-      - Software
-      - Robert-n-charette
-      - It
-      - Risk-analysis
-      - Systems-engineering
-    publishedAt: 2026-08-01T12:00:01.000Z
+      - Energy
+      - Type-ti
+      - Education
+      - Artificial-intelligence
+      - Ieee-educational-activities
+      - Ieee-products-and-services
+    publishedAt: 2026-08-05T18:00:03.000Z
     source: IEEE Spectrum — AI
-  - title: Porous 3D-printed feet cut quadruped robot power use
-    url: https://techxplore.com/news/2026-07-porous-3d-feet-quadruped-robot.html
-    summary: Quadruped robots, which walk on four legs, are increasingly used for
-      tasks such as inspection, transportation and search-and-rescue operations.
-      However, their repeated leg movements consume far more energy than the
-      rolling motion of wheeled robots, making it challenging to improve energy
-      efficiency.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/seoul-national-univers-1.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-07-31T15:40:05.000Z
-    source: TechXplore — Robotics
-  - title: World-first photonic time crystal opens a new era of light control
-    url: https://www.sciencedaily.com/releases/2026/07/260731034131.htm
-    summary: Scientists have built the first all-optical photonic time crystal,
-      allowing them to reshape the behavior of terahertz light at extraordinary
-      speeds. The breakthrough could open the door to ultrafast computing,
-      smarter communication systems, advanced imaging, and a new generation of
-      highly tunable lasers.
-    imageUrl: https://www.sciencedaily.com/images/1920/thz-electromagnetic-wave-photonic-time-crystal.webp
-    categories: []
-    publishedAt: 2026-07-31T09:13:30.000Z
-    source: ScienceDaily — Engineering
-  - title: Daniela Rus receives Bavarian Minister-President's High-Tech Prize
-    url: https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730
-    summary: Daniela Rus, director of MIT's Computer Science and Artificial
-      Intelligence Laboratory (CSAIL) and the Panasonic Professor of Computer
-      Science, has received the 2026 High-Tech Prize of the Bavarian
-      Minister-President for her contributions to robotics, artificial
-      intelligence, and autonomous systems.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-csail-daniela-rus-bavarian-award-00.png?itok=9XnNV8-Q
-    categories: []
-    publishedAt: 2026-07-30T21:00:00.000Z
-    source: MIT Robotics
-  - title: EAR-Sys could reduce airport computing delays by 14% during major
-      disruptions
-    url: https://techxplore.com/news/2026-07-ear-sys-airport-delays-major.html
-    summary: Airports could become better able to withstand major operational
-      disruptions under a new computing system designed to keep digital services
-      running during periods of intense pressure. Details are reported in the
-      International Journal of Reasoning-based Intelligent Systems.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/airport-1.jpg
+  - title: AI learns to focus like humans to speed up video analysis
+    url: https://techxplore.com/news/2026-08-ai-focus-humans-video-analysis.html
+    summary: Artificial neural networks were originally inspired by the human brain,
+      but they are still far less efficient at processing information. One
+      reason the human brain is so efficient is its ability to focus only on the
+      most relevant information and allocate cognitive effort based on the task.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-learns-to-focus-lik.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-07-30T17:20:09.000Z
+    publishedAt: 2026-08-05T14:00:02.000Z
     source: TechXplore — Computer Science
-  - title: Robot Finger Feels in Color
-    url: https://spectrum.ieee.org/robot-finger
-    summary: Imagine running your fingertip over the surface of a U.S. penny. You
-      would feel the ridges of the raised letters and numbers, Abe Lincoln’s
-      bearded side profile, and, if it’s tails, the fluted columns of the
-      Lincoln Memorial. Getting a robot to sense the same things is an imposing
-      task, often requiring gathering data on pressure and force at many spatial
-      locations at once. But that’s just what a team of scientists in Europe has
-      now managed to do, using an unusual, colorful robotic skin that provides
-      high-resolution sensing in real time.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-a-sensor-for-a-robotic-fingertip-and-raised-relief-images-of-a-leaf-and-a-u-s-penny.jpg?id=67542077&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+  - title: Human-aware robots adapt to partners, reducing back strain during team
+      lifting
+    url: https://techxplore.com/news/2026-08-human-aware-robots-partners-strain.html
+    summary: When people work in pairs or teams, they can often solve a wider range
+      of problems, completing some tasks faster and more efficiently than they
+      would alone. To assist users similarly to how other humans would, robots
+      should be able to rapidly interpret human behaviors and commands, using
+      their predictions to plan and precisely execute helpful actions.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/an-approach-to-designi.jpg
     categories:
-      - Soft-robotics
-      - Robot-hands
-      - Robot-hand
-      - Sensors
-      - Tactile-sensors
-    publishedAt: 2026-07-28T15:00:03.000Z
-    source: IEEE Spectrum — Robotics
-  - title: "MIT engineers design recyclable elastic yarn "
-    url: https://news.mit.edu/2026/mit-engineers-design-recyclable-elastic-yarn-0727
-    summary: After a closet cleanout, what options are there for recyling our old
-      threads? Not many. Apart from bringing used clothes to a donation center,
-      there is no process for recycling textiles like there is for bottles and
-      cans. And, the average American throws out around 81 pounds of clothing
-      each year. That amounts to more than 11 million tons of textiles that end
-      up in the landfill or incinerator.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-RecyclableYarn-01-press.jpg?itok=IcF6kuYE
+      - Robotics
+    publishedAt: 2026-08-05T12:00:02.000Z
+    source: TechXplore — Robotics
+  - title: "Solving the solvent problem  "
+    url: https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804
+    summary: Lithium-ion batteries are the leading choice in today’s electric
+      vehicle and battery energy storage system industries, but they contain a
+      number of critical minerals — including lithium, cobalt, nickel, and
+      graphite — that are considered essential for economic and national
+      security reasons, and therefore vulnerable to supply chain disruptions. As
+      renewable energy, electrified infrastructure, and high-power digital
+      technologies continue to grow, there is an increasing need for energy
+      storage systems that are low-cost, resource-abundant, and capable of fast
+      charging and discharging.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-nse-solvent-problem.jpg?itok=rXwEm3ti
     categories: []
-    publishedAt: 2026-07-27T14:00:00.000Z
-    source: MIT Engineering
+    publishedAt: 2026-08-04T18:50:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Identifying the Root Cause of Electronics Failures With Simulation Apps
+    url: https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation
+    summary: This article is brought to you by COMSOL.
+    imageUrl: https://spectrum.ieee.org/media-library/cfd-contour-plot-of-flow-velocity-in-a-complex-mechanical-housing-cross-section.png?id=67522155&width=980
+    categories:
+      - Electronics
+      - Multiphysics-simulation
+      - Electronic-failures
+      - Corrosion
+      - Comsol
+    publishedAt: 2026-08-03T11:38:22.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Scientists twist crystal layers and reshape matter from within
+    url: https://www.sciencedaily.com/releases/2026/08/260801042819.htm
+    summary: Researchers have found a way to build much larger “twisted” oxide
+      materials while precisely controlling how their atomic layers line up.
+      Because these materials can be made over large areas and transferred onto
+      different surfaces, the technique could help turn twistronics from a
+      laboratory curiosity into a practical platform for next-generation
+      electronics.
+    imageUrl: https://www.sciencedaily.com/images/1920/extending-limits-of-twistronics.webp
+    categories: []
+    publishedAt: 2026-08-03T04:36:48.000Z
+    source: ScienceDaily — Engineering
   - title: MIT’s new lidar chip could give self-driving cars a wider view
     url: https://www.sciencedaily.com/releases/2026/07/260722032127.htm
     summary: MIT engineers have found a way to give chip-based lidar a wider,
@@ -159,17 +173,3 @@ articles:
     categories: []
     publishedAt: 2026-07-22T10:00:54.000Z
     source: ScienceDaily — Computer Science
-  - title: New AI blood test predicts heart disease 15 years early
-    url: https://www.sciencedaily.com/releases/2026/07/260716023603.htm
-    summary: A new AI-powered blood test could give people a remarkably early
-      warning of serious heart and circulation problems. Developed by
-      researchers at the University of Hong Kong, CardiOmicScore analyzes
-      thousands of proteins and metabolites to estimate the risk of six major
-      cardiovascular diseases, including heart attack, stroke, heart failure,
-      and atrial fibrillation. Unlike genetic risk scores, which remain fixed
-      throughout life, the system captures biological changes linked to a
-      person’s current health, lifestyle, and environment.
-    imageUrl: https://www.sciencedaily.com/images/1920/ai-cardiology.webp
-    categories: []
-    publishedAt: 2026-07-19T14:58:00.000Z
-    source: ScienceDaily — Robotics
