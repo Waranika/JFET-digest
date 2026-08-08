@@ -1,36 +1,50 @@
-date: 2026-08-07
+date: 2026-08-08
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: One of China’s Most Powerful AI Models Has Also Escaped Containment
-    url: https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/
-    summary: Security researchers say that Kimi K3, an open-weight model from China,
-      wandered off to the internet in an attempt to cheat on a test it was
-      given.
-    imageUrl: https://media.wired.com/photos/6a749a84077eac6832213fdf/191:100/w_1280,c_limit/BadKimi.jpg
+  - title: AI agents automate atom-by-atom simulations to accelerate discovery of
+      new materials
+    url: https://techxplore.com/news/2026-08-ai-agents-automate-atom-simulations.html
+    summary: A team from the U.S. Department of Energy's (DOE) Argonne National
+      Laboratory has successfully demonstrated an artificial intelligence
+      (AI)-driven system to automate a powerful simulation method that predicts
+      how atoms in materials interact. Known as atomistic simulations, this
+      method can potentially accelerate the discovery of materials for areas
+      such as batteries, aerospace and electronics. The research is published in
+      the journal Digital Discovery.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-agents-automate-ato.jpg
     categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-08-07T01:16:55.000Z
+      - Engineering
+    publishedAt: 2026-08-07T17:20:10.000Z
+    source: TechXplore — Engineering
+  - title: "Video Friday: Drones Go Heavy in DARPA Lift Challenge"
+    url: https://spectrum.ieee.org/video-friday-heavy-lift-drone
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/engineers-watch-a-slender-experimental-drone-fly-near-a-large-hangar.jpg?id=67585216&width=980
+    categories:
+      - Video-friday
+      - Darpa
+      - Robotics-videos
+      - Cargo-drones
+      - Robotic-grippers
+      - Humanoid-robots
+    publishedAt: 2026-08-07T16:00:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Scientists Used AI to Create 16 New Viruses
+    url: https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/
+    summary: The use of AI systems to create viruses opens up new possibilities for
+      combating bacterial resistance. It also raises concerns about the pace at
+      which technology is outstripping regulation.
+    imageUrl: https://media.wired.com/photos/6a75dcaa629c4defb09289b6/191:100/w_1280,c_limit/virusIA.jpg
+    categories:
+      - Science
+      - Science / Biotech
+    publishedAt: 2026-08-07T14:13:57.000Z
     source: WIRED (AI)
-  - title: Hardware-aware framework accelerates large language models without
-      additional training
-    url: https://techxplore.com/news/2026-08-hardware-aware-framework-large-language.html
-    summary: As large language models (LLMs) become increasingly embedded in
-      chatbots, virtual assistants, translation services, coding tools and other
-      AI-powered applications, delivering responses quickly and efficiently has
-      become a growing challenge. Because these models generate text one token
-      at a time, inference can be slow and computationally expensive,
-      particularly for larger models. While speculative decoding has emerged as
-      a promising approach to accelerate inference, many existing methods either
-      require additional model training or struggle to perform consistently
-      across different hardware platforms.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/training-free-framewor-1.jpg
-    categories:
-      - Hardware
-    publishedAt: 2026-08-06T21:40:06.000Z
-    source: TechXplore — AI & Machine Learning
   - title: AI Safety Regulations in the U.S. Could Give Hackers an Edge
     url: https://spectrum.ieee.org/hugging-face-openai-cyberattack
     summary: On 11 July, Hugging Face was subjected to an intense cyberattack from a
@@ -45,32 +59,6 @@ articles:
       - Ai-safety
     publishedAt: 2026-08-06T19:25:39.000Z
     source: IEEE Spectrum — AI
-  - title: "Generative AI: Modeling a proper cuppa from a proper pot"
-    url: https://techxplore.com/news/2026-08-generative-ai-proper-cuppa-pot.html
-    summary: "The Yixing Zisha teapot sits neatly at the intersection of art,
-      engineering and heritage. As such, it makes for an intriguing test case
-      for a technology increasingly taking on creative tasks across almost every
-      field of human endeavor: artificial intelligence, or AI. Research
-      published in the International Journal of Systems, Control and
-      Communications describes a computational system that can help AI generate
-      new teapot designs without losing the cultural characteristics that make
-      the craft distinctive."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2020/blacktea.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-08-06T18:20:09.000Z
-    source: TechXplore — Engineering
-  - title: DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else
-    url: https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/
-    summary: Its WeatherNext model, which will be open-sourced, can accurately
-      predict a storm’s track and intensity using lower-resolution weather data.
-      Researchers don’t yet fully understand how it does this.
-    imageUrl: https://media.wired.com/photos/6a748489077eac6832213fd9/191:100/w_1280,c_limit/AICyclone.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-08-06T16:23:04.000Z
-    source: WIRED science
   - title: "Optimizing software: Computing professor's 'egg' downsizes programs to
       make them more nimble"
     url: https://techxplore.com/news/2026-08-optimizing-software-professor-egg-downsizes.html
