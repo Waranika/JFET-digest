@@ -1,8 +1,44 @@
-date: 2026-08-09
+date: 2026-08-10
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: A new attack slips past the latest defenses built into your computer's
+      processor
+    url: https://techxplore.com/news/2026-08-latest-defenses-built-processor.html
+    summary: Chipmakers and operating system developers have spent years building
+      defenses. A new study from MIT's Computer Science and Artificial
+      Intelligence Laboratory (CSAIL) shows that a key assumption behind many of
+      them doesn't hold.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2019/processor.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-08-09T11:40:02.000Z
+    source: TechXplore — Computer Science
+  - title: Meetily Lets You Transcribe and Summarize Meetings Without a
+      Subscription—Here’s How
+    url: https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/
+    summary: There are endless ways to record and transcribe your virtual meetings
+      with AI. Here’s an option that’s free and open source.
+    imageUrl: https://media.wired.com/photos/6a7602d8d223b2324a2ea7e7/191:100/w_1280,c_limit/FreeTranscribe.jpg
+    categories:
+      - Gear
+      - Gear / How To and Advice
+      - Gear / Products / Apps
+    publishedAt: 2026-08-09T10:30:00.000Z
+    source: WIRED (AI)
+  - title: A 0.42-nanometer breakthrough could push transistors beyond silicon
+    url: https://www.sciencedaily.com/releases/2026/08/260808234943.htm
+    summary: Atomically thin semiconductors could enable dramatically smaller and
+      more efficient chips, but a stubborn problem at the boundary between
+      materials has limited their performance. Researchers have now engineered
+      that atomic interface to protect electron flow while still allowing
+      extremely thin insulating layers. The resulting transistors delivered an
+      unusually strong combination of electrical control and performance.
+    imageUrl: https://www.sciencedaily.com/images/1920/epitaxial-interface-engineering-enables-high-transconductance-2d-transistors.webp
+    categories: []
+    publishedAt: 2026-08-09T06:05:43.000Z
+    source: ScienceDaily — Computer Science
   - title: When expressive humanoid robots are awkward, people become wary
     url: https://techxplore.com/news/2026-08-humanoid-robots-awkward-people-wary.html
     summary: People become more suspicious of a humanoid robot that makes errors,
@@ -36,7 +72,7 @@ articles:
     categories:
       - Computer Sciences
     publishedAt: 2026-08-08T13:40:02.000Z
-    source: TechXplore — Computer Science
+    source: TechXplore — AI & Machine Learning
   - title: The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon
     url: https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/
     summary: The photograph, taken in visible light, made it possible to observe for
@@ -48,17 +84,6 @@ articles:
       - Science / Space
     publishedAt: 2026-08-08T13:00:00.000Z
     source: WIRED science
-  - title: How to Disable Gemini in Gmail and Google Docs
-    url: https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/
-    summary: New AI toolbars and prompts are showing up in Google Docs and Gmail. If
-      you don’t want Gemini’s help in writing documents and emails, here’s how
-      to turn that stuff off.
-    imageUrl: https://media.wired.com/photos/6a75b644a7eaec3ecd711279/191:100/w_1280,c_limit/GoolgeNoAI.jpg
-    categories:
-      - Gear
-      - Gear / How To and Advice
-    publishedAt: 2026-08-08T10:00:00.000Z
-    source: WIRED (AI)
   - title: AI agents automate atom-by-atom simulations to accelerate discovery of
       new materials
     url: https://techxplore.com/news/2026-08-ai-agents-automate-atom-simulations.html
@@ -173,4 +198,4 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/mit-array-of-integrated-antennas.webp
     categories: []
     publishedAt: 2026-07-22T10:00:54.000Z
-    source: ScienceDaily — Computer Science
+    source: ScienceDaily — Artificial Intelligence
