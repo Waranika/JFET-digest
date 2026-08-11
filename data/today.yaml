@@ -1,32 +1,108 @@
-date: 2026-08-10
+date: 2026-08-11
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: A new attack slips past the latest defenses built into your computer's
-      processor
-    url: https://techxplore.com/news/2026-08-latest-defenses-built-processor.html
-    summary: Chipmakers and operating system developers have spent years building
-      defenses. A new study from MIT's Computer Science and Artificial
-      Intelligence Laboratory (CSAIL) shows that a key assumption behind many of
-      them doesn't hold.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2019/processor.jpg
+  - title: New engineering studies aim to slow battery aging while idle
+    url: https://techxplore.com/news/2026-08-aim-battery-aging-idle.html
+    summary: Most batteries spend more than 70% of their lifetime at rest. Yet few
+      studies have examined calendar aging, which is how a battery degrades when
+      it is neither charging nor being used.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-ucla-engineering-s.jpg
     categories:
-      - Computer Sciences
-    publishedAt: 2026-08-09T11:40:02.000Z
+      - Engineering
+    publishedAt: 2026-08-10T21:40:05.000Z
+    source: TechXplore — Engineering
+  - title: AI model captures how humans read, paving the way to personalized text
+      and better augmented reality
+    url: https://techxplore.com/news/2026-08-ai-captures-humans-paving-personalized.html
+    summary: Researchers at Aalto University, together with international partners,
+      have developed the most accurate model yet of how humans read. The new
+      model uses reinforcement learning, a type of AI used in robotics, to
+      explain—and recreate—the choices readers make as they move through text.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-model-uses-reinforc.jpg
+    categories:
+      - Hi Tech & Innovation
+    publishedAt: 2026-08-10T21:00:11.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: New coding technique skips needless calculations, speeding some GPU tasks
+      nearly fourfold
+    url: https://techxplore.com/news/2026-08-coding-technique-needless-gpu-tasks.html
+    summary: The multiplication of matrices and higher-dimensional arrays called
+      tensors lies at the heart of modern computing. Matrix or tensor
+      multiplication is, in fact, the most common operation carried out in
+      artificial intelligence applications, as well as in scientific simulations
+      and computer graphics. High-performance computers, especially those
+      equipped with graphics processing units (GPUs), are designed to work with
+      so-called dense matrices or tensors—those that have relatively few zero
+      elements.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-new-way-to-speed-up.jpg
+    categories:
+      - Hardware
+    publishedAt: 2026-08-10T20:40:05.000Z
     source: TechXplore — Computer Science
-  - title: Meetily Lets You Transcribe and Summarize Meetings Without a
-      Subscription—Here’s How
-    url: https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/
-    summary: There are endless ways to record and transcribe your virtual meetings
-      with AI. Here’s an option that’s free and open source.
-    imageUrl: https://media.wired.com/photos/6a7602d8d223b2324a2ea7e7/191:100/w_1280,c_limit/FreeTranscribe.jpg
+  - title: With a feel for physics, AI models simulate a wider range of real-world
+      scenarios
+    url: https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810
+    summary: Artificial intelligence models are jacks of many trades, including
+      writing, generating images, and creating 3D models. But they aren’t as
+      helpful when it comes to testing robots or designs for vehicles in diverse
+      environments, since they don’t understand physics as well as they do
+      pixels or text.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-csail-geopt.jpg?itok=QbX1i1qV
+    categories: []
+    publishedAt: 2026-08-10T19:25:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Robot Recycler Salvages Parts from Broken Machines
+    url: https://spectrum.ieee.org/recycling-robot
+    summary: Objects constructed by robots are ubiquitous. If you’ve used a car,
+      household appliance, or smartphone today, you’ve used an object
+      constructed at least in part by robots. The more products that
+      manufacturers want to produce (and consumers want to consume) at lower
+      costs, the more industrial robots will be needed.
+    imageUrl: https://spectrum.ieee.org/media-library/two-large-industrial-robotic-arms-in-a-university-laboratory.jpg?id=67561939&width=1245&height=700&coordinates=0%2C156%2C0%2C157
+    categories:
+      - Robotics
+      - Recycling
+      - Industrial-robot
+      - Icra
+      - Recycling-robots
+    publishedAt: 2026-08-10T18:01:25.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Electronic skin enables tunable touch and proximity sensing for robots
+      and prosthetics
+    url: https://techxplore.com/news/2026-08-electronic-skin-enables-tunable-proximity.html
+    summary: Recent advances in miniaturized and portable electronics, particularly
+      wearable and flexible devices, have increased the demand for self-powered
+      sensing technologies. Among these, triboelectric nanogenerators (TENGs)
+      have received considerable attention for developing highly sensitive
+      tactile sensors.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/hanyang-university-eri-3.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-08-10T16:20:03.000Z
+    source: TechXplore — Robotics
+  - title: The AI Slop Backlash Is Actually Having an Impact
+    url: https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/
+    summary: Platforms are finally recognizing that people don’t want to consume AI
+      slop. A growing number of sites and apps now have tools and policies to
+      flag, label, and ban AI-generated content.
+    imageUrl: https://media.wired.com/photos/6a75d22732e80faf510b2a15/191:100/w_1280,c_limit/AI%20Slop.jpg
     categories:
       - Gear
-      - Gear / How To and Advice
-      - Gear / Products / Apps
-    publishedAt: 2026-08-09T10:30:00.000Z
+      - Gear / Trends
+    publishedAt: 2026-08-10T11:30:00.000Z
     source: WIRED (AI)
+  - title: A California Program Is Bringing Down the Cost of Heat Pumps by Buying Bulk
+    url: https://www.wired.com/story/california-group-buy-bringing-down-heat-pump-costs/
+    summary: The approach is like a Costco for heat pumps, and it’s helping make
+      installations more accessible as heat waves worsen.
+    imageUrl: https://media.wired.com/photos/6a7655fee85ba359de1ff2c1/191:100/w_1280,c_limit/Science_How%20Heat%20Pump%20Group-Buys%20Are%20Bringing%20Down%20the%20Cost%20of%20Heating%20and%20Cooling_v1.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-08-10T11:00:00.000Z
+    source: WIRED science
   - title: A 0.42-nanometer breakthrough could push transistors beyond silicon
     url: https://www.sciencedaily.com/releases/2026/08/260808234943.htm
     summary: Atomically thin semiconductors could enable dramatically smaller and
@@ -39,15 +115,6 @@ articles:
     categories: []
     publishedAt: 2026-08-09T06:05:43.000Z
     source: ScienceDaily — Computer Science
-  - title: When expressive humanoid robots are awkward, people become wary
-    url: https://techxplore.com/news/2026-08-humanoid-robots-awkward-people-wary.html
-    summary: People become more suspicious of a humanoid robot that makes errors,
-      especially when the robot is an expressive conversation partner.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/humanoid-robot-1.jpg
-    categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-08-08T19:40:01.000Z
-    source: TechXplore — Robotics
   - title: New fuel cell breakthrough could help power energy-hungry data centers
     url: https://www.sciencedaily.com/releases/2026/08/260807035140.htm
     summary: A new nanostructured carbon design lets fuel-cell catalysts use tiny
@@ -58,70 +125,13 @@ articles:
     categories: []
     publishedAt: 2026-08-08T14:09:02.000Z
     source: ScienceDaily — Engineering
-  - title: AI framework rooted in cognitive science could complete tasks more
-      efficiently
-    url: https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html
-    summary: In recent years, computer scientists have developed a wide range of
-      artificial intelligence (AI) models that can rapidly recognize patterns in
-      data, generate content and solve other computational problems. Many of
-      these AI systems are based on deep neural networks (DNNs), brain-inspired
-      computational models that can make predictions based on specific data, or
-      LLMs, models that can process human language, answer queries and generate
-      text.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/brain-inspired-plannin.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-08-08T13:40:02.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon
-    url: https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/
-    summary: The photograph, taken in visible light, made it possible to observe for
-      the first time the tiny plasma vortices that had been predicted for more
-      than a century.
-    imageUrl: https://media.wired.com/photos/6a763d9eaaeaaaadb9031470/191:100/w_1280,c_limit/fotografia%20del%20sol.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-08-08T13:00:00.000Z
-    source: WIRED science
-  - title: AI agents automate atom-by-atom simulations to accelerate discovery of
-      new materials
-    url: https://techxplore.com/news/2026-08-ai-agents-automate-atom-simulations.html
-    summary: A team from the U.S. Department of Energy's (DOE) Argonne National
-      Laboratory has successfully demonstrated an artificial intelligence
-      (AI)-driven system to automate a powerful simulation method that predicts
-      how atoms in materials interact. Known as atomistic simulations, this
-      method can potentially accelerate the discovery of materials for areas
-      such as batteries, aerospace and electronics. The research is published in
-      the journal Digital Discovery.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-agents-automate-ato.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-08-07T17:20:10.000Z
-    source: TechXplore — Engineering
-  - title: "Video Friday: Drones Go Heavy in DARPA Lift Challenge"
-    url: https://spectrum.ieee.org/video-friday-heavy-lift-drone
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/engineers-watch-a-slender-experimental-drone-fly-near-a-large-hangar.jpg?id=67585216&width=980
-    categories:
-      - Video-friday
-      - Darpa
-      - Robotics-videos
-      - Cargo-drones
-      - Robotic-grippers
-      - Humanoid-robots
-    publishedAt: 2026-08-07T16:00:01.000Z
-    source: IEEE Spectrum — Robotics
   - title: AI Safety Regulations in the U.S. Could Give Hackers an Edge
     url: https://spectrum.ieee.org/hugging-face-openai-cyberattack
     summary: On 11 July, Hugging Face was subjected to an intense cyberattack from a
       then-unknown actor. The speed and coordination of the attack on the
       company that hosts and supports popular AI developer resources led Hugging
       Face’s security team to conclude it was the work of an AI agent.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-hugging-faces-smiley-face-logo-holding-up-scales-of-justice-against-a-background-of-binary-code.jpg?id=67583759&width=1200&height=800&coordinates=0%2C208%2C0%2C209
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-hugging-faces-smiley-face-logo-holding-up-scales-of-justice-against-a-background-of-binary-code.jpg?id=67583759&width=1245&height=700&coordinates=0%2C469%2C0%2C469
     categories:
       - Agentic-ai
       - Openai
@@ -161,21 +171,6 @@ articles:
     categories: []
     publishedAt: 2026-08-05T18:15:00.000Z
     source: MIT Robotics
-  - title: "Solving the solvent problem  "
-    url: https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804
-    summary: Lithium-ion batteries are the leading choice in today’s electric
-      vehicle and battery energy storage system industries, but they contain a
-      number of critical minerals — including lithium, cobalt, nickel, and
-      graphite — that are considered essential for economic and national
-      security reasons, and therefore vulnerable to supply chain disruptions. As
-      renewable energy, electrified infrastructure, and high-power digital
-      technologies continue to grow, there is an increasing need for energy
-      storage systems that are low-cost, resource-abundant, and capable of fast
-      charging and discharging.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-nse-solvent-problem.jpg?itok=rXwEm3ti
-    categories: []
-    publishedAt: 2026-08-04T18:50:00.000Z
-    source: MIT Artificial Intelligence
   - title: Identifying the Root Cause of Electronics Failures With Simulation Apps
     url: https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation
     summary: This article is brought to you by COMSOL.
