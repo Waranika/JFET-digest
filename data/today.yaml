@@ -1,46 +1,65 @@
-date: 2026-08-11
+date: 2026-08-12
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: New engineering studies aim to slow battery aging while idle
-    url: https://techxplore.com/news/2026-08-aim-battery-aging-idle.html
-    summary: Most batteries spend more than 70% of their lifetime at rest. Yet few
-      studies have examined calendar aging, which is how a battery degrades when
-      it is neither charging nor being used.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-ucla-engineering-s.jpg
+  - title: Is It Safe to Eat Lettuce Yet?
+    url: https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/
+    summary: “That product is off the market, so I think there’s absolutely lower
+      risk for cyclospora in terms of eating lettuce,” one professor of food
+      safety tells WIRED.
+    imageUrl: https://media.wired.com/photos/6a7b0862e8bb799c3501eef8/191:100/w_1280,c_limit/Lettuce-.gif
+    categories:
+      - Science
+    publishedAt: 2026-08-11T20:26:01.000Z
+    source: WIRED science
+  - title: Three holographic layers steer red, green and blue light for brighter AR
+      displays
+    url: https://techxplore.com/news/2026-08-holographic-layers-red-green-blue.html
+    summary: Researchers have developed a full-color near-eye display that uses
+      three stacked holographic gratings, each engineered to direct red, green
+      or blue light. The new design could help advance compact, energy-efficient
+      augmented reality (AR) glasses for use in a variety of professional and
+      consumer applications.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/two-researchers-wearin.jpg
     categories:
       - Engineering
-    publishedAt: 2026-08-10T21:40:05.000Z
+    publishedAt: 2026-08-11T20:00:06.000Z
     source: TechXplore — Engineering
-  - title: AI model captures how humans read, paving the way to personalized text
-      and better augmented reality
-    url: https://techxplore.com/news/2026-08-ai-captures-humans-paving-personalized.html
-    summary: Researchers at Aalto University, together with international partners,
-      have developed the most accurate model yet of how humans read. The new
-      model uses reinforcement learning, a type of AI used in robotics, to
-      explain—and recreate—the choices readers make as they move through text.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-model-uses-reinforc.jpg
+  - title: "From vision to reality: A unified neural solver for the power grid"
+    url: https://techxplore.com/news/2026-08-vision-reality-neural-solver-power.html
+    summary: The electric grid has never mattered more—or faced more pressure. As
+      transportation, buildings and industry electrify, ever more of modern life
+      runs through the same network of wires. At the same time, the grid is
+      being reshaped from both ends.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/from-vision-to-reality.jpg
     categories:
-      - Hi Tech & Innovation
-    publishedAt: 2026-08-10T21:00:11.000Z
+      - Energy & Green Tech
+    publishedAt: 2026-08-11T18:40:03.000Z
     source: TechXplore — AI & Machine Learning
-  - title: New coding technique skips needless calculations, speeding some GPU tasks
-      nearly fourfold
-    url: https://techxplore.com/news/2026-08-coding-technique-needless-gpu-tasks.html
-    summary: The multiplication of matrices and higher-dimensional arrays called
-      tensors lies at the heart of modern computing. Matrix or tensor
-      multiplication is, in fact, the most common operation carried out in
-      artificial intelligence applications, as well as in scientific simulations
-      and computer graphics. High-performance computers, especially those
-      equipped with graphics processing units (GPUs), are designed to work with
-      so-called dense matrices or tensors—those that have relatively few zero
-      elements.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-new-way-to-speed-up.jpg
+  - title: Today's downloads predict tomorrow's scientific impact—up to five years out
+    url: https://techxplore.com/news/2026-08-today-downloads-tomorrow-scientific-impact.html
+    summary: The trail of likes, shares and downloads we leave across the internet
+      could help predict successful innovations years in advance, Cornell
+      researchers showed by curating two datasets that allowed them to compare
+      early engagement with future impact.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/todays-clicks-can-reve-1.jpg
     categories:
-      - Hardware
-    publishedAt: 2026-08-10T20:40:05.000Z
+      - Computer Sciences
+    publishedAt: 2026-08-11T16:00:02.000Z
     source: TechXplore — Computer Science
+  - title: A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call
+    url: https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/
+    summary: Researchers say it took fewer than 20 prompts for a public AI tool to
+      find a flaw (now fixed) allowing anyone on a Zoom call to hijack another
+      participants’ device.
+    imageUrl: https://media.wired.com/photos/6a7a45ba595802741eff3e7c/191:100/w_1280,c_limit/Security_Zoom%20Screensharing%20Bug_v1.jpg
+    categories:
+      - Security
+      - Security / Cyberattacks and Hacks
+      - Security / Security News
+    publishedAt: 2026-08-11T12:37:12.000Z
+    source: WIRED (AI)
   - title: With a feel for physics, AI models simulate a wider range of real-world
       scenarios
     url: https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810
@@ -53,7 +72,7 @@ articles:
     categories: []
     publishedAt: 2026-08-10T19:25:00.000Z
     source: MIT Artificial Intelligence
-  - title: Robot Recycler Salvages Parts from Broken Machines
+  - title: Robot Recycler Salvages Parts From Broken Machines
     url: https://spectrum.ieee.org/recycling-robot
     summary: Objects constructed by robots are ubiquitous. If you’ve used a car,
       household appliance, or smartphone today, you’ve used an object
@@ -82,27 +101,6 @@ articles:
       - Robotics
     publishedAt: 2026-08-10T16:20:03.000Z
     source: TechXplore — Robotics
-  - title: The AI Slop Backlash Is Actually Having an Impact
-    url: https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/
-    summary: Platforms are finally recognizing that people don’t want to consume AI
-      slop. A growing number of sites and apps now have tools and policies to
-      flag, label, and ban AI-generated content.
-    imageUrl: https://media.wired.com/photos/6a75d22732e80faf510b2a15/191:100/w_1280,c_limit/AI%20Slop.jpg
-    categories:
-      - Gear
-      - Gear / Trends
-    publishedAt: 2026-08-10T11:30:00.000Z
-    source: WIRED (AI)
-  - title: A California Program Is Bringing Down the Cost of Heat Pumps by Buying Bulk
-    url: https://www.wired.com/story/california-group-buy-bringing-down-heat-pump-costs/
-    summary: The approach is like a Costco for heat pumps, and it’s helping make
-      installations more accessible as heat waves worsen.
-    imageUrl: https://media.wired.com/photos/6a7655fee85ba359de1ff2c1/191:100/w_1280,c_limit/Science_How%20Heat%20Pump%20Group-Buys%20Are%20Bringing%20Down%20the%20Cost%20of%20Heating%20and%20Cooling_v1.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-08-10T11:00:00.000Z
-    source: WIRED science
   - title: A 0.42-nanometer breakthrough could push transistors beyond silicon
     url: https://www.sciencedaily.com/releases/2026/08/260808234943.htm
     summary: Atomically thin semiconductors could enable dramatically smaller and
