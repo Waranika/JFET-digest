@@ -1,65 +1,95 @@
-date: 2026-08-12
+date: 2026-08-13
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Is It Safe to Eat Lettuce Yet?
-    url: https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/
-    summary: “That product is off the market, so I think there’s absolutely lower
-      risk for cyclospora in terms of eating lettuce,” one professor of food
-      safety tells WIRED.
-    imageUrl: https://media.wired.com/photos/6a7b0862e8bb799c3501eef8/191:100/w_1280,c_limit/Lettuce-.gif
+  - title: Layoffs tied to AI hurt worker productivity, and the reason may surprise
+      managers
+    url: https://techxplore.com/news/2026-08-layoffs-ai-worker-productivity.html
+    summary: "Business leaders and investors face a deepening paradox: Companies are
+      pouring more money into artificial intelligence than ever, but they're not
+      seeing the productivity gains they expect."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg
+    categories:
+      - Business
+    publishedAt: 2026-08-12T23:20:05.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: The Best Photos of the Big August Solar Eclipse
+    url: https://www.wired.com/story/best-photos-august-solar-eclipse-spain/
+    summary: It’s been a century since the Iberian Peninsula has been in the full
+      shadow of the moon. Here’s what it looked like in the path of totality.
+    imageUrl: https://media.wired.com/photos/6a7cea9a2028a1e0af655f0d/191:100/w_1280,c_limit/GettyImages-2289709351.jpg
     categories:
       - Science
-    publishedAt: 2026-08-11T20:26:01.000Z
+      - Science / Environment
+    publishedAt: 2026-08-12T22:47:30.000Z
     source: WIRED science
-  - title: Three holographic layers steer red, green and blue light for brighter AR
-      displays
-    url: https://techxplore.com/news/2026-08-holographic-layers-red-green-blue.html
-    summary: Researchers have developed a full-color near-eye display that uses
-      three stacked holographic gratings, each engineered to direct red, green
-      or blue light. The new design could help advance compact, energy-efficient
-      augmented reality (AR) glasses for use in a variety of professional and
-      consumer applications.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/two-researchers-wearin.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-08-11T20:00:06.000Z
-    source: TechXplore — Engineering
-  - title: "From vision to reality: A unified neural solver for the power grid"
-    url: https://techxplore.com/news/2026-08-vision-reality-neural-solver-power.html
-    summary: The electric grid has never mattered more—or faced more pressure. As
-      transportation, buildings and industry electrify, ever more of modern life
-      runs through the same network of wires. At the same time, the grid is
-      being reshaped from both ends.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/from-vision-to-reality.jpg
-    categories:
-      - Energy & Green Tech
-    publishedAt: 2026-08-11T18:40:03.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Today's downloads predict tomorrow's scientific impact—up to five years out
-    url: https://techxplore.com/news/2026-08-today-downloads-tomorrow-scientific-impact.html
-    summary: The trail of likes, shares and downloads we leave across the internet
-      could help predict successful innovations years in advance, Cornell
-      researchers showed by curating two datasets that allowed them to compare
-      early engagement with future impact.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/todays-clicks-can-reve-1.jpg
+  - title: Extending AI architectures to address continuous scientific problems
+    url: https://techxplore.com/news/2026-08-ai-architectures-scientific-problems.html
+    summary: "Artificial intelligence is proving to be transformative in its ability
+      to work with language and images. Now, with a growing push to apply AI to
+      scientific discovery, Caltech's Anima Anandkumar says there is a crucial
+      ingredient missing from most AI models: the ability to understand the
+      physical world. Take, for example, weather models, says Anandkumar,
+      Caltech's Bren Professor of Computing and Mathematical Sciences. If you
+      want an AI model to predict weather, it must understand chaotic physical
+      systems, like how the atmosphere changes around the planet and over time."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/extending-ai-architect-1.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-08-11T16:00:02.000Z
+    publishedAt: 2026-08-12T20:00:01.000Z
     source: TechXplore — Computer Science
-  - title: A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call
-    url: https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/
-    summary: Researchers say it took fewer than 20 prompts for a public AI tool to
-      find a flaw (now fixed) allowing anyone on a Zoom call to hijack another
-      participants’ device.
-    imageUrl: https://media.wired.com/photos/6a7a45ba595802741eff3e7c/191:100/w_1280,c_limit/Security_Zoom%20Screensharing%20Bug_v1.jpg
+  - title: Self-repairing coating promises to make gas turbines more reliable and
+      longer lasting
+    url: https://techxplore.com/news/2026-08-coating-gas-turbines-reliable-longer.html
+    summary: Gas turbine engines, like those powering passenger planes, operate
+      under extreme conditions during everyday use. These engines regularly
+      reach temperatures well over 800°C (1,470°F), which creates challenges for
+      long-term durability and efficiency.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/gas-turbine-engines.jpg
     categories:
-      - Security
-      - Security / Cyberattacks and Hacks
-      - Security / Security News
-    publishedAt: 2026-08-11T12:37:12.000Z
-    source: WIRED (AI)
+      - Engineering
+    publishedAt: 2026-08-12T17:20:06.000Z
+    source: TechXplore — Engineering
+  - title: Butterfly-inspired ceramic microscrolls unroll with magnets to power tiny
+      robots
+    url: https://techxplore.com/news/2026-08-butterfly-ceramic-microscrolls-unroll-magnets.html
+    summary: Researchers at the University of Stuttgart and the Max Planck Institute
+      for Solid State Research have developed tiny rolls that can be unrolled
+      and rolled up in a controlled manner using a magnet. The model for this
+      was the proboscis of butterflies. These smart materials enable the
+      development of more efficient drive technologies for micro- and soft
+      robotics, a field of research of great economic importance. The results
+      have been published in the journal Advanced Materials.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/inspired-by-butterflie.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-08-12T15:20:07.000Z
+    source: TechXplore — Robotics
+  - title: Inside the Data Bottleneck Slowing Visual and Physical AI
+    url: https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/
+    summary: A survey of over 700 professionals examines how visual and physical AI
+      teams build systems, why models fail, and where data work drives
+      production.
+    imageUrl: https://spectrum.ieee.org/media-library/voxel51-logo-with-geometric-cube-icon-and-stylized-text.png?id=67607900&width=980
+    categories:
+      - Type-whitepaper
+      - Artificial-intelligence
+      - Computer-models
+      - Data-bottleneck
+    publishedAt: 2026-08-12T14:18:05.000Z
+    source: IEEE Spectrum — AI
+  - title: “Cannot be explained” – New super steel stuns scientists
+    url: https://www.sciencedaily.com/releases/2026/08/260811052717.htm
+    summary: Scientists have created an unusually corrosion-resistant stainless
+      steel that could replace costly titanium components used to produce green
+      hydrogen. The breakthrough could reduce structural material costs by
+      roughly 40 times and make seawater-based hydrogen production far more
+      economical.
+    imageUrl: https://www.sciencedaily.com/images/1920/ultra-stainless-steel.webp
+    categories: []
+    publishedAt: 2026-08-11T12:59:40.000Z
+    source: ScienceDaily — Engineering
   - title: With a feel for physics, AI models simulate a wider range of real-world
       scenarios
     url: https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810
@@ -88,19 +118,6 @@ articles:
       - Recycling-robots
     publishedAt: 2026-08-10T18:01:25.000Z
     source: IEEE Spectrum — Robotics
-  - title: Electronic skin enables tunable touch and proximity sensing for robots
-      and prosthetics
-    url: https://techxplore.com/news/2026-08-electronic-skin-enables-tunable-proximity.html
-    summary: Recent advances in miniaturized and portable electronics, particularly
-      wearable and flexible devices, have increased the demand for self-powered
-      sensing technologies. Among these, triboelectric nanogenerators (TENGs)
-      have received considerable attention for developing highly sensitive
-      tactile sensors.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/hanyang-university-eri-3.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-08-10T16:20:03.000Z
-    source: TechXplore — Robotics
   - title: A 0.42-nanometer breakthrough could push transistors beyond silicon
     url: https://www.sciencedaily.com/releases/2026/08/260808234943.htm
     summary: Atomically thin semiconductors could enable dramatically smaller and
@@ -113,30 +130,6 @@ articles:
     categories: []
     publishedAt: 2026-08-09T06:05:43.000Z
     source: ScienceDaily — Computer Science
-  - title: New fuel cell breakthrough could help power energy-hungry data centers
-    url: https://www.sciencedaily.com/releases/2026/08/260807035140.htm
-    summary: A new nanostructured carbon design lets fuel-cell catalysts use tiny
-      amounts of platinum while remaining remarkably stable and efficient. The
-      breakthrough could help hydrogen fuel cells become a more practical way to
-      power data centers, vehicles, and other energy-intensive technologies.
-    imageUrl: https://www.sciencedaily.com/images/1920/electricity-lightning-data-center-power.webp
-    categories: []
-    publishedAt: 2026-08-08T14:09:02.000Z
-    source: ScienceDaily — Engineering
-  - title: AI Safety Regulations in the U.S. Could Give Hackers an Edge
-    url: https://spectrum.ieee.org/hugging-face-openai-cyberattack
-    summary: On 11 July, Hugging Face was subjected to an intense cyberattack from a
-      then-unknown actor. The speed and coordination of the attack on the
-      company that hosts and supports popular AI developer resources led Hugging
-      Face’s security team to conclude it was the work of an AI agent.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-hugging-faces-smiley-face-logo-holding-up-scales-of-justice-against-a-background-of-binary-code.jpg?id=67583759&width=1245&height=700&coordinates=0%2C469%2C0%2C469
-    categories:
-      - Agentic-ai
-      - Openai
-      - Huggingface
-      - Ai-safety
-    publishedAt: 2026-08-06T19:25:39.000Z
-    source: IEEE Spectrum — AI
   - title: A new way to watch heat move through electronics
     url: https://news.mit.edu/2026/new-way-watch-heat-move-through-electronics-0806
     summary: The same overheating problem that happens to our laptops also plagues
@@ -169,18 +162,6 @@ articles:
     categories: []
     publishedAt: 2026-08-05T18:15:00.000Z
     source: MIT Robotics
-  - title: Identifying the Root Cause of Electronics Failures With Simulation Apps
-    url: https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation
-    summary: This article is brought to you by COMSOL.
-    imageUrl: https://spectrum.ieee.org/media-library/cfd-contour-plot-of-flow-velocity-in-a-complex-mechanical-housing-cross-section.png?id=67522155&width=980
-    categories:
-      - Electronics
-      - Multiphysics-simulation
-      - Electronic-failures
-      - Corrosion
-      - Comsol
-    publishedAt: 2026-08-03T11:38:22.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: MIT’s new lidar chip could give self-driving cars a wider view
     url: https://www.sciencedaily.com/releases/2026/07/260722032127.htm
     summary: MIT engineers have found a way to give chip-based lidar a wider,
