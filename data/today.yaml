@@ -1,157 +1,155 @@
-date: 2026-08-13
+date: 2026-08-18
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Layoffs tied to AI hurt worker productivity, and the reason may surprise
-      managers
-    url: https://techxplore.com/news/2026-08-layoffs-ai-worker-productivity.html
-    summary: "Business leaders and investors face a deepening paradox: Companies are
-      pouring more money into artificial intelligence than ever, but they're not
-      seeing the productivity gains they expect."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/ai.jpg
-    categories:
-      - Business
-    publishedAt: 2026-08-12T23:20:05.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: The Best Photos of the Big August Solar Eclipse
-    url: https://www.wired.com/story/best-photos-august-solar-eclipse-spain/
-    summary: It’s been a century since the Iberian Peninsula has been in the full
-      shadow of the moon. Here’s what it looked like in the path of totality.
-    imageUrl: https://media.wired.com/photos/6a7cea9a2028a1e0af655f0d/191:100/w_1280,c_limit/GettyImages-2289709351.jpg
+  - title: What Is El Niño, and What Does It Mean for Weather, Water, and the Global
+      Economy?
+    url: https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/
+    summary: This year’s El Niño is shaping up to be the strongest on record. Here’s
+      what to expect.
+    imageUrl: https://media.wired.com/photos/6a8369c1fdc8609aaaf2e983/191:100/w_1280,c_limit/623682055
     categories:
       - Science
       - Science / Environment
-    publishedAt: 2026-08-12T22:47:30.000Z
+    publishedAt: 2026-08-17T21:28:42.000Z
     source: WIRED science
-  - title: Extending AI architectures to address continuous scientific problems
-    url: https://techxplore.com/news/2026-08-ai-architectures-scientific-problems.html
-    summary: "Artificial intelligence is proving to be transformative in its ability
-      to work with language and images. Now, with a growing push to apply AI to
-      scientific discovery, Caltech's Anima Anandkumar says there is a crucial
-      ingredient missing from most AI models: the ability to understand the
-      physical world. Take, for example, weather models, says Anandkumar,
-      Caltech's Bren Professor of Computing and Mathematical Sciences. If you
-      want an AI model to predict weather, it must understand chaotic physical
-      systems, like how the atmosphere changes around the planet and over time."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/extending-ai-architect-1.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-08-12T20:00:01.000Z
-    source: TechXplore — Computer Science
-  - title: Self-repairing coating promises to make gas turbines more reliable and
-      longer lasting
-    url: https://techxplore.com/news/2026-08-coating-gas-turbines-reliable-longer.html
-    summary: Gas turbine engines, like those powering passenger planes, operate
-      under extreme conditions during everyday use. These engines regularly
-      reach temperatures well over 800°C (1,470°F), which creates challenges for
-      long-term durability and efficiency.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/gas-turbine-engines.jpg
+  - title: AI framework reconstructs high-resolution fluorescence lifetime images
+      from faster, lower-resolution scans
+    url: https://techxplore.com/news/2026-08-ai-framework-reconstructs-high-resolution.html
+    summary: UCLA researchers have developed a deep learning framework that
+      reconstructs high-resolution fluorescence lifetime images from data
+      acquired at up to five times lower spatial resolution, offering a path
+      toward faster tissue imaging without complex hardware.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-framework-reconstru.jpg
     categories:
       - Engineering
-    publishedAt: 2026-08-12T17:20:06.000Z
+    publishedAt: 2026-08-17T20:08:33.000Z
     source: TechXplore — Engineering
-  - title: Butterfly-inspired ceramic microscrolls unroll with magnets to power tiny
-      robots
-    url: https://techxplore.com/news/2026-08-butterfly-ceramic-microscrolls-unroll-magnets.html
-    summary: Researchers at the University of Stuttgart and the Max Planck Institute
-      for Solid State Research have developed tiny rolls that can be unrolled
-      and rolled up in a controlled manner using a magnet. The model for this
-      was the proboscis of butterflies. These smart materials enable the
-      development of more efficient drive technologies for micro- and soft
-      robotics, a field of research of great economic importance. The results
-      have been published in the journal Advanced Materials.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/inspired-by-butterflie.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-08-12T15:20:07.000Z
-    source: TechXplore — Robotics
-  - title: Inside the Data Bottleneck Slowing Visual and Physical AI
-    url: https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/
-    summary: A survey of over 700 professionals examines how visual and physical AI
-      teams build systems, why models fail, and where data work drives
-      production.
-    imageUrl: https://spectrum.ieee.org/media-library/voxel51-logo-with-geometric-cube-icon-and-stylized-text.png?id=67607900&width=980
-    categories:
-      - Type-whitepaper
-      - Artificial-intelligence
-      - Computer-models
-      - Data-bottleneck
-    publishedAt: 2026-08-12T14:18:05.000Z
-    source: IEEE Spectrum — AI
-  - title: “Cannot be explained” – New super steel stuns scientists
-    url: https://www.sciencedaily.com/releases/2026/08/260811052717.htm
-    summary: Scientists have created an unusually corrosion-resistant stainless
-      steel that could replace costly titanium components used to produce green
-      hydrogen. The breakthrough could reduce structural material costs by
-      roughly 40 times and make seawater-based hydrogen production far more
-      economical.
-    imageUrl: https://www.sciencedaily.com/images/1920/ultra-stainless-steel.webp
+  - title: "Q&A: Rethinking how innovation happens"
+    url: https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818
+    summary: "Innovation is a concept that has become mythologized in the modern
+      era: what it is, how to manage it, how to teach it, and how to get it to
+      work for us. Despite these explorations, it remains fundamentally
+      misunderstood, writes Eugene Fitzgerald, the Merton C. Flemings SMA
+      Professor in MIT’s Department of Materials Science and Engineering, in his
+      latest book, “The Invisible Engine: Why Innovation Evades Control.”"
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-Fitzgerald-Innovation-Book-01-press.jpg?itok=Pl-hiOMe
     categories: []
-    publishedAt: 2026-08-11T12:59:40.000Z
-    source: ScienceDaily — Engineering
-  - title: With a feel for physics, AI models simulate a wider range of real-world
-      scenarios
-    url: https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810
-    summary: Artificial intelligence models are jacks of many trades, including
-      writing, generating images, and creating 3D models. But they aren’t as
-      helpful when it comes to testing robots or designs for vehicles in diverse
-      environments, since they don’t understand physics as well as they do
-      pixels or text.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-csail-geopt.jpg?itok=QbX1i1qV
-    categories: []
-    publishedAt: 2026-08-10T19:25:00.000Z
+    publishedAt: 2026-08-17T19:50:00.000Z
     source: MIT Artificial Intelligence
-  - title: Robot Recycler Salvages Parts From Broken Machines
-    url: https://spectrum.ieee.org/recycling-robot
-    summary: Objects constructed by robots are ubiquitous. If you’ve used a car,
-      household appliance, or smartphone today, you’ve used an object
-      constructed at least in part by robots. The more products that
-      manufacturers want to produce (and consumers want to consume) at lower
-      costs, the more industrial robots will be needed.
-    imageUrl: https://spectrum.ieee.org/media-library/two-large-industrial-robotic-arms-in-a-university-laboratory.jpg?id=67561939&width=1245&height=700&coordinates=0%2C156%2C0%2C157
+  - title: Mathematical framework connects biological principles to manufacturable,
+      adaptive materials
+    url: https://news.mit.edu/2026/mathematical-framework-connects-biological-principles-manufacturable-adaptive-material-0817
+    summary: The scales of a pine cone open in low humidity to scatter seeds, but
+      close in damp conditions to protect seeds from moisture. An artificial
+      material with the same behavior could be useful in applications like
+      moisture-responsive shingles for passive cooling.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-Compositional-Design-01-press.jpg?itok=nyWSl9at
+    categories: []
+    publishedAt: 2026-08-17T18:30:00.000Z
+    source: MIT Engineering
+  - title: Physics-informed AI method speeds thermal energy storage design
+      optimization
+    url: https://techxplore.com/news/2026-08-physics-ai-method-thermal-energy.html
+    summary: With intensifying climate change, decarbonizing the global building
+      sector has become a key priority. A substantial portion of a building's
+      energy demand comes from heating and cooling. Consequently, developing
+      efficient thermal energy storage systems is a crucial part of this effort.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-physics-informed-a.jpg
+    categories:
+      - Energy & Green Tech
+    publishedAt: 2026-08-17T17:40:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Is Shipyard Welding the Right First Job for Humanoid Robots?
+    url: https://spectrum.ieee.org/persona-ai-humanoid-robot-welding
+    summary: "Humanoids desperately need to stop making YouTube videos and get a job
+      already, and Persona AI is one of the few humanoid companies which seems
+      to be entirely focused on making that happen. Persona’s approach has been
+      to carefully select a job that is economically viable for robots right
+      now, and they’ve found one that was also the job of one of the very first
+      industrial robots ever sold: welding."
+    imageUrl: https://spectrum.ieee.org/media-library/two-men-supervise-a-humanoid-robot-as-it-completes-a-welding-task-in-an-industrial-warehouse.jpg?id=67626093&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Humanoid-robots
+      - Robotics
+      - Industrial-robots
+    publishedAt: 2026-08-17T15:33:42.000Z
+    source: IEEE Spectrum — Robotics
+  - title: From AI Copilots to Agent Swarms
+    url: https://spectrum.ieee.org/amd-agent-swarms
+    summary: The impact of AI on software development has been both profound and
+      ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for
+      generating new lines of code, but also for other steps in the software
+      development lifecycle (SDLC), such as triaging problems, debugging code,
+      and testing the software. At the time, we were hoping for a 25 percent
+      productivity boost from AI use over the course of two or three years.
+    imageUrl: https://spectrum.ieee.org/media-library/colorful-3d-blocks-piled-behind-glass-panels-displaying-white-code-snippets.jpg?id=67609515&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Agentic-ai
+      - Software-engineering
+      - Amd
+      - Large-language-models
+    publishedAt: 2026-08-17T14:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: Caltech breakthrough brings fiber-optic performance to silicon chips
+    url: https://www.sciencedaily.com/releases/2026/08/260814235905.htm
+    summary: Caltech scientists have created ultra-low-loss optical pathways on
+      silicon chips that approach the efficiency of fiber optics and
+      dramatically outperform existing technology at visible wavelengths. The
+      breakthrough could unlock more powerful lasers, miniature atomic sensors
+      and clocks, quantum systems, and more energy-efficient data centers.
+    imageUrl: https://www.sciencedaily.com/images/1920/ultralow-loss-optical-fiber-performance-photonic-chips.webp
+    categories: []
+    publishedAt: 2026-08-17T12:30:41.000Z
+    source: ScienceDaily — Engineering
+  - title: Scientists turn DNA into a memory device that uses 100x less power
+    url: https://www.sciencedaily.com/releases/2026/08/260816044853.htm
+    summary: Researchers combined synthetic DNA with a semiconductor to create an
+      ultra-low-power memory device capable of storing and processing
+      information in the same place. The bio-hybrid technology could eventually
+      help make AI systems and next-generation computers far more energy
+      efficient.
+    imageUrl: https://www.sciencedaily.com/images/1920/dna-research-genetics-technology.webp
+    categories: []
+    publishedAt: 2026-08-17T08:06:45.000Z
+    source: ScienceDaily — Robotics
+  - title: Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out
+    url: https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/
+    summary: When Twitch announced that streamers could opt out, thousands of users
+      questioned why their content was being used to train AI models in the
+      first place.
+    imageUrl: https://media.wired.com/photos/6a7f62de9dba743672684be2/191:100/w_1280,c_limit/GettyImages-1305224058-edited.jpg
+    categories:
+      - Gear
+      - Gear / How To and Advice
+    publishedAt: 2026-08-15T09:00:00.000Z
+    source: WIRED (AI)
+  - title: AI agents struggle to perform original scientific research
+    url: https://techxplore.com/news/2026-08-ai-agents-struggle-scientific.html
+    summary: Among the many predictions about the future of artificial intelligence
+      is that models will one day be able to conduct scientific research on
+      their own, leaving humans out of the equation. Already, they can write
+      code, run experiments and search scientific literature, but carrying out
+      open-ended research would require a significant leap in ability.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/scientific-research.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-08-14T17:00:03.000Z
+    source: TechXplore — Computer Science
+  - title: Better communication could improve human-robot teamwork across real-world
+      tasks
+    url: https://techxplore.com/news/2026-08-communication-human-robot-teamwork-real.html
+    summary: "A new paper from Monash University and Australia's national science
+      agency, CSIRO, argues that effective human–robot teams depend on
+      alignment: a shared and up-to-date understanding of each teammate's
+      capabilities and limitations, the task and situation, and their respective
+      roles and timing."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/robot.jpg
     categories:
       - Robotics
-      - Recycling
-      - Industrial-robot
-      - Icra
-      - Recycling-robots
-    publishedAt: 2026-08-10T18:01:25.000Z
-    source: IEEE Spectrum — Robotics
-  - title: A 0.42-nanometer breakthrough could push transistors beyond silicon
-    url: https://www.sciencedaily.com/releases/2026/08/260808234943.htm
-    summary: Atomically thin semiconductors could enable dramatically smaller and
-      more efficient chips, but a stubborn problem at the boundary between
-      materials has limited their performance. Researchers have now engineered
-      that atomic interface to protect electron flow while still allowing
-      extremely thin insulating layers. The resulting transistors delivered an
-      unusually strong combination of electrical control and performance.
-    imageUrl: https://www.sciencedaily.com/images/1920/epitaxial-interface-engineering-enables-high-transconductance-2d-transistors.webp
-    categories: []
-    publishedAt: 2026-08-09T06:05:43.000Z
-    source: ScienceDaily — Computer Science
-  - title: A new way to watch heat move through electronics
-    url: https://news.mit.edu/2026/new-way-watch-heat-move-through-electronics-0806
-    summary: The same overheating problem that happens to our laptops also plagues
-      computer servers and data centers around the world — and heat management
-      is only getting harder as computer chips get more compact and powerful.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-HiddenHeat-01-press.jpg?itok=8Ts2ykU-
-    categories: []
-    publishedAt: 2026-08-06T04:00:00.000Z
-    source: MIT Engineering
-  - title: Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math
-      conjecture
-    url: https://www.sciencedaily.com/releases/2026/08/260804034634.htm
-    summary: A mathematician working at Anthropic says he used the AI model Claude
-      Fable 5 to uncover a remarkably simple counterexample to the Jacobian
-      conjecture, a famous problem that has resisted mathematicians for more
-      than a century. The result shows that the conjecture is false in three
-      dimensions and above, although the original two-dimensional version
-      remains unsolved.
-    imageUrl: https://www.sciencedaily.com/images/1920/humanoid-ai-robot-hologram-screen-solving-physics-math-problems.webp
-    categories: []
-    publishedAt: 2026-08-06T02:02:49.000Z
-    source: ScienceDaily — Robotics
+    publishedAt: 2026-08-14T14:07:01.000Z
+    source: TechXplore — Robotics
   - title: "Personalized physical therapy: Stroke rehabilitation powered by AI"
     url: https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805
     summary: Stroke is one of the leading causes of death and disability worldwide,
@@ -162,14 +160,3 @@ articles:
     categories: []
     publishedAt: 2026-08-05T18:15:00.000Z
     source: MIT Robotics
-  - title: MIT’s new lidar chip could give self-driving cars a wider view
-    url: https://www.sciencedaily.com/releases/2026/07/260722032127.htm
-    summary: MIT engineers have found a way to give chip-based lidar a wider,
-      clearer view without relying on moving parts. Their design uses
-      differently shaped antennas that can sit close together without scrambling
-      one another’s signals. In tests, the system sharply reduced interference
-      while steering a single precise beam across a broad field of view.
-    imageUrl: https://www.sciencedaily.com/images/1920/mit-array-of-integrated-antennas.webp
-    categories: []
-    publishedAt: 2026-07-22T10:00:54.000Z
-    source: ScienceDaily — Artificial Intelligence
