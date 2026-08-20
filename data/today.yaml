@@ -1,81 +1,125 @@
-date: 2026-08-18
+date: 2026-08-20
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: What Is El Niño, and What Does It Mean for Weather, Water, and the Global
-      Economy?
-    url: https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/
-    summary: This year’s El Niño is shaping up to be the strongest on record. Here’s
-      what to expect.
-    imageUrl: https://media.wired.com/photos/6a8369c1fdc8609aaaf2e983/191:100/w_1280,c_limit/623682055
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-08-17T21:28:42.000Z
-    source: WIRED science
-  - title: AI framework reconstructs high-resolution fluorescence lifetime images
-      from faster, lower-resolution scans
-    url: https://techxplore.com/news/2026-08-ai-framework-reconstructs-high-resolution.html
-    summary: UCLA researchers have developed a deep learning framework that
-      reconstructs high-resolution fluorescence lifetime images from data
-      acquired at up to five times lower spatial resolution, offering a path
-      toward faster tissue imaging without complex hardware.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-framework-reconstru.jpg
+  - title: MIT engineers design a better controller for operating construction diggers
+    url: https://news.mit.edu/2026/mit-engineers-design-better-controller-operating-construction-diggers-0820
+    summary: Anyone who’s ever wrestled with a claw machine at an arcade can
+      appreciate the difficulty in pulling and pushing on joysticks, in just the
+      right way, to get a mechanical arm to scoop up that one special toy.
+      Coordinating the joysticks and connecting their movement to the claw’s
+      motion is a type of “mental mapping” that is not immediately intuitive.
+      (And it’s what arcade owners depend on to bring players back, again and
+      again).
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-DiggerTrainer-01-press.jpg?itok=X5SSiyJU
+    categories: []
+    publishedAt: 2026-08-20T04:00:00.000Z
+    source: MIT Robotics
+  - title: Laser de-icing system helps nuclear power plants improve maintenance of a
+      critical safety system
+    url: https://techxplore.com/news/2026-08-laser-de-icing-nuclear-power.html
+    summary: University of South Florida engineers have developed an innovative
+      laser-based technology that is helping nuclear power plants solve a
+      complex maintenance challenge affecting a critical reactor safety system.
+      After four years of research, design, and testing, the custom system has
+      been successfully tested at two Tennessee Valley Authority nuclear plants.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/engineers-develop-tech.jpg
     categories:
       - Engineering
-    publishedAt: 2026-08-17T20:08:33.000Z
+    publishedAt: 2026-08-19T21:20:05.000Z
     source: TechXplore — Engineering
-  - title: "Q&A: Rethinking how innovation happens"
-    url: https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818
-    summary: "Innovation is a concept that has become mythologized in the modern
-      era: what it is, how to manage it, how to teach it, and how to get it to
-      work for us. Despite these explorations, it remains fundamentally
-      misunderstood, writes Eugene Fitzgerald, the Merton C. Flemings SMA
-      Professor in MIT’s Department of Materials Science and Engineering, in his
-      latest book, “The Invisible Engine: Why Innovation Evades Control.”"
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-Fitzgerald-Innovation-Book-01-press.jpg?itok=Pl-hiOMe
-    categories: []
-    publishedAt: 2026-08-17T19:50:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Mathematical framework connects biological principles to manufacturable,
-      adaptive materials
-    url: https://news.mit.edu/2026/mathematical-framework-connects-biological-principles-manufacturable-adaptive-material-0817
-    summary: The scales of a pine cone open in low humidity to scatter seeds, but
-      close in damp conditions to protect seeds from moisture. An artificial
-      material with the same behavior could be useful in applications like
-      moisture-responsive shingles for passive cooling.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-Compositional-Design-01-press.jpg?itok=nyWSl9at
-    categories: []
-    publishedAt: 2026-08-17T18:30:00.000Z
-    source: MIT Engineering
-  - title: Physics-informed AI method speeds thermal energy storage design
-      optimization
-    url: https://techxplore.com/news/2026-08-physics-ai-method-thermal-energy.html
-    summary: With intensifying climate change, decarbonizing the global building
-      sector has become a key priority. A substantial portion of a building's
-      energy demand comes from heating and cooling. Consequently, developing
-      efficient thermal energy storage systems is a crucial part of this effort.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-physics-informed-a.jpg
+  - title: I Saw the Future of AI in a Robot That Can Learn on the Spot
+    url: https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/
+    summary: During a recent visit to Generalist AI, I watched a robotic arm
+      improvise and use a banana as a tool.
+    imageUrl: https://media.wired.com/photos/6a85e8ea4518d27679a9b132/191:100/w_1280,c_limit/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg
     categories:
-      - Energy & Green Tech
-    publishedAt: 2026-08-17T17:40:01.000Z
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-08-19T19:30:00.000Z
+    source: WIRED (AI)
+  - title: Could robots help tackle loneliness? BBC's Ann Droid raises questions
+      about the future of care
+    url: https://techxplore.com/news/2026-08-robots-tackle-loneliness-bbc-ann.html
+    summary: New BBC sitcom Ann Droid imagines a near future in which robots provide
+      care and companionship to older people at home.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/robot.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-08-19T17:00:03.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Is Shipyard Welding the Right First Job for Humanoid Robots?
-    url: https://spectrum.ieee.org/persona-ai-humanoid-robot-welding
-    summary: "Humanoids desperately need to stop making YouTube videos and get a job
-      already, and Persona AI is one of the few humanoid companies which seems
-      to be entirely focused on making that happen. Persona’s approach has been
-      to carefully select a job that is economically viable for robots right
-      now, and they’ve found one that was also the job of one of the very first
-      industrial robots ever sold: welding."
-    imageUrl: https://spectrum.ieee.org/media-library/two-men-supervise-a-humanoid-robot-as-it-completes-a-welding-task-in-an-industrial-warehouse.jpg?id=67626093&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+  - title: Robots sort packages and serve fast food at Beijing showcase
+    url: https://techxplore.com/news/2026-08-robots-packages-fast-food-beijing.html
+    summary: Robots sorting parcels and serving fried chicken enthralled visitors at
+      a robotics expo in Beijing on Wednesday, where hundreds of companies set
+      out their pitches for a future labor market transformed by artificial
+      intelligence.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/the-chinese-government.jpg
     categories:
-      - Humanoid-robots
       - Robotics
-      - Industrial-robots
-    publishedAt: 2026-08-17T15:33:42.000Z
+    publishedAt: 2026-08-19T14:40:05.000Z
+    source: TechXplore — Robotics
+  - title: A computer vision approach for grading collectible coins
+    url: https://techxplore.com/news/2026-08-vision-approach-grading-coins.html
+    summary: Researchers from Skoltech (part of the VEB.RF group) and Central
+      University have developed an automated coin-grading approach that
+      minimizes the subjectivity of manual assessments and overcomes the
+      limitations of computer vision algorithms typically used for this purpose.
+      The new approach provides more accurate and detailed grading across a wide
+      variety of coin types. The approach was presented in the Journal on
+      Computing and Cultural Heritage and further refined in two subsequent
+      studies published in Expert Systems with Applications and IEEE
+      Transactions on Instrumentation and Measurement.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/collectible-coins.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-08-18T20:40:08.000Z
+    source: TechXplore — Computer Science
+  - title: Squeeze More Juice Out of Your Dead Batteries—Using Physics
+    url: https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/
+    summary: How the joule thief circuit “steals” energy from seemingly depleted
+      power cells.
+    imageUrl: https://media.wired.com/photos/6a8372555b7045e98c48385f/191:100/w_1280,c_limit/Science_Squeeze%20More%20Juice%20out%20of%20a%20Dead%20Battery!_v1.jpg
+    categories:
+      - Science / Physics and Math
+    publishedAt: 2026-08-18T20:11:03.000Z
+    source: WIRED science
+  - title: "When AI art has no author: Study finds generated images often can’t be
+      traced to training data"
+    url: https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818
+    summary: When an artificial intelligence image generator produces a portrait,
+      whose work went into it? The question sits at the center of lawsuits,
+      licensing deals, and proposed regulations worldwide. Artists want credit.
+      Companies want clarity. Policymakers want a way to assign responsibility.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/dai-gifford-ai-image-training-data-00_0.png?itok=BM5jagA4
+    categories: []
+    publishedAt: 2026-08-18T16:35:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Drones With Claws Perch on Arctic Icebergs
+    url: https://spectrum.ieee.org/arctic-iceberg-drones
+    summary: This article is part of our exclusive IEEE Journal Watch series in
+      partnership with IEEE Xplore.
+    imageUrl: https://spectrum.ieee.org/media-library/a-drone-firmly-planted-on-the-steep-slope-of-an-iceberg-after-a-successful-landing.jpg?id=67573301&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Journal-watch
+      - Arctic
+      - Climbing-robots
+      - Robotics
+      - Drones
+    publishedAt: 2026-08-18T13:00:01.000Z
     source: IEEE Spectrum — Robotics
+  - title: Scientists may have finally proved that “empty” space isn’t really empty
+    url: https://www.sciencedaily.com/releases/2026/08/260815065007.htm
+    summary: A magnetar’s colossal magnetic field may have revealed a quantum effect
+      predicted by Werner Heisenberg nearly 90 years ago, in which seemingly
+      empty space alters the behavior of light. If confirmed, the discovery
+      could offer the first direct evidence of vacuum birefringence and open a
+      new window into the strange physics of the quantum vacuum.
+    imageUrl: https://www.sciencedaily.com/images/1920/magnetar-1e-15470-5408.webp
+    categories: []
+    publishedAt: 2026-08-18T06:08:04.000Z
+    source: ScienceDaily — Engineering
   - title: From AI Copilots to Agent Swarms
     url: https://spectrum.ieee.org/amd-agent-swarms
     summary: The impact of AI on software development has been both profound and
@@ -92,17 +136,6 @@ articles:
       - Large-language-models
     publishedAt: 2026-08-17T14:00:01.000Z
     source: IEEE Spectrum — AI
-  - title: Caltech breakthrough brings fiber-optic performance to silicon chips
-    url: https://www.sciencedaily.com/releases/2026/08/260814235905.htm
-    summary: Caltech scientists have created ultra-low-loss optical pathways on
-      silicon chips that approach the efficiency of fiber optics and
-      dramatically outperform existing technology at visible wavelengths. The
-      breakthrough could unlock more powerful lasers, miniature atomic sensors
-      and clocks, quantum systems, and more energy-efficient data centers.
-    imageUrl: https://www.sciencedaily.com/images/1920/ultralow-loss-optical-fiber-performance-photonic-chips.webp
-    categories: []
-    publishedAt: 2026-08-17T12:30:41.000Z
-    source: ScienceDaily — Engineering
   - title: Scientists turn DNA into a memory device that uses 100x less power
     url: https://www.sciencedaily.com/releases/2026/08/260816044853.htm
     summary: Researchers combined synthetic DNA with a semiconductor to create an
@@ -114,49 +147,3 @@ articles:
     categories: []
     publishedAt: 2026-08-17T08:06:45.000Z
     source: ScienceDaily — Robotics
-  - title: Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out
-    url: https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/
-    summary: When Twitch announced that streamers could opt out, thousands of users
-      questioned why their content was being used to train AI models in the
-      first place.
-    imageUrl: https://media.wired.com/photos/6a7f62de9dba743672684be2/191:100/w_1280,c_limit/GettyImages-1305224058-edited.jpg
-    categories:
-      - Gear
-      - Gear / How To and Advice
-    publishedAt: 2026-08-15T09:00:00.000Z
-    source: WIRED (AI)
-  - title: AI agents struggle to perform original scientific research
-    url: https://techxplore.com/news/2026-08-ai-agents-struggle-scientific.html
-    summary: Among the many predictions about the future of artificial intelligence
-      is that models will one day be able to conduct scientific research on
-      their own, leaving humans out of the equation. Already, they can write
-      code, run experiments and search scientific literature, but carrying out
-      open-ended research would require a significant leap in ability.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/scientific-research.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-08-14T17:00:03.000Z
-    source: TechXplore — Computer Science
-  - title: Better communication could improve human-robot teamwork across real-world
-      tasks
-    url: https://techxplore.com/news/2026-08-communication-human-robot-teamwork-real.html
-    summary: "A new paper from Monash University and Australia's national science
-      agency, CSIRO, argues that effective human–robot teams depend on
-      alignment: a shared and up-to-date understanding of each teammate's
-      capabilities and limitations, the task and situation, and their respective
-      roles and timing."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/robot.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-08-14T14:07:01.000Z
-    source: TechXplore — Robotics
-  - title: "Personalized physical therapy: Stroke rehabilitation powered by AI"
-    url: https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805
-    summary: Stroke is one of the leading causes of death and disability worldwide,
-      affecting 15 million people each year and leaving 5 million with long-term
-      impairments. There’s also a growing shortage of physical therapists,
-      making it harder for patients to access consistent, high-quality care.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202508/mit-Lachner-Hogan-Lab.jpg?itok=uGQCI-8t
-    categories: []
-    publishedAt: 2026-08-05T18:15:00.000Z
-    source: MIT Robotics
