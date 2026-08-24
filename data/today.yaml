@@ -1,8 +1,142 @@
-date: 2026-08-20
+date: 2026-08-24
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei
+    url: https://www.sciencedaily.com/releases/2026/08/260822015143.htm
+    summary: Researchers at CERN have created microscopic versions of the early
+      Universe by colliding surprisingly small atomic nuclei at nearly the speed
+      of light. The collisions produced quark-gluon plasma, the ultra-hot matter
+      believed to have filled the cosmos shortly after the Big Bang. Even more
+      intriguingly, the particles left behind reveal the shape of the nuclei
+      that created them, offering a new way to probe both nuclear physics and
+      the Universe’s earliest moments.
+    imageUrl: https://www.sciencedaily.com/images/1920/neon-20-and-oxygen-16-collisions.webp
+    categories: []
+    publishedAt: 2026-08-23T13:08:55.000Z
+    source: ScienceDaily — Engineering
+  - title: "Poetry for Engineers: Safe Distance"
+    url: https://spectrum.ieee.org/poetry-for-engineers-safe-distance
+    summary: How do I touch youacross the ocean,across cold depthswhere light
+      travels through glass.
+    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-two-fiber-optic-cables-pointing-in-opposite-directions-with-each-one-inside-a-differently-colored-bu.jpg?id=67652120&width=1245&height=700&coordinates=0%2C0%2C0%2C1
+    categories:
+      - Typedepartments
+      - Verse-becomes-electric
+      - Poetry
+      - Telecommunications
+      - Fiber-optics
+      - Undersea-cables
+    publishedAt: 2026-08-23T13:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: A hidden “on switch” in human DNA has finally been decoded
+    url: https://www.sciencedaily.com/releases/2026/08/260823014943.htm
+    summary: Researchers have used AI to uncover the DNA signature of a key genetic
+      “switch” involved in turning genes on. After analyzing about 500,000 DNA
+      sequences, the model identified the initiator in roughly 60% of human
+      genes. The breakthrough could help predict the effects of harmful
+      mutations and eventually contribute to decoding the broader genetic
+      instructions that control gene activity throughout the body.
+    imageUrl: https://www.sciencedaily.com/images/1920/biological-dna-structure-with-gene-mutation.webp
+    categories: []
+    publishedAt: 2026-08-23T12:14:40.000Z
+    source: ScienceDaily — Robotics
+  - title: Transistors Changed Everything. Here’s How They Work
+    url: https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/
+    summary: How a tiny little electronic switch sparked the computer revolution.
+    imageUrl: https://media.wired.com/photos/6a88b7a7b99cef7a28794f29/191:100/w_1280,c_limit/Science_Transistors%20Changed%20Everything.%20Here%E2%80%99s%20How%20They%20Work_v1.jpg
+    categories:
+      - Science
+      - Science / Physics and Math
+    publishedAt: 2026-08-23T11:00:00.000Z
+    source: WIRED science
+  - title: Chinese humanoid robots smash human records in 100m sprint and high jump
+      at Beijing robot games
+    url: https://techxplore.com/news/2026-08-chinese-humanoid-robots-human-100m.html
+    summary: Chinese humanoid robots broke records set by humans, including beating
+      Usain Bolt's 100-meter sprint world record, on the opening day of the
+      Olympics-like World Humanoid Robot Games in Beijing on Saturday.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/chinese-humanoid-robot.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-08-23T09:25:36.000Z
+    source: TechXplore — Robotics
+  - title: The Unlikely Place at the Center of China’s AI Boom
+    url: https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/
+    summary: Cheap energy, abundant land, and proximity to Beijing have turned a
+      city in Inner Mongolia into a crucial hub for data centers.
+    imageUrl: https://media.wired.com/photos/6a86349028fa0a4f102bcd1b/191:100/w_1280,c_limit/Made-in-China-Unlikely-Place-at-Center-of-China-AI-Boom-Business.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-08-21T23:25:32.000Z
+    source: WIRED (AI)
+  - title: Seeing beneath the surface during metal additive manufacturing
+    url: https://techxplore.com/news/2026-08-beneath-surface-metal-additive.html
+    summary: When we watch a metal part being built by laser-based metal additive
+      manufacturing (AM), we're only seeing part of the story. In one kind of
+      metal AM process, a high-powered laser sweeps across a bed of metal
+      powder, creating a tiny pool of molten material—often a few human hairs
+      wide. In a fraction of a second, the metal powder beneath the moving laser
+      spot heats up, melts, flows and solidifies into continuous metal.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/seeing-beneath-the-sur.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-08-21T20:20:05.000Z
+    source: TechXplore — Engineering
+  - title: This IEEE Senior Member Develops AI Tools for E-Commerce Sites
+    url: https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce
+    summary: Balaji Ingole rarely saw televisions while growing up in Udgir, India.
+      No one in the small Maharashtra village had computers or phones. Only one
+      household owned a television, and neighbors often gathered there to watch
+      shows together.
+    imageUrl: https://spectrum.ieee.org/media-library/a-professionally-dressed-indian-man-smiling-with-a-trophy-in-one-hand-and-an-award-certificate-in-the-other.jpg?id=67657769&width=2000&height=1500&coordinates=0%2C0%2C0%2C0
+    categories:
+      - Ieee-member-news
+      - Artificial-intelligence
+      - E-commerce
+      - Careers
+      - Type-ti
+    publishedAt: 2026-08-21T18:00:01.000Z
+    source: IEEE Spectrum — AI
+  - title: Genetic algorithms test cybersecurity defenses against adaptive malware
+    url: https://techxplore.com/news/2026-08-genetic-algorithms-cybersecurity-defenses-malware.html
+    summary: "The COVID-19 pandemic changed the way many people approached their
+      work across the globe. For Carnegie Mellon University Africa's Jema
+      Ndibwile, it changed the way he viewed a completely different type of
+      virus: a computer virus."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2020/computervirus.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-08-21T16:00:07.000Z
+    source: TechXplore — Computer Science
+  - title: The importance of indoor airflow patterns in spreading airborne disease
+    url: https://news.mit.edu/2026/indoor-airflow-patterns-importance-spreading-airborne-disease-0821
+    summary: Tuberculosis (TB) is a leading cause of infectious disease deaths,
+      claiming over 1 million lives every year. It spreads through the air when
+      an infected person coughs, sneezes, or exhales, and drug-resistant strains
+      and asymptomatic spreading are growing concerns. Curbing TB transmission
+      is an urgent public health challenge, yet scientists still don’t
+      understand how airflow and other environmental factors influence that
+      spread.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-TB-Airflow-01-press.jpg?itok=AdQOVoGi
+    categories: []
+    publishedAt: 2026-08-21T16:00:00.000Z
+    source: MIT Engineering
+  - title: Paving the way for greener ammonia production
+    url: https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820
+    summary: Ammonia is one of the most important chemicals produced in the world,
+      ranking second only to sulfuric acid in the total volume produced each
+      year. It is used mostly to make fertilizer, which is essential to feeding
+      the world’s population. Yet its production accounts for up to 2 percent of
+      the world’s energy consumption and about 1.5 percent of greenhouse gas
+      emissions, so the search has been underway for ways to produce ammonia
+      more sustainably.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-dmse-ammonia-facility.jpg?itok=JxRn8ST5
+    categories: []
+    publishedAt: 2026-08-20T18:45:00.000Z
+    source: MIT Artificial Intelligence
   - title: MIT engineers design a better controller for operating construction diggers
     url: https://news.mit.edu/2026/mit-engineers-design-better-controller-operating-construction-diggers-0820
     summary: Anyone who’s ever wrestled with a claw machine at an arcade can
@@ -16,86 +150,6 @@ articles:
     categories: []
     publishedAt: 2026-08-20T04:00:00.000Z
     source: MIT Robotics
-  - title: Laser de-icing system helps nuclear power plants improve maintenance of a
-      critical safety system
-    url: https://techxplore.com/news/2026-08-laser-de-icing-nuclear-power.html
-    summary: University of South Florida engineers have developed an innovative
-      laser-based technology that is helping nuclear power plants solve a
-      complex maintenance challenge affecting a critical reactor safety system.
-      After four years of research, design, and testing, the custom system has
-      been successfully tested at two Tennessee Valley Authority nuclear plants.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/engineers-develop-tech.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-08-19T21:20:05.000Z
-    source: TechXplore — Engineering
-  - title: I Saw the Future of AI in a Robot That Can Learn on the Spot
-    url: https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/
-    summary: During a recent visit to Generalist AI, I watched a robotic arm
-      improvise and use a banana as a tool.
-    imageUrl: https://media.wired.com/photos/6a85e8ea4518d27679a9b132/191:100/w_1280,c_limit/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-08-19T19:30:00.000Z
-    source: WIRED (AI)
-  - title: Could robots help tackle loneliness? BBC's Ann Droid raises questions
-      about the future of care
-    url: https://techxplore.com/news/2026-08-robots-tackle-loneliness-bbc-ann.html
-    summary: New BBC sitcom Ann Droid imagines a near future in which robots provide
-      care and companionship to older people at home.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2024/robot.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-08-19T17:00:03.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Robots sort packages and serve fast food at Beijing showcase
-    url: https://techxplore.com/news/2026-08-robots-packages-fast-food-beijing.html
-    summary: Robots sorting parcels and serving fried chicken enthralled visitors at
-      a robotics expo in Beijing on Wednesday, where hundreds of companies set
-      out their pitches for a future labor market transformed by artificial
-      intelligence.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/the-chinese-government.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-08-19T14:40:05.000Z
-    source: TechXplore — Robotics
-  - title: A computer vision approach for grading collectible coins
-    url: https://techxplore.com/news/2026-08-vision-approach-grading-coins.html
-    summary: Researchers from Skoltech (part of the VEB.RF group) and Central
-      University have developed an automated coin-grading approach that
-      minimizes the subjectivity of manual assessments and overcomes the
-      limitations of computer vision algorithms typically used for this purpose.
-      The new approach provides more accurate and detailed grading across a wide
-      variety of coin types. The approach was presented in the Journal on
-      Computing and Cultural Heritage and further refined in two subsequent
-      studies published in Expert Systems with Applications and IEEE
-      Transactions on Instrumentation and Measurement.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/collectible-coins.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-08-18T20:40:08.000Z
-    source: TechXplore — Computer Science
-  - title: Squeeze More Juice Out of Your Dead Batteries—Using Physics
-    url: https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/
-    summary: How the joule thief circuit “steals” energy from seemingly depleted
-      power cells.
-    imageUrl: https://media.wired.com/photos/6a8372555b7045e98c48385f/191:100/w_1280,c_limit/Science_Squeeze%20More%20Juice%20out%20of%20a%20Dead%20Battery!_v1.jpg
-    categories:
-      - Science / Physics and Math
-    publishedAt: 2026-08-18T20:11:03.000Z
-    source: WIRED science
-  - title: "When AI art has no author: Study finds generated images often can’t be
-      traced to training data"
-    url: https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818
-    summary: When an artificial intelligence image generator produces a portrait,
-      whose work went into it? The question sits at the center of lawsuits,
-      licensing deals, and proposed regulations worldwide. Artists want credit.
-      Companies want clarity. Policymakers want a way to assign responsibility.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/dai-gifford-ai-image-training-data-00_0.png?itok=BM5jagA4
-    categories: []
-    publishedAt: 2026-08-18T16:35:00.000Z
-    source: MIT Artificial Intelligence
   - title: Drones With Claws Perch on Arctic Icebergs
     url: https://spectrum.ieee.org/arctic-iceberg-drones
     summary: This article is part of our exclusive IEEE Journal Watch series in
@@ -109,33 +163,6 @@ articles:
       - Drones
     publishedAt: 2026-08-18T13:00:01.000Z
     source: IEEE Spectrum — Robotics
-  - title: Scientists may have finally proved that “empty” space isn’t really empty
-    url: https://www.sciencedaily.com/releases/2026/08/260815065007.htm
-    summary: A magnetar’s colossal magnetic field may have revealed a quantum effect
-      predicted by Werner Heisenberg nearly 90 years ago, in which seemingly
-      empty space alters the behavior of light. If confirmed, the discovery
-      could offer the first direct evidence of vacuum birefringence and open a
-      new window into the strange physics of the quantum vacuum.
-    imageUrl: https://www.sciencedaily.com/images/1920/magnetar-1e-15470-5408.webp
-    categories: []
-    publishedAt: 2026-08-18T06:08:04.000Z
-    source: ScienceDaily — Engineering
-  - title: From AI Copilots to Agent Swarms
-    url: https://spectrum.ieee.org/amd-agent-swarms
-    summary: The impact of AI on software development has been both profound and
-      ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for
-      generating new lines of code, but also for other steps in the software
-      development lifecycle (SDLC), such as triaging problems, debugging code,
-      and testing the software. At the time, we were hoping for a 25 percent
-      productivity boost from AI use over the course of two or three years.
-    imageUrl: https://spectrum.ieee.org/media-library/colorful-3d-blocks-piled-behind-glass-panels-displaying-white-code-snippets.jpg?id=67609515&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Agentic-ai
-      - Software-engineering
-      - Amd
-      - Large-language-models
-    publishedAt: 2026-08-17T14:00:01.000Z
-    source: IEEE Spectrum — AI
   - title: Scientists turn DNA into a memory device that uses 100x less power
     url: https://www.sciencedaily.com/releases/2026/08/260816044853.htm
     summary: Researchers combined synthetic DNA with a semiconductor to create an
@@ -146,4 +173,4 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/dna-research-genetics-technology.webp
     categories: []
     publishedAt: 2026-08-17T08:06:45.000Z
-    source: ScienceDaily — Robotics
+    source: ScienceDaily — Artificial Intelligence
