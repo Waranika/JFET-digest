@@ -1,8 +1,80 @@
-date: 2026-08-27
+date: 2026-08-28
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Multiple cameras can better track a person's identity using geometry and
+      appearance
+    url: https://techxplore.com/news/2026-08-multiple-cameras-track-person-identity.html
+    summary: By combining two complementary clues—camera geometry and visual
+      appearance—researchers at the Institute of Science Tokyo, Japan, developed
+      a new approach for preserving identities across multiple cameras. The
+      method uses epipolar geometry to identify spatially consistent candidate
+      matches and appearance similarity to distinguish among possible
+      identities. The approach can be integrated with existing single-camera
+      tracking systems without requiring environment-specific retraining.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/improving-identity-tra.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-08-28T16:00:05.000Z
+    source: TechXplore — Computer Science
+  - title: Those who understand AI better are more afraid of losing their jobs
+    url: https://techxplore.com/news/2026-08-ai-jobs.html
+    summary: Whether employees are worried about losing their jobs to AI depends
+      largely on their knowledge of artificial intelligence—and on the extent to
+      which their work can be digitized. This is one of the findings of the
+      latest AI Monitor published by TU Darmstadt, based on a representative
+      survey of more than 2,000 people conducted in cooperation with the market
+      research and polling institute YouGov.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/robot-worker.jpg
+    categories:
+      - Business
+    publishedAt: 2026-08-28T15:20:04.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: "AI Has Human Doctors Asking: What’s Left for Us?"
+    url: https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/
+    summary: A recent paper argues that AI is often better at doctoring than
+      doctors. Guess who isn't thrilled.
+    imageUrl: https://media.wired.com/photos/6a909d466b1fcc4b68700cd4/191:100/w_1280,c_limit/Backchannel-AI-Doctors-Business-1267508918.jpg
+    categories:
+      - Business
+      - Business / Tech Culture
+    publishedAt: 2026-08-28T15:00:00.000Z
+    source: WIRED (AI)
+  - title: Giving solid-state batteries a squeeze keeps them from short-circuiting
+    url: https://techxplore.com/news/2026-08-solid-state-batteries-short-circuiting.html
+    summary: Lithium-ion batteries power transportation and grid storage and enable
+      our digital lives, but these ubiquitous batteries require frequent
+      recharging and can fail over time. To make batteries more reliable and
+      longer-lasting, researchers are exploring how to replace liquids inside
+      batteries with a solid ceramic material that could improve their
+      performance.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/giving-solid-state-bat.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-08-28T14:20:03.000Z
+    source: TechXplore — Engineering
+  - title: Light-powered soft robots that can keep jumping forever
+    url: https://techxplore.com/news/2026-08-powered-soft-robots.html
+    summary: Researchers from North Carolina State University have created
+      teardrop-shaped soft robots that leap upward or forward when exposed to
+      infrared light—and will keep jumping as long as the light is present. The
+      work demonstrates a new mechanism for self-resetting jumping behavior in
+      soft robotics.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/light-powered-soft-rob.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-08-28T14:00:02.000Z
+    source: TechXplore — Robotics
+  - title: Looking beyond natural sequences
+    url: https://news.mit.edu/2026/looking-beyond-natural-sequences-0827
+    summary: A protein’s function is determined by its structure, and structure —
+      the way a protein folds — is determined by its sequence of amino acids,
+      the building blocks of proteins.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-biology-Keating-Lab-proteins.jpg?itok=OZhh3B-X
+    categories: []
+    publishedAt: 2026-08-27T19:20:00.000Z
+    source: MIT Artificial Intelligence
   - title: Make a Portable Wide-screen Mechanical TV
     url: https://spectrum.ieee.org/mechanical-tv-2677767814
     summary: I never intended to join the cutting edge of electromechanical
@@ -10,7 +82,7 @@ articles:
       go where the engineering takes you, and in my case it took me to the
       Scanwheel, a pocket-size wide-screen electromechanical TV with a
       resolution of 4,096 by 20 pixels. Yup, that’s 4K by 20.
-    imageUrl: https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=1245&height=700&coordinates=0%2C17%2C0%2C17
+    imageUrl: https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=600&height=600&coordinates=420%2C0%2C421%2C0
     categories:
       - Displays
       - Electromechanical-tv
@@ -20,29 +92,6 @@ articles:
       - Typedepartments
     publishedAt: 2026-08-27T14:46:56.000Z
     source: IEEE Spectrum — DIY
-  - title: I surveyed workers to see if AI had caused job losses and was surprised
-      by the findings
-    url: https://techxplore.com/news/2026-08-surveyed-workers-ai-job-losses.html
-    summary: Do artificial intelligence tools such as ChatGPT eliminate jobs, create
-      new ones or both? There's a lot of speculation regarding this question,
-      but little solid data in the U.S. to answer it.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/robot-typing.jpg
-    categories:
-      - Business
-    publishedAt: 2026-08-27T14:00:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Six-legged robot learns to walk from a stick insect
-    url: https://techxplore.com/news/2026-08-legged-robot-insect.html
-    summary: Do you ever see an ant skittering across your kitchen counter and
-      wonder how this little bug overcame all the obstacles in your home just to
-      get there? Insects use their tiny nervous systems to walk with surprising
-      dexterity—a skill that could be transferred to robots looking to do more
-      productive things than just find breadcrumbs in your kitchen.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/six-legged-robot-learn.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-08-27T13:20:04.000Z
-    source: TechXplore — Robotics
   - title: AI searched 100 million possibilities and found a cheaper way to 3D-print
       a NASA rocket alloy
     url: https://www.sciencedaily.com/releases/2026/08/260827010504.htm
@@ -56,19 +105,6 @@ articles:
     categories: []
     publishedAt: 2026-08-27T13:08:01.000Z
     source: ScienceDaily — Robotics
-  - title: "Forged by fire, frozen for fuel: Thermal shock advances green energy"
-    url: https://techxplore.com/news/2026-08-forged-frozen-fuel-thermal-advances.html
-    summary: "As the global push for cleaner energy intensifies, solid oxide fuel
-      cells have emerged as a promising option. They turn hydrogen or other
-      renewable fuels directly into electricity and heat without combustion,
-      eliminating virtually all pollution and boosting efficiency to more than
-      60%. But a major downside has kept them out of everyday commercial use:
-      They require extremely high temperatures to operate."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/freezing-fire-scientis.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-08-27T12:40:09.000Z
-    source: TechXplore — Engineering
   - title: Scientists switch on a strange new form of magnetism in an ultrathin
       material
     url: https://www.sciencedaily.com/releases/2026/08/260826055454.htm
@@ -101,19 +137,6 @@ articles:
     categories: []
     publishedAt: 2026-08-26T23:27:35.000Z
     source: ScienceDaily — Artificial Intelligence
-  - title: Divide-and-conquer approach advances system reliability through scalable
-      model checking
-    url: https://techxplore.com/news/2026-08-conquer-approach-advances-reliability-scalable.html
-    summary: "Model checking helps automatically verify whether hardware and
-      software systems satisfy specified requirements. It has become an
-      important formal verification technique, but two major challenges remain:
-      state-space explosion, which limits the size of systems that can be
-      checked, and long verification times."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/advancing-system-relia.jpg
-    categories:
-      - Software
-    publishedAt: 2026-08-26T18:40:09.000Z
-    source: TechXplore — Computer Science
   - title: New Platform Peers Inside AI’s Black Box
     url: https://spectrum.ieee.org/silico-ai-interpretability
     summary: Prompt Claude, ChatGPT, Gemini, or any other popular large language
@@ -127,16 +150,6 @@ articles:
       - Science
     publishedAt: 2026-08-26T12:00:01.000Z
     source: IEEE Spectrum — AI
-  - title: AI helps design new materials that work in the real world
-    url: https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826
-    summary: Today, anyone with a large enough artificial intelligence model can
-      generate millions of new material designs in minutes. Unfortunately, that
-      hasn’t led to a huge leap in the number of new materials being used to
-      improve the performance of products like computer chips and rockets.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-Valence-01-press.jpg?itok=OJTlsBvb
-    categories: []
-    publishedAt: 2026-08-26T09:00:00.000Z
-    source: MIT Artificial Intelligence
   - title: IBM Built the Cold War’s Most Powerful Code Breaker for the NSA
     url: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm
     summary: At the height of the Cold War, one very specialized computer was so
@@ -146,7 +159,7 @@ articles:
       of the Cuban Missile Crisis in 1962 through the Vietnam War and on past
       the 1975 Helsinki Accords. The machine stopped running only when its
       moving parts finally gave out.
-    imageUrl: https://spectrum.ieee.org/media-library/two-men-stand-at-1960s-computer-consoles-containing-many-buttons-knobs-dials-and-lights.jpg?id=67651870&width=1200&height=400&coordinates=0%2C417%2C0%2C417
+    imageUrl: https://spectrum.ieee.org/media-library/two-men-stand-at-1960s-computer-consoles-containing-many-buttons-knobs-dials-and-lights.jpg?id=67651870&width=1245&height=700&coordinates=0%2C187%2C0%2C188
     categories:
       - Ibm
       - Codebreaking
@@ -158,7 +171,7 @@ articles:
   - title: AI Companion Robots Are Closing the Human Connection in Modern Homes
     url: https://spectrum.ieee.org/ollobot-ai-companion-robot
     summary: This article is brought to you by Ollobot.
-    imageUrl: https://spectrum.ieee.org/media-library/cute-home-robot-on-carpet-in-cozy-living-room-with-beige-sofa-and-warm-lighting.jpg?id=67154308&width=1245&height=700&coordinates=0%2C260%2C0%2C261
+    imageUrl: https://spectrum.ieee.org/media-library/cute-home-robot-on-carpet-in-cozy-living-room-with-beige-sofa-and-warm-lighting.jpg?id=67154308&width=1200&height=800&coordinates=0%2C0%2C0%2C0
     categories:
       - Social-robots
       - Human-robot-interaction
