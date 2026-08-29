@@ -1,8 +1,55 @@
-date: 2026-08-28
+date: 2026-08-29
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn
+    url: https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/
+    summary: "Plus: Hackers target over 100 US water systems, ICE puts in an order
+      for robot dogs, and you’ll never guess what “MrChildPorn” was arrested
+      for."
+    imageUrl: https://media.wired.com/photos/6a921e363b3f20c2f80986f3/191:100/w_1280,c_limit/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg
+    categories:
+      - Security
+      - Security / Security News
+      - Security / Cyberattacks and Hacks
+    publishedAt: 2026-08-29T10:30:00.000Z
+    source: WIRED (AI)
+  - title: NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap
+    url: https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/
+    summary: Astronomers will test equipment that, if it’s successful, will one day
+      be crucial for discovering Earthlike planets.
+    imageUrl: https://media.wired.com/photos/6a90143f13ea49f13acf54b5/191:100/w_1280,c_limit/Nasa.jpg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-08-29T10:30:00.000Z
+    source: WIRED science
+  - title: Shared-memory AI system lets microscope components coordinate in real time
+    url: https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html
+    summary: "Arco Bast studies how neurons communicate. Earlier this year, the
+      Janelia postdoc encountered a more mechanical version of the same problem:
+      The components of his custom microscope could not easily communicate with
+      one another."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/shared-memory-ai-syste.jpg
+    categories:
+      - Hi Tech & Innovation
+    publishedAt: 2026-08-28T19:40:04.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Two ultrathin films turn low-grade heat into cooling without an electric
+      motor
+    url: https://techxplore.com/news/2026-08-ultrathin-grade-cooling-electric-motor.html
+    summary: Refrigerators, air-conditioning systems and data centers consume
+      enormous amounts of electricity, and cooling demand is constantly rising.
+      A research team from the Karlsruhe Institute of Technology (KIT) and the
+      University of Tsukuba in Japan is presenting a new approach demonstrated
+      by a prototype in which heat assumes the role formerly played by an
+      electric motor.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/no-electricity-needed.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-08-28T17:00:10.000Z
+    source: TechXplore — Engineering
   - title: Multiple cameras can better track a person's identity using geometry and
       appearance
     url: https://techxplore.com/news/2026-08-multiple-cameras-track-person-identity.html
@@ -18,42 +65,22 @@ articles:
       - Computer Sciences
     publishedAt: 2026-08-28T16:00:05.000Z
     source: TechXplore — Computer Science
-  - title: Those who understand AI better are more afraid of losing their jobs
-    url: https://techxplore.com/news/2026-08-ai-jobs.html
-    summary: Whether employees are worried about losing their jobs to AI depends
-      largely on their knowledge of artificial intelligence—and on the extent to
-      which their work can be digitized. This is one of the findings of the
-      latest AI Monitor published by TU Darmstadt, based on a representative
-      survey of more than 2,000 people conducted in cooperation with the market
-      research and polling institute YouGov.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/robot-worker.jpg
+  - title: "Video Friday: Meet Microduck"
+    url: https://spectrum.ieee.org/video-friday-microduck-robot
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/colorful-desk-robots-posed-among-books-beside-an-open-laptop-in-an-office.png?id=67687638&width=1245&height=700&coordinates=101%2C0%2C101%2C0
     categories:
-      - Business
-    publishedAt: 2026-08-28T15:20:04.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: "AI Has Human Doctors Asking: What’s Left for Us?"
-    url: https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/
-    summary: A recent paper argues that AI is often better at doctoring than
-      doctors. Guess who isn't thrilled.
-    imageUrl: https://media.wired.com/photos/6a909d466b1fcc4b68700cd4/191:100/w_1280,c_limit/Backchannel-AI-Doctors-Business-1267508918.jpg
-    categories:
-      - Business
-      - Business / Tech Culture
-    publishedAt: 2026-08-28T15:00:00.000Z
-    source: WIRED (AI)
-  - title: Giving solid-state batteries a squeeze keeps them from short-circuiting
-    url: https://techxplore.com/news/2026-08-solid-state-batteries-short-circuiting.html
-    summary: Lithium-ion batteries power transportation and grid storage and enable
-      our digital lives, but these ubiquitous batteries require frequent
-      recharging and can fail over time. To make batteries more reliable and
-      longer-lasting, researchers are exploring how to replace liquids inside
-      batteries with a solid ceramic material that could improve their
-      performance.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/giving-solid-state-bat.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-08-28T14:20:03.000Z
-    source: TechXplore — Engineering
+      - Video-friday
+      - Robotics-videos
+      - Bioinspired-robots
+      - Microrobotics
+      - Robot-locomotion
+      - Robotic-grippers
+    publishedAt: 2026-08-28T16:00:03.000Z
+    source: IEEE Spectrum — Robotics
   - title: Light-powered soft robots that can keep jumping forever
     url: https://techxplore.com/news/2026-08-powered-soft-robots.html
     summary: Researchers from North Carolina State University have created
@@ -82,7 +109,7 @@ articles:
       go where the engineering takes you, and in my case it took me to the
       Scanwheel, a pocket-size wide-screen electromechanical TV with a
       resolution of 4,096 by 20 pixels. Yup, that’s 4K by 20.
-    imageUrl: https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=600&height=600&coordinates=420%2C0%2C421%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=1245&height=700&coordinates=0%2C17%2C0%2C17
     categories:
       - Displays
       - Electromechanical-tv
@@ -168,19 +195,6 @@ articles:
       - Supercomputing
     publishedAt: 2026-08-25T13:00:01.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: AI Companion Robots Are Closing the Human Connection in Modern Homes
-    url: https://spectrum.ieee.org/ollobot-ai-companion-robot
-    summary: This article is brought to you by Ollobot.
-    imageUrl: https://spectrum.ieee.org/media-library/cute-home-robot-on-carpet-in-cozy-living-room-with-beige-sofa-and-warm-lighting.jpg?id=67154308&width=1200&height=800&coordinates=0%2C0%2C0%2C0
-    categories:
-      - Social-robots
-      - Human-robot-interaction
-      - Computer-vision
-      - Companion-robots
-      - Multimodal-ai
-      - Ai-robots
-    publishedAt: 2026-08-25T10:00:03.000Z
-    source: IEEE Spectrum — Robotics
   - title: MIT engineers design a better controller for operating construction diggers
     url: https://news.mit.edu/2026/mit-engineers-design-better-controller-operating-construction-diggers-0820
     summary: Anyone who’s ever wrestled with a claw machine at an arcade can
