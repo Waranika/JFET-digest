@@ -1,8 +1,18 @@
-date: 2026-08-29
+date: 2026-08-30
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Scientists Create the Littlest Big Bang to Study the Universe's Origins
+    url: https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/
+    summary: The discovery redefines how large atoms need to be to produce the
+      extreme state of matter found in the early universe.
+    imageUrl: https://media.wired.com/photos/6a91cdabbb3a85e785f50a72/191:100/w_1280,c_limit/2191305242
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-08-30T09:00:00.000Z
+    source: WIRED science
   - title: The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn
     url: https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/
     summary: "Plus: Hackers target over 100 US water systems, ICE puts in an order
@@ -15,16 +25,6 @@ articles:
       - Security / Cyberattacks and Hacks
     publishedAt: 2026-08-29T10:30:00.000Z
     source: WIRED (AI)
-  - title: NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap
-    url: https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/
-    summary: Astronomers will test equipment that, if it’s successful, will one day
-      be crucial for discovering Earthlike planets.
-    imageUrl: https://media.wired.com/photos/6a90143f13ea49f13acf54b5/191:100/w_1280,c_limit/Nasa.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-08-29T10:30:00.000Z
-    source: WIRED science
   - title: Shared-memory AI system lets microscope components coordinate in real time
     url: https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html
     summary: "Arco Bast studies how neurons communicate. Earlier this year, the
