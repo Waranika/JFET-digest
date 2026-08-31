@@ -1,8 +1,55 @@
-date: 2026-08-30
+date: 2026-08-31
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: You Know Who Really Hates AI? Insurance Claims Adjusters
+    url: https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/
+    summary: Of the Glassdoor reviews from claims adjusters that mentioned AI, a
+      staggering 98 percent were negative. “AI is just a tool,” one person tells
+      WIRED. “It should never be given the keys.”
+    imageUrl: https://media.wired.com/photos/6a90caf6df5e45f6df862f92/191:100/w_1280,c_limit/You-Know-Who-Really-Hates-AI-Business.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-08-31T10:30:00.000Z
+    source: WIRED (AI)
+  - title: How an MIT research project became a global programming language
+    url: https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831
+    summary: It all started with some exasperated emails. Back in 2009, a group of
+      researchers began venting their frustration with the programming languages
+      designed to help scientists and other researchers perform complex
+      mathematical operations and statistical simulations without learning how
+      to code. These programming languages were rigid and slow. If scientists
+      built something that really worked, they’d need to rewrite the entire
+      program in another language just to run it more quickly.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-JuliaHubDyad-01-press.jpg?itok=vvjznZ8d
+    categories: []
+    publishedAt: 2026-08-31T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Controlled crumples give inflatable membranes multiple stable shapes for
+      adaptable designs
+    url: https://techxplore.com/news/2026-08-crumples-inflatable-membranes-multiple-stable.html
+    summary: Inflatable structures are all around us, from pool floaties and
+      archways at the Tour de France to life-saving emergency resuscitators and
+      vehicle airbags. As useful as these structures are, they are limited to
+      only two stable states—inflated and deflated.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/when-crumples-arent-fl.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-08-30T16:20:01.000Z
+    source: TechXplore — Engineering
+  - title: IBM quantum computer solves classically intractable problem in 15 minutes
+    url: https://www.sciencedaily.com/releases/2026/08/260829035219.htm
+    summary: IBM and University of Chicago researchers have completed a quantum
+      computation that leading classical methods could not practically
+      reproduce. The system used 70 error-corrected logical qubits and finished
+      the task in roughly 15 minutes while also providing statistical evidence
+      that the result was reliable.
+    imageUrl: https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp
+    categories: []
+    publishedAt: 2026-08-30T14:08:13.000Z
+    source: ScienceDaily — Computer Science
   - title: Scientists Create the Littlest Big Bang to Study the Universe's Origins
     url: https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/
     summary: The discovery redefines how large atoms need to be to produce the
@@ -13,18 +60,6 @@ articles:
       - Science / Space
     publishedAt: 2026-08-30T09:00:00.000Z
     source: WIRED science
-  - title: The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn
-    url: https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/
-    summary: "Plus: Hackers target over 100 US water systems, ICE puts in an order
-      for robot dogs, and you’ll never guess what “MrChildPorn” was arrested
-      for."
-    imageUrl: https://media.wired.com/photos/6a921e363b3f20c2f80986f3/191:100/w_1280,c_limit/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg
-    categories:
-      - Security
-      - Security / Security News
-      - Security / Cyberattacks and Hacks
-    publishedAt: 2026-08-29T10:30:00.000Z
-    source: WIRED (AI)
   - title: Shared-memory AI system lets microscope components coordinate in real time
     url: https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html
     summary: "Arco Bast studies how neurons communicate. Earlier this year, the
@@ -36,20 +71,6 @@ articles:
       - Hi Tech & Innovation
     publishedAt: 2026-08-28T19:40:04.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Two ultrathin films turn low-grade heat into cooling without an electric
-      motor
-    url: https://techxplore.com/news/2026-08-ultrathin-grade-cooling-electric-motor.html
-    summary: Refrigerators, air-conditioning systems and data centers consume
-      enormous amounts of electricity, and cooling demand is constantly rising.
-      A research team from the Karlsruhe Institute of Technology (KIT) and the
-      University of Tsukuba in Japan is presenting a new approach demonstrated
-      by a prototype in which heat assumes the role formerly played by an
-      electric motor.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/no-electricity-needed.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-08-28T17:00:10.000Z
-    source: TechXplore — Engineering
   - title: Multiple cameras can better track a person's identity using geometry and
       appearance
     url: https://techxplore.com/news/2026-08-multiple-cameras-track-person-identity.html
@@ -93,15 +114,6 @@ articles:
       - Robotics
     publishedAt: 2026-08-28T14:00:02.000Z
     source: TechXplore — Robotics
-  - title: Looking beyond natural sequences
-    url: https://news.mit.edu/2026/looking-beyond-natural-sequences-0827
-    summary: A protein’s function is determined by its structure, and structure —
-      the way a protein folds — is determined by its sequence of amino acids,
-      the building blocks of proteins.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-biology-Keating-Lab-proteins.jpg?itok=OZhh3B-X
-    categories: []
-    publishedAt: 2026-08-27T19:20:00.000Z
-    source: MIT Artificial Intelligence
   - title: Make a Portable Wide-screen Mechanical TV
     url: https://spectrum.ieee.org/mechanical-tv-2677767814
     summary: I never intended to join the cutting edge of electromechanical
@@ -132,19 +144,6 @@ articles:
     categories: []
     publishedAt: 2026-08-27T13:08:01.000Z
     source: ScienceDaily — Robotics
-  - title: Scientists switch on a strange new form of magnetism in an ultrathin
-      material
-    url: https://www.sciencedaily.com/releases/2026/08/260826055454.htm
-    summary: Scientists have found a surprising way to potentially switch on an
-      unusual form of magnetism in ruthenium dioxide, a material that normally
-      appears nonmagnetic. When the material was made into an ultrathin film
-      only a few atomic layers thick and placed under strain, its electrons
-      developed patterns consistent with altermagnetism, a recently proposed
-      magnetic state with promising uses in advanced electronics.
-    imageUrl: https://www.sciencedaily.com/images/1920/abstract-atomic-material-quantum-magnetism.webp
-    categories: []
-    publishedAt: 2026-08-27T09:23:20.000Z
-    source: ScienceDaily — Computer Science
   - title: "MIT engineers create a system for building shape-changing smart devices "
     url: https://news.mit.edu/2026/mit-engineers-create-system-for-building-shape-changing-smart-devices-0827
     summary: A new set of modular components allows users to create reconfigurable
@@ -154,16 +153,6 @@ articles:
     categories: []
     publishedAt: 2026-08-27T04:00:00.000Z
     source: MIT Engineering
-  - title: NASA just used satellites and debris to navigate without GPS
-    url: https://www.sciencedaily.com/releases/2026/08/260826055450.htm
-    summary: NASA has successfully tested a system that allows satellites to
-      navigate without GPS by using other spacecraft and debris as landmarks in
-      orbit. In just three days, FALCON also improved the known orbits of more
-      than 200 space objects completely autonomously.
-    imageUrl: https://www.sciencedaily.com/images/1920/nasa-starling-swarm-mission.webp
-    categories: []
-    publishedAt: 2026-08-26T23:27:35.000Z
-    source: ScienceDaily — Artificial Intelligence
   - title: New Platform Peers Inside AI’s Black Box
     url: https://spectrum.ieee.org/silico-ai-interpretability
     summary: Prompt Claude, ChatGPT, Gemini, or any other popular large language
