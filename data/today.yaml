@@ -1,8 +1,75 @@
-date: 2026-08-31
+date: 2026-09-01
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Anthropic signs $35B computing deal with startup backed by Nvidia
+    url: https://techxplore.com/news/2026-09-anthropic-35b-startup-nvidia.html
+    summary: Anthropic signed a $35 billion deal for access to cloud computing power
+      from a U.S.-based startup backed by Nvidia, adding to a string of such
+      deals clinched by the artificial intelligence (AI) developer amid fierce
+      competition for advanced computing power.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/anthropic-also-recentl.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-09-01T09:10:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: "Ila Kumar: Innovating with communities  "
+    url: https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901
+    summary: "Before Ila Kumar thinks about how to build technology, she asks a
+      different question: What is the context that technology will operate in,
+      and who needs to be involved in the design?"
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-kumar-ila-A1.jpg?itok=c4VttTnq
+    categories: []
+    publishedAt: 2026-09-01T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: 3D-printed boat advances future of maritime manufacturing
+    url: https://techxplore.com/news/2026-08-3d-boat-advances-future-maritime.html
+    summary: The University of Maine launched a 30-foot (9-meter), high-performance,
+      3D-printed boat Friday that researchers said could help manufacturers
+      build vessels faster, reduce the need for expensive molds and adapt
+      designs more quickly for commercial and defense use.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/university-of-maine-la.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-08-31T22:00:04.000Z
+    source: TechXplore — Engineering
+  - title: Like a bird, this drone uses touch to grip branches and rest
+    url: https://techxplore.com/news/2026-08-bird-drone-rest.html
+    summary: Drones often hover in the air, noisy and whining. They can already be
+      used for many tasks, but not when you need some quiet. Their batteries
+      would also last longer if they could take a "rest" from time to time. But
+      when a drone is monitoring a rainforest, its cluttered surroundings and
+      its own gripper arm become too tricky for its camera-based vision. Until
+      now.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/like-a-bird-this-tacti.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-08-31T21:20:03.000Z
+    source: TechXplore — Robotics
+  - title: Gulfstream IV makes its long-awaited return to Lincoln Laboratory
+    url: https://news.mit.edu/2026/gulfstream-iv-makes-long-awaited-return-to-lincoln-laboratory-0831
+    summary: After extensive modifications over the past seven years, the Gulfstream
+      IV (G-IV) aircraft operated and maintained by MIT Lincoln Laboratory's
+      Tactical Defense Systems Group and Flight Test Facility (FTF) recently
+      flew home from Canada.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-lincoln-gulfstream-00.jpg?itok=FNeo0S72
+    categories: []
+    publishedAt: 2026-08-31T20:00:00.000Z
+    source: MIT Engineering
+  - title: A “quantum bath” puts quantum entanglement on autopilot
+    url: https://www.sciencedaily.com/releases/2026/08/260830000002.htm
+    summary: Physicists have demonstrated a new way to entangle distant quantum bits
+      without the constant measurements and active control normally required.
+      The team created a “quantum bath,” a shared environment filled with
+      correlated microwave photons that automatically pushes separated qubits
+      into an entangled state and helps keep them there. The experiment confirms
+      a theoretical prediction made more than 20 years ago and could offer a
+      simpler way to connect modules in future quantum computers.
+    imageUrl: https://www.sciencedaily.com/images/1920/alejandro-andres-juanes.webp
+    categories: []
+    publishedAt: 2026-08-31T13:08:37.000Z
+    source: ScienceDaily — Computer Science
   - title: You Know Who Really Hates AI? Insurance Claims Adjusters
     url: https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/
     summary: Of the Glassdoor reviews from claims adjusters that mentioned AI, a
@@ -14,63 +81,6 @@ articles:
       - Business / Artificial Intelligence
     publishedAt: 2026-08-31T10:30:00.000Z
     source: WIRED (AI)
-  - title: How an MIT research project became a global programming language
-    url: https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831
-    summary: It all started with some exasperated emails. Back in 2009, a group of
-      researchers began venting their frustration with the programming languages
-      designed to help scientists and other researchers perform complex
-      mathematical operations and statistical simulations without learning how
-      to code. These programming languages were rigid and slow. If scientists
-      built something that really worked, they’d need to rewrite the entire
-      program in another language just to run it more quickly.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-JuliaHubDyad-01-press.jpg?itok=vvjznZ8d
-    categories: []
-    publishedAt: 2026-08-31T04:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Controlled crumples give inflatable membranes multiple stable shapes for
-      adaptable designs
-    url: https://techxplore.com/news/2026-08-crumples-inflatable-membranes-multiple-stable.html
-    summary: Inflatable structures are all around us, from pool floaties and
-      archways at the Tour de France to life-saving emergency resuscitators and
-      vehicle airbags. As useful as these structures are, they are limited to
-      only two stable states—inflated and deflated.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/when-crumples-arent-fl.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-08-30T16:20:01.000Z
-    source: TechXplore — Engineering
-  - title: IBM quantum computer solves classically intractable problem in 15 minutes
-    url: https://www.sciencedaily.com/releases/2026/08/260829035219.htm
-    summary: IBM and University of Chicago researchers have completed a quantum
-      computation that leading classical methods could not practically
-      reproduce. The system used 70 error-corrected logical qubits and finished
-      the task in roughly 15 minutes while also providing statistical evidence
-      that the result was reliable.
-    imageUrl: https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp
-    categories: []
-    publishedAt: 2026-08-30T14:08:13.000Z
-    source: ScienceDaily — Computer Science
-  - title: Scientists Create the Littlest Big Bang to Study the Universe's Origins
-    url: https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/
-    summary: The discovery redefines how large atoms need to be to produce the
-      extreme state of matter found in the early universe.
-    imageUrl: https://media.wired.com/photos/6a91cdabbb3a85e785f50a72/191:100/w_1280,c_limit/2191305242
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-08-30T09:00:00.000Z
-    source: WIRED science
-  - title: Shared-memory AI system lets microscope components coordinate in real time
-    url: https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html
-    summary: "Arco Bast studies how neurons communicate. Earlier this year, the
-      Janelia postdoc encountered a more mechanical version of the same problem:
-      The components of his custom microscope could not easily communicate with
-      one another."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/shared-memory-ai-syste.jpg
-    categories:
-      - Hi Tech & Innovation
-    publishedAt: 2026-08-28T19:40:04.000Z
-    source: TechXplore — AI & Machine Learning
   - title: Multiple cameras can better track a person's identity using geometry and
       appearance
     url: https://techxplore.com/news/2026-08-multiple-cameras-track-person-identity.html
@@ -102,18 +112,6 @@ articles:
       - Robotic-grippers
     publishedAt: 2026-08-28T16:00:03.000Z
     source: IEEE Spectrum — Robotics
-  - title: Light-powered soft robots that can keep jumping forever
-    url: https://techxplore.com/news/2026-08-powered-soft-robots.html
-    summary: Researchers from North Carolina State University have created
-      teardrop-shaped soft robots that leap upward or forward when exposed to
-      infrared light—and will keep jumping as long as the light is present. The
-      work demonstrates a new mechanism for self-resetting jumping behavior in
-      soft robotics.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/light-powered-soft-rob.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-08-28T14:00:02.000Z
-    source: TechXplore — Robotics
   - title: Make a Portable Wide-screen Mechanical TV
     url: https://spectrum.ieee.org/mechanical-tv-2677767814
     summary: I never intended to join the cutting edge of electromechanical
@@ -144,15 +142,6 @@ articles:
     categories: []
     publishedAt: 2026-08-27T13:08:01.000Z
     source: ScienceDaily — Robotics
-  - title: "MIT engineers create a system for building shape-changing smart devices "
-    url: https://news.mit.edu/2026/mit-engineers-create-system-for-building-shape-changing-smart-devices-0827
-    summary: A new set of modular components allows users to create reconfigurable
-      smart devices with electrical connections that keep working no matter
-      which shape the structure forms.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-BifurcatedCircuits-01-press.jpg?itok=HWJdn757
-    categories: []
-    publishedAt: 2026-08-27T04:00:00.000Z
-    source: MIT Engineering
   - title: New Platform Peers Inside AI’s Black Box
     url: https://spectrum.ieee.org/silico-ai-interpretability
     summary: Prompt Claude, ChatGPT, Gemini, or any other popular large language
@@ -166,24 +155,6 @@ articles:
       - Science
     publishedAt: 2026-08-26T12:00:01.000Z
     source: IEEE Spectrum — AI
-  - title: IBM Built the Cold War’s Most Powerful Code Breaker for the NSA
-    url: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm
-    summary: At the height of the Cold War, one very specialized computer was so
-      secret that the world didn’t know it existed. It ran its jobs up to 200
-      times as fast as any other computer of its time. It was the U.S. National
-      Security Agency’s main cryptographic processor in operation from the time
-      of the Cuban Missile Crisis in 1962 through the Vietnam War and on past
-      the 1975 Helsinki Accords. The machine stopped running only when its
-      moving parts finally gave out.
-    imageUrl: https://spectrum.ieee.org/media-library/two-men-stand-at-1960s-computer-consoles-containing-many-buttons-knobs-dials-and-lights.jpg?id=67651870&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Ibm
-      - Codebreaking
-      - Cold-war
-      - Cryptography
-      - Supercomputing
-    publishedAt: 2026-08-25T13:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: MIT engineers design a better controller for operating construction diggers
     url: https://news.mit.edu/2026/mit-engineers-design-better-controller-operating-construction-diggers-0820
     summary: Anyone who’s ever wrestled with a claw machine at an arcade can
