@@ -1,39 +1,92 @@
-date: 2026-09-01
+date: 2026-09-02
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Anthropic signs $35B computing deal with startup backed by Nvidia
-    url: https://techxplore.com/news/2026-09-anthropic-35b-startup-nvidia.html
-    summary: Anthropic signed a $35 billion deal for access to cloud computing power
-      from a U.S.-based startup backed by Nvidia, adding to a string of such
-      deals clinched by the artificial intelligence (AI) developer amid fierce
-      competition for advanced computing power.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/anthropic-also-recentl.jpg
+  - title: OpenAI to launch new model with 'stronger safeguards' after hack
+    url: https://techxplore.com/news/2026-09-openai-stronger-safeguards-hack.html
+    summary: ChatGPT maker OpenAI said Tuesday it was preparing to release its
+      newest powerful model, known as Astra, after implementing "stronger
+      safeguards" following a rogue cyberattack involving a different AI model.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/when-openai-launches-a.jpg
     categories:
       - Machine learning & AI
-    publishedAt: 2026-09-01T09:10:01.000Z
+    publishedAt: 2026-09-02T08:00:01.000Z
     source: TechXplore — AI & Machine Learning
-  - title: "Ila Kumar: Innovating with communities  "
-    url: https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901
-    summary: "Before Ila Kumar thinks about how to build technology, she asks a
-      different question: What is the context that technology will operate in,
-      and who needs to be involved in the design?"
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-kumar-ila-A1.jpg?itok=c4VttTnq
+  - title: Walter Torous named executive director of MIT Center for Real Estate
+    url: https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901
+    summary: Walter Torous, senior lecturer in the MIT Department of Urban Studies
+      and Planning (DUSP) and the MIT Sloan School of Management, and director
+      of the Master of Science in Real Estate Development Program (MSRED), was
+      recently named executive director of the MIT Center for Real Estate (CRE)
+      — effective July 1, 2026.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/Torous-MIT-A1.jpg?itok=8qiWk_oP
     categories: []
-    publishedAt: 2026-09-01T04:00:00.000Z
+    publishedAt: 2026-09-01T21:25:00.000Z
     source: MIT Artificial Intelligence
-  - title: 3D-printed boat advances future of maritime manufacturing
-    url: https://techxplore.com/news/2026-08-3d-boat-advances-future-maritime.html
-    summary: The University of Maine launched a 30-foot (9-meter), high-performance,
-      3D-printed boat Friday that researchers said could help manufacturers
-      build vessels faster, reduce the need for expensive molds and adapt
-      designs more quickly for commercial and defense use.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/university-of-maine-la.jpg
+  - title: Engineers work toward a hurricane-resilient Texas
+    url: https://techxplore.com/news/2026-09-hurricane-resilient-texas.html
+    summary: Torrential downpours. Storm surge floods. Thunder and lightning. High
+      winds of more than 100 mph (161 km/h). Hurricanes are among the most
+      devastating natural hazards to affect Texans. Damage causes many
+      disruptions, including road closures, power outages and the closure of
+      essential facilities like schools and grocery stores.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/texas-hurricane.jpg
     categories:
       - Engineering
-    publishedAt: 2026-08-31T22:00:04.000Z
+    publishedAt: 2026-09-01T20:40:06.000Z
     source: TechXplore — Engineering
+  - title: OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber
+      Abilities
+    url: https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/
+    summary: The company will give select partners early access to its Astra AI
+      model—so they have time to shore up their defenses.
+    imageUrl: https://media.wired.com/photos/6a9613c7a31f896f81e828e0/191:100/w_1280,c_limit/OpenAI-AI-Safety-Business.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+      - Security
+      - Security / Security News
+    publishedAt: 2026-09-01T20:00:00.000Z
+    source: WIRED (AI)
+  - title: The Diamond Moon and Other Astronomical Events to See in September 2026
+    url: https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/
+    summary: September is full of opportunities to expand your knowledge of the
+      night sky. Mark your calendars.
+    imageUrl: https://media.wired.com/photos/6a970ab972949d665b63334c/191:100/w_1280,c_limit/474745466
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-09-01T20:00:00.000Z
+    source: WIRED science
+  - title: Digital brain twins hinge on what living brains reveal, not computing
+      power alone
+    url: https://techxplore.com/news/2026-09-digital-brain-twins-hinge-brains.html
+    summary: Researchers from the University of Warwick report that how faithfully
+      we can build a "digital twin" of a human brain depends not only on
+      computing power but fundamentally on how much of the living brain we can
+      measure, validate and update over time.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/how-close-are-we-to-bu.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-09-01T16:00:10.000Z
+    source: TechXplore — Computer Science
+  - title: Cash In on the AI Boom by Renting Out Your Spare Compute
+    url: https://spectrum.ieee.org/ai-inference-distributed-computing
+    summary: If you own an at-home server, a gaming computer, or just a laptop that
+      doesn’t get much love, listen up. You can now put that spare computing
+      power to use and earn some passive income in the process. AI companies are
+      hungry for more compute to run AI inference—the process of using a
+      pretrained model to respond to queries—and they’re willing to pay you for
+      it.
+    imageUrl: https://spectrum.ieee.org/media-library/a-small-makeshift-server-rack-in-someones-garage.jpg?id=67703292&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Distributed-computing
+      - Inferencing
+      - Seti-home
+      - Data-centers
+    publishedAt: 2026-09-01T14:00:03.000Z
+    source: IEEE Spectrum — AI
   - title: Like a bird, this drone uses touch to grip branches and rest
     url: https://techxplore.com/news/2026-08-bird-drone-rest.html
     summary: Drones often hover in the air, noisy and whining. They can already be
@@ -70,39 +123,13 @@ articles:
     categories: []
     publishedAt: 2026-08-31T13:08:37.000Z
     source: ScienceDaily — Computer Science
-  - title: You Know Who Really Hates AI? Insurance Claims Adjusters
-    url: https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/
-    summary: Of the Glassdoor reviews from claims adjusters that mentioned AI, a
-      staggering 98 percent were negative. “AI is just a tool,” one person tells
-      WIRED. “It should never be given the keys.”
-    imageUrl: https://media.wired.com/photos/6a90caf6df5e45f6df862f92/191:100/w_1280,c_limit/You-Know-Who-Really-Hates-AI-Business.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-08-31T10:30:00.000Z
-    source: WIRED (AI)
-  - title: Multiple cameras can better track a person's identity using geometry and
-      appearance
-    url: https://techxplore.com/news/2026-08-multiple-cameras-track-person-identity.html
-    summary: By combining two complementary clues—camera geometry and visual
-      appearance—researchers at the Institute of Science Tokyo, Japan, developed
-      a new approach for preserving identities across multiple cameras. The
-      method uses epipolar geometry to identify spatially consistent candidate
-      matches and appearance similarity to distinguish among possible
-      identities. The approach can be integrated with existing single-camera
-      tracking systems without requiring environment-specific retraining.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/improving-identity-tra.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-08-28T16:00:05.000Z
-    source: TechXplore — Computer Science
   - title: "Video Friday: Meet Microduck"
     url: https://spectrum.ieee.org/video-friday-microduck-robot
     summary: Video Friday is your weekly selection of awesome robotics videos,
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/colorful-desk-robots-posed-among-books-beside-an-open-laptop-in-an-office.png?id=67687638&width=1245&height=700&coordinates=101%2C0%2C101%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/colorful-desk-robots-posed-among-books-beside-an-open-laptop-in-an-office.png?id=67687638&width=1200&height=800&coordinates=241%2C0%2C242%2C0
     categories:
       - Video-friday
       - Robotics-videos
@@ -142,19 +169,6 @@ articles:
     categories: []
     publishedAt: 2026-08-27T13:08:01.000Z
     source: ScienceDaily — Robotics
-  - title: New Platform Peers Inside AI’s Black Box
-    url: https://spectrum.ieee.org/silico-ai-interpretability
-    summary: Prompt Claude, ChatGPT, Gemini, or any other popular large language
-      model with a question like “What is the best film ever made?” and the
-      response will vary. And you (and most worryingly, the people who built the
-      LLM) have little idea exactly how it came up with that specific answer.
-    imageUrl: https://spectrum.ieee.org/media-library/goodfire-ais-silico-uses-agents-equipped-with-interpretability-tools-to-examine-the-reasoning-behind-an-ai-model.jpg?id=67668252&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Ai-interpretability
-      - Ai
-      - Science
-    publishedAt: 2026-08-26T12:00:01.000Z
-    source: IEEE Spectrum — AI
   - title: MIT engineers design a better controller for operating construction diggers
     url: https://news.mit.edu/2026/mit-engineers-design-better-controller-operating-construction-diggers-0820
     summary: Anyone who’s ever wrestled with a claw machine at an arcade can
