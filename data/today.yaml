@@ -1,76 +1,122 @@
-date: 2026-09-02
+date: 2026-09-03
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: OpenAI to launch new model with 'stronger safeguards' after hack
-    url: https://techxplore.com/news/2026-09-openai-stronger-safeguards-hack.html
-    summary: ChatGPT maker OpenAI said Tuesday it was preparing to release its
-      newest powerful model, known as Astra, after implementing "stronger
-      safeguards" following a rogue cyberattack involving a different AI model.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/when-openai-launches-a.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-09-02T08:00:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Walter Torous named executive director of MIT Center for Real Estate
-    url: https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901
-    summary: Walter Torous, senior lecturer in the MIT Department of Urban Studies
-      and Planning (DUSP) and the MIT Sloan School of Management, and director
-      of the Master of Science in Real Estate Development Program (MSRED), was
-      recently named executive director of the MIT Center for Real Estate (CRE)
-      — effective July 1, 2026.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/Torous-MIT-A1.jpg?itok=8qiWk_oP
-    categories: []
-    publishedAt: 2026-09-01T21:25:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Engineers work toward a hurricane-resilient Texas
-    url: https://techxplore.com/news/2026-09-hurricane-resilient-texas.html
-    summary: Torrential downpours. Storm surge floods. Thunder and lightning. High
-      winds of more than 100 mph (161 km/h). Hurricanes are among the most
-      devastating natural hazards to affect Texans. Damage causes many
-      disruptions, including road closures, power outages and the closure of
-      essential facilities like schools and grocery stores.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/texas-hurricane.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-09-01T20:40:06.000Z
-    source: TechXplore — Engineering
-  - title: OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber
-      Abilities
-    url: https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/
-    summary: The company will give select partners early access to its Astra AI
-      model—so they have time to shore up their defenses.
-    imageUrl: https://media.wired.com/photos/6a9613c7a31f896f81e828e0/191:100/w_1280,c_limit/OpenAI-AI-Safety-Business.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-      - Security
-      - Security / Security News
-    publishedAt: 2026-09-01T20:00:00.000Z
-    source: WIRED (AI)
-  - title: The Diamond Moon and Other Astronomical Events to See in September 2026
-    url: https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/
-    summary: September is full of opportunities to expand your knowledge of the
-      night sky. Mark your calendars.
-    imageUrl: https://media.wired.com/photos/6a970ab972949d665b63334c/191:100/w_1280,c_limit/474745466
+  - title: The 2026 El Niño Is Being ‘Supersized’ as Impacts Worsen
+    url: https://www.wired.com/story/2026-supersized-el-nino-impacts-worsen/
+    summary: The World Meteorological Organization is warning that the climate
+      phenomenon that has the Pacific running a fever will last until at least
+      February, with dire consequences for weather worldwide.
+    imageUrl: https://media.wired.com/photos/6a98858ac297aad3e21d602c/191:100/w_1280,c_limit/GettyImages-2289573784.jpg
     categories:
       - Science
-      - Science / Space
-    publishedAt: 2026-09-01T20:00:00.000Z
+      - Science / Environment
+    publishedAt: 2026-09-03T06:00:00.000Z
     source: WIRED science
-  - title: Digital brain twins hinge on what living brains reveal, not computing
-      power alone
-    url: https://techxplore.com/news/2026-09-digital-brain-twins-hinge-brains.html
-    summary: Researchers from the University of Warwick report that how faithfully
-      we can build a "digital twin" of a human brain depends not only on
-      computing power but fundamentally on how much of the living brain we can
-      measure, validate and update over time.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/how-close-are-we-to-bu.jpg
+  - title: Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing
+    url: https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/
+    summary: The company is reducing pressure on workers to use artificial
+      intelligence tools while encouraging them to experiment with Hatch, its
+      most advanced AI project yet.
+    imageUrl: https://media.wired.com/photos/6a98bc1a652ea8849cb4e3a3/191:100/w_1280,c_limit/Meta-Stops-Forcing-Employees-To-Use-AI-Business-1461790372.jpg
+    categories:
+      - Business
+      - Business / Big Tech
+      - Business / Artificial Intelligence
+    publishedAt: 2026-09-03T01:32:02.000Z
+    source: WIRED (AI)
+  - title: Nvidia boss presses G20 ministers to build AI infrastructure
+    url: https://techxplore.com/news/2026-09-nvidia-boss-g20-ministers-ai.html
+    summary: Nvidia chief Jensen Huang urged G20 ministers on Wednesday to build
+      more data centers to support the artificial intelligence revolution and
+      warned that leaders who talk up the technology's dangers risk leaving
+      their countries behind.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/the-trump-administrati-1.jpg
+    categories:
+      - Electronics & Semiconductors
+    publishedAt: 2026-09-02T22:20:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Researchers develop cost-efficient method for detecting hallucinations in
+      large language models
+    url: https://techxplore.com/news/2026-09-efficient-method-hallucinations-large-language.html
+    summary: Researchers from Skoltech and Sberbank's Center for Practical
+      Artificial Intelligence have proposed a new method, TOHA, for detecting
+      hallucinations in large language models operating in retrieval-augmented
+      generation (RAG) systems. The approach analyzes the topological structure
+      of a model's attention maps and makes it possible to identify responses
+      that are not supported by the provided context. The method does not
+      require training additional models and uses only a small amount of
+      annotated data for configuration.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/large-language-model.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-09-01T16:00:10.000Z
+    publishedAt: 2026-09-02T20:40:04.000Z
     source: TechXplore — Computer Science
+  - title: "From MIT to IBM, expediting AI and quantum deployment "
+    url: https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902
+    summary: The experience of transitioning from research based in theory to
+      focusing on real-world application can vary significantly for different
+      researchers. However, for two former MIT graduate students and a former
+      postdoc, all now at IBM, working with the MIT-IBM Computing Research Lab
+      (formerly the MIT-IBM Watson AI Lab) during their formative years enabled
+      them to not only close the gap between education and employment, but also
+      to generate ideas promising to business impact.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/ibm-mit-alumni-00_0.png?itok=uFF5Hcp-
+    categories: []
+    publishedAt: 2026-09-02T20:25:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Heteroatom additive boosts efficiency and longevity of tin perovskite
+      solar cells
+    url: https://techxplore.com/news/2026-09-heteroatom-additive-boosts-efficiency-longevity.html
+    summary: Metal halide perovskite solar cells (PSCs) are promising candidates for
+      next-generation photovoltaics because of their high efficiency and low
+      manufacturing cost. While lead-based perovskite devices achieve high power
+      conversion efficiencies, their toxicity hinders commercialization.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/heteroatom-additive-bo.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-09-02T18:40:04.000Z
+    source: TechXplore — Engineering
+  - title: System helps humans predict when self-driving cars will make mistakes
+    url: https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902
+    summary: Self-driving cars are often controlled by deep learning models that
+      sometimes fail in unexpected situations. For instance, the car might
+      inexplicably brake and block the path of an oncoming emergency vehicle. A
+      human driver or passenger may need to react rapidly to prevent a
+      collision.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-InterpretCars-01-press.jpg?itok=l_ISl3I_
+    categories: []
+    publishedAt: 2026-09-02T15:00:00.000Z
+    source: MIT Robotics
+  - title: Interstellar solar sails hit a strange problem at 75% of light speed
+    url: https://www.sciencedaily.com/releases/2026/08/260831015157.htm
+    summary: Solar sails pushed by powerful lasers could reach incredible speeds,
+      but relativity may eventually make the light itself work against them. At
+      around 75% of the speed of light, scattered photons can begin creating
+      drag, adding a surprising obstacle to interstellar travel.
+    imageUrl: https://www.sciencedaily.com/images/1920/diffractive-solar-sail.webp
+    categories: []
+    publishedAt: 2026-09-02T14:51:21.000Z
+    source: ScienceDaily — Engineering
+  - title: AI Efficiency Could Cost Us the Next Generation of Experts
+    url: https://spectrum.ieee.org/ai-engineer-skills
+    summary: "A little over a decade ago, I led the controls design for a
+      first-of-its-kind full digital-control system for a U.S. nuclear plant. It
+      was, on paper, a beautiful machine—engineered to run itself the way a
+      modern airliner does, with operators watching over a system that rarely
+      needed them. And we made a decision that, to an efficiency-minded
+      observer, looked backward: We deliberately left manual steps inside
+      sequences the system could execute on its own."
+    imageUrl: https://spectrum.ieee.org/media-library/human-and-robotic-hands-share-a-caliper-over-technical-engineering-blueprints.png?id=67702640&width=2000&height=1500&coordinates=0%2C7%2C0%2C7
+    categories:
+      - Engineering-careers
+      - Generative-ai
+      - Automation-paradox
+      - Aviation
+      - Nuclear-power
+    publishedAt: 2026-09-02T13:00:04.000Z
+    source: IEEE Spectrum — AI
   - title: Cash In on the AI Boom by Renting Out Your Spare Compute
     url: https://spectrum.ieee.org/ai-inference-distributed-computing
     summary: If you own an at-home server, a gaming computer, or just a laptop that
@@ -86,7 +132,7 @@ articles:
       - Seti-home
       - Data-centers
     publishedAt: 2026-09-01T14:00:03.000Z
-    source: IEEE Spectrum — AI
+    source: IEEE Spectrum — Computing & Chips
   - title: Like a bird, this drone uses touch to grip branches and rest
     url: https://techxplore.com/news/2026-08-bird-drone-rest.html
     summary: Drones often hover in the air, noisy and whining. They can already be
@@ -129,7 +175,7 @@ articles:
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/colorful-desk-robots-posed-among-books-beside-an-open-laptop-in-an-office.png?id=67687638&width=1200&height=800&coordinates=241%2C0%2C242%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/colorful-desk-robots-posed-among-books-beside-an-open-laptop-in-an-office.png?id=67687638&width=1245&height=700&coordinates=101%2C0%2C101%2C0
     categories:
       - Video-friday
       - Robotics-videos
@@ -169,16 +215,3 @@ articles:
     categories: []
     publishedAt: 2026-08-27T13:08:01.000Z
     source: ScienceDaily — Robotics
-  - title: MIT engineers design a better controller for operating construction diggers
-    url: https://news.mit.edu/2026/mit-engineers-design-better-controller-operating-construction-diggers-0820
-    summary: Anyone who’s ever wrestled with a claw machine at an arcade can
-      appreciate the difficulty in pulling and pushing on joysticks, in just the
-      right way, to get a mechanical arm to scoop up that one special toy.
-      Coordinating the joysticks and connecting their movement to the claw’s
-      motion is a type of “mental mapping” that is not immediately intuitive.
-      (And it’s what arcade owners depend on to bring players back, again and
-      again).
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-DiggerTrainer-01-press.jpg?itok=X5SSiyJU
-    categories: []
-    publishedAt: 2026-08-20T04:00:00.000Z
-    source: MIT Robotics
