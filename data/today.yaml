@@ -1,8 +1,53 @@
-date: 2026-09-06
+date: 2026-09-07
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?
+    url: https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/
+    summary: The science curriculum the industry is offering to schools casts
+      plastics as safe, recyclable, and a source of good jobs. Critics say it’s
+      propaganda.
+    imageUrl: https://media.wired.com/photos/6a9953fe35fd9ea6d6a8e832/191:100/w_1280,c_limit/GettyImages-1998844554.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-09-07T09:00:00.000Z
+    source: WIRED science
+  - title: AI data centers are less thirsty now, tech giants say
+    url: https://techxplore.com/news/2026-09-ai-centers-thirsty-tech-giants.html
+    summary: Data centers are running into a wall of public anger in the United
+      States over their thirst for water and power.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/computers-inside-data.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-09-07T08:07:50.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: How Sound Could Make Sense of Big Data
+    url: https://spectrum.ieee.org/data-sonification-stephen-roddy
+    summary: In the art of transforming data into easily interpretable displays,
+      visualization is usually the go-to option. But sight isn’t the only sense
+      we can use to make sense of numeric information.
+    imageUrl: https://spectrum.ieee.org/media-library/a-conceptual-illustration-of-a-sound-wave-and-binary-0s-and-1s.jpg?id=67720868&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Datamining
+      - Audio-processing
+      - Data-visualization
+      - 6g
+    publishedAt: 2026-09-06T13:00:01.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: My Brief Summer Fling With Siri AI
+    url: https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/
+    summary: I was initially enamored with the beta version of Apple’s revamped
+      smartphone assistant. As the full release approaches, I’ve forgotten Siri
+      AI even exists.
+    imageUrl: https://media.wired.com/photos/6a9957d8075950c219e951f8/191:100/w_1280,c_limit/GettyImages-2255802594.jpg
+    categories:
+      - Gear
+      - Gear / Gear News and Events
+      - Gear / Products / Phones
+    publishedAt: 2026-09-06T10:30:00.000Z
+    source: WIRED (AI)
   - title: AI can now control fusion plasma faster than humans can react
     url: https://www.sciencedaily.com/releases/2026/09/260903064215.htm
     summary: Princeton researchers have tested an AI system that can monitor and
@@ -42,17 +87,6 @@ articles:
       - Cybernetics
     publishedAt: 2026-09-05T13:00:04.000Z
     source: IEEE Spectrum — Robotics
-  - title: OpenAI Agents Hacked Another Website
-    url: https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/
-    summary: "Plus: Tens of millions of US and Canadian drivers’ licenses go up for
-      sale on the dark web, the US military finally tries to tackle the risk
-      online ad data poses to troops, and more."
-    imageUrl: https://media.wired.com/photos/6a9b05bd8cf97243010f350d/191:100/w_1280,c_limit/Security_OpenAI%20Agents%20Tried%20to%20Hack%20Another%20Website_v1.jpg
-    categories:
-      - Security
-      - Security / Security News
-    publishedAt: 2026-09-05T10:30:00.000Z
-    source: WIRED (AI)
   - title: Long AI conversations reveal misinformation vulnerabilities across seven
       leading chatbots
     url: https://techxplore.com/news/2026-09-ai-conversations-reveal-misinformation-vulnerabilities.html
@@ -67,17 +101,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-09-05T10:28:25.000Z
     source: TechXplore — Computer Science
-  - title: Scientists Put Caterpillars in an Ultraquiet Chamber to Learn How They
-      Hear Without Ears
-    url: https://www.wired.com/story/how-do-caterpillars-hear-without-ears/
-    summary: The research could do more than help unlock the mystery of caterpillar
-      hearing. It could also help make microphones better.
-    imageUrl: https://media.wired.com/photos/6a99561e6f7d62b638e21691/191:100/w_1280,c_limit/GettyImages-1404567195.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-09-05T10:00:00.000Z
-    source: WIRED science
   - title: Researchers tune into Arctic under-ice sounds and test through-ice
       communication
     url: https://news.mit.edu/2026/researchers-tune-into-arctic-under-ice-sounds-test-through-ice-communication-0904
@@ -155,22 +178,6 @@ articles:
       - Nuclear-power
     publishedAt: 2026-09-02T13:00:04.000Z
     source: IEEE Spectrum — AI
-  - title: Cash In on the AI Boom by Renting Out Your Spare Compute
-    url: https://spectrum.ieee.org/ai-inference-distributed-computing
-    summary: If you own an at-home server, a gaming computer, or just a laptop that
-      doesn’t get much love, listen up. You can now put that spare computing
-      power to use and earn some passive income in the process. AI companies are
-      hungry for more compute to run AI inference—the process of using a
-      pretrained model to respond to queries—and they’re willing to pay you for
-      it.
-    imageUrl: https://spectrum.ieee.org/media-library/a-small-makeshift-server-rack-in-someones-garage.jpg?id=67703292&width=1200&height=400&coordinates=0%2C292%2C0%2C292
-    categories:
-      - Distributed-computing
-      - Inferencing
-      - Seti-home
-      - Data-centers
-    publishedAt: 2026-09-01T14:00:03.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: A “quantum bath” puts quantum entanglement on autopilot
     url: https://www.sciencedaily.com/releases/2026/08/260830000002.htm
     summary: Physicists have demonstrated a new way to entangle distant quantum bits
