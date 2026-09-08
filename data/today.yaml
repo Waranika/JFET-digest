@@ -1,28 +1,80 @@
-date: 2026-09-07
+date: 2026-09-08
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?
-    url: https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/
-    summary: The science curriculum the industry is offering to schools casts
-      plastics as safe, recyclable, and a source of good jobs. Critics say it’s
-      propaganda.
-    imageUrl: https://media.wired.com/photos/6a9953fe35fd9ea6d6a8e832/191:100/w_1280,c_limit/GettyImages-1998844554.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-09-07T09:00:00.000Z
-    source: WIRED science
-  - title: AI data centers are less thirsty now, tech giants say
-    url: https://techxplore.com/news/2026-09-ai-centers-thirsty-tech-giants.html
-    summary: Data centers are running into a wall of public anger in the United
-      States over their thirst for water and power.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/computers-inside-data.jpg
+  - title: French AI firm Mistral valued at 21 billion euros after latest funding
+    url: https://techxplore.com/news/2026-09-french-ai-firm-mistral-valued.html
+    summary: Mistral announced Tuesday that it had raised three billion euros ($3.5
+      billion) in what it described as the largest-ever European tech
+      fundraising, valuing the French AI firm at more than 21 billion euros.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/chief-executive-arthur.jpg
     categories:
       - Machine learning & AI
-    publishedAt: 2026-09-07T08:07:50.000Z
+    publishedAt: 2026-09-08T08:40:17.000Z
     source: TechXplore — AI & Machine Learning
+  - title: New method blends real-time 3D rendering with more accurate surface
+      geometry
+    url: https://techxplore.com/news/2026-09-method-blends-real-3d-accurate.html
+    summary: Reconstructing a three-dimensional object or environment from multiple
+      photographs is a central problem in computer vision. The resulting models
+      support applications such as robotics, augmented and virtual reality,
+      digital twins, and cultural heritage preservation. An effective
+      reconstruction system must represent both the visual appearance of a scene
+      and the geometry of its surfaces. Achieving these goals simultaneously,
+      however, remains challenging.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-method-gives-gauss.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-09-07T20:00:05.000Z
+    source: TechXplore — Computer Science
+  - title: Steam-assisted method makes lightweight magnesium tougher and conductive
+    url: https://techxplore.com/news/2026-09-steam-method-lightweight-magnesium-tougher.html
+    summary: Magnesium alloys are attractive for advanced energy technologies
+      because of their exceptional strength-to-weight ratio. However, despite
+      being the lightest structural metals available, they corrode rapidly in
+      acidic environments, while their native oxides and conventional protective
+      coatings are electrically insulating. This combination has limited their
+      use in demanding applications such as polymer electrolyte fuel cells
+      (PEFCs), where components must resist corrosion while efficiently
+      conducting electricity.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-low-temperature-co.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-09-07T19:40:09.000Z
+    source: TechXplore — Engineering
+  - title: This Robot Will Draw Your Blood Now
+    url: https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta
+    summary: You sit down and put your arm in the cradle. You press a button. The
+      machine takes it from there.
+    imageUrl: https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Medical-robots
+      - Blood
+      - Robotics
+    publishedAt: 2026-09-07T13:00:01.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Two of the Universe's Great Mysteries May Have Their Own Dimension
+    url: https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/
+    summary: Dark energy might be getting weaker. Scientists are wondering if
+      interactions with dark matter in a “dark dimension” may be responsible.
+    imageUrl: https://media.wired.com/photos/6a99589b075950c219e95201/191:100/w_1280,c_limit/DarkInteractions-cr-Ada%20Zejun%20Shen-Lede.jpg
+    categories:
+      - Science
+      - Science / Physics and Math
+    publishedAt: 2026-09-07T12:00:00.000Z
+    source: WIRED science
+  - title: Whispering Complaints Into Your Phone May Be the Future of Customer
+      Feedback
+    url: https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/
+    summary: Forget email surveys or long calls spent on hold. Voicebox lets people
+      send customer feedback by recording a voice note on their phone.
+    imageUrl: https://media.wired.com/photos/6a994fa2bf4e66136bddb432/191:100/w_1280,c_limit/HowYouReallyFeel.jpg
+    categories:
+      - Gear
+      - Gear / Gear News and Events
+    publishedAt: 2026-09-07T10:30:00.000Z
+    source: WIRED (AI)
   - title: How Sound Could Make Sense of Big Data
     url: https://spectrum.ieee.org/data-sonification-stephen-roddy
     summary: In the art of transforming data into easily interpretable displays,
@@ -36,18 +88,6 @@ articles:
       - 6g
     publishedAt: 2026-09-06T13:00:01.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: My Brief Summer Fling With Siri AI
-    url: https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/
-    summary: I was initially enamored with the beta version of Apple’s revamped
-      smartphone assistant. As the full release approaches, I’ve forgotten Siri
-      AI even exists.
-    imageUrl: https://media.wired.com/photos/6a9957d8075950c219e951f8/191:100/w_1280,c_limit/GettyImages-2255802594.jpg
-    categories:
-      - Gear
-      - Gear / Gear News and Events
-      - Gear / Products / Phones
-    publishedAt: 2026-09-06T10:30:00.000Z
-    source: WIRED (AI)
   - title: AI can now control fusion plasma faster than humans can react
     url: https://www.sciencedaily.com/releases/2026/09/260903064215.htm
     summary: Princeton researchers have tested an AI system that can monitor and
@@ -59,48 +99,6 @@ articles:
     categories: []
     publishedAt: 2026-09-06T07:28:43.000Z
     source: ScienceDaily — Robotics
-  - title: Iron could make high-energy sodium-ion batteries last longer
-    url: https://techxplore.com/news/2026-09-iron-high-energy-sodium-ion.html
-    summary: Lithium-ion batteries (LiBs), which charge and discharge by moving
-      lithium ions between two electrodes known as the cathode and anode, remain
-      the most widely used rechargeable batteries worldwide. Over the past
-      decades, however, energy engineers have been assessing the potential of
-      alternative rechargeable batteries based on different materials and ions.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/iron-could-make-high-e-1.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-09-05T14:00:01.000Z
-    source: TechXplore — Engineering
-  - title: Cyborg Roaches Can Stab You With Needles
-    url: https://spectrum.ieee.org/cyborg-rescue-roach
-    summary: Imagine you are trapped under rubble after an earthquake and you see an
-      electronics-covered cockroach with a spring-loaded needle on its back
-      scuttling toward you. Although the sight might be unnerving, to say the
-      least, this prototype paramedic cyborg, or “Paraborg,” might one day help
-      deliver lifesaving aid to disaster victims who might be otherwise
-      impossible to reach.
-    imageUrl: https://spectrum.ieee.org/media-library/large-brown-cockroach-fitted-with-an-electronic-device-and-wires-on-its-back.jpg?id=67724302&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Robotics
-      - Insects
-      - Disaster-robots
-      - Cybernetics
-    publishedAt: 2026-09-05T13:00:04.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Long AI conversations reveal misinformation vulnerabilities across seven
-      leading chatbots
-    url: https://techxplore.com/news/2026-09-ai-conversations-reveal-misinformation-vulnerabilities.html
-    summary: "The results are in: Which AI model is the most fallible? Persuadable?
-      Correctible? University of Arizona researchers assessed seven different
-      generative AI large language models, or LLMs, for these three qualities
-      during lengthy conversations. Their work, published in Nature's Scientific
-      Reports, reveals intrinsic limitations that might go undetected during
-      one-off interactions."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/chatbots.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-09-05T10:28:25.000Z
-    source: TechXplore — Computer Science
   - title: Researchers tune into Arctic under-ice sounds and test through-ice
       communication
     url: https://news.mit.edu/2026/researchers-tune-into-arctic-under-ice-sounds-test-through-ice-communication-0904
