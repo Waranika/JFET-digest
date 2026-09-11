@@ -1,80 +1,146 @@
-date: 2026-09-08
+date: 2026-09-11
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: French AI firm Mistral valued at 21 billion euros after latest funding
-    url: https://techxplore.com/news/2026-09-french-ai-firm-mistral-valued.html
-    summary: Mistral announced Tuesday that it had raised three billion euros ($3.5
-      billion) in what it described as the largest-ever European tech
-      fundraising, valuing the French AI firm at more than 21 billion euros.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/chief-executive-arthur.jpg
+  - title: China, Iran among countries that have used AI to aid spying, Anthropic says
+    url: https://techxplore.com/news/2026-09-china-iran-countries-ai-aid.html
+    summary: Anthropic said Thursday it shut down multiple cases of state-sponsored
+      surveillance operations that used its artificial intelligence (AI) models
+      and warned that governments and state-aligned actors are increasingly
+      using AI to spy on ethnic minorities and dissidents.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/anthropic-says-it-has-2.jpg
     categories:
       - Machine learning & AI
-    publishedAt: 2026-09-08T08:40:17.000Z
+    publishedAt: 2026-09-11T08:40:01.000Z
     source: TechXplore — AI & Machine Learning
-  - title: New method blends real-time 3D rendering with more accurate surface
-      geometry
-    url: https://techxplore.com/news/2026-09-method-blends-real-3d-accurate.html
-    summary: Reconstructing a three-dimensional object or environment from multiple
-      photographs is a central problem in computer vision. The resulting models
-      support applications such as robotics, augmented and virtual reality,
-      digital twins, and cultural heritage preservation. An effective
-      reconstruction system must represent both the visual appearance of a scene
-      and the geometry of its surfaces. Achieving these goals simultaneously,
-      however, remains challenging.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-method-gives-gauss.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-09-07T20:00:05.000Z
-    source: TechXplore — Computer Science
-  - title: Steam-assisted method makes lightweight magnesium tougher and conductive
-    url: https://techxplore.com/news/2026-09-steam-method-lightweight-magnesium-tougher.html
-    summary: Magnesium alloys are attractive for advanced energy technologies
-      because of their exceptional strength-to-weight ratio. However, despite
-      being the lightest structural metals available, they corrode rapidly in
-      acidic environments, while their native oxides and conventional protective
-      coatings are electrically insulating. This combination has limited their
-      use in demanding applications such as polymer electrolyte fuel cells
-      (PEFCs), where components must resist corrosion while efficiently
-      conducting electricity.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-low-temperature-co.jpg
+  - title: AI-powered VR helps planners design better cities
+    url: https://techxplore.com/news/2026-09-ai-powered-vr-planners-cities.html
+    summary: Artificial intelligence (AI) combined with virtual reality (VR) could
+      guide us through tomorrow's cities before they are even built, according
+      to research in the International Journal of Environment and Pollution.
+      Such models could be useful for architects, planners and policymakers.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/city-from-above.jpg
     categories:
       - Engineering
-    publishedAt: 2026-09-07T19:40:09.000Z
+    publishedAt: 2026-09-11T00:20:01.000Z
     source: TechXplore — Engineering
-  - title: This Robot Will Draw Your Blood Now
-    url: https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta
-    summary: You sit down and put your arm in the cradle. You press a button. The
-      machine takes it from there.
-    imageUrl: https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+  - title: OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal
+    url: https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/
+    summary: AI leaders worry antitrust law could stand in the way of what they view
+      as an increasingly urgent push to coordinate a slowdown in AI development.
+    imageUrl: https://media.wired.com/photos/6aa304df834bd0176b553b6c/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg
     categories:
-      - Medical-robots
-      - Blood
-      - Robotics
-    publishedAt: 2026-09-07T13:00:01.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Two of the Universe's Great Mysteries May Have Their Own Dimension
-    url: https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/
-    summary: Dark energy might be getting weaker. Scientists are wondering if
-      interactions with dark matter in a “dark dimension” may be responsible.
-    imageUrl: https://media.wired.com/photos/6a99589b075950c219e95201/191:100/w_1280,c_limit/DarkInteractions-cr-Ada%20Zejun%20Shen-Lede.jpg
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-09-10T23:28:42.000Z
+    source: WIRED (AI)
+  - title: "August 2026 Was the Hottest Month Ever Recorded: Copernicus Data"
+    url: https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/
+    summary: While the strengthening El Niño helped boost temperatures, climate
+      change is the main culprit for making August so hot.
+    imageUrl: https://media.wired.com/photos/6aa2fe8bf61e32d0e5c27220/191:100/w_1280,c_limit/You-Just-Lived-Through-the-Hottest-Month-Ever-Science-2286431827.jpg
     categories:
       - Science
-      - Science / Physics and Math
-    publishedAt: 2026-09-07T12:00:00.000Z
+      - Science / Environment
+    publishedAt: 2026-09-10T20:20:23.000Z
     source: WIRED science
-  - title: Whispering Complaints Into Your Phone May Be the Future of Customer
-      Feedback
-    url: https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/
-    summary: Forget email surveys or long calls spent on hold. Voicebox lets people
-      send customer feedback by recording a voice note on their phone.
-    imageUrl: https://media.wired.com/photos/6a994fa2bf4e66136bddb432/191:100/w_1280,c_limit/HowYouReallyFeel.jpg
+  - title: Robots Are Learning to Feel
+    url: https://spectrum.ieee.org/tactile-data-robots
+    summary: Dexterous manipulation remains one of the biggest barriers keeping
+      robots from successfully tackling a wide range of everyday tasks. A sense
+      of touch could be the key, but a lack of quality data has held back
+      progress. This is now starting to change as academic labs and startups
+      race to build new tactile datasets and techniques to put them to use.
+    imageUrl: https://spectrum.ieee.org/media-library/image.jpg?id=67745231&width=980
     categories:
-      - Gear
-      - Gear / Gear News and Events
-    publishedAt: 2026-09-07T10:30:00.000Z
-    source: WIRED (AI)
+      - Robotics
+      - Manipulation
+      - Tactile-sensing
+    publishedAt: 2026-09-10T18:22:35.000Z
+    source: IEEE Spectrum — Robotics
+  - title: AI may cut junior coding tasks and weaken the pipeline to senior developers
+    url: https://techxplore.com/news/2026-09-ai-junior-coding-tasks-weaken.html
+    summary: New research suggests that generative artificial intelligence (AI)
+      could weaken not only employment opportunities for junior software
+      developers but also the pathway through which they develop into senior
+      professionals.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/snu-professor-taesup-m.jpg
+    categories:
+      - Software
+    publishedAt: 2026-09-10T17:40:01.000Z
+    source: TechXplore — Computer Science
+  - title: The future of robot-human collaboration
+    url: https://techxplore.com/news/2026-09-future-robot-human-collaboration.html
+    summary: Humans are difficult to simulate. We are quick, complex thinkers, and
+      our exact actions aren't predictable. So how can we sufficiently train
+      robots to collaborate with us?
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/the-future-of-robot-hu.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-09-10T14:00:08.000Z
+    source: TechXplore — Robotics
+  - title: MIT Schwarzman College of Computing launches pilot to help educators
+      teach AI across disciplines
+    url: https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909
+    summary: This summer, the MIT Schwarzman College of Computing welcomed faculty
+      from colleges and universities across Greater Boston, South Carolina, West
+      Virginia, and Texas to campus for the inaugural AI Educators Pilot, a
+      weeklong workshop aimed at expanding how artificial intelligence is taught
+      across disciplines and learning environments. Inspired by MIT class
+      C01/C51 (Modeling with Machine Learning), a course developed through
+      the Common Ground for computing and AI education that focuses on helping
+      students understand and apply foundational AI and machine learning
+      concepts to problem-solving in their own disciplines, the workshop gave
+      educators an opportunity to explore how its materials and teaching methods
+      could be adapted for their classrooms.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-schwarzman-AI-EDUCATORS.jpg?itok=7n4L56BI
+    categories: []
+    publishedAt: 2026-09-09T20:40:00.000Z
+    source: MIT Artificial Intelligence
+  - title: AI Models Are Watermarking Text—Will You Notice?
+    url: https://spectrum.ieee.org/ai-watermark-text-anthropic-openai
+    summary: On 11 August, Anthropic announced that all future Claude models will
+      generate text that contains a watermark that identifies its results as AI
+      generated. The company is not alone. Google has its own text watermark
+      (which Anthropic’s is based on) it uses on the output of its Gemini
+      models. OpenAI has yet to introduce a text watermark but it plans to do
+      so.
+    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-cursor-symbol-for-editing-text-set-against-a-green-background-with-sporadic-pieces-highlighted-in-r.jpg?id=67710314&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Generative-ai
+      - Watermark
+      - Large-language-models
+      - Anthropic
+      - Openai
+      - Google
+    publishedAt: 2026-09-09T12:00:04.000Z
+    source: IEEE Spectrum — AI
+  - title: Chinese scientists find a hidden atomic structure that unlocks methane
+    url: https://www.sciencedaily.com/releases/2026/09/260909005148.htm
+    summary: Scientists found that a tiny atomic structure that forms on nickel
+      oxide during methane conversion is more effective than the metallic nickel
+      long believed to drive the reaction. The discovery allowed a low-nickel
+      catalyst to rival one containing 10 times more metal, potentially opening
+      the door to cheaper and more efficient industrial catalysts.
+    imageUrl: https://www.sciencedaily.com/images/1920/ni1o4ni4-active-structure.webp
+    categories: []
+    publishedAt: 2026-09-09T05:33:42.000Z
+    source: ScienceDaily — Engineering
+  - title: Scientists find a way to slash computer memory energy use by orders of
+      magnitude
+    url: https://www.sciencedaily.com/releases/2026/09/260906170132.htm
+    summary: Scientists have devised a new way to switch magnetic computer memory
+      while using far less energy than today's leading technologies. By
+      mathematically optimizing the pulses used to flip digital bits, the method
+      could reduce energy consumption by several orders of magnitude.
+      Simulations suggest it may bring future memory devices surprisingly close
+      to the fundamental physical limit for processing information. The same
+      idea could eventually work with electrical currents or ultrafast lasers.
+    imageUrl: https://www.sciencedaily.com/images/1920/magnetic-memory-technologies.webp
+    categories: []
+    publishedAt: 2026-09-07T01:14:19.000Z
+    source: ScienceDaily — Robotics
   - title: How Sound Could Make Sense of Big Data
     url: https://spectrum.ieee.org/data-sonification-stephen-roddy
     summary: In the art of transforming data into easily interpretable displays,
@@ -88,17 +154,6 @@ articles:
       - 6g
     publishedAt: 2026-09-06T13:00:01.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: AI can now control fusion plasma faster than humans can react
-    url: https://www.sciencedaily.com/releases/2026/09/260903064215.htm
-    summary: Princeton researchers have tested an AI system that can monitor and
-      control fusion plasma in milliseconds, reacting far faster than a human
-      operator. In one experiment, it predicted a damaging instability about 200
-      milliseconds before it appeared and adjusted the plasma to stop it from
-      forming.
-    imageUrl: https://www.sciencedaily.com/images/1920/pacman-artificial-intelligence-framework-for-fusion-systems.webp
-    categories: []
-    publishedAt: 2026-09-06T07:28:43.000Z
-    source: ScienceDaily — Robotics
   - title: Researchers tune into Arctic under-ice sounds and test through-ice
       communication
     url: https://news.mit.edu/2026/researchers-tune-into-arctic-under-ice-sounds-test-through-ice-communication-0904
@@ -123,59 +178,6 @@ articles:
     categories: []
     publishedAt: 2026-09-04T04:00:00.000Z
     source: MIT Engineering
-  - title: Scientists just overturned a century-old physics assumption
-    url: https://www.sciencedaily.com/releases/2026/09/260901010659.htm
-    summary: Scientists at Carnegie Mellon University have discovered an unexpected
-      form of the Hall effect, overturning the long-held assumption that this
-      electrical response only appears when a magnetic field points
-      perpendicular to a material. Beyond expanding a century-old principle of
-      physics, the finding could eventually lead to simpler magnetic sensors for
-      electronics, transportation, and medical technologies.
-    imageUrl: https://www.sciencedaily.com/images/1920/carnegie-mellon-hall-effect-device.webp
-    categories: []
-    publishedAt: 2026-09-03T12:17:16.000Z
-    source: ScienceDaily — Computer Science
-  - title: "From MIT to IBM, expediting AI and quantum deployment "
-    url: https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902
-    summary: The experience of transitioning from research based in theory to
-      focusing on real-world application can vary significantly for different
-      researchers. However, for two former MIT graduate students and a former
-      postdoc, all now at IBM, working with the MIT-IBM Computing Research Lab
-      (formerly the MIT-IBM Watson AI Lab) during their formative years enabled
-      them to not only close the gap between education and employment, but also
-      to generate ideas promising to business impact.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/ibm-mit-alumni-00_0.png?itok=uFF5Hcp-
-    categories: []
-    publishedAt: 2026-09-02T20:25:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Interstellar solar sails hit a strange problem at 75% of light speed
-    url: https://www.sciencedaily.com/releases/2026/08/260831015157.htm
-    summary: Solar sails pushed by powerful lasers could reach incredible speeds,
-      but relativity may eventually make the light itself work against them. At
-      around 75% of the speed of light, scattered photons can begin creating
-      drag, adding a surprising obstacle to interstellar travel.
-    imageUrl: https://www.sciencedaily.com/images/1920/diffractive-solar-sail.webp
-    categories: []
-    publishedAt: 2026-09-02T14:51:21.000Z
-    source: ScienceDaily — Engineering
-  - title: AI Efficiency Could Cost Us the Next Generation of Experts
-    url: https://spectrum.ieee.org/ai-engineer-skills
-    summary: "A little over a decade ago, I led the controls design for a
-      first-of-its-kind full digital-control system for a U.S. nuclear plant. It
-      was, on paper, a beautiful machine—engineered to run itself the way a
-      modern airliner does, with operators watching over a system that rarely
-      needed them. And we made a decision that, to an efficiency-minded
-      observer, looked backward: We deliberately left manual steps inside
-      sequences the system could execute on its own."
-    imageUrl: https://spectrum.ieee.org/media-library/human-and-robotic-hands-share-a-caliper-over-technical-engineering-blueprints.png?id=67702640&width=1245&height=700&coordinates=0%2C194%2C0%2C195
-    categories:
-      - Engineering-careers
-      - Generative-ai
-      - Automation-paradox
-      - Aviation
-      - Nuclear-power
-    publishedAt: 2026-09-02T13:00:04.000Z
-    source: IEEE Spectrum — AI
   - title: A “quantum bath” puts quantum entanglement on autopilot
     url: https://www.sciencedaily.com/releases/2026/08/260830000002.htm
     summary: Physicists have demonstrated a new way to entangle distant quantum bits
