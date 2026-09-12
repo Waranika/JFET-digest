@@ -1,40 +1,116 @@
-date: 2026-09-11
+date: 2026-09-12
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: China, Iran among countries that have used AI to aid spying, Anthropic says
-    url: https://techxplore.com/news/2026-09-china-iran-countries-ai-aid.html
-    summary: Anthropic said Thursday it shut down multiple cases of state-sponsored
-      surveillance operations that used its artificial intelligence (AI) models
-      and warned that governments and state-aligned actors are increasingly
-      using AI to spy on ethnic minorities and dissidents.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/anthropic-says-it-has-2.jpg
+  - title: Meta Sued Over Training Data for Its AI and Face-Recognition Systems
+    url: https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/
+    summary: The proposed class action alleges Meta illegally harvested people’s
+      Facebook and Instagram photos to train its AI image-generation models and
+      to build its unreleased “NameTag” face recognition feature.
+    imageUrl: https://media.wired.com/photos/6aa4120d92d2b4de236f2240/191:100/w_1280,c_limit/GettyImages-2289768151.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-09-11T08:40:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: AI-powered VR helps planners design better cities
-    url: https://techxplore.com/news/2026-09-ai-powered-vr-planners-cities.html
-    summary: Artificial intelligence (AI) combined with virtual reality (VR) could
-      guide us through tomorrow's cities before they are even built, according
-      to research in the International Journal of Environment and Pollution.
-      Such models could be useful for architects, planners and policymakers.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/city-from-above.jpg
+      - Security
+      - Security / Privacy
+    publishedAt: 2026-09-11T18:59:25.000Z
+    source: WIRED (AI)
+  - title: Weighing 600 million buildings to help construct a more efficient future
+    url: https://techxplore.com/news/2026-09-million-efficient-future.html
+    summary: A new study helps show how builders and city planners can minimize the
+      materials needed to accommodate the planet's future population.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/building.jpg
     categories:
       - Engineering
-    publishedAt: 2026-09-11T00:20:01.000Z
+    publishedAt: 2026-09-11T18:00:08.000Z
     source: TechXplore — Engineering
-  - title: OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal
-    url: https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/
-    summary: AI leaders worry antitrust law could stand in the way of what they view
-      as an increasingly urgent push to coordinate a slowdown in AI development.
-    imageUrl: https://media.wired.com/photos/6aa304df834bd0176b553b6c/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg
+  - title: How randomness tames vast network problems
+    url: https://techxplore.com/news/2026-09-randomness-vast-network-problems.html
+    summary: Networks are everywhere. They connect computers across the internet,
+      carry electricity through power grids and represent transport routes for
+      moving people and goods. Yet many problems that appear to have nothing to
+      do with networks can also be represented and solved as networks. Examples
+      include matching passengers with drivers in a ride-hailing app or
+      distributing computing tasks across servers.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/how-randomness-tames-v.jpg
     categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-09-10T23:28:42.000Z
-    source: WIRED (AI)
+      - Software
+    publishedAt: 2026-09-11T15:40:03.000Z
+    source: TechXplore — Computer Science
+  - title: "Video Friday: Humanoid Robot Takes On Monkey Bars"
+    url: https://spectrum.ieee.org/video-friday-disaster-response-robots
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robot-moves-across-scaffolding-rigged-as-playground-monkey-bars-in-a-lab-while-trying-to-keep-its-balance.gif?id=67756707&width=1200&height=800&coordinates=0%2C67%2C0%2C68
+    categories:
+      - Humanoid-robots
+      - Video-friday
+      - Drones
+      - Robot-videos
+      - Center-for-robot-assisted-search
+      - Quadruped-robots
+    publishedAt: 2026-09-11T15:30:04.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology
+      Transfer Award
+    url: https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911
+    summary: The Federal Laboratory Consortium (FLC) selected AI-GUIDE, a medical
+      device developed by MIT Lincoln Laboratory and Massachusetts General
+      Hospital (MGH), for its 2026 Excellence in Technology Transfer Award. This
+      award recognizes federal laboratories and collaborators who have
+      accomplished outstanding work in the process of transferring technology.
+      With funding from the U.S. Army's Combat Casualty Care Research Program
+      (CCC), Lincoln Laboratory and MGH developed AI-GUIDE and are in the
+      process of transferring the prototype to the startup company AutonomUS
+      Medical Technologies, Inc.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-lincoln-AI-GUIDE.jpg?itok=2Fxb1RR9
+    categories: []
+    publishedAt: 2026-09-11T13:45:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Get AI models 'under control,' EU tells tech firms after hacks
+    url: https://techxplore.com/news/2026-09-ai-eu-tech-firms-hacks.html
+    summary: Top tech firms need to get their powerful artificial intelligence
+      models "under control," the European Union warned Friday after a series of
+      hacks by AI agents.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-agents.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-09-11T13:40:07.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Tiny nanolaser could cut computer energy use in half
+    url: https://www.sciencedaily.com/releases/2026/09/260911003858.htm
+    summary: Scientists have created an ultra-small nanolaser that could eventually
+      allow microchips to transmit information with light instead of
+      electricity, potentially making computers faster while cutting energy use
+      roughly in half. Thousands of the lasers could fit on a single chip,
+      opening possibilities for more efficient data centers, smartphones, and
+      advanced medical sensors.
+    imageUrl: https://www.sciencedaily.com/images/1920/nanolaser.webp
+    categories: []
+    publishedAt: 2026-09-11T12:03:26.000Z
+    source: ScienceDaily — Computer Science
+  - title: Scientists just made quantum computer operations 1,000 times faster
+    url: https://www.sciencedaily.com/releases/2026/09/260911003845.htm
+    summary: Researchers have found a way to perform certain quantum operations more
+      than 1,000 times faster, cutting thousands of repeated control cycles down
+      to just one. The advance could reduce errors and bring reliable,
+      fault-tolerant quantum computers closer to reality.
+    imageUrl: https://www.sciencedaily.com/images/1920/accelerating-quantum-computations.webp
+    categories: []
+    publishedAt: 2026-09-11T11:52:30.000Z
+    source: ScienceDaily — Robotics
+  - title: Physicists just found a tiny glitch in time itself
+    url: https://www.sciencedaily.com/releases/2026/09/260910225251.htm
+    summary: Unconventional quantum theories may imply that time itself has a tiny
+      fundamental uncertainty, placing an ultimate limit on how precisely any
+      clock could measure it. The effect is far beyond current detection, but it
+      could reveal a hidden connection between quantum mechanics, gravity, and
+      spacetime.
+    imageUrl: https://www.sciencedaily.com/images/1920/a-twitch-in-time.webp
+    categories: []
+    publishedAt: 2026-09-11T05:18:44.000Z
+    source: ScienceDaily — Engineering
   - title: "August 2026 Was the Hottest Month Ever Recorded: Copernicus Data"
     url: https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/
     summary: While the strengthening El Niño helped boost temperatures, climate
@@ -45,31 +121,6 @@ articles:
       - Science / Environment
     publishedAt: 2026-09-10T20:20:23.000Z
     source: WIRED science
-  - title: Robots Are Learning to Feel
-    url: https://spectrum.ieee.org/tactile-data-robots
-    summary: Dexterous manipulation remains one of the biggest barriers keeping
-      robots from successfully tackling a wide range of everyday tasks. A sense
-      of touch could be the key, but a lack of quality data has held back
-      progress. This is now starting to change as academic labs and startups
-      race to build new tactile datasets and techniques to put them to use.
-    imageUrl: https://spectrum.ieee.org/media-library/image.jpg?id=67745231&width=980
-    categories:
-      - Robotics
-      - Manipulation
-      - Tactile-sensing
-    publishedAt: 2026-09-10T18:22:35.000Z
-    source: IEEE Spectrum — Robotics
-  - title: AI may cut junior coding tasks and weaken the pipeline to senior developers
-    url: https://techxplore.com/news/2026-09-ai-junior-coding-tasks-weaken.html
-    summary: New research suggests that generative artificial intelligence (AI)
-      could weaken not only employment opportunities for junior software
-      developers but also the pathway through which they develop into senior
-      professionals.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/snu-professor-taesup-m.jpg
-    categories:
-      - Software
-    publishedAt: 2026-09-10T17:40:01.000Z
-    source: TechXplore — Computer Science
   - title: The future of robot-human collaboration
     url: https://techxplore.com/news/2026-09-future-robot-human-collaboration.html
     summary: Humans are difficult to simulate. We are quick, complex thinkers, and
@@ -80,30 +131,12 @@ articles:
       - Robotics
     publishedAt: 2026-09-10T14:00:08.000Z
     source: TechXplore — Robotics
-  - title: MIT Schwarzman College of Computing launches pilot to help educators
-      teach AI across disciplines
-    url: https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909
-    summary: This summer, the MIT Schwarzman College of Computing welcomed faculty
-      from colleges and universities across Greater Boston, South Carolina, West
-      Virginia, and Texas to campus for the inaugural AI Educators Pilot, a
-      weeklong workshop aimed at expanding how artificial intelligence is taught
-      across disciplines and learning environments. Inspired by MIT class
-      C01/C51 (Modeling with Machine Learning), a course developed through
-      the Common Ground for computing and AI education that focuses on helping
-      students understand and apply foundational AI and machine learning
-      concepts to problem-solving in their own disciplines, the workshop gave
-      educators an opportunity to explore how its materials and teaching methods
-      could be adapted for their classrooms.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-schwarzman-AI-EDUCATORS.jpg?itok=7n4L56BI
-    categories: []
-    publishedAt: 2026-09-09T20:40:00.000Z
-    source: MIT Artificial Intelligence
   - title: AI Models Are Watermarking Text—Will You Notice?
     url: https://spectrum.ieee.org/ai-watermark-text-anthropic-openai
     summary: On 11 August, Anthropic announced that all future Claude models will
       generate text that contains a watermark that identifies its results as AI
       generated. The company is not alone. Google has its own text watermark
-      (which Anthropic’s is based on) it uses on the output of its Gemini
+      (which Anthropic’s is based on) that it uses on the output of its Gemini
       models. OpenAI has yet to introduce a text watermark but it plans to do
       so.
     imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-cursor-symbol-for-editing-text-set-against-a-green-background-with-sporadic-pieces-highlighted-in-r.jpg?id=67710314&width=1245&height=700&coordinates=0%2C187%2C0%2C188
@@ -116,37 +149,12 @@ articles:
       - Google
     publishedAt: 2026-09-09T12:00:04.000Z
     source: IEEE Spectrum — AI
-  - title: Chinese scientists find a hidden atomic structure that unlocks methane
-    url: https://www.sciencedaily.com/releases/2026/09/260909005148.htm
-    summary: Scientists found that a tiny atomic structure that forms on nickel
-      oxide during methane conversion is more effective than the metallic nickel
-      long believed to drive the reaction. The discovery allowed a low-nickel
-      catalyst to rival one containing 10 times more metal, potentially opening
-      the door to cheaper and more efficient industrial catalysts.
-    imageUrl: https://www.sciencedaily.com/images/1920/ni1o4ni4-active-structure.webp
-    categories: []
-    publishedAt: 2026-09-09T05:33:42.000Z
-    source: ScienceDaily — Engineering
-  - title: Scientists find a way to slash computer memory energy use by orders of
-      magnitude
-    url: https://www.sciencedaily.com/releases/2026/09/260906170132.htm
-    summary: Scientists have devised a new way to switch magnetic computer memory
-      while using far less energy than today's leading technologies. By
-      mathematically optimizing the pulses used to flip digital bits, the method
-      could reduce energy consumption by several orders of magnitude.
-      Simulations suggest it may bring future memory devices surprisingly close
-      to the fundamental physical limit for processing information. The same
-      idea could eventually work with electrical currents or ultrafast lasers.
-    imageUrl: https://www.sciencedaily.com/images/1920/magnetic-memory-technologies.webp
-    categories: []
-    publishedAt: 2026-09-07T01:14:19.000Z
-    source: ScienceDaily — Robotics
   - title: How Sound Could Make Sense of Big Data
     url: https://spectrum.ieee.org/data-sonification-stephen-roddy
     summary: In the art of transforming data into easily interpretable displays,
       visualization is usually the go-to option. But sight isn’t the only sense
       we can use to make sense of numeric information.
-    imageUrl: https://spectrum.ieee.org/media-library/a-conceptual-illustration-of-a-sound-wave-and-binary-0s-and-1s.jpg?id=67720868&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    imageUrl: https://spectrum.ieee.org/media-library/a-conceptual-illustration-of-a-sound-wave-and-binary-0s-and-1s.jpg?id=67720868&width=1200&height=800&coordinates=62%2C0%2C63%2C0
     categories:
       - Datamining
       - Audio-processing
@@ -178,19 +186,6 @@ articles:
     categories: []
     publishedAt: 2026-09-04T04:00:00.000Z
     source: MIT Engineering
-  - title: A “quantum bath” puts quantum entanglement on autopilot
-    url: https://www.sciencedaily.com/releases/2026/08/260830000002.htm
-    summary: Physicists have demonstrated a new way to entangle distant quantum bits
-      without the constant measurements and active control normally required.
-      The team created a “quantum bath,” a shared environment filled with
-      correlated microwave photons that automatically pushes separated qubits
-      into an entangled state and helps keep them there. The experiment confirms
-      a theoretical prediction made more than 20 years ago and could offer a
-      simpler way to connect modules in future quantum computers.
-    imageUrl: https://www.sciencedaily.com/images/1920/alejandro-andres-juanes.webp
-    categories: []
-    publishedAt: 2026-08-31T13:08:37.000Z
-    source: ScienceDaily — Artificial Intelligence
   - title: Make a Portable Wide-screen Mechanical TV
     url: https://spectrum.ieee.org/mechanical-tv-2677767814
     summary: I never intended to join the cutting edge of electromechanical
