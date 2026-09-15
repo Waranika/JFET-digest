@@ -1,41 +1,158 @@
-date: 2026-09-12
+date: 2026-09-15
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Meta Sued Over Training Data for Its AI and Face-Recognition Systems
-    url: https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/
-    summary: The proposed class action alleges Meta illegally harvested people’s
-      Facebook and Instagram photos to train its AI image-generation models and
-      to build its unreleased “NameTag” face recognition feature.
-    imageUrl: https://media.wired.com/photos/6aa4120d92d2b4de236f2240/191:100/w_1280,c_limit/GettyImages-2289768151.jpg
+  - title: "Doomers and boosters: Who's who in the AI wars"
+    url: https://techxplore.com/news/2026-09-doomers-boosters-ai-wars.html
+    summary: The furious debate over artificial intelligence has hardened into
+      warring camps—and a cautious middle.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/fear-of-technologys-da.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-09-15T09:00:06.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Periodic voltage fluctuations can 'see' inside lithium batteries, no
+      disassembly required
+    url: https://techxplore.com/news/2026-09-periodic-voltage-fluctuations-lithium-batteries.html
+    summary: Monitoring the lifespan of a lithium-ion battery without disassembling
+      it may be possible. This prospect emerged from a study published in May in
+      the journal Cell Reports Physical Science by researchers at the State
+      University of Campinas (UNICAMP) in the state of São Paulo, Brazil, and
+      their collaborators. The scientists created an advanced computational
+      model to investigate these energy sources and discovered that natural
+      voltage fluctuations act as an "X-ray" of the system. This reveals the
+      microscopic structure of battery materials and the speed of the chemical
+      reactions occurring within them. The finding paves the way for rapid,
+      low-cost diagnostics in energy storage.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/periodic-voltage-fluct.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-09-14T20:40:04.000Z
+    source: TechXplore — Engineering
+  - title: "'Hardflow' algorithm could help generative AI produce high-quality
+      outputs that obey strict requirements"
+    url: https://techxplore.com/news/2026-09-hardflow-algorithm-generative-ai-high.html
+    summary: "MIT researchers have developed a new technique that helps generative
+      artificial intelligence models find solutions to high-stakes problems. In
+      these settings, a plausible answer is not enough: The output often must
+      also satisfy nonnegotiable safety, physical or task-specific requirements,
+      known as hard constraints."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/algorithm-1.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-09-14T17:00:03.000Z
+    source: TechXplore — Computer Science
+  - title: New York Seizes a Dozen Celebrity Deepfake Websites
+    url: https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/
+    summary: In the biggest-ever legal action against harmful deepfake websites, the
+      Manhattan District Attorney’s Office has seized 12 sites that collectively
+      targeted around 1,200 victims.
+    imageUrl: https://media.wired.com/photos/6aa81a44054ce52476eda4d7/191:100/w_1280,c_limit/Security_New%20York%20Seizes%20More%20Than%20a%20Dozen%20Celebrity%20Deepfake%20Websites_v1.jpg
     categories:
       - Security
       - Security / Privacy
-    publishedAt: 2026-09-11T18:59:25.000Z
+    publishedAt: 2026-09-14T16:50:00.000Z
     source: WIRED (AI)
-  - title: Weighing 600 million buildings to help construct a more efficient future
-    url: https://techxplore.com/news/2026-09-million-efficient-future.html
-    summary: A new study helps show how builders and city planners can minimize the
-      materials needed to accommodate the planet's future population.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/building.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-09-11T18:00:08.000Z
-    source: TechXplore — Engineering
-  - title: How randomness tames vast network problems
-    url: https://techxplore.com/news/2026-09-randomness-vast-network-problems.html
-    summary: Networks are everywhere. They connect computers across the internet,
-      carry electricity through power grids and represent transport routes for
-      moving people and goods. Yet many problems that appear to have nothing to
-      do with networks can also be represented and solved as networks. Examples
-      include matching passengers with drivers in a ride-hailing app or
-      distributing computing tasks across servers.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/how-randomness-tames-v.jpg
+  - title: This design software reimagines everyday objects as self-aware devices
+    url: https://techxplore.com/news/2026-09-software-reimagines-everyday-aware-devices.html
+    summary: "As a child, you likely saw a few Disney movies depicting inanimate
+      objects, such as clocks, cups and toys, as interactive companions to
+      humans—an act of pure magic, seemingly. But scientists at MIT's Computer
+      Science and Artificial Intelligence Laboratory (CSAIL) are now doing
+      something similar: transforming stationary items into self-aware tools
+      that perceive and respond to human motion to complete a task."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/this-design-software-r.jpg
     categories:
       - Software
-    publishedAt: 2026-09-11T15:40:03.000Z
-    source: TechXplore — Computer Science
+    publishedAt: 2026-09-14T16:00:07.000Z
+    source: TechXplore — Robotics
+  - title: Responsible AI for Higher Education
+    url: https://webinars.on24.com/wileyevents/ResponsibleAI
+    summary: This interactive webinar will introduce the different types of AI,
+      address the concerns with AI, share how we IBM are approaching Responsible
+      AI, and offer guidance to students about what they can do - as
+      individuals, and members of their IEEE chapters. Participants will also
+      have the opportunity to to apply the Responsible AI approach to a
+      particular use case - IBM Bob, a software development life cycle agent,
+      and Q&A. This will be an interactive session, so have phones ready to
+      engage!
+    imageUrl: https://spectrum.ieee.org/media-library/ibm-skillsbuild-logo-in-bold-black-text.png?id=67770920&width=980
+    categories:
+      - Type-webinar
+      - Responsible-ai
+      - Software-development
+      - Higher-education
+    publishedAt: 2026-09-14T14:18:11.000Z
+    source: IEEE Spectrum — AI
+  - title: How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip
+    url: https://spectrum.ieee.org/llms-for-chip-design
+    summary: On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI
+      accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute
+      and accesses 232 gigabytes of the most advanced memory available, linking
+      to it at a blazing 15.4 terabytes per second. Benchmarks cited by OpenAI
+      show that Jalapeño can reduce end-to-end latency (the time between prompt
+      to last token) by up to 3.6x when compared to Nvidia’s GB300—a chip the
+      company currently relies on—and do so while consuming less power.
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-a-computer-processor-consisting-of-several-pieces-of-silicon.jpg?id=67770467&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Openai
+      - Llms
+      - Chip-design
+    publishedAt: 2026-09-14T14:06:31.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: New method enables AI for safety-critical situations
+    url: https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914
+    summary: MIT researchers have developed a new technique that helps generative
+      artificial intelligence models find solutions to high-stakes problems.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Hard-Constrained-01-Press.jpg?itok=pDUT8NRC
+    categories: []
+    publishedAt: 2026-09-14T04:00:00.000Z
+    source: MIT Robotics
+  - title: Scientists are building a microscope powered by a quantum computer
+    url: https://www.sciencedaily.com/releases/2026/09/260912220038.htm
+    summary: Scientists are combining an electron microscope with a quantum computer
+      to squeeze far more information from each electron. The approach could
+      reveal faint details with fewer electrons, helping protect fragile samples
+      that conventional microscopy can damage.
+    imageUrl: https://www.sciencedaily.com/images/1920/artistic-visualization-of-quantum-electron-microscope.webp
+    categories: []
+    publishedAt: 2026-09-13T12:03:59.000Z
+    source: ScienceDaily — Engineering
+  - title: AI uncovers hidden Ozempic side effects across 400,000 Reddit posts
+    url: https://www.sciencedaily.com/releases/2026/09/260912222856.htm
+    summary: AI analysis of 400,000 Reddit posts found that users of drugs such as
+      Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms
+      including menstrual changes, chills, hot flashes, and fatigue. Researchers
+      cannot say the medications caused these problems, but the patterns may
+      reveal overlooked signals worth studying.
+    imageUrl: https://www.sciencedaily.com/images/1920/woman-face-close-up-surprise-worry-fear.webp
+    categories: []
+    publishedAt: 2026-09-13T10:46:19.000Z
+    source: ScienceDaily — Robotics
+  - title: AI Agents Are Thirsty for Power
+    url: https://www.wired.com/story/ai-agents-are-thirsty-for-power/
+    summary: Silicon Valley is shifting away from chatbot queries toward a future
+      filled with resource-intensive agentic AI—and it's driving the data center
+      buildout.
+    imageUrl: https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-09-13T10:00:00.000Z
+    source: WIRED science
+  - title: Tiny sound waves could help solve a major quantum computing problem
+    url: https://www.sciencedaily.com/releases/2026/09/260911214245.htm
+    summary: Researchers at Harvard have demonstrated a way to protect quantum
+      information using microscopic sound waves. By continuously surrounding a
+      diamond-based qubit with mechanical vibrations, they extended its
+      coherence time by roughly threefold. The same phonons could eventually
+      both transmit and protect quantum information, opening the door to compact
+      sound-based quantum networks on chips.
+    imageUrl: https://www.sciencedaily.com/images/1920/silicon-vacancy-center-in-diamond-crystal-lattice.webp
+    categories: []
+    publishedAt: 2026-09-12T14:08:20.000Z
+    source: ScienceDaily — Computer Science
   - title: "Video Friday: Humanoid Robot Takes On Monkey Bars"
     url: https://spectrum.ieee.org/video-friday-disaster-response-robots
     summary: Video Friday is your weekly selection of awesome robotics videos,
@@ -52,140 +169,6 @@ articles:
       - Quadruped-robots
     publishedAt: 2026-09-11T15:30:04.000Z
     source: IEEE Spectrum — Robotics
-  - title: Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology
-      Transfer Award
-    url: https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911
-    summary: The Federal Laboratory Consortium (FLC) selected AI-GUIDE, a medical
-      device developed by MIT Lincoln Laboratory and Massachusetts General
-      Hospital (MGH), for its 2026 Excellence in Technology Transfer Award. This
-      award recognizes federal laboratories and collaborators who have
-      accomplished outstanding work in the process of transferring technology.
-      With funding from the U.S. Army's Combat Casualty Care Research Program
-      (CCC), Lincoln Laboratory and MGH developed AI-GUIDE and are in the
-      process of transferring the prototype to the startup company AutonomUS
-      Medical Technologies, Inc.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-lincoln-AI-GUIDE.jpg?itok=2Fxb1RR9
-    categories: []
-    publishedAt: 2026-09-11T13:45:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Get AI models 'under control,' EU tells tech firms after hacks
-    url: https://techxplore.com/news/2026-09-ai-eu-tech-firms-hacks.html
-    summary: Top tech firms need to get their powerful artificial intelligence
-      models "under control," the European Union warned Friday after a series of
-      hacks by AI agents.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-agents.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-09-11T13:40:07.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Tiny nanolaser could cut computer energy use in half
-    url: https://www.sciencedaily.com/releases/2026/09/260911003858.htm
-    summary: Scientists have created an ultra-small nanolaser that could eventually
-      allow microchips to transmit information with light instead of
-      electricity, potentially making computers faster while cutting energy use
-      roughly in half. Thousands of the lasers could fit on a single chip,
-      opening possibilities for more efficient data centers, smartphones, and
-      advanced medical sensors.
-    imageUrl: https://www.sciencedaily.com/images/1920/nanolaser.webp
-    categories: []
-    publishedAt: 2026-09-11T12:03:26.000Z
-    source: ScienceDaily — Computer Science
-  - title: Scientists just made quantum computer operations 1,000 times faster
-    url: https://www.sciencedaily.com/releases/2026/09/260911003845.htm
-    summary: Researchers have found a way to perform certain quantum operations more
-      than 1,000 times faster, cutting thousands of repeated control cycles down
-      to just one. The advance could reduce errors and bring reliable,
-      fault-tolerant quantum computers closer to reality.
-    imageUrl: https://www.sciencedaily.com/images/1920/accelerating-quantum-computations.webp
-    categories: []
-    publishedAt: 2026-09-11T11:52:30.000Z
-    source: ScienceDaily — Robotics
-  - title: Physicists just found a tiny glitch in time itself
-    url: https://www.sciencedaily.com/releases/2026/09/260910225251.htm
-    summary: Unconventional quantum theories may imply that time itself has a tiny
-      fundamental uncertainty, placing an ultimate limit on how precisely any
-      clock could measure it. The effect is far beyond current detection, but it
-      could reveal a hidden connection between quantum mechanics, gravity, and
-      spacetime.
-    imageUrl: https://www.sciencedaily.com/images/1920/a-twitch-in-time.webp
-    categories: []
-    publishedAt: 2026-09-11T05:18:44.000Z
-    source: ScienceDaily — Engineering
-  - title: "August 2026 Was the Hottest Month Ever Recorded: Copernicus Data"
-    url: https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/
-    summary: While the strengthening El Niño helped boost temperatures, climate
-      change is the main culprit for making August so hot.
-    imageUrl: https://media.wired.com/photos/6aa2fe8bf61e32d0e5c27220/191:100/w_1280,c_limit/You-Just-Lived-Through-the-Hottest-Month-Ever-Science-2286431827.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-09-10T20:20:23.000Z
-    source: WIRED science
-  - title: The future of robot-human collaboration
-    url: https://techxplore.com/news/2026-09-future-robot-human-collaboration.html
-    summary: Humans are difficult to simulate. We are quick, complex thinkers, and
-      our exact actions aren't predictable. So how can we sufficiently train
-      robots to collaborate with us?
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/the-future-of-robot-hu.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-09-10T14:00:08.000Z
-    source: TechXplore — Robotics
-  - title: AI Models Are Watermarking Text—Will You Notice?
-    url: https://spectrum.ieee.org/ai-watermark-text-anthropic-openai
-    summary: On 11 August, Anthropic announced that all future Claude models will
-      generate text that contains a watermark that identifies its results as AI
-      generated. The company is not alone. Google has its own text watermark
-      (which Anthropic’s is based on) that it uses on the output of its Gemini
-      models. OpenAI has yet to introduce a text watermark but it plans to do
-      so.
-    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-cursor-symbol-for-editing-text-set-against-a-green-background-with-sporadic-pieces-highlighted-in-r.jpg?id=67710314&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Generative-ai
-      - Watermark
-      - Large-language-models
-      - Anthropic
-      - Openai
-      - Google
-    publishedAt: 2026-09-09T12:00:04.000Z
-    source: IEEE Spectrum — AI
-  - title: How Sound Could Make Sense of Big Data
-    url: https://spectrum.ieee.org/data-sonification-stephen-roddy
-    summary: In the art of transforming data into easily interpretable displays,
-      visualization is usually the go-to option. But sight isn’t the only sense
-      we can use to make sense of numeric information.
-    imageUrl: https://spectrum.ieee.org/media-library/a-conceptual-illustration-of-a-sound-wave-and-binary-0s-and-1s.jpg?id=67720868&width=1200&height=800&coordinates=62%2C0%2C63%2C0
-    categories:
-      - Datamining
-      - Audio-processing
-      - Data-visualization
-      - 6g
-    publishedAt: 2026-09-06T13:00:01.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: Researchers tune into Arctic under-ice sounds and test through-ice
-      communication
-    url: https://news.mit.edu/2026/researchers-tune-into-arctic-under-ice-sounds-test-through-ice-communication-0904
-    summary: Beneath the Arctic Ocean is an orchestra featuring natural and human
-      composers, from cracking sea ice and whistling beluga whales to humming
-      shipping-vessel engines. Researchers from MIT Lincoln Laboratory heard
-      some of this cacophony when analyzing data from commercial off-the-shelf
-      sensors that they integrated and deployed in 2024 during the U.S. Navy's
-      Operation Ice Camp (OIC). This past March, during OIC 2026, the
-      researchers returned to the Arctic with a higher-fidelity version of one
-      of the sensors, a geophone, which detects vibrations in the sea ice.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-lincoln-arctic.jpg?itok=6nWRBF0j
-    categories: []
-    publishedAt: 2026-09-04T16:25:00.000Z
-    source: MIT Robotics
-  - title: "New method allows scientists to follow gene activity over time in the
-      same cells "
-    url: https://news.mit.edu/2026/new-method-allows-following-gene-activity-over-time-same-cells-0904
-    summary: The following press release was issued Sept. 1 by the Broad Institute
-      of MIT and Harvard.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Cellular-Reporting-01-press.jpg?itok=j2GJmQ2o
-    categories: []
-    publishedAt: 2026-09-04T04:00:00.000Z
-    source: MIT Engineering
   - title: Make a Portable Wide-screen Mechanical TV
     url: https://spectrum.ieee.org/mechanical-tv-2677767814
     summary: I never intended to join the cutting edge of electromechanical
