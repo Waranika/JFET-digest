@@ -1,86 +1,112 @@
-date: 2026-09-16
+date: 2026-09-17
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: ‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy
-    url: https://www.wired.com/story/smart-nanoparticles-deliver-mrna-directly-to-tumors-in-new-cancer-therapy/
-    summary: The treatment can reprogram immune cells that have been corrupted by
-      the cancer, strengthening the body’s ability to attack.
-    imageUrl: https://media.wired.com/photos/6aa98fe35f699411f4e1b613/191:100/w_1280,c_limit/celulacancer.jpg
-    categories:
-      - Science
-      - Science / Biotech
-    publishedAt: 2026-09-16T08:30:00.000Z
-    source: WIRED science
-  - title: Pickle-flavored tart? AI inspires Japan's convenience stores
-    url: https://techxplore.com/news/2026-09-pickle-flavored-tart-ai-japan.html
-    summary: Fears that advanced artificial intelligence could wipe out humanity
-      have dominated global headlines, but in Japan, the technology is being
-      used for a sweeter purpose—developing never-before-seen convenience store
-      desserts.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/lawson-one-of-japans-b.jpg
+  - title: New California law mandates AI performer disclosure in ads
+    url: https://techxplore.com/news/2026-09-california-law-mandates-ai-disclosure.html
+    summary: Advertisers must disclose the use of AI-generated performers to
+      consumers in California under a new law signed Wednesday by the state's
+      governor.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-6.jpg
     categories:
       - Machine learning & AI
-    publishedAt: 2026-09-16T08:11:48.000Z
+    publishedAt: 2026-09-17T08:40:01.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Measure by measure, studying society accurately
-    url: https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916
-    summary: Let’s agree at the outset the world is a complicated place, and social
-      scientists have exacting jobs when it comes to measuring civic phenomena
-      with precision.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Naoki-Egami-01-press_1.jpg?itok=eU3WGFSb
+  - title: Robotic lab sets up and runs optics experiments on demand
+    url: https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917
+    summary: Every new generation of phone display, television screen, and solar
+      panel is a result of precision optics experiments, which use lasers and
+      other light sources to measure the optical properties of candidate
+      materials. These experiments can take months to run, requiring scientists
+      to meticulously angle and adjust delicate light sources, mirrors, cameras,
+      and other components, in a careful and constant tuning that can be
+      physically tedious and time-consuming.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Robot-Labs-01-press.jpg?itok=GJV66E88
     categories: []
-    publishedAt: 2026-09-16T04:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Researchers develop two-level AI framework for more informative steel
-      bridge corrosion inspection
-    url: https://techxplore.com/news/2026-09-ai-framework-steel-bridge-corrosion.html
-    summary: Corrosion is a major concern for aging steel bridges because
-      progressive material loss can affect their long-term serviceability and,
-      in severe cases, structural safety. Visual inspection remains
-      indispensable for assessing bridge condition, but inspectors must evaluate
-      corrosion under widely varying conditions, including differences in
-      lighting, coating color, shadows, surface deposits, structural geometry
-      and accessibility. These factors can make consistent corrosion assessment
-      challenging.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-develop-tw.jpg
+    publishedAt: 2026-09-17T04:00:00.000Z
+    source: MIT Robotics
+  - title: First grid-connected sodium-sulfur battery is developed in Australia
+    url: https://techxplore.com/news/2026-09-grid-sodium-sulfur-battery-australia.html
+    summary: Queensland researchers have reached a milestone in powering Australia's
+      critical minerals refining industry, successfully delivering the nation's
+      first grid-connected sodium-sulfur (NaS) battery energy storage system
+      enabled by Queensland-made DC-DC converters.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/first-grid-connected-s.jpg
     categories:
       - Engineering
-    publishedAt: 2026-09-15T20:00:03.000Z
+    publishedAt: 2026-09-17T02:40:01.000Z
     source: TechXplore — Engineering
-  - title: Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe
-    url: https://spectrum.ieee.org/humanoid-robot-safety
-    summary: "Despite the recent deluge of videos of humanoid robots doing backflips
-      and kung-fu, the actual pace of progress towards humanoids that can do
-      economically viable jobs at scale has at times seemed a bit plodding.
-      There are some good reasons for this: a humanoid robot needs to be
-      powerful enough to do useful work, safe enough for humans to walk past,
-      and have enough battery life to limit how much of the day it’s hooked to a
-      charger. But all three of those necessary features actively work against
-      each other."
-    imageUrl: https://spectrum.ieee.org/media-library/a-front-and-an-angled-view-of-a-teal-colored-humanoid-robot-with-arms-bent-at-the-elbow.jpg?id=67776740&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+  - title: OpenAI Creates a New Framework to Disclose Bad AI Behavior
+    url: https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/
+    summary: The company also disclosed previously unreported incidents in which its
+      AI models behaved in misaligned ways, including uploading files to the
+      internet without being asked.
+    imageUrl: https://media.wired.com/photos/6aaade9cf251bfe9554bf39a/191:100/w_1280,c_limit/OpenAI-Releases-New-AI-Policy-Business-2294958021.jpg
     categories:
-      - Humanoid
-      - Humanoid-robots
-      - Functional-safety
-      - Safety
-      - Agility-robotics
-    publishedAt: 2026-09-15T15:22:30.000Z
-    source: IEEE Spectrum — Robotics
-  - title: AI imagines a harsher social world, expecting punishment where people
-      expect inaction
-    url: https://techxplore.com/news/2026-09-ai-harsher-social-world-people.html
-    summary: Artificial intelligence (AI) systems, particularly the large language
-      models (LLMs) that underpin ChatGPT and similar platforms, are remarkably
-      skilled at answering queries about a wide range of topics. However, the
-      extent to which they can interpret social situations and predict how
-      humans might respond in specific scenarios remains poorly understood.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-overestimates-how-o-1.jpg
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-09-16T22:07:24.000Z
+    source: WIRED (AI)
+  - title: Compact AI training method reduces navigation conflicts in crowded
+      environments
+    url: https://techxplore.com/news/2026-09-compact-ai-method-conflicts-crowded.html
+    summary: A research team led by Professor Daehee Park of the Department of
+      Electrical Engineering and Computer Science at DGIST, in collaboration
+      with a research team from KAIST, has developed a learning technique that
+      enables a single compact AI model to simultaneously predict the movements
+      of nearby people and plan safe navigation paths for robots while reducing
+      performance degradation in both tasks. The research was presented at the
+      19th European Conference on Computer Vision (ECCV 2026) held in Malmö,
+      Sweden, Sept. 8–12. The paper is available on the arXiv preprint server.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/compact-ai-training-me.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-09-16T22:00:03.000Z
+    source: TechXplore — Robotics
+  - title: Your brain runs on 20 watts. Could brain‑inspired computing do the same?
+    url: https://techxplore.com/news/2026-09-brain-watts-braininspired.html
+    summary: Right now, your brain is recognizing the shapes of these letters,
+      analyzing their meaning and holding a stream of thought together—all on
+      about 20 watts of power. That's roughly what it takes to run a light bulb.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/your-brain-runs-on-20.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-09-15T14:20:01.000Z
+    publishedAt: 2026-09-16T19:00:09.000Z
     source: TechXplore — Computer Science
+  - title: Rethinking Robot Safety in the Age of AI
+    url: https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone
+    summary: This article is brought to you by VicOne.
+    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1200&height=400&coordinates=0%2C229%2C0%2C230
+    categories:
+      - Physical-ai
+      - Humanoid-robots
+      - Type-sponsored
+      - Ai-robots
+      - Cybersecurity
+    publishedAt: 2026-09-16T16:51:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: New AI technique could make minimally invasive surgeries safer and more
+      precise
+    url: https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916
+    summary: Researchers created a new technique that accurately and rapidly matches
+      X-rays captured during surgery with a patient’s preoperative 3D medical
+      scan. This method could make it easier for clinicians to precisely pilot
+      minimally invasive surgical tools, leading to faster and safer procedures.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-VolumeRegistration-01-press.jpg?itok=oHDoDATr
+    categories: []
+    publishedAt: 2026-09-16T15:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Why It Seems Like Great White Sharks Are Overrunning Maine
+    url: https://www.wired.com/story/why-great-white-sharks-are-overrunning-maine/
+    summary: While a bunch of sharks cruising the Maine coast may seem ominous, it’s
+      actually a sign of a conservation success story.
+    imageUrl: https://media.wired.com/photos/6a9ec517f56ff571deb2aede/191:100/w_1280,c_limit/GettyImages-1141959253.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-09-16T09:15:00.000Z
+    source: WIRED science
   - title: The shape behind the Einstein problem just revealed strange new physics
     url: https://www.sciencedaily.com/releases/2026/09/260914102432.htm
     summary: A mathematical shape famous for covering a surface without ever
@@ -91,53 +117,6 @@ articles:
     categories: []
     publishedAt: 2026-09-15T13:14:55.000Z
     source: ScienceDaily — Artificial Intelligence
-  - title: The AI Inference Revolution Is Here
-    url: https://spectrum.ieee.org/inference-hardware-revolution
-    summary: "Since about 2020, AI has largely focused on training bigger and better
-      models. Large language models (LLMs) ballooned from millions of parameters
-      to trillions. This proved effective: The largest version of OpenAI’s
-      GPT-3, released in 2020, correctly answered just 43.9 percent of questions
-      on a popular knowledge-and-reasoning benchmark. Just four years later,
-      GPT-4o reached a score of 88.7 percent on the same exam, effectively
-      matching those of human experts."
-    imageUrl: https://spectrum.ieee.org/media-library/silhouetted-hand-holding-a-glowing-computer-chip-against-a-blue-background.jpg?id=67740879&width=1200&height=800&coordinates=0%2C666%2C0%2C667
-    categories:
-      - Large-language-models
-      - Ai-hardware
-      - Memory
-    publishedAt: 2026-09-15T13:00:05.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: This design software reimagines everyday objects as self-aware devices
-    url: https://techxplore.com/news/2026-09-software-reimagines-everyday-aware-devices.html
-    summary: "As a child, you likely saw a few Disney movies depicting inanimate
-      objects, such as clocks, cups and toys, as interactive companions to
-      humans—an act of pure magic, seemingly. But scientists at MIT's Computer
-      Science and Artificial Intelligence Laboratory (CSAIL) are now doing
-      something similar: transforming stationary items into self-aware tools
-      that perceive and respond to human motion to complete a task."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/this-design-software-r.jpg
-    categories:
-      - Software
-    publishedAt: 2026-09-14T16:00:07.000Z
-    source: TechXplore — Robotics
-  - title: Responsible AI for Higher Education
-    url: https://webinars.on24.com/wileyevents/ResponsibleAI
-    summary: This interactive webinar will introduce the different types of AI,
-      address the concerns with AI, share how we IBM are approaching Responsible
-      AI, and offer guidance to students about what they can do - as
-      individuals, and members of their IEEE chapters. Participants will also
-      have the opportunity to to apply the Responsible AI approach to a
-      particular use case - IBM Bob, a software development life cycle agent,
-      and Q&A. This will be an interactive session, so have phones ready to
-      engage!
-    imageUrl: https://spectrum.ieee.org/media-library/ibm-skillsbuild-logo-in-bold-black-text.png?id=67770920&width=980
-    categories:
-      - Type-webinar
-      - Responsible-ai
-      - Software-development
-      - Higher-education
-    publishedAt: 2026-09-14T14:18:11.000Z
-    source: IEEE Spectrum — AI
   - title: New method enables AI for safety-critical situations
     url: https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914
     summary: MIT researchers have developed a new technique that helps generative
@@ -145,7 +124,7 @@ articles:
     imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Hard-Constrained-01-Press.jpg?itok=pDUT8NRC
     categories: []
     publishedAt: 2026-09-14T04:00:00.000Z
-    source: MIT Robotics
+    source: MIT Engineering
   - title: Scientists are building a microscope powered by a quantum computer
     url: https://www.sciencedaily.com/releases/2026/09/260912220038.htm
     summary: Scientists are combining an electron microscope with a quantum computer
