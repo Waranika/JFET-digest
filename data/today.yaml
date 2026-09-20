@@ -1,18 +1,164 @@
-date: 2026-09-17
+date: 2026-09-20
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: New California law mandates AI performer disclosure in ads
-    url: https://techxplore.com/news/2026-09-california-law-mandates-ai-disclosure.html
-    summary: Advertisers must disclose the use of AI-generated performers to
-      consumers in California under a new law signed Wednesday by the state's
-      governor.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-6.jpg
+  - title: Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans
+    url: https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/
+    summary: Several new studies have uncovered this long overlooked aspect of coral
+      physiology that could be the key to the animals’ fate in a changing
+      climate.
+    imageUrl: https://media.wired.com/photos/6aaa6fa1c2ed37865ee8fc75/191:100/w_1280,c_limit/CoralCilia-crCesarPacharres-Lede.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-09-20T09:00:00.000Z
+    source: WIRED science
+  - title: Anthropic picks Accenture for in-house AI safety evaluation
+    url: https://techxplore.com/news/2026-09-anthropic-accenture-house-ai-safety.html
+    summary: Anthropic said Friday it is partnering with consulting giant Accenture
+      to have outside evaluators work inside the AI company, a step toward
+      fulfilling a pledge by CEO Dario Amodei to have independent observers
+      evaluate its most powerful models.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/anthropic-and-accentur.jpg
     categories:
       - Machine learning & AI
-    publishedAt: 2026-09-17T08:40:01.000Z
+    publishedAt: 2026-09-19T15:40:04.000Z
     source: TechXplore — AI & Machine Learning
+  - title: Construction exoskeletons may help workers spot hazards by reducing fatigue
+    url: https://techxplore.com/news/2026-09-exoskeletons-workers-hazards-fatigue.html
+    summary: Taking some of the physical strain off construction workers could do
+      more than reduce fatigue. New research from Texas A&M University suggests
+      it may also help them recognize hazards around them.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-construction-worker-1.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-09-19T12:00:04.000Z
+    source: TechXplore — Engineering
+  - title: This tiny organism can shrink to one quarter its size in milliseconds
+    url: https://www.sciencedaily.com/releases/2026/09/260918024812.htm
+    summary: A single-celled organism can shrink to one-quarter of its length in
+      milliseconds using a remarkable calcium-powered protein “fishnet.”
+      Scientists hope its unusual machinery could inspire artificial muscles
+      capable of moving far faster than today’s designs.
+    imageUrl: https://www.sciencedaily.com/images/1920/spirostomum-ambiguum.webp
+    categories: []
+    publishedAt: 2026-09-19T11:39:22.000Z
+    source: ScienceDaily — Robotics
+  - title: Scientists find that “perfect” systems may be surprisingly fragile
+    url: https://www.sciencedaily.com/releases/2026/09/260919031022.htm
+    summary: Complex systems may work better when their parts are not perfectly
+      alike. Northwestern physicists found that carefully balanced variation, or
+      “disorder,” can make networks such as power grids, ecosystems, neurons,
+      and materials more stable. Even random differences sometimes improved
+      stability compared with completely uniform systems. The discovery could
+      help researchers design more resilient technologies and explain why
+      natural systems are so rarely perfectly uniform.
+    imageUrl: https://www.sciencedaily.com/images/1920/evolving-paradigm-in-network-science.webp
+    categories: []
+    publishedAt: 2026-09-19T11:26:53.000Z
+    source: ScienceDaily — Engineering
+  - title: Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening
+    url: https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/
+    summary: AI labs are toying with an industry-wide pact to slow development.
+      Meanwhile, widely available AI chatbots are already helping uncover a
+      tidal wave of security flaws.
+    imageUrl: https://media.wired.com/photos/6aada5d618f30d6f17ee2971/191:100/w_1280,c_limit/Kernal-Panic-AI-SlowDown-Wont-Stop-Security-Vulnerability-Explosion-Security.jpg
+    categories:
+      - Security
+      - Security / Cyberattacks and Hacks
+    publishedAt: 2026-09-19T11:00:00.000Z
+    source: WIRED (AI)
+  - title: MIT researchers are mapping extreme weather risks — and building tools to
+      act on them
+    url: https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918
+    summary: Warming temperatures are fueling more extreme weather-related events —
+      catastrophic floods, severe hurricanes and cyclones, and wildfires
+      exacerbated by drought. But the tools used by local communities, emergency
+      and public safety agencies, and insurance and risk markets have not kept
+      pace with the up-to-date data and modeling for accurately predicting how
+      these events will evolve.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-climate-cyclone.jpg?itok=mQNGJPXJ
+    categories: []
+    publishedAt: 2026-09-18T16:55:00.000Z
+    source: MIT Engineering
+  - title: A new chapter for MIT Reads
+    url: https://news.mit.edu/2026/new-chapter-mit-reads-0918
+    summary: As it marks its 10-year anniversary, MIT Reads is being reimagined for
+      the age of artificial intelligence.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-reads-10-years-00_0.png?itok=0ZOA1D2u
+    categories: []
+    publishedAt: 2026-09-18T16:30:00.000Z
+    source: MIT Artificial Intelligence
+  - title: "Video Friday: Two Birotors Make a Quadrotor"
+    url: https://spectrum.ieee.org/video-friday-quadrotor-from-birotor
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/two-small-dual-propeller-robots-facing-each-other-connected-by-a-loose-green-cord.png?id=67790149&width=1245&height=700&coordinates=103%2C0%2C103%2C0
+    categories:
+      - Video-friday
+      - Quadrotors
+      - Robot-videos
+      - Home-robots
+      - Humanoid-robots
+      - Telepresence-robot
+    publishedAt: 2026-09-18T16:01:05.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Maple-seed-inspired robot flies more accurately with predictive control
+    url: https://techxplore.com/news/2026-09-maple-seed-robot-flies-accurately.html
+    summary: A flying robot with just one moving part may sound simple. Controlling
+      one precisely is anything but. Most conventional drones rely on several
+      rotors to control how they rise, turn and move. A robot with only one
+      actuator has far fewer ways to correct itself when it drifts off course,
+      encounters a disturbance or reaches the physical limits of what its motor
+      can achieve.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/maple-seed-inspired-ro.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-09-18T15:00:08.000Z
+    source: TechXplore — Robotics
+  - title: Superconducting Transistors to Solve Quantum Computing Woes
+    url: https://spectrum.ieee.org/superconducting-transistors
+    summary: A quantum computer can be an ungainly thing, because even the most
+      elegant qubit-housing cryostat usually sprouts a thicket of control
+      cables.
+    imageUrl: https://spectrum.ieee.org/media-library/optical-microscopy-image-of-a-superconducting-integrated-circuit.jpg?id=67788582&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Superconductors
+      - Quantum-computing
+      - Transistors
+      - Qubits
+    publishedAt: 2026-09-17T21:02:26.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: JWST’s mysterious little red dots may be black holes growing at
+      incredible speeds
+    url: https://www.sciencedaily.com/releases/2026/09/260917003703.htm
+    summary: New supercomputer simulations suggest JWST’s puzzling Little Red Dots
+      are rapidly growing black holes from the early Universe. Extreme radiation
+      may have helped create unusually massive black hole seeds, while dense
+      surrounding gas allowed them to grow dozens of times faster than black
+      holes can today. The simulated objects closely resemble the Little Red
+      Dots seen by Webb. If correct, they could solve the mystery of how
+      enormous black holes formed so soon after the Big Bang.
+    imageUrl: https://www.sciencedaily.com/images/1920/rapidly-growing-black-hole-aterui-iii-simulation.webp
+    categories: []
+    publishedAt: 2026-09-17T12:45:48.000Z
+    source: ScienceDaily — Computer Science
+  - title: A prosthodontic digital guide for reproducing lip–instrument positioning
+      for wind instruments
+    url: https://techxplore.com/news/2026-09-prosthodontic-digital-lipinstrument-positioning-instruments.html
+    summary: A digitally fabricated guide developed by researchers at Science Tokyo
+      captures and reproduces the spatial relationship between a musician's lips
+      and an air-reed instrument, such as a shakuhachi flute. By combining
+      facial and intraoral scans using CAD and 3D printing, the team created a
+      lightweight positioning guide based on an experienced player's embouchure.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-prosthodontic-digita.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-09-17T11:50:01.000Z
+    source: TechXplore — Computer Science
   - title: Robotic lab sets up and runs optics experiments on demand
     url: https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917
     summary: Every new generation of phone display, television screen, and solar
@@ -26,58 +172,10 @@ articles:
     categories: []
     publishedAt: 2026-09-17T04:00:00.000Z
     source: MIT Robotics
-  - title: First grid-connected sodium-sulfur battery is developed in Australia
-    url: https://techxplore.com/news/2026-09-grid-sodium-sulfur-battery-australia.html
-    summary: Queensland researchers have reached a milestone in powering Australia's
-      critical minerals refining industry, successfully delivering the nation's
-      first grid-connected sodium-sulfur (NaS) battery energy storage system
-      enabled by Queensland-made DC-DC converters.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/first-grid-connected-s.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-09-17T02:40:01.000Z
-    source: TechXplore — Engineering
-  - title: OpenAI Creates a New Framework to Disclose Bad AI Behavior
-    url: https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/
-    summary: The company also disclosed previously unreported incidents in which its
-      AI models behaved in misaligned ways, including uploading files to the
-      internet without being asked.
-    imageUrl: https://media.wired.com/photos/6aaade9cf251bfe9554bf39a/191:100/w_1280,c_limit/OpenAI-Releases-New-AI-Policy-Business-2294958021.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-09-16T22:07:24.000Z
-    source: WIRED (AI)
-  - title: Compact AI training method reduces navigation conflicts in crowded
-      environments
-    url: https://techxplore.com/news/2026-09-compact-ai-method-conflicts-crowded.html
-    summary: A research team led by Professor Daehee Park of the Department of
-      Electrical Engineering and Computer Science at DGIST, in collaboration
-      with a research team from KAIST, has developed a learning technique that
-      enables a single compact AI model to simultaneously predict the movements
-      of nearby people and plan safe navigation paths for robots while reducing
-      performance degradation in both tasks. The research was presented at the
-      19th European Conference on Computer Vision (ECCV 2026) held in Malmö,
-      Sweden, Sept. 8–12. The paper is available on the arXiv preprint server.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/compact-ai-training-me.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-09-16T22:00:03.000Z
-    source: TechXplore — Robotics
-  - title: Your brain runs on 20 watts. Could brain‑inspired computing do the same?
-    url: https://techxplore.com/news/2026-09-brain-watts-braininspired.html
-    summary: Right now, your brain is recognizing the shapes of these letters,
-      analyzing their meaning and holding a stream of thought together—all on
-      about 20 watts of power. That's roughly what it takes to run a light bulb.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/your-brain-runs-on-20.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-09-16T19:00:09.000Z
-    source: TechXplore — Computer Science
   - title: Rethinking Robot Safety in the Age of AI
     url: https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone
     summary: This article is brought to you by VicOne.
-    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1200&height=400&coordinates=0%2C229%2C0%2C230
+    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1245&height=700&coordinates=0%2C0%2C0%2C0
     categories:
       - Physical-ai
       - Humanoid-robots
@@ -85,28 +183,7 @@ articles:
       - Ai-robots
       - Cybersecurity
     publishedAt: 2026-09-16T16:51:02.000Z
-    source: IEEE Spectrum — Robotics
-  - title: New AI technique could make minimally invasive surgeries safer and more
-      precise
-    url: https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916
-    summary: Researchers created a new technique that accurately and rapidly matches
-      X-rays captured during surgery with a patient’s preoperative 3D medical
-      scan. This method could make it easier for clinicians to precisely pilot
-      minimally invasive surgical tools, leading to faster and safer procedures.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-VolumeRegistration-01-press.jpg?itok=oHDoDATr
-    categories: []
-    publishedAt: 2026-09-16T15:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Why It Seems Like Great White Sharks Are Overrunning Maine
-    url: https://www.wired.com/story/why-great-white-sharks-are-overrunning-maine/
-    summary: While a bunch of sharks cruising the Maine coast may seem ominous, it’s
-      actually a sign of a conservation success story.
-    imageUrl: https://media.wired.com/photos/6a9ec517f56ff571deb2aede/191:100/w_1280,c_limit/GettyImages-1141959253.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-09-16T09:15:00.000Z
-    source: WIRED science
+    source: IEEE Spectrum — AI
   - title: The shape behind the Einstein problem just revealed strange new physics
     url: https://www.sciencedaily.com/releases/2026/09/260914102432.htm
     summary: A mathematical shape famous for covering a surface without ever
@@ -117,47 +194,6 @@ articles:
     categories: []
     publishedAt: 2026-09-15T13:14:55.000Z
     source: ScienceDaily — Artificial Intelligence
-  - title: New method enables AI for safety-critical situations
-    url: https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914
-    summary: MIT researchers have developed a new technique that helps generative
-      artificial intelligence models find solutions to high-stakes problems.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Hard-Constrained-01-Press.jpg?itok=pDUT8NRC
-    categories: []
-    publishedAt: 2026-09-14T04:00:00.000Z
-    source: MIT Engineering
-  - title: Scientists are building a microscope powered by a quantum computer
-    url: https://www.sciencedaily.com/releases/2026/09/260912220038.htm
-    summary: Scientists are combining an electron microscope with a quantum computer
-      to squeeze far more information from each electron. The approach could
-      reveal faint details with fewer electrons, helping protect fragile samples
-      that conventional microscopy can damage.
-    imageUrl: https://www.sciencedaily.com/images/1920/artistic-visualization-of-quantum-electron-microscope.webp
-    categories: []
-    publishedAt: 2026-09-13T12:03:59.000Z
-    source: ScienceDaily — Engineering
-  - title: AI uncovers hidden Ozempic side effects across 400,000 Reddit posts
-    url: https://www.sciencedaily.com/releases/2026/09/260912222856.htm
-    summary: AI analysis of 400,000 Reddit posts found that users of drugs such as
-      Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms
-      including menstrual changes, chills, hot flashes, and fatigue. Researchers
-      cannot say the medications caused these problems, but the patterns may
-      reveal overlooked signals worth studying.
-    imageUrl: https://www.sciencedaily.com/images/1920/woman-face-close-up-surprise-worry-fear.webp
-    categories: []
-    publishedAt: 2026-09-13T10:46:19.000Z
-    source: ScienceDaily — Robotics
-  - title: Tiny sound waves could help solve a major quantum computing problem
-    url: https://www.sciencedaily.com/releases/2026/09/260911214245.htm
-    summary: Researchers at Harvard have demonstrated a way to protect quantum
-      information using microscopic sound waves. By continuously surrounding a
-      diamond-based qubit with mechanical vibrations, they extended its
-      coherence time by roughly threefold. The same phonons could eventually
-      both transmit and protect quantum information, opening the door to compact
-      sound-based quantum networks on chips.
-    imageUrl: https://www.sciencedaily.com/images/1920/silicon-vacancy-center-in-diamond-crystal-lattice.webp
-    categories: []
-    publishedAt: 2026-09-12T14:08:20.000Z
-    source: ScienceDaily — Computer Science
   - title: Make a Portable Wide-screen Mechanical TV
     url: https://spectrum.ieee.org/mechanical-tv-2677767814
     summary: I never intended to join the cutting edge of electromechanical
@@ -165,7 +201,7 @@ articles:
       go where the engineering takes you, and in my case it took me to the
       Scanwheel, a pocket-size wide-screen electromechanical TV with a
       resolution of 4,096 by 20 pixels. Yup, that’s 4K by 20.
-    imageUrl: https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=1245&height=700&coordinates=0%2C17%2C0%2C17
+    imageUrl: https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=1200&height=800&coordinates=130%2C0%2C131%2C0
     categories:
       - Displays
       - Electromechanical-tv
