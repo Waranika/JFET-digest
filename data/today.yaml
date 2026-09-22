@@ -1,40 +1,107 @@
-date: 2026-09-20
+date: 2026-09-22
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans
-    url: https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/
-    summary: Several new studies have uncovered this long overlooked aspect of coral
-      physiology that could be the key to the animals’ fate in a changing
-      climate.
-    imageUrl: https://media.wired.com/photos/6aaa6fa1c2ed37865ee8fc75/191:100/w_1280,c_limit/CoralCilia-crCesarPacharres-Lede.jpg
+  - title: China's robot dancers limber up for America's Got Talent final
+    url: https://techxplore.com/news/2026-09-china-robot-dancers-limber-america.html
+    summary: Chinese street dancer Wu Yufei has spent most of his 13-year career
+      performing solo, but this year, he found some new partners—a crew of
+      robots with sleek moves.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/training-robots-requir.jpg
     categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-09-20T09:00:00.000Z
-    source: WIRED science
-  - title: Anthropic picks Accenture for in-house AI safety evaluation
-    url: https://techxplore.com/news/2026-09-anthropic-accenture-house-ai-safety.html
-    summary: Anthropic said Friday it is partnering with consulting giant Accenture
-      to have outside evaluators work inside the AI company, a step toward
-      fulfilling a pledge by CEO Dario Amodei to have independent observers
-      evaluate its most powerful models.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/anthropic-and-accentur.jpg
+      - Robotics
+    publishedAt: 2026-09-22T09:00:03.000Z
+    source: TechXplore — Robotics
+  - title: How to Use AI With Your Privacy Intact
+    url: https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/
+    summary: Your conversations with AI chatbots are both highly personal and deeply
+      vulnerable to surveillance. Here’s how you can protect yourself.
+    imageUrl: https://media.wired.com/photos/6aa859724ea2a5a4d9e48c6f/191:100/w_1280,c_limit/Security_The%20WIRED%20Guide%20to%20Using%20AI%20While%20Protecting%20Your%20Privacy%20v3.jpg
+    categories:
+      - Security
+      - Security / Privacy
+    publishedAt: 2026-09-22T09:00:00.000Z
+    source: WIRED (AI)
+  - title: China's Alibaba unveils new powerful chip and ambitious AI model plans
+    url: https://techxplore.com/news/2026-09-china-alibaba-unveils-powerful-chip.html
+    summary: China's Alibaba unveiled new artificial intelligence chip technologies
+      and plans for more powerful models on Tuesday, including what it said was
+      China's most powerful AI chip, days ahead of a meeting between Chinese and
+      U.S. leaders at which competition to lead on AI technology is expected to
+      be a major theme.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/chinas-alibaba-unveils.jpg
     categories:
       - Machine learning & AI
-    publishedAt: 2026-09-19T15:40:04.000Z
+    publishedAt: 2026-09-22T08:50:02.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Construction exoskeletons may help workers spot hazards by reducing fatigue
-    url: https://techxplore.com/news/2026-09-exoskeletons-workers-hazards-fatigue.html
-    summary: Taking some of the physical strain off construction workers could do
-      more than reduce fatigue. New research from Texas A&M University suggests
-      it may also help them recognize hazards around them.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-construction-worker-1.jpg
+  - title: Snapping rods let frog-like robot outrun rigid legs across six terrains
+    url: https://techxplore.com/news/2026-09-snapping-rods-frog-robot-outrun.html
+    summary: Roboticists at the UCLA Samueli School of Engineering and the
+      University of Michigan have shown that elastic rods can be bent and
+      twisted to repeatedly snap between shapes, releasing built-up energy that
+      enables small robots to hop, flip and swim.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/frog-like-hopping-robo.jpg
     categories:
-      - Engineering
-    publishedAt: 2026-09-19T12:00:04.000Z
+      - Robotics
+    publishedAt: 2026-09-21T19:40:09.000Z
     source: TechXplore — Engineering
+  - title: Smartphone AI that uses past solutions to tackle similar problems
+    url: https://techxplore.com/news/2026-09-smartphone-ai-solutions-tackle-similar.html
+    summary: A new AI technology has been developed that retains and reuses
+      knowledge, much like writing down a solution in a notebook and applying it
+      to similar problems rather than asking an expert for help each time.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/kaist-develops-smartph-2.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-09-21T17:20:05.000Z
+    source: TechXplore — Computer Science
+  - title: Nvidia Brings Generative AI to Video Game Lighting
+    url: https://spectrum.ieee.org/neural-rendering-nvidia-dlss-5
+    summary: On 1 September, Nvidia launched a new generative AI approach to
+      rendering video game graphics that CEO Jensen Huang has previously hailed
+      as a “GPT moment for graphics.”
+    imageUrl: https://spectrum.ieee.org/media-library/comparison-of-a-3d-video-game-character-in-a-rainy-alley-shown-with-and-without-ai-rendering-the-original-has-dramatic-face-sh.jpg?id=67804280&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Video-games
+      - Computer-graphics
+      - Generative-ai
+      - Nvidia
+    publishedAt: 2026-09-21T16:07:11.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: "Batteries that safely break down in the GI tract could improve
+      ingestible devices "
+    url: https://news.mit.edu/2026/batteries-safely-break-down-in-gi-tract-could-improve-ingestible-devices-0921
+    summary: Using materials safe for human consumption, MIT researchers have
+      created tiny batteries that could be used to power ingestible electronic
+      devices. Such batteries could make the devices safer for patients and
+      minimize the environmental impact of the batteries after they are
+      excreted.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Bioreabsorb-01-press.jpg?itok=Ae7Zflip
+    categories: []
+    publishedAt: 2026-09-21T15:00:00.000Z
+    source: MIT Engineering
+  - title: After 8 Years in Space, ‘BepiColombo’ Is Finally Approaching Mercury
+    url: https://www.wired.com/story/after-8-years-in-space-bepicolombo-finally-approaching-mercury/
+    summary: Following a difficult journey, the probe will soon begin unraveling the
+      mysteries of Mercury’s magnetic field and internal structure.
+    imageUrl: https://media.wired.com/photos/6aac758c7e684437a1d8cee6/191:100/w_1280,c_limit/BepiColombo_Cruise_configuration_1280.jpg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-09-21T09:00:00.000Z
+    source: WIRED science
+  - title: New nanoparticles make hidden chemical differences light up
+    url: https://www.sciencedaily.com/releases/2026/09/260919031030.htm
+    summary: Scientists have developed ultra-bright nanoparticles that can detect
+      tiny amounts of chemicals and distinguish between molecules that look
+      almost identical. The technology could one day provide a cheaper way to
+      catch dangerous drug impurities or trace pollutants using simple low-cost
+      lasers.
+    imageUrl: https://www.sciencedaily.com/images/1920/near-infrared-laser-shined-on-nanoparticles.webp
+    categories: []
+    publishedAt: 2026-09-20T11:35:28.000Z
+    source: ScienceDaily — Engineering
   - title: This tiny organism can shrink to one quarter its size in milliseconds
     url: https://www.sciencedaily.com/releases/2026/09/260918024812.htm
     summary: A single-celled organism can shrink to one-quarter of its length in
@@ -45,43 +112,20 @@ articles:
     categories: []
     publishedAt: 2026-09-19T11:39:22.000Z
     source: ScienceDaily — Robotics
-  - title: Scientists find that “perfect” systems may be surprisingly fragile
-    url: https://www.sciencedaily.com/releases/2026/09/260919031022.htm
-    summary: Complex systems may work better when their parts are not perfectly
-      alike. Northwestern physicists found that carefully balanced variation, or
-      “disorder,” can make networks such as power grids, ecosystems, neurons,
-      and materials more stable. Even random differences sometimes improved
-      stability compared with completely uniform systems. The discovery could
-      help researchers design more resilient technologies and explain why
-      natural systems are so rarely perfectly uniform.
-    imageUrl: https://www.sciencedaily.com/images/1920/evolving-paradigm-in-network-science.webp
-    categories: []
-    publishedAt: 2026-09-19T11:26:53.000Z
-    source: ScienceDaily — Engineering
-  - title: Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening
-    url: https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/
-    summary: AI labs are toying with an industry-wide pact to slow development.
-      Meanwhile, widely available AI chatbots are already helping uncover a
-      tidal wave of security flaws.
-    imageUrl: https://media.wired.com/photos/6aada5d618f30d6f17ee2971/191:100/w_1280,c_limit/Kernal-Panic-AI-SlowDown-Wont-Stop-Security-Vulnerability-Explosion-Security.jpg
+  - title: Parallel Reads and Write Optimization for Large-Scale Data Replication
+    url: https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/
+    summary: This White Paper gives data engineers and architects a practical
+      overview of how parallel partitioned reads, write-path optimization, and
+      cloud-native bulk loading reduce large-table replication times, and why
+      replication speed has become a business concern as data volumes grow.
+    imageUrl: https://spectrum.ieee.org/media-library/black-text-logo-spelling-cdata-on-a-transparent-checkerboard-background.png?id=67794446&width=980
     categories:
-      - Security
-      - Security / Cyberattacks and Hacks
-    publishedAt: 2026-09-19T11:00:00.000Z
-    source: WIRED (AI)
-  - title: MIT researchers are mapping extreme weather risks — and building tools to
-      act on them
-    url: https://news.mit.edu/2026/mit-researchers-mapping-extreme-weather-risks-building-tools-to-act-0918
-    summary: Warming temperatures are fueling more extreme weather-related events —
-      catastrophic floods, severe hurricanes and cyclones, and wildfires
-      exacerbated by drought. But the tools used by local communities, emergency
-      and public safety agencies, and insurance and risk markets have not kept
-      pace with the up-to-date data and modeling for accurately predicting how
-      these events will evolve.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-climate-cyclone.jpg?itok=mQNGJPXJ
-    categories: []
-    publishedAt: 2026-09-18T16:55:00.000Z
-    source: MIT Engineering
+      - Type-whitepaper
+      - Data-replication
+      - Data-engineers
+      - Optimization
+    publishedAt: 2026-09-18T18:29:50.000Z
+    source: IEEE Spectrum — AI
   - title: A new chapter for MIT Reads
     url: https://news.mit.edu/2026/new-chapter-mit-reads-0918
     summary: As it marks its 10-year anniversary, MIT Reads is being reimagined for
@@ -106,32 +150,6 @@ articles:
       - Telepresence-robot
     publishedAt: 2026-09-18T16:01:05.000Z
     source: IEEE Spectrum — Robotics
-  - title: Maple-seed-inspired robot flies more accurately with predictive control
-    url: https://techxplore.com/news/2026-09-maple-seed-robot-flies-accurately.html
-    summary: A flying robot with just one moving part may sound simple. Controlling
-      one precisely is anything but. Most conventional drones rely on several
-      rotors to control how they rise, turn and move. A robot with only one
-      actuator has far fewer ways to correct itself when it drifts off course,
-      encounters a disturbance or reaches the physical limits of what its motor
-      can achieve.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/maple-seed-inspired-ro.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-09-18T15:00:08.000Z
-    source: TechXplore — Robotics
-  - title: Superconducting Transistors to Solve Quantum Computing Woes
-    url: https://spectrum.ieee.org/superconducting-transistors
-    summary: A quantum computer can be an ungainly thing, because even the most
-      elegant qubit-housing cryostat usually sprouts a thicket of control
-      cables.
-    imageUrl: https://spectrum.ieee.org/media-library/optical-microscopy-image-of-a-superconducting-integrated-circuit.jpg?id=67788582&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Superconductors
-      - Quantum-computing
-      - Transistors
-      - Qubits
-    publishedAt: 2026-09-17T21:02:26.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: JWST’s mysterious little red dots may be black holes growing at
       incredible speeds
     url: https://www.sciencedaily.com/releases/2026/09/260917003703.htm
@@ -146,19 +164,6 @@ articles:
     categories: []
     publishedAt: 2026-09-17T12:45:48.000Z
     source: ScienceDaily — Computer Science
-  - title: A prosthodontic digital guide for reproducing lip–instrument positioning
-      for wind instruments
-    url: https://techxplore.com/news/2026-09-prosthodontic-digital-lipinstrument-positioning-instruments.html
-    summary: A digitally fabricated guide developed by researchers at Science Tokyo
-      captures and reproduces the spatial relationship between a musician's lips
-      and an air-reed instrument, such as a shakuhachi flute. By combining
-      facial and intraoral scans using CAD and 3D printing, the team created a
-      lightweight positioning guide based on an experienced player's embouchure.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-prosthodontic-digita.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-09-17T11:50:01.000Z
-    source: TechXplore — Computer Science
   - title: Robotic lab sets up and runs optics experiments on demand
     url: https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917
     summary: Every new generation of phone display, television screen, and solar
@@ -172,18 +177,6 @@ articles:
     categories: []
     publishedAt: 2026-09-17T04:00:00.000Z
     source: MIT Robotics
-  - title: Rethinking Robot Safety in the Age of AI
-    url: https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone
-    summary: This article is brought to you by VicOne.
-    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1245&height=700&coordinates=0%2C0%2C0%2C0
-    categories:
-      - Physical-ai
-      - Humanoid-robots
-      - Type-sponsored
-      - Ai-robots
-      - Cybersecurity
-    publishedAt: 2026-09-16T16:51:02.000Z
-    source: IEEE Spectrum — AI
   - title: The shape behind the Einstein problem just revealed strange new physics
     url: https://www.sciencedaily.com/releases/2026/09/260914102432.htm
     summary: A mathematical shape famous for covering a surface without ever
@@ -201,7 +194,7 @@ articles:
       go where the engineering takes you, and in my case it took me to the
       Scanwheel, a pocket-size wide-screen electromechanical TV with a
       resolution of 4,096 by 20 pixels. Yup, that’s 4K by 20.
-    imageUrl: https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=1200&height=800&coordinates=130%2C0%2C131%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=2000&height=1500&coordinates=227%2C0%2C227%2C0
     categories:
       - Displays
       - Electromechanical-tv
