@@ -1,86 +1,151 @@
-date: 2026-09-22
+date: 2026-09-23
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: China's robot dancers limber up for America's Got Talent final
-    url: https://techxplore.com/news/2026-09-china-robot-dancers-limber-america.html
-    summary: Chinese street dancer Wu Yufei has spent most of his 13-year career
-      performing solo, but this year, he found some new partners—a crew of
-      robots with sleek moves.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/training-robots-requir.jpg
+  - title: For the first time, microrobots coordinate to change their environment
+    url: https://techxplore.com/news/2026-09-microrobots-environment.html
+    summary: Cornell University physics researchers have made robots that can, for
+      the first time, sense the temperature of their surroundings and react
+      together to change it. "Little things can have a large impact," said Itai
+      Cohen, a leader in developing microscopic robots and a corresponding
+      author on the study.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/for-the-first-time-mic.jpg
     categories:
       - Robotics
-    publishedAt: 2026-09-22T09:00:03.000Z
-    source: TechXplore — Robotics
-  - title: How to Use AI With Your Privacy Intact
-    url: https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/
-    summary: Your conversations with AI chatbots are both highly personal and deeply
-      vulnerable to surveillance. Here’s how you can protect yourself.
-    imageUrl: https://media.wired.com/photos/6aa859724ea2a5a4d9e48c6f/191:100/w_1280,c_limit/Security_The%20WIRED%20Guide%20to%20Using%20AI%20While%20Protecting%20Your%20Privacy%20v3.jpg
-    categories:
-      - Security
-      - Security / Privacy
-    publishedAt: 2026-09-22T09:00:00.000Z
-    source: WIRED (AI)
-  - title: China's Alibaba unveils new powerful chip and ambitious AI model plans
-    url: https://techxplore.com/news/2026-09-china-alibaba-unveils-powerful-chip.html
-    summary: China's Alibaba unveiled new artificial intelligence chip technologies
-      and plans for more powerful models on Tuesday, including what it said was
-      China's most powerful AI chip, days ahead of a meeting between Chinese and
-      U.S. leaders at which competition to lead on AI technology is expected to
-      be a major theme.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/chinas-alibaba-unveils.jpg
+    publishedAt: 2026-09-23T09:00:12.000Z
+    source: TechXplore — Engineering
+  - title: Anthropic, OpenAI release cheaper AI even as safety fears grow
+    url: https://techxplore.com/news/2026-09-anthropic-openai-cheaper-ai-safety.html
+    summary: Anthropic and OpenAI on Tuesday released new, cheaper artificial
+      intelligence models within hours of each other, days after the heads of
+      both companies called for a slowdown in AI development.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/anthropic-2.jpg
     categories:
       - Machine learning & AI
-    publishedAt: 2026-09-22T08:50:02.000Z
+    publishedAt: 2026-09-23T08:38:44.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Snapping rods let frog-like robot outrun rigid legs across six terrains
-    url: https://techxplore.com/news/2026-09-snapping-rods-frog-robot-outrun.html
-    summary: Roboticists at the UCLA Samueli School of Engineering and the
-      University of Michigan have shown that elastic rods can be bent and
-      twisted to repeatedly snap between shapes, releasing built-up energy that
-      enables small robots to hop, flip and swim.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/frog-like-hopping-robo.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-09-21T19:40:09.000Z
-    source: TechXplore — Engineering
-  - title: Smartphone AI that uses past solutions to tackle similar problems
-    url: https://techxplore.com/news/2026-09-smartphone-ai-solutions-tackle-similar.html
-    summary: A new AI technology has been developed that retains and reuses
-      knowledge, much like writing down a solution in a notebook and applying it
-      to similar problems rather than asking an expert for help each time.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/kaist-develops-smartph-2.jpg
+  - title: FUNdaMENTALs of precision design
+    url: https://news.mit.edu/2026/fundamentals-precision-design-alex-slocum-0923
+    summary: Repeatability in engineering product design ensures that a
+      manufacturing process performs the same way every time and allows for a
+      working prototype to be transformed into a reliable, safe, consistent, and
+      cost-effective mass-market product. For students in class 2.70
+      (Fundamentals of Precision Product Design), precision and repeatability
+      are the name of the game.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-meche-slocum.JPG?itok=enK2c4cK
+    categories: []
+    publishedAt: 2026-09-23T04:00:00.000Z
+    source: MIT Engineering
+  - title: Virtual markers help smartphone cameras reconstruct lifelike multi-person
+      movement, from hugs to martial arts
+    url: https://techxplore.com/news/2026-09-virtual-markers-smartphone-cameras-reconstruct.html
+    summary: For decades, the gold standard for capturing human movement and
+      transferring these data into the digital world has required actors to wear
+      suits with physical markers that cameras track in a specialized studio.
+      While accurate, this capture process is time-consuming and expensive.
+      Markers need to be placed manually, they can fall off, and if two people
+      get too close—such as during a hug or a dance—the system fails to track
+      all markers as one person blocks the other from the camera's view, and
+      accuracy drops significantly. Extensive post-processing is needed to
+      recover the motion in such challenging sequences. The creators of the
+      Hollywood blockbusters "Avatar" or "The Lord of the Rings" will know what
+      we mean.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/mamma-mia-few-smartpho.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-09-21T17:20:05.000Z
+    publishedAt: 2026-09-22T20:00:06.000Z
     source: TechXplore — Computer Science
-  - title: Nvidia Brings Generative AI to Video Game Lighting
-    url: https://spectrum.ieee.org/neural-rendering-nvidia-dlss-5
-    summary: On 1 September, Nvidia launched a new generative AI approach to
-      rendering video game graphics that CEO Jensen Huang has previously hailed
-      as a “GPT moment for graphics.”
-    imageUrl: https://spectrum.ieee.org/media-library/comparison-of-a-3d-video-game-character-in-a-rainy-alley-shown-with-and-without-ai-rendering-the-original-has-dramatic-face-sh.jpg?id=67804280&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Video-games
-      - Computer-graphics
-      - Generative-ai
-      - Nvidia
-    publishedAt: 2026-09-21T16:07:11.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: "Batteries that safely break down in the GI tract could improve
-      ingestible devices "
-    url: https://news.mit.edu/2026/batteries-safely-break-down-in-gi-tract-could-improve-ingestible-devices-0921
-    summary: Using materials safe for human consumption, MIT researchers have
-      created tiny batteries that could be used to power ingestible electronic
-      devices. Such batteries could make the devices safer for patients and
-      minimize the environmental impact of the batteries after they are
-      excreted.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Bioreabsorb-01-press.jpg?itok=Ae7Zflip
+  - title: Poitras Center to fuel early careers of 50 young scientists dedicated to
+      psychiatric disorders research
+    url: https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922
+    summary: Patricia and James Poitras ’63, longtime MIT supporters, have launched
+      a fellowship program for graduate students and postdocs studying major
+      mental illness, expanding their MIT philanthropy to directly support
+      early-career scientists. The commitment establishes 50 two-year
+      fellowships through the Poitras Center for Psychiatric Disorders
+      Research at MIT’s McGovern Institute for Brain Research. Five fellowships
+      will be awarded every year for the next decade, creating a long-term
+      talent pipeline focused specifically on psychiatric disorders.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-mcgovern-poitras-fellows.jpg?itok=c7br6l9h
     categories: []
-    publishedAt: 2026-09-21T15:00:00.000Z
-    source: MIT Engineering
+    publishedAt: 2026-09-22T19:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: How to Claim Your Cut of Apple’s $250 Million Siri Settlement
+    url: https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/
+    summary: Apple may pay out up to $95 for each eligible iPhone purchased by
+      someone who felt misled about Siri’s release. You have until December 21
+      to submit a claim.
+    imageUrl: https://media.wired.com/photos/6ab2a6f4d38d5a63a756fca7/191:100/w_1280,c_limit/GettyImages-1683464893%20(1).jpg
+    categories:
+      - Gear
+      - Gear / Gear News and Events
+      - Gear / Products / Phones
+    publishedAt: 2026-09-22T18:19:13.000Z
+    source: WIRED (AI)
+  - title: Why Read a Research Paper When You Can Turn It Into an AI Agent?
+    url: https://spectrum.ieee.org/paper2agent-ai-agents-research-papers
+    summary: Have you ever read a paper in Science or Nature and thought, “Man, that
+      research was so cool. I wish I could try that method on my own data,” only
+      to spend a week wrestling with someone else’s undocumented repo, broken
+      dependencies, and half-finished readme.txt?
+    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-an-ai-chatbot-observing-abstract-patterns-charts-and-shapes-for-its-deep-learning-algorithms.jpg?id=67806327&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Agentic-ai
+      - Artificial-intelligence
+      - Research
+    publishedAt: 2026-09-22T15:00:05.000Z
+    source: IEEE Spectrum — AI
+  - title: Barbara Mazzolai Wants to Build a New Field of Robotics
+    url: https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai
+    summary: Throughout her career, roboticist Barbara Mazzolai has turned to nature
+      for inspiration. Now she wants to ensure the technology she builds gives
+      back to the environment, too.
+    imageUrl: https://spectrum.ieee.org/media-library/photo-of-a-woman-standing-in-front-of-greenery-holding-a-device-shaped-like-a-small-octopus-arm.png?id=67787635&width=1245&height=700&coordinates=0%2C0%2C0%2C0
+    categories:
+      - Soft-robot
+      - Typedepartments
+      - Environmental-footprint
+      - Biology
+      - Italian-institute-of-technology
+    publishedAt: 2026-09-22T14:00:04.000Z
+    source: IEEE Spectrum — Robotics
+  - title: For the first time, scientists watch sound jump between quantum states
+    url: https://www.sciencedaily.com/releases/2026/09/260921081054.htm
+    summary: Stanford researchers have recorded the first real-time quantum jumps of
+      sound, watching single phonons abruptly vanish from one energy state to
+      another. The breakthrough could open new paths for quantum computing,
+      error correction, highly sensitive biological sensors, and next-generation
+      sound-based devices.
+    imageUrl: https://www.sciencedaily.com/images/1920/quantum-jumps-in-sound.webp
+    categories: []
+    publishedAt: 2026-09-22T13:17:20.000Z
+    source: ScienceDaily — Computer Science
+  - title: MIT’s tiny flying robot gets 450% faster with AI
+    url: https://www.sciencedaily.com/releases/2026/09/260921081114.htm
+    summary: A new AI control system lets MIT’s tiny flying robot move with
+      insect-like agility, boosting its speed by about 450 percent and allowing
+      it to pull off 10 somersaults in 11 seconds. The technology could
+      eventually enable miniature robots to search earthquake rubble and
+      navigate dangerous spaces that conventional drones cannot reach.
+    imageUrl: https://www.sciencedaily.com/images/1920/mit-flying-microrobot.webp
+    categories: []
+    publishedAt: 2026-09-22T12:52:43.000Z
+    source: ScienceDaily — Robotics
+  - title: "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers"
+    url: https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit
+    summary: This article is brought to you by CoolIT, an Ecolab Company.
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-copper-liquid-cooling-plates-and-heat-pipes-inside-an-electronic-device.jpg?id=67771117&width=1245&height=700&coordinates=0%2C104%2C0%2C104
+    categories:
+      - Type-sponsored
+      - Artificial-intelligence
+      - Heat
+      - Liquid-cooling
+      - Ai-data-centers
+      - Servers
+      - Data-centers
+    publishedAt: 2026-09-22T12:22:50.000Z
+    source: IEEE Spectrum — Computing & Chips
   - title: After 8 Years in Space, ‘BepiColombo’ Is Finally Approaching Mercury
     url: https://www.wired.com/story/after-8-years-in-space-bepicolombo-finally-approaching-mercury/
     summary: Following a difficult journey, the probe will soon begin unraveling the
@@ -102,68 +167,6 @@ articles:
     categories: []
     publishedAt: 2026-09-20T11:35:28.000Z
     source: ScienceDaily — Engineering
-  - title: This tiny organism can shrink to one quarter its size in milliseconds
-    url: https://www.sciencedaily.com/releases/2026/09/260918024812.htm
-    summary: A single-celled organism can shrink to one-quarter of its length in
-      milliseconds using a remarkable calcium-powered protein “fishnet.”
-      Scientists hope its unusual machinery could inspire artificial muscles
-      capable of moving far faster than today’s designs.
-    imageUrl: https://www.sciencedaily.com/images/1920/spirostomum-ambiguum.webp
-    categories: []
-    publishedAt: 2026-09-19T11:39:22.000Z
-    source: ScienceDaily — Robotics
-  - title: Parallel Reads and Write Optimization for Large-Scale Data Replication
-    url: https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/
-    summary: This White Paper gives data engineers and architects a practical
-      overview of how parallel partitioned reads, write-path optimization, and
-      cloud-native bulk loading reduce large-table replication times, and why
-      replication speed has become a business concern as data volumes grow.
-    imageUrl: https://spectrum.ieee.org/media-library/black-text-logo-spelling-cdata-on-a-transparent-checkerboard-background.png?id=67794446&width=980
-    categories:
-      - Type-whitepaper
-      - Data-replication
-      - Data-engineers
-      - Optimization
-    publishedAt: 2026-09-18T18:29:50.000Z
-    source: IEEE Spectrum — AI
-  - title: A new chapter for MIT Reads
-    url: https://news.mit.edu/2026/new-chapter-mit-reads-0918
-    summary: As it marks its 10-year anniversary, MIT Reads is being reimagined for
-      the age of artificial intelligence.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-reads-10-years-00_0.png?itok=0ZOA1D2u
-    categories: []
-    publishedAt: 2026-09-18T16:30:00.000Z
-    source: MIT Artificial Intelligence
-  - title: "Video Friday: Two Birotors Make a Quadrotor"
-    url: https://spectrum.ieee.org/video-friday-quadrotor-from-birotor
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/two-small-dual-propeller-robots-facing-each-other-connected-by-a-loose-green-cord.png?id=67790149&width=1245&height=700&coordinates=103%2C0%2C103%2C0
-    categories:
-      - Video-friday
-      - Quadrotors
-      - Robot-videos
-      - Home-robots
-      - Humanoid-robots
-      - Telepresence-robot
-    publishedAt: 2026-09-18T16:01:05.000Z
-    source: IEEE Spectrum — Robotics
-  - title: JWST’s mysterious little red dots may be black holes growing at
-      incredible speeds
-    url: https://www.sciencedaily.com/releases/2026/09/260917003703.htm
-    summary: New supercomputer simulations suggest JWST’s puzzling Little Red Dots
-      are rapidly growing black holes from the early Universe. Extreme radiation
-      may have helped create unusually massive black hole seeds, while dense
-      surrounding gas allowed them to grow dozens of times faster than black
-      holes can today. The simulated objects closely resemble the Little Red
-      Dots seen by Webb. If correct, they could solve the mystery of how
-      enormous black holes formed so soon after the Big Bang.
-    imageUrl: https://www.sciencedaily.com/images/1920/rapidly-growing-black-hole-aterui-iii-simulation.webp
-    categories: []
-    publishedAt: 2026-09-17T12:45:48.000Z
-    source: ScienceDaily — Computer Science
   - title: Robotic lab sets up and runs optics experiments on demand
     url: https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917
     summary: Every new generation of phone display, television screen, and solar
@@ -177,16 +180,6 @@ articles:
     categories: []
     publishedAt: 2026-09-17T04:00:00.000Z
     source: MIT Robotics
-  - title: The shape behind the Einstein problem just revealed strange new physics
-    url: https://www.sciencedaily.com/releases/2026/09/260914102432.htm
-    summary: A mathematical shape famous for covering a surface without ever
-      repeating has revealed an unexpected ability to twist light into unusual
-      chiral patterns. The discovery could lead to new ways of controlling
-      light, polarization, and advanced optical devices.
-    imageUrl: https://www.sciencedaily.com/images/1920/einstein-problem-reveals-unexpected-physics.webp
-    categories: []
-    publishedAt: 2026-09-15T13:14:55.000Z
-    source: ScienceDaily — Artificial Intelligence
   - title: Make a Portable Wide-screen Mechanical TV
     url: https://spectrum.ieee.org/mechanical-tv-2677767814
     summary: I never intended to join the cutting edge of electromechanical
@@ -194,7 +187,7 @@ articles:
       go where the engineering takes you, and in my case it took me to the
       Scanwheel, a pocket-size wide-screen electromechanical TV with a
       resolution of 4,096 by 20 pixels. Yup, that’s 4K by 20.
-    imageUrl: https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=2000&height=1500&coordinates=227%2C0%2C227%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=1245&height=700&coordinates=0%2C17%2C0%2C17
     categories:
       - Displays
       - Electromechanical-tv
