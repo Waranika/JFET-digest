@@ -1,30 +1,95 @@
-date: 2026-09-23
+date: 2026-09-24
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: For the first time, microrobots coordinate to change their environment
-    url: https://techxplore.com/news/2026-09-microrobots-environment.html
-    summary: Cornell University physics researchers have made robots that can, for
-      the first time, sense the temperature of their surroundings and react
-      together to change it. "Little things can have a large impact," said Itai
-      Cohen, a leader in developing microscopic robots and a corresponding
-      author on the study.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/for-the-first-time-mic.jpg
+  - title: Scientists Detect Radio Signals from an Exoplanet for the First Time in
+      History
+    url: https://www.wired.com/story/scientists-detect-radio-signals-from-exoplanet-for-first-time-in-history/
+    summary: No, it’s not aliens, but a phenomenon caused by magnetic activity that
+      astronomers have never before been able to pin on a specific planet.
+    imageUrl: https://media.wired.com/photos/6ab40021ca9e238475678f17/191:100/w_1280,c_limit/STScI-01KX448CEBRHBBJW579AG64G0H.jpg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-09-24T09:00:00.000Z
+    source: WIRED science
+  - title: Meta bets big on wearable AI, new AI agent as Zuckerberg pushes back
+      against AI doom
+    url: https://techxplore.com/news/2026-09-meta-big-wearable-ai-agent.html
+    summary: Meta is going all in on a consumer-friendly AI agent and pushing
+      forward with AI-powered wearable devices during a moment in the industry
+      when its CEO Mark Zuckerberg acknowledged it is a "wild time to be
+      building."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/meta-bets-big-on-weara.jpg
+    categories:
+      - Consumer & Gadgets
+    publishedAt: 2026-09-24T08:17:32.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: The promise and peril of using visual AI to study cities
+    url: https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924
+    summary: "A few months ago, researchers from the MIT Senseable City Lab
+      published a study about pollution in New York City featuring some new
+      methods. For instance: With machine learning, they identified the types of
+      vehicles appearing in 331 traffic cameras in the city, and estimated the
+      emissions coming from each automobile. Given enough cameras, these visual
+      artificial intelligence techniques could monitor emissions with an
+      unprecedented combination of precision and scale."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-AI-City-01.jpg?itok=Llq61kUr
+    categories: []
+    publishedAt: 2026-09-24T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: "As compact as reinforced concrete, but more sustainable: Wood-based
+      floor slab passes load test"
+    url: https://techxplore.com/news/2026-09-compact-concrete-sustainable-wood-based.html
+    summary: Reinforced concrete floor slabs account for about 40% of buildings'
+      embodied carbon emissions. Until now, however, there has been no practical
+      alternative for complex, multistory buildings.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/as-compact-as-reinforc.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-09-24T03:00:01.000Z
+    source: TechXplore — Engineering
+  - title: "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs,
+      Features, Prices"
+    url: https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/
+    summary: At its Meta Connect event, CEO Mark Zuckerberg announced a handful of
+      new smart glasses, including a slimmed-down VR headset and the company’s
+      first camera-free glasses.
+    imageUrl: https://media.wired.com/photos/6ab46185974b275c73391603/191:100/w_1280,c_limit/Meta-Connect-Gear-2296202855.jpg
+    categories:
+      - Gear
+      - Gear / Gear News and Events
+      - Gear / Products / Augmented and Virtual Reality
+    publishedAt: 2026-09-23T23:42:44.000Z
+    source: WIRED (AI)
+  - title: Can you lend me a hand? Researchers are developing wearable robotic limbs
+    url: https://techxplore.com/news/2026-09-wearable-robotic-limbs.html
+    summary: How many times have you asked someone to hold open a door while
+      carrying something, or fumbled with your front-door keys with your arms
+      full of groceries? Wouldn't it be great if you could give yourself the
+      extra hand you need?
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/two-people-wearing-jiz.jpg
     categories:
       - Robotics
-    publishedAt: 2026-09-23T09:00:12.000Z
-    source: TechXplore — Engineering
-  - title: Anthropic, OpenAI release cheaper AI even as safety fears grow
-    url: https://techxplore.com/news/2026-09-anthropic-openai-cheaper-ai-safety.html
-    summary: Anthropic and OpenAI on Tuesday released new, cheaper artificial
-      intelligence models within hours of each other, days after the heads of
-      both companies called for a slowdown in AI development.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/anthropic-2.jpg
+    publishedAt: 2026-09-23T20:20:01.000Z
+    source: TechXplore — Robotics
+  - title: Blockchain-inspired DNA storage codec recovers data from heavily damaged
+      sequences
+    url: https://techxplore.com/news/2026-09-blockchain-dna-storage-codec-recovers.html
+    summary: A research team at the Faculty of Engineering at The University of Hong
+      Kong (HKU), led by professor Ruibang Luo of the School of Computing and
+      Data Science and professor Can Li of the Department of Electrical and
+      Computer Engineering, has developed Gungnir, a blockchain-inspired DNA
+      data storage codec. The framework improves digital information recovery
+      from severely damaged DNA sequences, potentially extending the practical
+      lifespan of DNA data archives from less than a decade to centuries. The
+      paper is published in the journal Nature Communications.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/hku-researchers-develo.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-09-23T08:38:44.000Z
-    source: TechXplore — AI & Machine Learning
+      - Computer Sciences
+    publishedAt: 2026-09-23T19:40:01.000Z
+    source: TechXplore — Computer Science
   - title: FUNdaMENTALs of precision design
     url: https://news.mit.edu/2026/fundamentals-precision-design-alex-slocum-0923
     summary: Repeatability in engineering product design ensures that a
@@ -37,59 +102,13 @@ articles:
     categories: []
     publishedAt: 2026-09-23T04:00:00.000Z
     source: MIT Engineering
-  - title: Virtual markers help smartphone cameras reconstruct lifelike multi-person
-      movement, from hugs to martial arts
-    url: https://techxplore.com/news/2026-09-virtual-markers-smartphone-cameras-reconstruct.html
-    summary: For decades, the gold standard for capturing human movement and
-      transferring these data into the digital world has required actors to wear
-      suits with physical markers that cameras track in a specialized studio.
-      While accurate, this capture process is time-consuming and expensive.
-      Markers need to be placed manually, they can fall off, and if two people
-      get too close—such as during a hug or a dance—the system fails to track
-      all markers as one person blocks the other from the camera's view, and
-      accuracy drops significantly. Extensive post-processing is needed to
-      recover the motion in such challenging sequences. The creators of the
-      Hollywood blockbusters "Avatar" or "The Lord of the Rings" will know what
-      we mean.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/mamma-mia-few-smartpho.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-09-22T20:00:06.000Z
-    source: TechXplore — Computer Science
-  - title: Poitras Center to fuel early careers of 50 young scientists dedicated to
-      psychiatric disorders research
-    url: https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922
-    summary: Patricia and James Poitras ’63, longtime MIT supporters, have launched
-      a fellowship program for graduate students and postdocs studying major
-      mental illness, expanding their MIT philanthropy to directly support
-      early-career scientists. The commitment establishes 50 two-year
-      fellowships through the Poitras Center for Psychiatric Disorders
-      Research at MIT’s McGovern Institute for Brain Research. Five fellowships
-      will be awarded every year for the next decade, creating a long-term
-      talent pipeline focused specifically on psychiatric disorders.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-mcgovern-poitras-fellows.jpg?itok=c7br6l9h
-    categories: []
-    publishedAt: 2026-09-22T19:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: How to Claim Your Cut of Apple’s $250 Million Siri Settlement
-    url: https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/
-    summary: Apple may pay out up to $95 for each eligible iPhone purchased by
-      someone who felt misled about Siri’s release. You have until December 21
-      to submit a claim.
-    imageUrl: https://media.wired.com/photos/6ab2a6f4d38d5a63a756fca7/191:100/w_1280,c_limit/GettyImages-1683464893%20(1).jpg
-    categories:
-      - Gear
-      - Gear / Gear News and Events
-      - Gear / Products / Phones
-    publishedAt: 2026-09-22T18:19:13.000Z
-    source: WIRED (AI)
   - title: Why Read a Research Paper When You Can Turn It Into an AI Agent?
     url: https://spectrum.ieee.org/paper2agent-ai-agents-research-papers
     summary: Have you ever read a paper in Science or Nature and thought, “Man, that
       research was so cool. I wish I could try that method on my own data,” only
       to spend a week wrestling with someone else’s undocumented repo, broken
       dependencies, and half-finished readme.txt?
-    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-an-ai-chatbot-observing-abstract-patterns-charts-and-shapes-for-its-deep-learning-algorithms.jpg?id=67806327&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-an-ai-chatbot-observing-abstract-patterns-charts-and-shapes-for-its-deep-learning-algorithms.jpg?id=67806327&width=1200&height=600&coordinates=0%2C125%2C0%2C125
     categories:
       - Agentic-ai
       - Artificial-intelligence
@@ -101,7 +120,7 @@ articles:
     summary: Throughout her career, roboticist Barbara Mazzolai has turned to nature
       for inspiration. Now she wants to ensure the technology she builds gives
       back to the environment, too.
-    imageUrl: https://spectrum.ieee.org/media-library/photo-of-a-woman-standing-in-front-of-greenery-holding-a-device-shaped-like-a-small-octopus-arm.png?id=67787635&width=1245&height=700&coordinates=0%2C0%2C0%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/photo-of-a-woman-standing-in-front-of-greenery-holding-a-device-shaped-like-a-small-octopus-arm.png?id=67787635&width=1200&height=800&coordinates=156%2C0%2C156%2C0
     categories:
       - Soft-robot
       - Typedepartments
@@ -135,7 +154,7 @@ articles:
   - title: "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers"
     url: https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit
     summary: This article is brought to you by CoolIT, an Ecolab Company.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-copper-liquid-cooling-plates-and-heat-pipes-inside-an-electronic-device.jpg?id=67771117&width=1245&height=700&coordinates=0%2C104%2C0%2C104
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-copper-liquid-cooling-plates-and-heat-pipes-inside-an-electronic-device.jpg?id=67771117&width=1200&height=600&coordinates=0%2C166%2C0%2C167
     categories:
       - Type-sponsored
       - Artificial-intelligence
@@ -146,16 +165,6 @@ articles:
       - Data-centers
     publishedAt: 2026-09-22T12:22:50.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: After 8 Years in Space, ‘BepiColombo’ Is Finally Approaching Mercury
-    url: https://www.wired.com/story/after-8-years-in-space-bepicolombo-finally-approaching-mercury/
-    summary: Following a difficult journey, the probe will soon begin unraveling the
-      mysteries of Mercury’s magnetic field and internal structure.
-    imageUrl: https://media.wired.com/photos/6aac758c7e684437a1d8cee6/191:100/w_1280,c_limit/BepiColombo_Cruise_configuration_1280.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-09-21T09:00:00.000Z
-    source: WIRED science
   - title: New nanoparticles make hidden chemical differences light up
     url: https://www.sciencedaily.com/releases/2026/09/260919031030.htm
     summary: Scientists have developed ultra-bright nanoparticles that can detect
