@@ -1,68 +1,142 @@
-date: 2026-09-24
+date: 2026-09-26
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Scientists Detect Radio Signals from an Exoplanet for the First Time in
-      History
-    url: https://www.wired.com/story/scientists-detect-radio-signals-from-exoplanet-for-first-time-in-history/
-    summary: No, it’s not aliens, but a phenomenon caused by magnetic activity that
-      astronomers have never before been able to pin on a specific planet.
-    imageUrl: https://media.wired.com/photos/6ab40021ca9e238475678f17/191:100/w_1280,c_limit/STScI-01KX448CEBRHBBJW579AG64G0H.jpg
+  - title: OpenAI says its models engaged with US government websites in new model
+      misbehavior disclosure
+    url: https://techxplore.com/news/2026-09-openai-engaged-websites-misbehavior-disclosure.html
+    summary: OpenAI disclosed Friday that its artificial intelligence agents had
+      interacted with several U.S. government websites in unexpected ways,
+      discovered as part of an ongoing review into the company's models'
+      unanticipated behavior.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/openai-says-its-models.jpg
     categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-09-24T09:00:00.000Z
-    source: WIRED science
-  - title: Meta bets big on wearable AI, new AI agent as Zuckerberg pushes back
-      against AI doom
-    url: https://techxplore.com/news/2026-09-meta-big-wearable-ai-agent.html
-    summary: Meta is going all in on a consumer-friendly AI agent and pushing
-      forward with AI-powered wearable devices during a moment in the industry
-      when its CEO Mark Zuckerberg acknowledged it is a "wild time to be
-      building."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/meta-bets-big-on-weara.jpg
-    categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-09-24T08:17:32.000Z
+      - Machine learning & AI
+    publishedAt: 2026-09-26T09:12:58.000Z
     source: TechXplore — AI & Machine Learning
-  - title: The promise and peril of using visual AI to study cities
-    url: https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924
-    summary: "A few months ago, researchers from the MIT Senseable City Lab
-      published a study about pollution in New York City featuring some new
-      methods. For instance: With machine learning, they identified the types of
-      vehicles appearing in 331 traffic cameras in the city, and estimated the
-      emissions coming from each automobile. Given enough cameras, these visual
-      artificial intelligence techniques could monitor emissions with an
-      unprecedented combination of precision and scale."
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-AI-City-01.jpg?itok=Llq61kUr
-    categories: []
-    publishedAt: 2026-09-24T04:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: "As compact as reinforced concrete, but more sustainable: Wood-based
-      floor slab passes load test"
-    url: https://techxplore.com/news/2026-09-compact-concrete-sustainable-wood-based.html
-    summary: Reinforced concrete floor slabs account for about 40% of buildings'
-      embodied carbon emissions. Until now, however, there has been no practical
-      alternative for complex, multistory buildings.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/as-compact-as-reinforc.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-09-24T03:00:01.000Z
-    source: TechXplore — Engineering
-  - title: "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs,
-      Features, Prices"
-    url: https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/
-    summary: At its Meta Connect event, CEO Mark Zuckerberg announced a handful of
-      new smart glasses, including a slimmed-down VR headset and the company’s
-      first camera-free glasses.
-    imageUrl: https://media.wired.com/photos/6ab46185974b275c73391603/191:100/w_1280,c_limit/Meta-Connect-Gear-2296202855.jpg
+  - title: Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand
+    url: https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/
+    summary: They wanted the silicon. They got the sand.
+    imageUrl: https://media.wired.com/photos/6ab6c8393be975e24c8d9909/191:100/w_1280,c_limit/_DSC5425%20(1).jpg
     categories:
       - Gear
       - Gear / Gear News and Events
-      - Gear / Products / Augmented and Virtual Reality
-    publishedAt: 2026-09-23T23:42:44.000Z
+    publishedAt: 2026-09-25T20:30:40.000Z
     source: WIRED (AI)
+  - title: MIT students gain a humanist lens on technical innovation in Tulsa,
+      Oklahoma
+    url: https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925
+    summary: When MIT mechanical engineering student Daphne Wang arrived for her
+      internship at the Muscogee Creek Nation Department of Health in Tulsa,
+      Oklahoma last summer, she expected to be writing code. To her surprise,
+      she found herself analyzing tribal history and the implications for
+      technical innovation.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mcn-interns-A1.jpg?itok=P7nxcJNI
+    categories: []
+    publishedAt: 2026-09-25T20:15:00.000Z
+    source: MIT Artificial Intelligence
+  - title: By shaping and shrinking light, engineers alter a material's magnetic
+      properties
+    url: https://techxplore.com/news/2026-09-material-magnetic-properties.html
+    summary: A new approach that uses light to switch the magnetic states of a
+      material could lead to faster, smaller and more energy-efficient data
+      storage. Engineers at the University of California San Diego published
+      their findings in Nature Communications.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/by-shaping-and-shrinki.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-09-25T18:00:31.000Z
+    source: TechXplore — Engineering
+  - title: Computer system models binocular vision to improve print ads automatically
+    url: https://techxplore.com/news/2026-09-binocular-vision-ads-automatically.html
+    summary: A computer-based method for evaluating and improving print
+      advertisements by modeling how human binocular vision responds to images
+      is discussed in the International Journal of Business Intelligence and
+      Data Mining.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/print-advertisement.jpg
+    categories:
+      - Business
+    publishedAt: 2026-09-25T17:20:09.000Z
+    source: TechXplore — Computer Science
+  - title: "Video Friday: Life’s Better With a Little Robot Goose"
+    url: https://spectrum.ieee.org/video-friday-goose-household-robots
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/mobile-assistive-robot-with-articulated-arm-beside-coffee-table-in-cozy-living-room.png?id=67853191&width=1245&height=700&coordinates=0%2C0%2C0%2C0
+    categories:
+      - Video-friday
+      - Robot-videos
+      - Household-robots
+      - Fixed-wing-drones
+      - Self-reconfigurable
+      - Humanoid-robots
+    publishedAt: 2026-09-25T16:00:04.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Quantum computing’s “dark horse” just proved it can go universal
+    url: https://www.sciencedaily.com/releases/2026/09/260924020403.htm
+    summary: Researchers have shown that exotic quantum particles called non-Abelian
+      anyons can perform the full range of operations needed for universal
+      quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they
+      combined braiding and fusion to unlock capabilities that braiding alone
+      could not provide.
+    imageUrl: https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp
+    categories: []
+    publishedAt: 2026-09-25T12:45:04.000Z
+    source: ScienceDaily — Computer Science
+  - title: New cell-collection device could improve early cancer detection
+    url: https://news.mit.edu/2026/new-cell-collection-device-could-improve-early-cancer-detection-0924
+    summary: "One of the main reasons that ovarian cancer is among the deadliest
+      forms of cancer is timing: When doctors catch it early, the five-year
+      survival rate can be north of 90 percent. But when doctors catch it late,
+      in stages 3 or 4, five-year survival is less than half that."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Ovarian-Detection-01-press.jpg?itok=-R1Gqgy0
+    categories: []
+    publishedAt: 2026-09-24T15:00:00.000Z
+    source: MIT Engineering
+  - title: Distant time crystals can somehow fall into the same rhythm
+    url: https://www.sciencedaily.com/releases/2026/09/260923035934.htm
+    summary: Researchers have shown that multiple time crystals inside a
+      semiconductor can synchronize their oscillations, much like pendulum
+      clocks gradually falling into the same rhythm. The coupling is carried by
+      spin-polarized electrons, allowing time crystals separated by up to 40
+      micrometers to lock to a common frequency. The discovery reveals
+      surprisingly long-range connections between these exotic spin systems and
+      could help researchers develop future spin-based devices.
+    imageUrl: https://www.sciencedaily.com/images/1920/time-crystal-oscillations-synchronization.webp
+    categories: []
+    publishedAt: 2026-09-24T13:16:41.000Z
+    source: ScienceDaily — Engineering
+  - title: Measure Distant Asteroids With a DIY Rig
+    url: https://spectrum.ieee.org/asteroid-shadow
+    summary: I’ve seen two total solar eclipses and have been duly impressed by what
+      happens as the moon casts its shadow on Earth. But recently I’ve become
+      even more intrigued by a similar phenomenon that doesn’t involve the sun
+      or the moon—something called an asteroid occultation.
+    imageUrl: https://spectrum.ieee.org/media-library/a-telescope-on-tripod-with-laptop-and-power-boxes-for-a-portable-astronomy-setup.png?id=67788039&width=1245&height=700&coordinates=0%2C73%2C0%2C74
+    categories:
+      - Astronomy
+      - Asteroids
+      - Occultations
+      - Arduino
+      - Telescope
+      - Type-departments
+    publishedAt: 2026-09-24T13:00:04.000Z
+    source: IEEE Spectrum — DIY
+  - title: The Ovary Is Surprisingly Active After Menopause. Scientists Are Trying
+      to Figure Out Why
+    url: https://www.wired.com/story/ovary-activity-after-menopause/
+    summary: A growing body of research is putting the ovary in a new light, not as
+      an egg factory with an expiration date, but as an organ that shapes
+      women’s health long after the fertile years have passed.
+    imageUrl: https://media.wired.com/photos/6ab2b368ca9e2384756787bb/191:100/w_1280,c_limit/092226-Menopause%20Ovary.jpg
+    categories:
+      - Science
+      - Science / Health
+    publishedAt: 2026-09-24T10:30:00.000Z
+    source: WIRED science
   - title: Can you lend me a hand? Researchers are developing wearable robotic limbs
     url: https://techxplore.com/news/2026-09-wearable-robotic-limbs.html
     summary: How many times have you asked someone to hold open a door while
@@ -74,72 +148,19 @@ articles:
       - Robotics
     publishedAt: 2026-09-23T20:20:01.000Z
     source: TechXplore — Robotics
-  - title: Blockchain-inspired DNA storage codec recovers data from heavily damaged
-      sequences
-    url: https://techxplore.com/news/2026-09-blockchain-dna-storage-codec-recovers.html
-    summary: A research team at the Faculty of Engineering at The University of Hong
-      Kong (HKU), led by professor Ruibang Luo of the School of Computing and
-      Data Science and professor Can Li of the Department of Electrical and
-      Computer Engineering, has developed Gungnir, a blockchain-inspired DNA
-      data storage codec. The framework improves digital information recovery
-      from severely damaged DNA sequences, potentially extending the practical
-      lifespan of DNA data archives from less than a decade to centuries. The
-      paper is published in the journal Nature Communications.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/hku-researchers-develo.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-09-23T19:40:01.000Z
-    source: TechXplore — Computer Science
-  - title: FUNdaMENTALs of precision design
-    url: https://news.mit.edu/2026/fundamentals-precision-design-alex-slocum-0923
-    summary: Repeatability in engineering product design ensures that a
-      manufacturing process performs the same way every time and allows for a
-      working prototype to be transformed into a reliable, safe, consistent, and
-      cost-effective mass-market product. For students in class 2.70
-      (Fundamentals of Precision Product Design), precision and repeatability
-      are the name of the game.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-meche-slocum.JPG?itok=enK2c4cK
-    categories: []
-    publishedAt: 2026-09-23T04:00:00.000Z
-    source: MIT Engineering
   - title: Why Read a Research Paper When You Can Turn It Into an AI Agent?
     url: https://spectrum.ieee.org/paper2agent-ai-agents-research-papers
     summary: Have you ever read a paper in Science or Nature and thought, “Man, that
       research was so cool. I wish I could try that method on my own data,” only
       to spend a week wrestling with someone else’s undocumented repo, broken
       dependencies, and half-finished readme.txt?
-    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-an-ai-chatbot-observing-abstract-patterns-charts-and-shapes-for-its-deep-learning-algorithms.jpg?id=67806327&width=1200&height=600&coordinates=0%2C125%2C0%2C125
+    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-an-ai-chatbot-observing-abstract-patterns-charts-and-shapes-for-its-deep-learning-algorithms.jpg?id=67806327&width=1245&height=700&coordinates=0%2C62%2C0%2C63
     categories:
       - Agentic-ai
       - Artificial-intelligence
       - Research
     publishedAt: 2026-09-22T15:00:05.000Z
     source: IEEE Spectrum — AI
-  - title: Barbara Mazzolai Wants to Build a New Field of Robotics
-    url: https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai
-    summary: Throughout her career, roboticist Barbara Mazzolai has turned to nature
-      for inspiration. Now she wants to ensure the technology she builds gives
-      back to the environment, too.
-    imageUrl: https://spectrum.ieee.org/media-library/photo-of-a-woman-standing-in-front-of-greenery-holding-a-device-shaped-like-a-small-octopus-arm.png?id=67787635&width=1200&height=800&coordinates=156%2C0%2C156%2C0
-    categories:
-      - Soft-robot
-      - Typedepartments
-      - Environmental-footprint
-      - Biology
-      - Italian-institute-of-technology
-    publishedAt: 2026-09-22T14:00:04.000Z
-    source: IEEE Spectrum — Robotics
-  - title: For the first time, scientists watch sound jump between quantum states
-    url: https://www.sciencedaily.com/releases/2026/09/260921081054.htm
-    summary: Stanford researchers have recorded the first real-time quantum jumps of
-      sound, watching single phonons abruptly vanish from one energy state to
-      another. The breakthrough could open new paths for quantum computing,
-      error correction, highly sensitive biological sensors, and next-generation
-      sound-based devices.
-    imageUrl: https://www.sciencedaily.com/images/1920/quantum-jumps-in-sound.webp
-    categories: []
-    publishedAt: 2026-09-22T13:17:20.000Z
-    source: ScienceDaily — Computer Science
   - title: MIT’s tiny flying robot gets 450% faster with AI
     url: https://www.sciencedaily.com/releases/2026/09/260921081114.htm
     summary: A new AI control system lets MIT’s tiny flying robot move with
@@ -154,7 +175,7 @@ articles:
   - title: "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers"
     url: https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit
     summary: This article is brought to you by CoolIT, an Ecolab Company.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-copper-liquid-cooling-plates-and-heat-pipes-inside-an-electronic-device.jpg?id=67771117&width=1200&height=600&coordinates=0%2C166%2C0%2C167
+    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-copper-liquid-cooling-plates-and-heat-pipes-inside-an-electronic-device.jpg?id=67771117&width=1245&height=700&coordinates=0%2C104%2C0%2C104
     categories:
       - Type-sponsored
       - Artificial-intelligence
@@ -165,17 +186,6 @@ articles:
       - Data-centers
     publishedAt: 2026-09-22T12:22:50.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: New nanoparticles make hidden chemical differences light up
-    url: https://www.sciencedaily.com/releases/2026/09/260919031030.htm
-    summary: Scientists have developed ultra-bright nanoparticles that can detect
-      tiny amounts of chemicals and distinguish between molecules that look
-      almost identical. The technology could one day provide a cheaper way to
-      catch dangerous drug impurities or trace pollutants using simple low-cost
-      lasers.
-    imageUrl: https://www.sciencedaily.com/images/1920/near-infrared-laser-shined-on-nanoparticles.webp
-    categories: []
-    publishedAt: 2026-09-20T11:35:28.000Z
-    source: ScienceDaily — Engineering
   - title: Robotic lab sets up and runs optics experiments on demand
     url: https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917
     summary: Every new generation of phone display, television screen, and solar
@@ -189,20 +199,3 @@ articles:
     categories: []
     publishedAt: 2026-09-17T04:00:00.000Z
     source: MIT Robotics
-  - title: Make a Portable Wide-screen Mechanical TV
-    url: https://spectrum.ieee.org/mechanical-tv-2677767814
-    summary: I never intended to join the cutting edge of electromechanical
-      television. I just wanted to make a nice clock. But sometimes you have to
-      go where the engineering takes you, and in my case it took me to the
-      Scanwheel, a pocket-size wide-screen electromechanical TV with a
-      resolution of 4,096 by 20 pixels. Yup, that’s 4K by 20.
-    imageUrl: https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=1245&height=700&coordinates=0%2C17%2C0%2C17
-    categories:
-      - Displays
-      - Electromechanical-tv
-      - Television
-      - Rp2040
-      - Pi-pico
-      - Typedepartments
-    publishedAt: 2026-08-27T14:46:56.000Z
-    source: IEEE Spectrum — DIY
