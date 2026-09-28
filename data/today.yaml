@@ -1,53 +1,82 @@
-date: 2026-09-26
+date: 2026-09-28
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: OpenAI says its models engaged with US government websites in new model
-      misbehavior disclosure
-    url: https://techxplore.com/news/2026-09-openai-engaged-websites-misbehavior-disclosure.html
-    summary: OpenAI disclosed Friday that its artificial intelligence agents had
-      interacted with several U.S. government websites in unexpected ways,
-      discovered as part of an ongoing review into the company's models'
-      unanticipated behavior.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/openai-says-its-models.jpg
+  - title: AI Agents Are About to Flood the Workforce. No One’s Ready for It
+    url: https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/
+    summary: Your next coworker might well be an AI agent—and will require a whole
+      new model of workplace interactions.
+    imageUrl: https://media.wired.com/photos/6ab67a543b15d40264a17301/191:100/w_1280,c_limit/092526-AI%20Coworker.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-09-28T10:00:00.000Z
+    source: WIRED (AI)
+  - title: Solving Math’s Greatest Problems Was an Art Form. Then Came AI
+    url: https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/
+    summary: Mathematics has been one of humanity’s most creative endeavors, akin to
+      painting and poetry. Now, mathematicians are trying to save it from the
+      brute force of AI.
+    imageUrl: https://media.wired.com/photos/6ab66fcabccfe76e77e84940/191:100/w_1280,c_limit/092526-Math%20Art%20AI.jpg
+    categories:
+      - Science
+      - Science / Physics and Math
+    publishedAt: 2026-09-28T09:30:00.000Z
+    source: WIRED science
+  - title: New formulation helps RNA vaccines withstand high temperatures
+    url: https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928
+    summary: RNA vaccines, which have been proven effective against Covid-19, are
+      now being developed for many other diseases, including cancer. One of the
+      drawbacks to these vaccines is that they require ultracold storage, but
+      researchers from MIT have found a promising way to overcome that
+      limitation.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-AI-Vaccine-Stability-01-press.jpg?itok=A5vO0BOF
+    categories: []
+    publishedAt: 2026-09-28T09:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Anthropic and OpenAI sound the alarm on AI safety—and seek to shape how
+      it's controlled
+    url: https://techxplore.com/news/2026-09-anthropic-openai-alarm-ai-safety.html
+    summary: "As tech titans warned an AI-weary world that their own advanced
+      systems could endanger humanity, the question emerged: What do they have
+      to gain?"
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/anthropic-and-openai-s.jpg
     categories:
       - Machine learning & AI
-    publishedAt: 2026-09-26T09:12:58.000Z
+    publishedAt: 2026-09-28T08:30:02.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand
-    url: https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/
-    summary: They wanted the silicon. They got the sand.
-    imageUrl: https://media.wired.com/photos/6ab6c8393be975e24c8d9909/191:100/w_1280,c_limit/_DSC5425%20(1).jpg
-    categories:
-      - Gear
-      - Gear / Gear News and Events
-    publishedAt: 2026-09-25T20:30:40.000Z
-    source: WIRED (AI)
-  - title: MIT students gain a humanist lens on technical innovation in Tulsa,
-      Oklahoma
-    url: https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925
-    summary: When MIT mechanical engineering student Daphne Wang arrived for her
-      internship at the Muscogee Creek Nation Department of Health in Tulsa,
-      Oklahoma last summer, she expected to be writing code. To her surprise,
-      she found herself analyzing tribal history and the implications for
-      technical innovation.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mcn-interns-A1.jpg?itok=P7nxcJNI
-    categories: []
-    publishedAt: 2026-09-25T20:15:00.000Z
-    source: MIT Artificial Intelligence
-  - title: By shaping and shrinking light, engineers alter a material's magnetic
-      properties
-    url: https://techxplore.com/news/2026-09-material-magnetic-properties.html
-    summary: A new approach that uses light to switch the magnetic states of a
-      material could lead to faster, smaller and more energy-efficient data
-      storage. Engineers at the University of California San Diego published
-      their findings in Nature Communications.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/by-shaping-and-shrinki.jpg
+  - title: "Metabolic architecture: Living systems design could out-perform
+      conventional HVAC"
+    url: https://techxplore.com/news/2026-09-metabolic-architecture-conventional-hvac.html
+    summary: A new study led by researchers at the Yale Center for Ecosystems and
+      Architecture (Yale CEA), together with NYU, Purdue, YSE, Buro Happold and
+      others, shows how plant-based biofilters could help reduce indoor CO2 to
+      levels below those found outdoors. Conventional HVAC systems cannot
+      achieve this through ventilation alone, making this approach increasingly
+      relevant as climate change drives higher CO2 concentrations and greater
+      demands on indoor environments. The findings are published in the journal
+      Energy and Buildings.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/metabolic-architecture.jpg
     categories:
       - Engineering
-    publishedAt: 2026-09-25T18:00:31.000Z
+    publishedAt: 2026-09-27T18:40:01.000Z
     source: TechXplore — Engineering
+  - title: "Poetry for Engineers: The UI Designer’s Dream"
+    url: https://spectrum.ieee.org/poetry-user-interface-design
+    summary: My job is to translatedry and unrelenting codeinto a user interface of
+      surpassing beauty.With my mouse, I roll one pixel after anotherup the vast
+      anthill of the internet.
+    imageUrl: https://spectrum.ieee.org/media-library/silhouette-of-a-human-head-with-purple-pixelated-blocks-dissolving-from-the-back.jpg?id=67846122&width=1245&height=700&coordinates=0%2C469%2C0%2C469
+    categories:
+      - Artificial-intelligence
+      - Type-departments
+      - User-interface
+      - Code
+      - Poetry
+      - Verse-becomes-electric
+    publishedAt: 2026-09-27T13:00:03.000Z
+    source: IEEE Spectrum — Computing & Chips
   - title: Computer system models binocular vision to improve print ads automatically
     url: https://techxplore.com/news/2026-09-binocular-vision-ads-automatically.html
     summary: A computer-based method for evaluating and improving print
@@ -125,18 +154,6 @@ articles:
       - Type-departments
     publishedAt: 2026-09-24T13:00:04.000Z
     source: IEEE Spectrum — DIY
-  - title: The Ovary Is Surprisingly Active After Menopause. Scientists Are Trying
-      to Figure Out Why
-    url: https://www.wired.com/story/ovary-activity-after-menopause/
-    summary: A growing body of research is putting the ovary in a new light, not as
-      an egg factory with an expiration date, but as an organ that shapes
-      women’s health long after the fertile years have passed.
-    imageUrl: https://media.wired.com/photos/6ab2b368ca9e2384756787bb/191:100/w_1280,c_limit/092226-Menopause%20Ovary.jpg
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2026-09-24T10:30:00.000Z
-    source: WIRED science
   - title: Can you lend me a hand? Researchers are developing wearable robotic limbs
     url: https://techxplore.com/news/2026-09-wearable-robotic-limbs.html
     summary: How many times have you asked someone to hold open a door while
@@ -172,20 +189,6 @@ articles:
     categories: []
     publishedAt: 2026-09-22T12:52:43.000Z
     source: ScienceDaily — Robotics
-  - title: "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers"
-    url: https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit
-    summary: This article is brought to you by CoolIT, an Ecolab Company.
-    imageUrl: https://spectrum.ieee.org/media-library/close-up-of-copper-liquid-cooling-plates-and-heat-pipes-inside-an-electronic-device.jpg?id=67771117&width=1245&height=700&coordinates=0%2C104%2C0%2C104
-    categories:
-      - Type-sponsored
-      - Artificial-intelligence
-      - Heat
-      - Liquid-cooling
-      - Ai-data-centers
-      - Servers
-      - Data-centers
-    publishedAt: 2026-09-22T12:22:50.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: Robotic lab sets up and runs optics experiments on demand
     url: https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917
     summary: Every new generation of phone display, television screen, and solar
