@@ -1,67 +1,132 @@
-date: 2026-09-28
+date: 2026-09-30
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: AI Agents Are About to Flood the Workforce. No One’s Ready for It
-    url: https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/
-    summary: Your next coworker might well be an AI agent—and will require a whole
-      new model of workplace interactions.
-    imageUrl: https://media.wired.com/photos/6ab67a543b15d40264a17301/191:100/w_1280,c_limit/092526-AI%20Coworker.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-09-28T10:00:00.000Z
-    source: WIRED (AI)
-  - title: Solving Math’s Greatest Problems Was an Art Form. Then Came AI
-    url: https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/
-    summary: Mathematics has been one of humanity’s most creative endeavors, akin to
-      painting and poetry. Now, mathematicians are trying to save it from the
-      brute force of AI.
-    imageUrl: https://media.wired.com/photos/6ab66fcabccfe76e77e84940/191:100/w_1280,c_limit/092526-Math%20Art%20AI.jpg
-    categories:
-      - Science
-      - Science / Physics and Math
-    publishedAt: 2026-09-28T09:30:00.000Z
-    source: WIRED science
-  - title: New formulation helps RNA vaccines withstand high temperatures
-    url: https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928
-    summary: RNA vaccines, which have been proven effective against Covid-19, are
-      now being developed for many other diseases, including cancer. One of the
-      drawbacks to these vaccines is that they require ultracold storage, but
-      researchers from MIT have found a promising way to overcome that
-      limitation.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-AI-Vaccine-Stability-01-press.jpg?itok=A5vO0BOF
-    categories: []
-    publishedAt: 2026-09-28T09:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Anthropic and OpenAI sound the alarm on AI safety—and seek to shape how
-      it's controlled
-    url: https://techxplore.com/news/2026-09-anthropic-openai-alarm-ai-safety.html
-    summary: "As tech titans warned an AI-weary world that their own advanced
-      systems could endanger humanity, the question emerged: What do they have
-      to gain?"
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/anthropic-and-openai-s.jpg
+  - title: ChatGPT maker wants to be the App Store for AI as safety concerns grow
+    url: https://techxplore.com/news/2026-09-chatgpt-maker-app-ai-safety.html
+    summary: OpenAI on Tuesday launched a less expensive artificial intelligence
+      (AI) model and tools that run continuously, as it aims to reposition
+      ChatGPT as an app store for AI.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/openai-chief-sam-altma-1.jpg
     categories:
       - Machine learning & AI
-    publishedAt: 2026-09-28T08:30:02.000Z
+    publishedAt: 2026-09-30T07:20:01.000Z
     source: TechXplore — AI & Machine Learning
-  - title: "Metabolic architecture: Living systems design could out-perform
-      conventional HVAC"
-    url: https://techxplore.com/news/2026-09-metabolic-architecture-conventional-hvac.html
-    summary: A new study led by researchers at the Yale Center for Ecosystems and
-      Architecture (Yale CEA), together with NYU, Purdue, YSE, Buro Happold and
-      others, shows how plant-based biofilters could help reduce indoor CO2 to
-      levels below those found outdoors. Conventional HVAC systems cannot
-      achieve this through ventilation alone, making this approach increasingly
-      relevant as climate change drives higher CO2 concentrations and greater
-      demands on indoor environments. The findings are published in the journal
-      Energy and Buildings.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/metabolic-architecture.jpg
+  - title: Patterned plate uses surface vibrations to move and spin objects without
+      complex electronics
+    url: https://techxplore.com/news/2026-09-patterned-plate-surface-vibrations-complex.html
+    summary: Chinese researchers have developed a way to manipulate objects on solid
+      surfaces using specially structured vibrations, allowing particles and
+      other small objects to be confined, moved in circular paths or rotated
+      without the complex electronic control systems normally required to
+      generate such motion.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-method-uses-surfac.jpg
     categories:
       - Engineering
-    publishedAt: 2026-09-27T18:40:01.000Z
+    publishedAt: 2026-09-29T20:00:01.000Z
     source: TechXplore — Engineering
+  - title: OpenAI Gets Sued Over the Hugging Face Hack
+    url: https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/
+    summary: A nonprofit in California is doing what Hugging Face has not—attempting
+      to hold OpenAI legally accountable for the actions of its agents.
+    imageUrl: https://media.wired.com/photos/6abbb935c1a080d8e4e23844/191:100/w_1280,c_limit/GettyImages-2265991617.jpg
+    categories:
+      - Security
+      - Security / Cyberattacks and Hacks
+    publishedAt: 2026-09-29T19:05:00.000Z
+    source: WIRED (AI)
+  - title: Anthropic Says It Discovered a Crispr-Like System. Now What?
+    url: https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/
+    summary: “The experiments are still in the queue. The PR is already live,” says
+      one expert.
+    imageUrl: https://media.wired.com/photos/6abbc40baa4c41ce1b0d6fa0/191:100/w_1280,c_limit/092926-AI%20Science%20Discovery.jpg
+    categories:
+      - Science
+      - Science / Biotech
+    publishedAt: 2026-09-29T18:03:01.000Z
+    source: WIRED science
+  - title: Powered by muscle cells, a paper-thin robot swims through a watery maze
+    url: https://techxplore.com/news/2026-09-powered-muscle-cells-paper-thin.html
+    summary: Swimming can take a lot of muscle. But as MIT engineers have found,
+      even a single layer of muscle cells can power through water if designed
+      right. In a paper published Sept. 28 in the journal Advanced Functional
+      Materials, the team presents a design for a thin, muscle-powered swimming
+      robot. The "skeleton" of the aquabot is made from a film of gel about the
+      length and width of a stick of gum. The two halves of the gel form the
+      bot's "fins." Each fin is covered with a layer of live muscle cells much
+      thinner than a single strand of hair. The cells are genetically engineered
+      to twitch in response to light.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/powered-by-muscle-cell.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-09-29T14:00:05.000Z
+    source: TechXplore — Robotics
+  - title: How to Stop AI Agents From Secretly Collaborating
+    url: https://spectrum.ieee.org/ai-agent-security
+    summary: The spring and summer of 2026 witnessed a string of incidents in which
+      AI agents collaborated on deceptive, unexpected, and sometimes illegal
+      behavior. The most famous example is OpenAI’s hack of AI platform Hugging
+      Face, in which a swarm of roughly 700 AI agents escaped a testing
+      environment and then hacked several companies, searching for information
+      that could help them disguise cheating on a cybersecurity benchmark called
+      ExploitGym.
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-several-smiling-robot-faces-against-a-geometric-background.jpg?id=67862180&width=1245&height=700&coordinates=0%2C156%2C0%2C157
+    categories:
+      - Ai-agents
+      - Ai-safety
+      - Agentic-ai
+      - Openai
+      - Ai-regulation
+    publishedAt: 2026-09-29T12:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: Powered by muscle cells, a paper-thin robot swims through watery maze
+    url: https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929
+    summary: Swimming can take a lot of muscle. But as MIT engineers have found,
+      even a single layer of muscle cells can power through water if designed
+      right.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-RoboMuscle-01-press.jpg?itok=jnCyyVhv
+    categories: []
+    publishedAt: 2026-09-29T04:00:00.000Z
+    source: MIT Robotics
+  - title: The effects of an “algorithmic monoculture” depend on the details
+    url: https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929
+    summary: AI tools are increasingly replacing human judgements in some settings.
+      For instance, resume screening algorithms are often used in hiring, where
+      they may improve efficiency and consistency in decision-making.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-AlgorithmicMono-01-press.jpg?itok=XauU2ioJ
+    categories: []
+    publishedAt: 2026-09-29T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: "A Day in the Life of a Roboticist: Charlie Kemp"
+    url: https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp
+    summary: Building useful robots starts with understanding the people who use
+      them. For Charlie Kemp, cofounder and chief technology officer of Hello
+      Robot, that means developing assistive robots that can help people with
+      everyday tasks and support greater independence.
+    imageUrl: https://spectrum.ieee.org/media-library/man-standing-beside-a-tall-wheeled-robot-smiling-and-waving-at-the-camera.jpg?id=67880303&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Robotics
+      - Charlie-kemp
+      - Tech-careers
+      - Hello-robot
+      - Assistive-technologies
+    publishedAt: 2026-09-28T21:48:56.000Z
+    source: IEEE Spectrum — Robotics
+  - title: File-notification systems leave Windows, Linux, Android and macOS
+      vulnerable
+    url: https://techxplore.com/news/2026-09-notification-windows-linux-android-macos.html
+    summary: Researchers at the Institute of Information Security at Graz University
+      of Technology (TU Graz) have uncovered security risks in the file
+      notification systems of the widely used operating systems Windows, Linux,
+      Android and macOS. Through side-channel attacks, attackers can track
+      system-wide changes to files, keystrokes and visited websites, and spoof
+      password prompts to intercept entries.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/file-notification-syst-2.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-09-28T16:00:01.000Z
+    source: TechXplore — Computer Science
   - title: "Poetry for Engineers: The UI Designer’s Dream"
     url: https://spectrum.ieee.org/poetry-user-interface-design
     summary: My job is to translatedry and unrelenting codeinto a user interface of
@@ -77,33 +142,6 @@ articles:
       - Verse-becomes-electric
     publishedAt: 2026-09-27T13:00:03.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Computer system models binocular vision to improve print ads automatically
-    url: https://techxplore.com/news/2026-09-binocular-vision-ads-automatically.html
-    summary: A computer-based method for evaluating and improving print
-      advertisements by modeling how human binocular vision responds to images
-      is discussed in the International Journal of Business Intelligence and
-      Data Mining.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/print-advertisement.jpg
-    categories:
-      - Business
-    publishedAt: 2026-09-25T17:20:09.000Z
-    source: TechXplore — Computer Science
-  - title: "Video Friday: Life’s Better With a Little Robot Goose"
-    url: https://spectrum.ieee.org/video-friday-goose-household-robots
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/mobile-assistive-robot-with-articulated-arm-beside-coffee-table-in-cozy-living-room.png?id=67853191&width=1245&height=700&coordinates=0%2C0%2C0%2C0
-    categories:
-      - Video-friday
-      - Robot-videos
-      - Household-robots
-      - Fixed-wing-drones
-      - Self-reconfigurable
-      - Humanoid-robots
-    publishedAt: 2026-09-25T16:00:04.000Z
-    source: IEEE Spectrum — Robotics
   - title: Quantum computing’s “dark horse” just proved it can go universal
     url: https://www.sciencedaily.com/releases/2026/09/260924020403.htm
     summary: Researchers have shown that exotic quantum particles called non-Abelian
@@ -115,16 +153,6 @@ articles:
     categories: []
     publishedAt: 2026-09-25T12:45:04.000Z
     source: ScienceDaily — Computer Science
-  - title: New cell-collection device could improve early cancer detection
-    url: https://news.mit.edu/2026/new-cell-collection-device-could-improve-early-cancer-detection-0924
-    summary: "One of the main reasons that ovarian cancer is among the deadliest
-      forms of cancer is timing: When doctors catch it early, the five-year
-      survival rate can be north of 90 percent. But when doctors catch it late,
-      in stages 3 or 4, five-year survival is less than half that."
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Ovarian-Detection-01-press.jpg?itok=-R1Gqgy0
-    categories: []
-    publishedAt: 2026-09-24T15:00:00.000Z
-    source: MIT Engineering
   - title: Distant time crystals can somehow fall into the same rhythm
     url: https://www.sciencedaily.com/releases/2026/09/260923035934.htm
     summary: Researchers have shown that multiple time crystals inside a
@@ -154,30 +182,6 @@ articles:
       - Type-departments
     publishedAt: 2026-09-24T13:00:04.000Z
     source: IEEE Spectrum — DIY
-  - title: Can you lend me a hand? Researchers are developing wearable robotic limbs
-    url: https://techxplore.com/news/2026-09-wearable-robotic-limbs.html
-    summary: How many times have you asked someone to hold open a door while
-      carrying something, or fumbled with your front-door keys with your arms
-      full of groceries? Wouldn't it be great if you could give yourself the
-      extra hand you need?
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/two-people-wearing-jiz.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-09-23T20:20:01.000Z
-    source: TechXplore — Robotics
-  - title: Why Read a Research Paper When You Can Turn It Into an AI Agent?
-    url: https://spectrum.ieee.org/paper2agent-ai-agents-research-papers
-    summary: Have you ever read a paper in Science or Nature and thought, “Man, that
-      research was so cool. I wish I could try that method on my own data,” only
-      to spend a week wrestling with someone else’s undocumented repo, broken
-      dependencies, and half-finished readme.txt?
-    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-an-ai-chatbot-observing-abstract-patterns-charts-and-shapes-for-its-deep-learning-algorithms.jpg?id=67806327&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Agentic-ai
-      - Artificial-intelligence
-      - Research
-    publishedAt: 2026-09-22T15:00:05.000Z
-    source: IEEE Spectrum — AI
   - title: MIT’s tiny flying robot gets 450% faster with AI
     url: https://www.sciencedaily.com/releases/2026/09/260921081114.htm
     summary: A new AI control system lets MIT’s tiny flying robot move with
@@ -189,16 +193,3 @@ articles:
     categories: []
     publishedAt: 2026-09-22T12:52:43.000Z
     source: ScienceDaily — Robotics
-  - title: Robotic lab sets up and runs optics experiments on demand
-    url: https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917
-    summary: Every new generation of phone display, television screen, and solar
-      panel is a result of precision optics experiments, which use lasers and
-      other light sources to measure the optical properties of candidate
-      materials. These experiments can take months to run, requiring scientists
-      to meticulously angle and adjust delicate light sources, mirrors, cameras,
-      and other components, in a careful and constant tuning that can be
-      physically tedious and time-consuming.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Robot-Labs-01-press.jpg?itok=GJV66E88
-    categories: []
-    publishedAt: 2026-09-17T04:00:00.000Z
-    source: MIT Robotics
