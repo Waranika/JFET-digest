@@ -1,8 +1,83 @@
-date: 2026-10-05
+date: 2026-10-06
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Out-of-sync sleep schedules may steer people toward AI for dating and job
+      assessments
+    url: https://techxplore.com/news/2026-10-sync-people-ai-dating-job.html
+    summary: Life often gets in the way of going to bed in sync with our circadian
+      rhythm and getting enough sleep. Work, school and other social commitments
+      can pull our schedules out of step, and scientists call this mismatch
+      social jet lag. When people experience this sleep mismatch, they feel
+      tired and off their game. This jet lag can often trigger social anxiety
+      and worry about being judged negatively by others.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/social-jetlag-may-make.jpg
+    categories:
+      - Consumer & Gadgets
+    publishedAt: 2026-10-06T11:00:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Kevin Roose Didn’t Use AI to Write His Book About AI
+    url: https://www.wired.com/story/the-big-interview-podcast-kevin-roose/
+    summary: The author of The AGI Chronicles says his book “was written by a very
+      tired, overworked, under-slept human being.”
+    imageUrl: https://media.wired.com/photos/6ac390393e484daf0cf6af34/191:100/w_1280,c_limit/100516-Big%20Interview%20K%20Roose%20Solo.jpg
+    categories:
+      - The Big Story
+      - Business / Artificial Intelligence
+      - Business
+    publishedAt: 2026-10-06T10:30:00.000Z
+    source: WIRED (AI)
+  - title: Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever
+    url: https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/
+    summary: Under 1 million years old, “Elias 2-24b” is now the youngest exoplanet
+      ever observed, and it may force researchers to reevaluate theories about
+      how planets are formed.
+    imageUrl: https://media.wired.com/photos/6ac38637362e6c978908ac0b/191:100/w_1280,c_limit/GettyImages-976979300.jpg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-10-05T18:15:16.000Z
+    source: WIRED science
+  - title: 6 Guidelines for Governing AI
+    url: https://spectrum.ieee.org/6-guidelines-governing-ai
+    summary: For the first 10 years of my career, I worked in product management and
+      data analytics by myself. I wrote database queries that pulled numbers out
+      of corporate systems, built statistical models to predict what customers
+      would buy, and shipped data pipelines that moved information between
+      business systems.
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-floating-hands-rearranging-various-ai-chat-boxes-and-tasks.jpg?id=68052366&width=1200&height=800&coordinates=0%2C208%2C0%2C209
+    categories:
+      - Ieee-member-news
+      - Governance
+      - Ai
+      - Artificial-intelligence
+      - Careers
+      - Type-ti
+    publishedAt: 2026-10-05T18:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: Tunnel tests track large supercooled water droplets that can reach beyond
+      current aircraft ice protection
+    url: https://techxplore.com/news/2026-10-tunnel-track-large-supercooled-droplets.html
+    summary: "NASA is leveraging its expertise and enhancing its test facilities to
+      help address a rare but persistent aviation hazard: icing that occurs when
+      aircraft encounter unusually large, very cold water droplets in clouds."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/nasa-testing-aims-at-s.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-10-05T17:40:02.000Z
+    source: TechXplore — Engineering
+  - title: A new kind of magnetism could unlock faster, more efficient computers
+    url: https://www.sciencedaily.com/releases/2026/10/261002080015.htm
+    summary: Scientists have discovered evidence of altermagnetism in a thin, highly
+      tunable material that could help electronics use electron spin instead of
+      relying only on electrical charge. The unusual magnetic state may enable
+      faster, more energy-efficient devices without the unwanted magnetic
+      interference caused by conventional magnets.
+    imageUrl: https://www.sciencedaily.com/images/1920/crystal-physics-materials-science.webp
+    categories: []
+    publishedAt: 2026-10-05T11:35:24.000Z
+    source: ScienceDaily — Computer Science
   - title: Rubber ducks and screwdrivers put dexterous new soft robotic gripper to
       the test
     url: https://techxplore.com/news/2026-10-rubber-ducks-screwdrivers-dexterous-soft.html
@@ -15,29 +90,7 @@ articles:
     categories:
       - Robotics
     publishedAt: 2026-10-04T13:40:06.000Z
-    source: TechXplore — Engineering
-  - title: "AI needs safety layers like nuclear plants: Ex-OpenAI engineer"
-    url: https://techxplore.com/news/2026-10-ai-safety-layers-nuclear-openai.html
-    summary: Another former OpenAI employee has added his voice to a chorus of
-      urgent calls to make AI safe, saying the industry must mimic the aviation
-      or nuclear power sectors with their layers of safeguards to avoid
-      disaster.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/xxx-1.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-10-04T11:20:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Rural Data Centers Are in for a Big Federal Tax Break
-    url: https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/
-    summary: Under the One Big Beautiful Bill Act, data center projects in rural
-      areas could be eligible for major tax benefits starting next year. Some
-      hyperscalers do not seem eager to take the free cash.
-    imageUrl: https://media.wired.com/photos/6abfbb7863cea41649272752/191:100/w_1280,c_limit/100226-Power%20Play.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-10-04T10:00:00.000Z
-    source: WIRED (AI)
+    source: TechXplore — Robotics
   - title: Scientists just made a superconductor stronger using “empty space”
     url: https://www.sciencedaily.com/releases/2026/09/260930225456.htm
     summary: Researchers have demonstrated that quantum fluctuations in supposedly
@@ -111,7 +164,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/majorana-qubits-quantum-entanglement.webp
     categories: []
     publishedAt: 2026-10-01T13:17:13.000Z
-    source: ScienceDaily — Computer Science
+    source: ScienceDaily — Artificial Intelligence
   - title: This light-powered AI can spot deepfakes with nearly 98% accuracy
     url: https://www.sciencedaily.com/releases/2026/09/260929053534.htm
     summary: UCLA researchers built an AI system that uses light to analyze more
@@ -142,24 +195,6 @@ articles:
       - Fintech
     publishedAt: 2026-09-30T13:00:02.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: How to Stop AI Agents From Secretly Collaborating
-    url: https://spectrum.ieee.org/ai-agent-security
-    summary: The spring and summer of 2026 witnessed a string of incidents in which
-      AI agents collaborated on deceptive, unexpected, and sometimes illegal
-      behavior. The most famous example is OpenAI’s hack of AI platform Hugging
-      Face, in which a swarm of roughly 700 AI agents escaped a testing
-      environment and then hacked several companies, searching for information
-      that could help them disguise cheating on a cybersecurity benchmark called
-      ExploitGym.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-several-smiling-robot-faces-against-a-geometric-background.jpg?id=67862180&width=1245&height=700&coordinates=0%2C156%2C0%2C157
-    categories:
-      - Ai-agents
-      - Ai-safety
-      - Agentic-ai
-      - Openai
-      - Ai-regulation
-    publishedAt: 2026-09-29T12:00:02.000Z
-    source: IEEE Spectrum — AI
   - title: Measure Distant Asteroids With a DIY Rig
     url: https://spectrum.ieee.org/asteroid-shadow
     summary: I’ve seen two total solar eclipses and have been duly impressed by what
