@@ -1,44 +1,102 @@
-date: 2026-10-06
+date: 2026-10-07
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Out-of-sync sleep schedules may steer people toward AI for dating and job
-      assessments
-    url: https://techxplore.com/news/2026-10-sync-people-ai-dating-job.html
-    summary: Life often gets in the way of going to bed in sync with our circadian
-      rhythm and getting enough sleep. Work, school and other social commitments
-      can pull our schedules out of step, and scientists call this mismatch
-      social jet lag. When people experience this sleep mismatch, they feel
-      tired and off their game. This jet lag can often trigger social anxiety
-      and worry about being judged negatively by others.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/social-jetlag-may-make.jpg
-    categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-10-06T11:00:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Kevin Roose Didn’t Use AI to Write His Book About AI
-    url: https://www.wired.com/story/the-big-interview-podcast-kevin-roose/
-    summary: The author of The AGI Chronicles says his book “was written by a very
-      tired, overworked, under-slept human being.”
-    imageUrl: https://media.wired.com/photos/6ac390393e484daf0cf6af34/191:100/w_1280,c_limit/100516-Big%20Interview%20K%20Roose%20Solo.jpg
-    categories:
-      - The Big Story
-      - Business / Artificial Intelligence
-      - Business
-    publishedAt: 2026-10-06T10:30:00.000Z
-    source: WIRED (AI)
-  - title: Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever
-    url: https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/
-    summary: Under 1 million years old, “Elias 2-24b” is now the youngest exoplanet
-      ever observed, and it may force researchers to reevaluate theories about
-      how planets are formed.
-    imageUrl: https://media.wired.com/photos/6ac38637362e6c978908ac0b/191:100/w_1280,c_limit/GettyImages-976979300.jpg
+  - title: A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat
+    url: https://www.wired.com/story/startup-atoco-makes-water-from-air-using-data-centers/
+    summary: Atoco’s new machines use specialized materials that can harvest water
+      from some of the driest air on Earth without using electricity.
+    imageUrl: https://media.wired.com/photos/6ac52d112513d284cea2c550/191:100/w_1280,c_limit/DSCF6961.jpg
     categories:
       - Science
-      - Science / Space
-    publishedAt: 2026-10-05T18:15:16.000Z
+      - Science / Environment
+    publishedAt: 2026-10-07T10:00:00.000Z
     source: WIRED science
+  - title: Your Next Great Read Might Be Certified ‘Organic’
+    url: https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/
+    summary: Amid a sea of AI writing slop, a new stamp for “organic literature”
+      will help readers to pick out books authored by real, corn-fed, free-range
+      humans.
+    imageUrl: https://media.wired.com/photos/6abfd3ec63cea41649272758/191:100/w_1280,c_limit/Business_Plagued%20By%20AI%20Scandals,%20Publishers%20Are%20Starting%20To%20Sell%20%E2%80%98Organic%20Literature%E2%80%99_v1.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-10-07T08:30:00.000Z
+    source: WIRED (AI)
+  - title: "US, China, EU: Three paths to regulating AI"
+    url: https://techxplore.com/news/2026-10-china-eu-paths-ai.html
+    summary: The United States, China and the European Union are taking different
+      paths to govern artificial intelligence, as calls grow worldwide to rein
+      in its most powerful systems.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/protesters-around-the.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-10-07T06:30:40.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: "Planning system ensures a robot’s flight path will remain collision-free "
+    url: https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007
+    summary: Uncrewed aerial vehicles (UAVs) could fly deep into the heart of a
+      raging wildfire, avoiding sudden flare-ups and dodging falling tree
+      branches to gather critical information for rescuers. But in this
+      dangerous situation, the UAV could easily be damaged or destroyed by
+      falling debris.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Safe-Planner-01-press.jpg?itok=MHGngXu6
+    categories: []
+    publishedAt: 2026-10-07T04:00:00.000Z
+    source: MIT Robotics
+  - title: Supercomputing researchers document evolution of AI hardware
+    url: https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006
+    summary: As artificial intelligence transforms industries and national security,
+      understanding the latest hardware capabilities is important for
+      maintainind technological advantage.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-lincoln-supercomputer.jpg?itok=QZ2fNcDJ
+    categories: []
+    publishedAt: 2026-10-06T20:55:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Modified cellulose removes over 99% of lead from methanol-based solar
+      cell recycling waste
+    url: https://techxplore.com/news/2026-10-cellulose-methanol-based-solar-cell.html
+    summary: Conventional metal recovery technologies do not adequately recover
+      critical metals from effluents containing hydrophilic organic solvents.
+      Researchers investigated dithiocarbamate-functionalized cellulose DPE6 to
+      assess how organic solvents affect its metal sorption capability and to
+      develop a separation and recovery technology applicable to actual
+      effluents. The results show highly efficient critical metal recovery and
+      are expected to contribute to the effective use of finite metal resources
+      and the realization of a sustainable society. The research is published in
+      the journal ACS Applied Materials & Interfaces.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/modified-cellulose-rem.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-10-06T18:40:11.000Z
+    source: TechXplore — Engineering
+  - title: New index preserves AI search accuracy as records are added and deleted
+    url: https://techxplore.com/news/2026-10-index-ai-accuracy-added-deleted.html
+    summary: When new information is continually added and old information is
+      removed, an AI system may fail to find the correct material even when that
+      material exists. KAIST researchers have developed a vector database
+      technology that preserves the search paths leading to the needed
+      information as data changes. This allows AI to find up-to-date information
+      more accurately and quickly.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/kaist-develops-vector.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-10-06T15:40:01.000Z
+    source: TechXplore — Computer Science
+  - title: Scientists finally see how nature moves energy so efficiently
+    url: https://www.sciencedaily.com/releases/2026/10/261004001841.htm
+    summary: Researchers have captured key steps in a chemical reaction that helps
+      nature transfer energy with remarkable efficiency. Ultrafast X-rays
+      revealed how changes involving electrons and protons are closely linked to
+      the rearrangement of surrounding water molecules. Because similar
+      reactions drive photosynthesis and other energy-conversion processes, the
+      technique could help scientists develop better catalysts, fuel cells, and
+      flow batteries.
+    imageUrl: https://www.sciencedaily.com/images/1920/chemistry-catalyst-reaction.webp
+    categories: []
+    publishedAt: 2026-10-06T07:49:51.000Z
+    source: ScienceDaily — Engineering
   - title: 6 Guidelines for Governing AI
     url: https://spectrum.ieee.org/6-guidelines-governing-ai
     summary: For the first 10 years of my career, I worked in product management and
@@ -46,7 +104,7 @@ articles:
       of corporate systems, built statistical models to predict what customers
       would buy, and shipped data pipelines that moved information between
       business systems.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-floating-hands-rearranging-various-ai-chat-boxes-and-tasks.jpg?id=68052366&width=1200&height=800&coordinates=0%2C208%2C0%2C209
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-floating-hands-rearranging-various-ai-chat-boxes-and-tasks.jpg?id=68052366&width=1245&height=700&coordinates=0%2C469%2C0%2C469
     categories:
       - Ieee-member-news
       - Governance
@@ -56,17 +114,6 @@ articles:
       - Type-ti
     publishedAt: 2026-10-05T18:00:02.000Z
     source: IEEE Spectrum — AI
-  - title: Tunnel tests track large supercooled water droplets that can reach beyond
-      current aircraft ice protection
-    url: https://techxplore.com/news/2026-10-tunnel-track-large-supercooled-droplets.html
-    summary: "NASA is leveraging its expertise and enhancing its test facilities to
-      help address a rare but persistent aviation hazard: icing that occurs when
-      aircraft encounter unusually large, very cold water droplets in clouds."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/nasa-testing-aims-at-s.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-10-05T17:40:02.000Z
-    source: TechXplore — Engineering
   - title: A new kind of magnetism could unlock faster, more efficient computers
     url: https://www.sciencedaily.com/releases/2026/10/261002080015.htm
     summary: Scientists have discovered evidence of altermagnetism in a thin, highly
@@ -91,36 +138,13 @@ articles:
       - Robotics
     publishedAt: 2026-10-04T13:40:06.000Z
     source: TechXplore — Robotics
-  - title: Scientists just made a superconductor stronger using “empty space”
-    url: https://www.sciencedaily.com/releases/2026/09/260930225456.htm
-    summary: Researchers have demonstrated that quantum fluctuations in supposedly
-      empty space can strengthen superconductivity, raising the transition
-      temperature of an ultrathin material by as much as 5.4%. The discovery
-      opens the possibility of using specially engineered vacuum environments to
-      control quantum materials without direct contact or external driving.
-    imageUrl: https://www.sciencedaily.com/images/1920/vacuum-fluctuation-enhanced-superconductivity.webp
-    categories: []
-    publishedAt: 2026-10-03T12:03:23.000Z
-    source: ScienceDaily — Engineering
-  - title: Computational tools for society’s most complex challenges
-    url: https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002
-    summary: As far back as she can remember, Cathy Wu ’12, MNG ’13 wanted to find
-      ways to solve problems to improve people’s lives. Her parents were
-      Taiwanese immigrants, and her father had a long commute to his job, which
-      took him away from the family. On a tight budget, the rest of the family
-      often stayed home on a street that was too busy for playing outdoors. Wu
-      and her siblings ended up playing a lot of computer games.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-lids-Cathy-Wu.jpg?itok=YtxY_B0N
-    categories: []
-    publishedAt: 2026-10-02T19:30:00.000Z
-    source: MIT Robotics
   - title: "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away"
     url: https://spectrum.ieee.org/video-friday-bioinspired-robotics
     summary: Video Friday is your weekly selection of awesome robotics videos,
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/futuristic-robotic-bird-gliding-low-above-water-with-a-trailing-wire.png?id=68024679&width=1245&height=700&coordinates=0%2C275%2C0%2C276
+    imageUrl: https://spectrum.ieee.org/media-library/futuristic-robotic-bird-gliding-low-above-water-with-a-trailing-wire.png?id=68024679&width=1200&height=800&coordinates=0%2C187%2C0%2C187
     categories:
       - Humanoid-robots
       - Video-friday
@@ -130,19 +154,6 @@ articles:
       - Robotics-videos
     publishedAt: 2026-10-02T16:30:02.000Z
     source: IEEE Spectrum — Robotics
-  - title: "InterPet4D: Capturing human–dog interactions to generate AI-based pet
-      motion generation"
-    url: https://techxplore.com/news/2026-10-interpet4d-capturing-humandog-interactions-generate.html
-    summary: Interactions between humans and dogs involve a continuous exchange of
-      physical and verbal cues. A person may pet a dog, use a hand gesture, give
-      a verbal command or call the pet from a distance, prompting changes in the
-      dog's posture, position or movement. Understanding these human–animal
-      interactions requires data that captures both participants simultaneously.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/interpet4d-capturing-h.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-10-02T13:20:23.000Z
-    source: TechXplore — Computer Science
   - title: MIT class project turns into an FDA-cleared treatment for tremors
     url: https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002
     summary: In 2017, a man named Michael walked onto stage in front of a packed
