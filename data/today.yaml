@@ -1,39 +1,111 @@
-date: 2026-10-07
+date: 2026-10-08
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat
-    url: https://www.wired.com/story/startup-atoco-makes-water-from-air-using-data-centers/
-    summary: Atoco’s new machines use specialized materials that can harvest water
-      from some of the driest air on Earth without using electricity.
-    imageUrl: https://media.wired.com/photos/6ac52d112513d284cea2c550/191:100/w_1280,c_limit/DSCF6961.jpg
+  - title: How automation is shaping the future of American manufacturing
+    url: https://techxplore.com/news/2026-10-automation-future-american.html
+    summary: Labor shortages, supply-chain volatility and growing demand for
+      customized products are forcing a fundamental rethink of how work gets
+      done in U.S. manufacturing. To remain competitive, manufacturers must
+      produce increasingly complex parts with fewer workers, shorter lead times
+      and greater flexibility than ever before.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2023/factory-robot.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-10-08T11:00:10.000Z
+    source: TechXplore — Engineering
+  - title: Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel
+      Prize in Chemistry
+    url: https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/
+    summary: Henri Kagan and Kensō Soai designed chemical reactions producing only
+      one of the two mirror-image forms of a molecule—an important finding for
+      the synthesis of pharmaceuticals and other biological substances.
+    imageUrl: https://media.wired.com/photos/6ac6c83462b0c903a0cf2360/191:100/w_1280,c_limit/Premio%20Nobel%20Qu%C3%ADmica%202026%202298426505.jpg
     categories:
       - Science
-      - Science / Environment
-    publishedAt: 2026-10-07T10:00:00.000Z
+      - Science / Biotech
+    publishedAt: 2026-10-08T10:30:00.000Z
     source: WIRED science
-  - title: Your Next Great Read Might Be Certified ‘Organic’
-    url: https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/
-    summary: Amid a sea of AI writing slop, a new stamp for “organic literature”
-      will help readers to pick out books authored by real, corn-fed, free-range
-      humans.
-    imageUrl: https://media.wired.com/photos/6abfd3ec63cea41649272758/191:100/w_1280,c_limit/Business_Plagued%20By%20AI%20Scandals,%20Publishers%20Are%20Starting%20To%20Sell%20%E2%80%98Organic%20Literature%E2%80%99_v1.jpg
+  - title: Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going
+      ‘Founder-Led’
+    url: https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/
+    summary: The Center for Humane Technology helped spark a movement against
+      excessive screen time, but internal tensions over its direction and
+      strategy have simmered for years, sources tell WIRED.
+    imageUrl: https://media.wired.com/photos/6ac02e534880260b81233f30/191:100/w_1280,c_limit/Tristan-Harris-2274181207.jpg
     categories:
       - Business
+      - Business / Tech Culture
       - Business / Artificial Intelligence
-    publishedAt: 2026-10-07T08:30:00.000Z
+    publishedAt: 2026-10-08T09:30:00.000Z
     source: WIRED (AI)
-  - title: "US, China, EU: Three paths to regulating AI"
-    url: https://techxplore.com/news/2026-10-china-eu-paths-ai.html
-    summary: The United States, China and the European Union are taking different
-      paths to govern artificial intelligence, as calls grow worldwide to rein
-      in its most powerful systems.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/protesters-around-the.jpg
+  - title: AI startup Manus raises $500 million after Meta acquisition blocked by
+      China
+    url: https://techxplore.com/news/2026-10-ai-startup-manus-million-meta.html
+    summary: AI startup Manus, whose acquisition by Meta was blocked by the Chinese
+      government, said Thursday it had completed a funding round that raised
+      more than $500 million.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/manus-is-an-agent-tool.jpg
     categories:
       - Machine learning & AI
-    publishedAt: 2026-10-07T06:30:40.000Z
+    publishedAt: 2026-10-08T09:20:08.000Z
     source: TechXplore — AI & Machine Learning
+  - title: Using AI to mitigate the growing environmental threat of data centers
+    url: https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008
+    summary: The global building boom of power-hungry data centers is straining
+      electrical grids, causing greater reliance on energy from polluting fossil
+      fuels.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Delimitrou-A1.jpg?itok=hroNGbR9
+    categories: []
+    publishedAt: 2026-10-08T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Turning the tide on Massachusetts shellfishing data
+    url: https://news.mit.edu/2026/turning-tide-massachusetts-shellfishing-data-1007
+    summary: "Until recently, when a Massachusetts shellfish warden needed to know
+      how much rain had fallen overnight before deciding whether to close a
+      shellfishing area, the process might look something like this: call a
+      local resident who happened to own a rain gauge, ask for the measurement,
+      write it down, and use that number to make the call. Heavy rain may cause
+      a closure due to stormwater runoff that can carry pollutants from land to
+      water. If the area closed, the public found out the same low-tech way: a
+      paper notice at the boat ramp, a phone call, or word passed along at the
+      marina."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/quahogs-triantafyllou-00_0.jpg?itok=N6GxH0bE
+    categories: []
+    publishedAt: 2026-10-07T19:55:00.000Z
+    source: MIT Engineering
+  - title: "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and
+      Object Interaction"
+    url: https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/
+    summary: This White Paper gives robotics researchers and engineers an overview
+      of a new large-scale motion capture dataset built to close the data gap
+      limiting humanoid robot learning. It also shows how policies trained on
+      the dataset transfer to a real humanoid robot.
+    imageUrl: https://spectrum.ieee.org/media-library/noitom-robotics-logo-with-stylized-nr-monogram-on-transparent-background.png?id=68382308&width=980
+    categories:
+      - Type-whitepaper
+      - Motion-capture
+      - Physical-ai
+      - Humanoid-robots
+      - Robotics
+    publishedAt: 2026-10-07T13:49:48.000Z
+    source: IEEE Spectrum — Robotics
+  - title: The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing
+    url: https://spectrum.ieee.org/anderon-quantum-fab
+    summary: The U.S. Department of Commerce has finalized a CHIPS and Science Act
+      R&D award of up to $1 billion for Anderon, a quantum foundry IBM
+      established earlier this year. The 16 September announcement backs a
+      manufacturing service for IBM and other quantum-hardware developers.
+    imageUrl: https://spectrum.ieee.org/media-library/several-people-dressed-in-clean-suits-while-working-in-a-semiconductor-manufacturing-lab.jpg?id=68054174&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Chips-act
+      - Ibm
+      - Chip-fabrication
+      - Chip-foundry
+      - Quantum-computing
+    publishedAt: 2026-10-07T13:09:13.000Z
+    source: IEEE Spectrum — Computing & Chips
   - title: "Planning system ensures a robot’s flight path will remain collision-free "
     url: https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007
     summary: Uncrewed aerial vehicles (UAVs) could fly deep into the heart of a
@@ -45,32 +117,6 @@ articles:
     categories: []
     publishedAt: 2026-10-07T04:00:00.000Z
     source: MIT Robotics
-  - title: Supercomputing researchers document evolution of AI hardware
-    url: https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006
-    summary: As artificial intelligence transforms industries and national security,
-      understanding the latest hardware capabilities is important for
-      maintainind technological advantage.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-lincoln-supercomputer.jpg?itok=QZ2fNcDJ
-    categories: []
-    publishedAt: 2026-10-06T20:55:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Modified cellulose removes over 99% of lead from methanol-based solar
-      cell recycling waste
-    url: https://techxplore.com/news/2026-10-cellulose-methanol-based-solar-cell.html
-    summary: Conventional metal recovery technologies do not adequately recover
-      critical metals from effluents containing hydrophilic organic solvents.
-      Researchers investigated dithiocarbamate-functionalized cellulose DPE6 to
-      assess how organic solvents affect its metal sorption capability and to
-      develop a separation and recovery technology applicable to actual
-      effluents. The results show highly efficient critical metal recovery and
-      are expected to contribute to the effective use of finite metal resources
-      and the realization of a sustainable society. The research is published in
-      the journal ACS Applied Materials & Interfaces.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/modified-cellulose-rem.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-10-06T18:40:11.000Z
-    source: TechXplore — Engineering
   - title: New index preserves AI search accuracy as records are added and deleted
     url: https://techxplore.com/news/2026-10-index-ai-accuracy-added-deleted.html
     summary: When new information is continually added and old information is
@@ -97,23 +143,6 @@ articles:
     categories: []
     publishedAt: 2026-10-06T07:49:51.000Z
     source: ScienceDaily — Engineering
-  - title: 6 Guidelines for Governing AI
-    url: https://spectrum.ieee.org/6-guidelines-governing-ai
-    summary: For the first 10 years of my career, I worked in product management and
-      data analytics by myself. I wrote database queries that pulled numbers out
-      of corporate systems, built statistical models to predict what customers
-      would buy, and shipped data pipelines that moved information between
-      business systems.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-floating-hands-rearranging-various-ai-chat-boxes-and-tasks.jpg?id=68052366&width=1245&height=700&coordinates=0%2C469%2C0%2C469
-    categories:
-      - Ieee-member-news
-      - Governance
-      - Ai
-      - Artificial-intelligence
-      - Careers
-      - Type-ti
-    publishedAt: 2026-10-05T18:00:02.000Z
-    source: IEEE Spectrum — AI
   - title: A new kind of magnetism could unlock faster, more efficient computers
     url: https://www.sciencedaily.com/releases/2026/10/261002080015.htm
     summary: Scientists have discovered evidence of altermagnetism in a thin, highly
@@ -125,45 +154,6 @@ articles:
     categories: []
     publishedAt: 2026-10-05T11:35:24.000Z
     source: ScienceDaily — Computer Science
-  - title: Rubber ducks and screwdrivers put dexterous new soft robotic gripper to
-      the test
-    url: https://techxplore.com/news/2026-10-rubber-ducks-screwdrivers-dexterous-soft.html
-    summary: Professors at the Universidad Carlos III de Madrid (UC3M) and the
-      Universidad Pública de Navarra (UPNA) have developed a soft robotic
-      gripper capable not only of picking up and holding objects but also of
-      manipulating and repositioning what it holds between its fingers without
-      losing its grip.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/uc3m-and-upna-design-a.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-10-04T13:40:06.000Z
-    source: TechXplore — Robotics
-  - title: "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away"
-    url: https://spectrum.ieee.org/video-friday-bioinspired-robotics
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/futuristic-robotic-bird-gliding-low-above-water-with-a-trailing-wire.png?id=68024679&width=1200&height=800&coordinates=0%2C187%2C0%2C187
-    categories:
-      - Humanoid-robots
-      - Video-friday
-      - Robot-hands
-      - Bioinspired-robots
-      - Quadruped-robots
-      - Robotics-videos
-    publishedAt: 2026-10-02T16:30:02.000Z
-    source: IEEE Spectrum — Robotics
-  - title: MIT class project turns into an FDA-cleared treatment for tremors
-    url: https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002
-    summary: In 2017, a man named Michael walked onto stage in front of a packed
-      Kresge Auditorium at MIT and attempted to draw a spiral, a common test
-      doctors use to diagnose Parkinson’s disease. His tremors, caused by the
-      disease, made the exercise difficult.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Encora-Therapeutics-01-press.jpg?itok=1vCDHH4L
-    categories: []
-    publishedAt: 2026-10-02T04:00:00.000Z
-    source: MIT Engineering
   - title: This new qubit could be 100 times less error-prone in superfluid quantum
       computer breakthrough
     url: https://www.sciencedaily.com/releases/2026/09/260930020309.htm
@@ -187,25 +177,6 @@ articles:
     categories: []
     publishedAt: 2026-10-01T13:03:50.000Z
     source: ScienceDaily — Robotics
-  - title: A Brief History of the Bloomberg Terminal
-    url: https://spectrum.ieee.org/bloomberg-terminal
-    summary: Financial markets have always relied on timely information, and the
-      drive for timeliness has always adapted to the latest technology. From
-      clipper ships transiting the oceans to telegraph wires connecting cities
-      to fiber-optic cables conducting trades in microseconds, traders have
-      embraced any advantage to get the most up-to-date information. Indeed, the
-      history of finance is really a story about how fast you can move
-      information and who controls the interface.
-    imageUrl: https://spectrum.ieee.org/media-library/vintage-bloomberg-financial-keyboard-terminal-with-built-in-speaker-and-market-function-keys.jpg?id=67857164&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Past-forward
-      - Type-departments
-      - Wall-street
-      - Financial-markets
-      - Michael-bloomberg
-      - Fintech
-    publishedAt: 2026-09-30T13:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: Measure Distant Asteroids With a DIY Rig
     url: https://spectrum.ieee.org/asteroid-shadow
     summary: I’ve seen two total solar eclipses and have been duly impressed by what
