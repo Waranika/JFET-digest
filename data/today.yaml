@@ -1,95 +1,102 @@
-date: 2026-10-08
+date: 2026-10-09
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: How automation is shaping the future of American manufacturing
-    url: https://techxplore.com/news/2026-10-automation-future-american.html
-    summary: Labor shortages, supply-chain volatility and growing demand for
-      customized products are forcing a fundamental rethink of how work gets
-      done in U.S. manufacturing. To remain competitive, manufacturers must
-      produce increasingly complex parts with fewer workers, shorter lead times
-      and greater flexibility than ever before.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2023/factory-robot.jpg
+  - title: Even ‘Law & Order’ Is Terrified of AI
+    url: https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/
+    summary: In its 26th season premiere, the procedural legal drama paints a
+      damning picture of power-mad AI CEOs.
+    imageUrl: https://media.wired.com/photos/6ac6842a2962a868125e6095/191:100/w_1280,c_limit/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg
     categories:
-      - Robotics
-    publishedAt: 2026-10-08T11:00:10.000Z
-    source: TechXplore — Engineering
-  - title: Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel
-      Prize in Chemistry
-    url: https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/
-    summary: Henri Kagan and Kensō Soai designed chemical reactions producing only
-      one of the two mirror-image forms of a molecule—an important finding for
-      the synthesis of pharmaceuticals and other biological substances.
-    imageUrl: https://media.wired.com/photos/6ac6c83462b0c903a0cf2360/191:100/w_1280,c_limit/Premio%20Nobel%20Qu%C3%ADmica%202026%202298426505.jpg
-    categories:
-      - Science
-      - Science / Biotech
-    publishedAt: 2026-10-08T10:30:00.000Z
-    source: WIRED science
-  - title: Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going
-      ‘Founder-Led’
-    url: https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/
-    summary: The Center for Humane Technology helped spark a movement against
-      excessive screen time, but internal tensions over its direction and
-      strategy have simmered for years, sources tell WIRED.
-    imageUrl: https://media.wired.com/photos/6ac02e534880260b81233f30/191:100/w_1280,c_limit/Tristan-Harris-2274181207.jpg
+      - Culture
+      - Culture / TV
+    publishedAt: 2026-10-09T10:00:00.000Z
+    source: WIRED (AI)
+  - title: OpenAI revenue gap report rattles AI stocks
+    url: https://techxplore.com/news/2026-10-openai-revenue-gap-rattles-ai.html
+    summary: OpenAI is bringing in about $20 billion less in annualized revenue than
+      investors had been led to believe, the Financial Times reported Thursday,
+      raising questions about the solidity of the AI business.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/openai-had-been-widely.jpg
     categories:
       - Business
-      - Business / Tech Culture
-      - Business / Artificial Intelligence
-    publishedAt: 2026-10-08T09:30:00.000Z
-    source: WIRED (AI)
-  - title: AI startup Manus raises $500 million after Meta acquisition blocked by
-      China
-    url: https://techxplore.com/news/2026-10-ai-startup-manus-million-meta.html
-    summary: AI startup Manus, whose acquisition by Meta was blocked by the Chinese
-      government, said Thursday it had completed a funding round that raised
-      more than $500 million.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/manus-is-an-agent-tool.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-10-08T09:20:08.000Z
+    publishedAt: 2026-10-09T09:10:07.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Using AI to mitigate the growing environmental threat of data centers
-    url: https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008
-    summary: The global building boom of power-hungry data centers is straining
-      electrical grids, causing greater reliance on energy from polluting fossil
-      fuels.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Delimitrou-A1.jpg?itok=hroNGbR9
-    categories: []
-    publishedAt: 2026-10-08T04:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Turning the tide on Massachusetts shellfishing data
-    url: https://news.mit.edu/2026/turning-tide-massachusetts-shellfishing-data-1007
-    summary: "Until recently, when a Massachusetts shellfish warden needed to know
-      how much rain had fallen overnight before deciding whether to close a
-      shellfishing area, the process might look something like this: call a
-      local resident who happened to own a rain gauge, ask for the measurement,
-      write it down, and use that number to make the call. Heavy rain may cause
-      a closure due to stormwater runoff that can carry pollutants from land to
-      water. If the area closed, the public found out the same low-tech way: a
-      paper notice at the boat ramp, a phone call, or word passed along at the
-      marina."
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/quahogs-triantafyllou-00_0.jpg?itok=N6GxH0bE
-    categories: []
-    publishedAt: 2026-10-07T19:55:00.000Z
-    source: MIT Engineering
-  - title: "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and
-      Object Interaction"
-    url: https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/
-    summary: This White Paper gives robotics researchers and engineers an overview
-      of a new large-scale motion capture dataset built to close the data gap
-      limiting humanoid robot learning. It also shows how policies trained on
-      the dataset transfer to a real humanoid robot.
-    imageUrl: https://spectrum.ieee.org/media-library/noitom-robotics-logo-with-stylized-nr-monogram-on-transparent-background.png?id=68382308&width=980
+  - title: AI helps identify drilling regimes with a projected potential increase in
+      drilling speed of up to 68%
+    url: https://techxplore.com/news/2026-10-ai-drilling-regimes-potential.html
+    summary: Assistant professor Shadfar Davoodi at the Skoltech AI Center has
+      developed an approach for optimizing drilling in heterogeneous carbonate
+      reservoirs that simultaneously predicts process characteristics, explains
+      the influence of individual parameters and identifies the most efficient
+      operating regimes. For one of the studied wells, the model estimated a
+      potential increase in the rate of penetration of up to 68.4%.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-helps-identify-dril.jpg
     categories:
-      - Type-whitepaper
-      - Motion-capture
-      - Physical-ai
-      - Humanoid-robots
+      - Engineering
+    publishedAt: 2026-10-09T00:40:06.000Z
+    source: TechXplore — Engineering
+  - title: "3 Questions: What is the best path forward for AI in academia?"
+    url: https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925
+    summary: With artificial intelligence capabilities continuing to expand,
+      universities now face complex, urgent questions about how to navigate
+      increasing challenges, as well as new opportunities. Much attention is now
+      directed toward this, including an MIT report on AI and education
+      published this summer.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/ai-and-academia-00.jpg?itok=A5hPBHGn
+    categories: []
+    publishedAt: 2026-10-08T21:25:00.000Z
+    source: MIT Artificial Intelligence
+  - title: PhoneBot gives old smartphones a new job on two legs
+    url: https://techxplore.com/news/2026-10-phonebot-smartphones-job-legs.html
+    summary: Smartphones combine cameras, motion sensors and powerful processors in
+      devices that fit inside a pocket. These features could also make them
+      useful components for robots, reducing the need to buy and connect
+      separate sensors, processors or other electronics.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/roboticists-use-a-smar.jpg
+    categories:
       - Robotics
-    publishedAt: 2026-10-07T13:49:48.000Z
+    publishedAt: 2026-10-08T20:20:06.000Z
+    source: TechXplore — Robotics
+  - title: Shape-sensing sheet digitally tracks its movement as it bends and twists
+    url: https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008
+    summary: MIT engineers have developed a flexible, shape-sensing sheet that
+      digitally reconstructs its own form as it bends and twists.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Sensing-Sheets-01-press.jpg?itok=u0FlOuu0
+    categories: []
+    publishedAt: 2026-10-08T18:00:00.000Z
+    source: MIT Engineering
+  - title: The U.S. Nuclear Plant Fleet Is Leaning Into AI
+    url: https://spectrum.ieee.org/ai-assistants-nuclear-power-plant
+    summary: If there is any place that would be off-limits to AI, the control room
+      of a nuclear power plant certainly sounds like one. The nuclear industry
+      is historically cautious and risk averse—understandable given the possible
+      catastrophic consequences of an accident or a mistake. Even well-trained
+      managers struggle with the operational complexity of a nuclear reactor.
+      It’s not the kind of setting that seems well suited to a powerful but
+      error-prone new technology.
+    imageUrl: https://spectrum.ieee.org/media-library/three-men-smiling-together-in-front-of-an-exascale-supercomputer.jpg?id=68384674&width=1245&height=700&coordinates=0%2C62%2C0%2C63
+    categories:
+      - Nuclear-power
+      - Artificial-intelligence
+      - Epri
+    publishedAt: 2026-10-08T14:28:17.000Z
+    source: IEEE Spectrum — AI
+  - title: This Disembodied Hand Is All the Robot You Need
+    url: https://spectrum.ieee.org/walking-robotic-hand
+    summary: A hand attached to the end of an arm is a given for most humans, but
+      what if robots didn’t have to play by the same rules as we do? Researchers
+      from ETH Zurich have turned an off-the-shelf robotic hand into a
+      completely self-contained robot that walks on its fingertips while using
+      those same fingers to manipulate its environment.
+    imageUrl: https://spectrum.ieee.org/media-library/a-detached-robotic-hand-using-its-five-fingers-to-walk.jpg?id=68383398&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Robotics
+      - Manipulation
+      - Eth-zurich
+      - Robot-grippers
+    publishedAt: 2026-10-08T12:00:02.000Z
     source: IEEE Spectrum — Robotics
   - title: The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing
     url: https://spectrum.ieee.org/anderon-quantum-fab
