@@ -1,42 +1,114 @@
-date: 2026-10-09
+date: 2026-10-10
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Even ‘Law & Order’ Is Terrified of AI
-    url: https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/
-    summary: In its 26th season premiere, the procedural legal drama paints a
-      damning picture of power-mad AI CEOs.
-    imageUrl: https://media.wired.com/photos/6ac6842a2962a868125e6095/191:100/w_1280,c_limit/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg
+  - title: Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You
+      Can See It in High Definition
+    url: https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/
+    summary: The new image isn’t just stunning—it may also provide clues about how
+      this star survived its own explosion.
+    imageUrl: https://media.wired.com/photos/6ac6c81bf72dd8f6dfa1d410/191:100/w_1280,c_limit/noirlab2624a.jpg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-10-10T09:30:00.000Z
+    source: WIRED science
+  - title: Book Publishers Are Quietly Using More AI. Staff Are Revolting
+    url: https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/
+    summary: Workers at three major publishing houses tell WIRED that LLMs are being
+      used for publicity, cover art, back cover copy, and emails, as some execs
+      push junior staff to champion the tech.
+    imageUrl: https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg
     categories:
       - Culture
-      - Culture / TV
-    publishedAt: 2026-10-09T10:00:00.000Z
+      - Culture / Books
+    publishedAt: 2026-10-09T19:28:49.000Z
     source: WIRED (AI)
-  - title: OpenAI revenue gap report rattles AI stocks
-    url: https://techxplore.com/news/2026-10-openai-revenue-gap-rattles-ai.html
-    summary: OpenAI is bringing in about $20 billion less in annualized revenue than
-      investors had been led to believe, the Financial Times reported Thursday,
-      raising questions about the solidity of the AI business.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/openai-had-been-widely.jpg
+  - title: AI image watermarks can survive new model training, but durability varies
+      by design
+    url: https://techxplore.com/news/2026-10-ai-image-watermarks-survive-durability.html
+    summary: Watermarks are increasingly being used to make AI-generated images
+      recognizable and to ensure their origin can be traced. Previous research
+      has focused on whether watermarks can withstand image manipulation. CISPA
+      researcher Michel Meintz from the SprintML Lab has investigated whether
+      watermarks can withstand the training of a new generative model.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/cispa-researchers-have.jpg
     categories:
-      - Business
-    publishedAt: 2026-10-09T09:10:07.000Z
+      - Security
+    publishedAt: 2026-10-09T18:20:02.000Z
     source: TechXplore — AI & Machine Learning
-  - title: AI helps identify drilling regimes with a projected potential increase in
-      drilling speed of up to 68%
-    url: https://techxplore.com/news/2026-10-ai-drilling-regimes-potential.html
-    summary: Assistant professor Shadfar Davoodi at the Skoltech AI Center has
-      developed an approach for optimizing drilling in heterogeneous carbonate
-      reservoirs that simultaneously predicts process characteristics, explains
-      the influence of individual parameters and identifies the most efficient
-      operating regimes. For one of the studied wells, the model estimated a
-      potential increase in the rate of penetration of up to 68.4%.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-helps-identify-dril.jpg
+  - title: Master AI Chip Principles With New IEEE Design Program
+    url: https://spectrum.ieee.org/master-ai-chip-principles-ieee
+    summary: "Today’s engineers face an unprecedented acceleration in AI hardware
+      complexity, as explained in the recent research article “Revisiting Edge
+      AI: Opportunities and Challenges.” The article examines the rapid growth
+      of edge AI and the challenges it creates, including resource constraints,
+      model architecture limitations, and network demands across edge-AI
+      deployments."
+    imageUrl: https://spectrum.ieee.org/media-library/graphic-illustration-of-arrows-and-data-symbols-representing-a-neural-network.jpg?id=68060909&width=1245&height=700&coordinates=0%2C187%2C0%2C188
+    categories:
+      - Ieee-products-and-services
+      - Artificial-intelligence
+      - Ai
+      - Education
+      - Careers
+      - Type-ti
+    publishedAt: 2026-10-09T18:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: Shape-sensing sheet digitally tracks its movement as it bends and twists
+    url: https://techxplore.com/news/2026-10-sheet-digitally-tracks-movement.html
+    summary: MIT engineers have developed a flexible, shape-sensing sheet that
+      digitally reconstructs its own form as it bends and twists. The sensor is
+      similar in principle to some motion-capture garments, which track a
+      person's physical movements to mimic them in a virtual avatar. Those
+      designs use rigid sensors that are stitched into a suit at strategic
+      locations.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/shape-sensing-sheet-di.jpg
     categories:
       - Engineering
-    publishedAt: 2026-10-09T00:40:06.000Z
+    publishedAt: 2026-10-09T17:00:01.000Z
     source: TechXplore — Engineering
+  - title: Neural network study sheds light on how AI chatbots 'reason' like humans
+    url: https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html
+    summary: When humans write sentences or solve math problems, they are thinking
+      symbolically—each number, variable or word is expressed by a symbol. While
+      AI chatbots do not "think" that way, if prompted, they can offer cogent
+      advice about writing, math and many other topics as if a person were
+      offering it.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/how-do-ai-chatbots-rea.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-10-09T15:40:08.000Z
+    source: TechXplore — Computer Science
+  - title: "Video Friday: Robot Decommissioning Takes a Fun Turn"
+    url: https://spectrum.ieee.org/video-friday-reachy-mini-raps
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/smiling-humanoid-robot-in-robe-free-falls-into-deep-pit-filled-with-colorful-balls.jpg?id=68398684&width=1245&height=700&coordinates=0%2C0%2C0%2C1
+    categories:
+      - Video-friday
+      - Robotics-videos
+      - Humanoid-robots
+      - Robot-arms
+      - Industrial-robotics
+      - Robot-grippers
+    publishedAt: 2026-10-09T15:30:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Two-armed robot throws and catches balls with human-like movements
+    url: https://techxplore.com/news/2026-10-armed-robot-balls-human-movements.html
+    summary: Humans can move their limbs very rapidly and coordinate their movements
+      with high precision to tackle specific manual tasks. While robots have
+      become increasingly advanced in recent years, many of them remain less
+      agile than humans and struggle to interact with moving objects of
+      different shapes, weights and textures.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/two-armed-robot-throws-3.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-10-09T13:40:04.000Z
+    source: TechXplore — Robotics
   - title: "3 Questions: What is the best path forward for AI in academia?"
     url: https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925
     summary: With artificial intelligence capabilities continuing to expand,
@@ -48,56 +120,6 @@ articles:
     categories: []
     publishedAt: 2026-10-08T21:25:00.000Z
     source: MIT Artificial Intelligence
-  - title: PhoneBot gives old smartphones a new job on two legs
-    url: https://techxplore.com/news/2026-10-phonebot-smartphones-job-legs.html
-    summary: Smartphones combine cameras, motion sensors and powerful processors in
-      devices that fit inside a pocket. These features could also make them
-      useful components for robots, reducing the need to buy and connect
-      separate sensors, processors or other electronics.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/roboticists-use-a-smar.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-10-08T20:20:06.000Z
-    source: TechXplore — Robotics
-  - title: Shape-sensing sheet digitally tracks its movement as it bends and twists
-    url: https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008
-    summary: MIT engineers have developed a flexible, shape-sensing sheet that
-      digitally reconstructs its own form as it bends and twists.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Sensing-Sheets-01-press.jpg?itok=u0FlOuu0
-    categories: []
-    publishedAt: 2026-10-08T18:00:00.000Z
-    source: MIT Engineering
-  - title: The U.S. Nuclear Plant Fleet Is Leaning Into AI
-    url: https://spectrum.ieee.org/ai-assistants-nuclear-power-plant
-    summary: If there is any place that would be off-limits to AI, the control room
-      of a nuclear power plant certainly sounds like one. The nuclear industry
-      is historically cautious and risk averse—understandable given the possible
-      catastrophic consequences of an accident or a mistake. Even well-trained
-      managers struggle with the operational complexity of a nuclear reactor.
-      It’s not the kind of setting that seems well suited to a powerful but
-      error-prone new technology.
-    imageUrl: https://spectrum.ieee.org/media-library/three-men-smiling-together-in-front-of-an-exascale-supercomputer.jpg?id=68384674&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Nuclear-power
-      - Artificial-intelligence
-      - Epri
-    publishedAt: 2026-10-08T14:28:17.000Z
-    source: IEEE Spectrum — AI
-  - title: This Disembodied Hand Is All the Robot You Need
-    url: https://spectrum.ieee.org/walking-robotic-hand
-    summary: A hand attached to the end of an arm is a given for most humans, but
-      what if robots didn’t have to play by the same rules as we do? Researchers
-      from ETH Zurich have turned an off-the-shelf robotic hand into a
-      completely self-contained robot that walks on its fingertips while using
-      those same fingers to manipulate its environment.
-    imageUrl: https://spectrum.ieee.org/media-library/a-detached-robotic-hand-using-its-five-fingers-to-walk.jpg?id=68383398&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Robotics
-      - Manipulation
-      - Eth-zurich
-      - Robot-grippers
-    publishedAt: 2026-10-08T12:00:02.000Z
-    source: IEEE Spectrum — Robotics
   - title: The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing
     url: https://spectrum.ieee.org/anderon-quantum-fab
     summary: The U.S. Department of Commerce has finalized a CHIPS and Science Act
@@ -124,19 +146,6 @@ articles:
     categories: []
     publishedAt: 2026-10-07T04:00:00.000Z
     source: MIT Robotics
-  - title: New index preserves AI search accuracy as records are added and deleted
-    url: https://techxplore.com/news/2026-10-index-ai-accuracy-added-deleted.html
-    summary: When new information is continually added and old information is
-      removed, an AI system may fail to find the correct material even when that
-      material exists. KAIST researchers have developed a vector database
-      technology that preserves the search paths leading to the needed
-      information as data changes. This allows AI to find up-to-date information
-      more accurately and quickly.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/kaist-develops-vector.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-10-06T15:40:01.000Z
-    source: TechXplore — Computer Science
   - title: Scientists finally see how nature moves energy so efficiently
     url: https://www.sciencedaily.com/releases/2026/10/261004001841.htm
     summary: Researchers have captured key steps in a chemical reaction that helps
