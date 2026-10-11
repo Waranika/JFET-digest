@@ -1,43 +1,51 @@
-date: 2026-10-10
+date: 2026-10-11
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You
-      Can See It in High Definition
-    url: https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/
-    summary: The new image isn’t just stunning—it may also provide clues about how
-      this star survived its own explosion.
-    imageUrl: https://media.wired.com/photos/6ac6c81bf72dd8f6dfa1d410/191:100/w_1280,c_limit/noirlab2624a.jpg
+  - title: How the 2026 Super El Niño and Climate Change Are Related
+    url: https://www.wired.com/story/super-el-nino-climate-change-connections/
+    summary: Here’s what we know about the record-setting El Niño on a record-hot
+      planet, and the most important questions scientists are trying to answer.
+    imageUrl: https://media.wired.com/photos/6ac8231cca19e55033ce8ba8/191:100/w_1280,c_limit/cambio%20clim%C3%A1tico%20El%20Ni%C3%B1o%202298072299.jpg
     categories:
       - Science
-      - Science / Space
-    publishedAt: 2026-10-10T09:30:00.000Z
+      - Science / Environment
+    publishedAt: 2026-10-11T09:30:00.000Z
     source: WIRED science
-  - title: Book Publishers Are Quietly Using More AI. Staff Are Revolting
-    url: https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/
-    summary: Workers at three major publishing houses tell WIRED that LLMs are being
-      used for publicity, cover art, back cover copy, and emails, as some execs
-      push junior staff to champion the tech.
-    imageUrl: https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg
+  - title: Scientists build a nuclear clock that could make atomic clocks obsolete
+    url: https://www.sciencedaily.com/releases/2026/10/261008102701.htm
+    summary: Scientists in Vienna have achieved a major breakthrough in timekeeping
+      by creating the world’s first self-stabilizing nuclear clock, a technology
+      that could eventually surpass even the most precise atomic clocks. Instead
+      of relying on electrons in atoms, the clock uses the tiny nuclei of
+      thorium atoms, which are far less sensitive to outside disturbances.
+    imageUrl: https://www.sciencedaily.com/images/1920/nuclear-clock-concept.webp
+    categories: []
+    publishedAt: 2026-10-11T03:06:35.000Z
+    source: ScienceDaily — Engineering
+  - title: Anthropic's Claude AI submits a false tip on an unsolved Philadelphia
+      homicide case
+    url: https://techxplore.com/news/2026-10-anthropic-claude-ai-submits-false.html
+    summary: An Anthropic artificial intelligence model submitted a false tip to a
+      Philadelphia police website about an unsolved homicide case, authorities
+      and Anthropic said.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/anthropic-3.jpg
     categories:
-      - Culture
-      - Culture / Books
-    publishedAt: 2026-10-09T19:28:49.000Z
-    source: WIRED (AI)
-  - title: AI image watermarks can survive new model training, but durability varies
-      by design
-    url: https://techxplore.com/news/2026-10-ai-image-watermarks-survive-durability.html
-    summary: Watermarks are increasingly being used to make AI-generated images
-      recognizable and to ensure their origin can be traced. Previous research
-      has focused on whether watermarks can withstand image manipulation. CISPA
-      researcher Michel Meintz from the SprintML Lab has investigated whether
-      watermarks can withstand the training of a new generative model.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/cispa-researchers-have.jpg
+      - Machine learning & AI
+    publishedAt: 2026-10-10T20:22:10.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: AI Is Getting Really Good at Messing With Cybercriminals
+    url: https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/
+    summary: Anti-cybercrime initiatives are increasingly using AI to scam the
+      scammers by tricking them into talking to lifelike bots that they think
+      are real victims.
+    imageUrl: https://media.wired.com/photos/6ac7e488d45774a31ff822a9/191:100/w_1280,c_limit/Kernel-Panic-AI-Getting-Really-Good-Fucking-With-Cybercriminals-Security.jpg
     categories:
       - Security
-    publishedAt: 2026-10-09T18:20:02.000Z
-    source: TechXplore — AI & Machine Learning
+      - Security / Cyberattacks and Hacks
+    publishedAt: 2026-10-10T12:00:00.000Z
+    source: WIRED (AI)
   - title: Master AI Chip Principles With New IEEE Design Program
     url: https://spectrum.ieee.org/master-ai-chip-principles-ieee
     summary: "Today’s engineers face an unprecedented acceleration in AI hardware
@@ -87,7 +95,7 @@ articles:
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/smiling-humanoid-robot-in-robe-free-falls-into-deep-pit-filled-with-colorful-balls.jpg?id=68398684&width=1245&height=700&coordinates=0%2C0%2C0%2C1
+    imageUrl: https://spectrum.ieee.org/media-library/smiling-humanoid-robot-in-robe-free-falls-into-deep-pit-filled-with-colorful-balls.jpg?id=68398684&width=1200&height=800&coordinates=130%2C0%2C130%2C0
     categories:
       - Video-friday
       - Robotics-videos
@@ -146,19 +154,6 @@ articles:
     categories: []
     publishedAt: 2026-10-07T04:00:00.000Z
     source: MIT Robotics
-  - title: Scientists finally see how nature moves energy so efficiently
-    url: https://www.sciencedaily.com/releases/2026/10/261004001841.htm
-    summary: Researchers have captured key steps in a chemical reaction that helps
-      nature transfer energy with remarkable efficiency. Ultrafast X-rays
-      revealed how changes involving electrons and protons are closely linked to
-      the rearrangement of surrounding water molecules. Because similar
-      reactions drive photosynthesis and other energy-conversion processes, the
-      technique could help scientists develop better catalysts, fuel cells, and
-      flow batteries.
-    imageUrl: https://www.sciencedaily.com/images/1920/chemistry-catalyst-reaction.webp
-    categories: []
-    publishedAt: 2026-10-06T07:49:51.000Z
-    source: ScienceDaily — Engineering
   - title: A new kind of magnetism could unlock faster, more efficient computers
     url: https://www.sciencedaily.com/releases/2026/10/261002080015.htm
     summary: Scientists have discovered evidence of altermagnetism in a thin, highly
