@@ -1,18 +1,146 @@
-date: 2026-10-11
+date: 2026-10-14
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: How the 2026 Super El Niño and Climate Change Are Related
-    url: https://www.wired.com/story/super-el-nino-climate-change-connections/
-    summary: Here’s what we know about the record-setting El Niño on a record-hot
-      planet, and the most important questions scientists are trying to answer.
-    imageUrl: https://media.wired.com/photos/6ac8231cca19e55033ce8ba8/191:100/w_1280,c_limit/cambio%20clim%C3%A1tico%20El%20Ni%C3%B1o%202298072299.jpg
+  - title: Cat-Like Whiskers Help Tiny Drones Fly in the Dark
+    url: https://www.wired.com/story/cat-like-whiskers-help-tiny-drones-fly-in-the-dark/
+    summary: "Researchers took lessons from nocturnal animals to help rescue drones
+      overcome a key challenge: flying in the dark."
+    imageUrl: https://media.wired.com/photos/6ace7f14e7efb271b8268bc8/191:100/w_1280,c_limit/2026_Q3_Web_TUDelft_Drones_0182.jpeg
     categories:
       - Science
-      - Science / Environment
-    publishedAt: 2026-10-11T09:30:00.000Z
+      - Science / Physics and Math
+    publishedAt: 2026-10-14T09:15:00.000Z
     source: WIRED science
+  - title: EU takes a page from Ireland's AI playbook
+    url: https://techxplore.com/news/2026-10-eu-page-ireland-ai-playbook.html
+    summary: The EU wants to catch up in the AI race by taking a cue from Ireland—an
+      early adopter of the technology which has rolled out the red carpet for
+      data centers despite local backlash.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/the-eu-wants-to-ramp-u.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-10-14T09:00:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: AI can act exactly like a human, but we still don't think it's conscious
+    url: https://www.sciencedaily.com/releases/2026/10/261012185017.htm
+    summary: A new study reveals that people draw a surprisingly sharp line between
+      human consciousness and artificial intelligence, even when both behave
+      identically. Researchers found that participants considered even the most
+      responsive AI less conscious than the least responsive human. Yet when
+      asked about "awareness" instead, people judged humans and AI much more
+      similarly.
+    imageUrl: https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp
+    categories: []
+    publishedAt: 2026-10-14T01:41:55.000Z
+    source: ScienceDaily — Robotics
+  - title: How artificial neural networks build their own learning machinery
+    url: https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013
+    summary: As artificial intelligence becomes more and more powerful, its ability
+      to handle human-like tasks is undeniable. Artificial neural networks can
+      learn to recognize images, use language, or write computer code. Like the
+      brain’s circuits, they reorganize themselves as they learn, adjusting the
+      strengths of their connections to improve their performance.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-mcgovern-self-supervisedlearning.jpg?itok=_zXjMM26
+    categories: []
+    publishedAt: 2026-10-13T21:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Soft robotic fish combines high-speed swimming with 3D maneuverability
+    url: https://techxplore.com/news/2026-10-soft-robotic-fish-combines-high.html
+    summary: Researchers from the Shenyang Institute of Automation (SIA) of the
+      Chinese Academy of Sciences have developed an electrohydraulically
+      actuated soft robotic fish that can swim at high speeds and perform agile
+      three-dimensional (3D) maneuvers. The soft robotic fish addresses a
+      longstanding design challenge by combining a rigid–flexible coupled
+      propulsion system with dynamic buoyancy regulation. This allows for fast
+      propulsion without sacrificing maneuverability.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/soft-robotic-fish-comb.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-10-13T19:40:04.000Z
+    source: TechXplore — Engineering
+  - title: New detector spots AI-generated work by examining ideas, not words
+    url: https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html
+    summary: It's no secret that an ever-increasing number of scientists use AI to
+      help with their papers. While tasks such as polishing text are generally
+      permissible if declared, using the technology to write papers, or parts of
+      papers, from scratch and passing them off as original work is not. But
+      it's happening.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-detector-spots-ai.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-10-13T16:23:30.000Z
+    source: TechXplore — Computer Science
+  - title: "Q&A: Mars Perseverance Rover Distance Record"
+    url: https://spectrum.ieee.org/mars-rover-distance-record
+    summary: On October 11, the Perseverance rover completed a drive that brought
+      its total distance traveled on Mars to 28.10 miles (45.22 kilometers).
+      This is a new record for Mars rovers, enabled in large part by
+      Perseverance’s ability to drive with much more autonomy than its
+      predecessors. Over the last five years, Perseverance’s autonomy software
+      has been steadily upgraded, and to learn more about how the record was
+      broken and what the future holds for the rover, we spoke with Mark
+      Maimone, the Perseverance Robotic Operations Deputy Team Chief at NASA’s
+      Jet Propulsion Laboratory, who designed and developed the self-driving
+      software for Mars rovers Spirit, Opportunity, Curiosity, and Perseverance.
+    imageUrl: https://spectrum.ieee.org/media-library/a-long-trail-of-tire-tracks-left-across-mars-dusty-surface-by-a-space-rover.jpg?id=68423735&width=1200&height=800&coordinates=0%2C138%2C0%2C139
+    categories:
+      - Mars-rovers
+      - Perseverance-rover
+      - Self-driving-cars
+      - Autonomous-vehicles
+    publishedAt: 2026-10-13T15:02:04.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Google Deepmind’s New Resident Philosopher Tackles AI Ethics
+    url: https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin
+    summary: "How should humans relate to generative AI? In what ways do we, or
+      should we, treat a large language model (LLM) as if it were a person? If
+      an AI became conscious, how could we tell? Does it make sense to think AI
+      could some day have moral rights? These are among the cognitive and
+      ethical questions that occupied philosopher Henry Shevlin at Cambridge
+      University’s Leverhulme Centre for the Future of Intelligence. But last
+      May Shevlin became part of the growing cohort of philosophers who work
+      inside leading artificial intelligence companies. Though he remains active
+      at Cambridge, he now spends 80 percent of his time at Google DeepMind (job
+      title: “Philosopher”)."
+    imageUrl: https://spectrum.ieee.org/media-library/a-white-man-with-shoulder-length-brown-hair-smiling-softly-in-front-of-a-bookshelf.jpg?id=67861702&width=1200&height=800&coordinates=0%2C208%2C0%2C209
+    categories:
+      - Ai-ethics
+      - Google-deepmind
+      - Philosophy
+      - Artificial-intelligence
+    publishedAt: 2026-10-13T13:00:03.000Z
+    source: IEEE Spectrum — AI
+  - title: Scientists recreate a bizarre quantum effect that stops a particle cold
+    url: https://www.sciencedaily.com/releases/2026/10/261011211554.htm
+    summary: Oxford physicists have recreated a bizarre quantum effect in which a
+      particle responds to a magnetic field without ever traveling through it.
+      Using a hybrid quantum computer, they demonstrated how introducing a
+      simulated magnetic flux could completely halt a particle's movement
+      through quantum interference. The experiment brings a decades-old
+      prediction into a new setting where matter and quantum fields influence
+      one another.
+    imageUrl: https://www.sciencedaily.com/images/1920/hybrid-quantum-system-loop.webp
+    categories: []
+    publishedAt: 2026-10-13T09:47:22.000Z
+    source: ScienceDaily — Computer Science
+  - title: "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for
+      Humanoid Robots"
+    url: https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/
+    summary: This White Paper provides roboticists and control engineers with a
+      comprehensive overview of how motion planning and motion tracking can be
+      decoupled to preserve professional athletic style in humanoid robots, and
+      why adaptive, speed-aware control is essential for closing the gap between
+      simulation and real-world deployment.
+    imageUrl: https://spectrum.ieee.org/media-library/noitom-robotics-logo-with-stylized-nr-on-transparent-background.png?id=68382463&width=980
+    categories:
+      - Type-whitepaper
+      - Humanoid-robots
+      - Motion-tracking
+      - Motion-planning
+    publishedAt: 2026-10-12T10:00:03.000Z
+    source: IEEE Spectrum — Computing & Chips
   - title: Scientists build a nuclear clock that could make atomic clocks obsolete
     url: https://www.sciencedaily.com/releases/2026/10/261008102701.htm
     summary: Scientists in Vienna have achieved a major breakthrough in timekeeping
@@ -24,125 +152,14 @@ articles:
     categories: []
     publishedAt: 2026-10-11T03:06:35.000Z
     source: ScienceDaily — Engineering
-  - title: Anthropic's Claude AI submits a false tip on an unsolved Philadelphia
-      homicide case
-    url: https://techxplore.com/news/2026-10-anthropic-claude-ai-submits-false.html
-    summary: An Anthropic artificial intelligence model submitted a false tip to a
-      Philadelphia police website about an unsolved homicide case, authorities
-      and Anthropic said.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/anthropic-3.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-10-10T20:22:10.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: AI Is Getting Really Good at Messing With Cybercriminals
-    url: https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/
-    summary: Anti-cybercrime initiatives are increasingly using AI to scam the
-      scammers by tricking them into talking to lifelike bots that they think
-      are real victims.
-    imageUrl: https://media.wired.com/photos/6ac7e488d45774a31ff822a9/191:100/w_1280,c_limit/Kernel-Panic-AI-Getting-Really-Good-Fucking-With-Cybercriminals-Security.jpg
-    categories:
-      - Security
-      - Security / Cyberattacks and Hacks
-    publishedAt: 2026-10-10T12:00:00.000Z
-    source: WIRED (AI)
-  - title: Master AI Chip Principles With New IEEE Design Program
-    url: https://spectrum.ieee.org/master-ai-chip-principles-ieee
-    summary: "Today’s engineers face an unprecedented acceleration in AI hardware
-      complexity, as explained in the recent research article “Revisiting Edge
-      AI: Opportunities and Challenges.” The article examines the rapid growth
-      of edge AI and the challenges it creates, including resource constraints,
-      model architecture limitations, and network demands across edge-AI
-      deployments."
-    imageUrl: https://spectrum.ieee.org/media-library/graphic-illustration-of-arrows-and-data-symbols-representing-a-neural-network.jpg?id=68060909&width=1245&height=700&coordinates=0%2C187%2C0%2C188
-    categories:
-      - Ieee-products-and-services
-      - Artificial-intelligence
-      - Ai
-      - Education
-      - Careers
-      - Type-ti
-    publishedAt: 2026-10-09T18:00:02.000Z
-    source: IEEE Spectrum — AI
   - title: Shape-sensing sheet digitally tracks its movement as it bends and twists
-    url: https://techxplore.com/news/2026-10-sheet-digitally-tracks-movement.html
+    url: https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008
     summary: MIT engineers have developed a flexible, shape-sensing sheet that
-      digitally reconstructs its own form as it bends and twists. The sensor is
-      similar in principle to some motion-capture garments, which track a
-      person's physical movements to mimic them in a virtual avatar. Those
-      designs use rigid sensors that are stitched into a suit at strategic
-      locations.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/shape-sensing-sheet-di.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-10-09T17:00:01.000Z
-    source: TechXplore — Engineering
-  - title: Neural network study sheds light on how AI chatbots 'reason' like humans
-    url: https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html
-    summary: When humans write sentences or solve math problems, they are thinking
-      symbolically—each number, variable or word is expressed by a symbol. While
-      AI chatbots do not "think" that way, if prompted, they can offer cogent
-      advice about writing, math and many other topics as if a person were
-      offering it.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/how-do-ai-chatbots-rea.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-10-09T15:40:08.000Z
-    source: TechXplore — Computer Science
-  - title: "Video Friday: Robot Decommissioning Takes a Fun Turn"
-    url: https://spectrum.ieee.org/video-friday-reachy-mini-raps
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/smiling-humanoid-robot-in-robe-free-falls-into-deep-pit-filled-with-colorful-balls.jpg?id=68398684&width=1200&height=800&coordinates=130%2C0%2C130%2C0
-    categories:
-      - Video-friday
-      - Robotics-videos
-      - Humanoid-robots
-      - Robot-arms
-      - Industrial-robotics
-      - Robot-grippers
-    publishedAt: 2026-10-09T15:30:02.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Two-armed robot throws and catches balls with human-like movements
-    url: https://techxplore.com/news/2026-10-armed-robot-balls-human-movements.html
-    summary: Humans can move their limbs very rapidly and coordinate their movements
-      with high precision to tackle specific manual tasks. While robots have
-      become increasingly advanced in recent years, many of them remain less
-      agile than humans and struggle to interact with moving objects of
-      different shapes, weights and textures.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/two-armed-robot-throws-3.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-10-09T13:40:04.000Z
-    source: TechXplore — Robotics
-  - title: "3 Questions: What is the best path forward for AI in academia?"
-    url: https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925
-    summary: With artificial intelligence capabilities continuing to expand,
-      universities now face complex, urgent questions about how to navigate
-      increasing challenges, as well as new opportunities. Much attention is now
-      directed toward this, including an MIT report on AI and education
-      published this summer.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/ai-and-academia-00.jpg?itok=A5hPBHGn
+      digitally reconstructs its own form as it bends and twists.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Sensing-Sheets-01-press.jpg?itok=u0FlOuu0
     categories: []
-    publishedAt: 2026-10-08T21:25:00.000Z
-    source: MIT Artificial Intelligence
-  - title: The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing
-    url: https://spectrum.ieee.org/anderon-quantum-fab
-    summary: The U.S. Department of Commerce has finalized a CHIPS and Science Act
-      R&D award of up to $1 billion for Anderon, a quantum foundry IBM
-      established earlier this year. The 16 September announcement backs a
-      manufacturing service for IBM and other quantum-hardware developers.
-    imageUrl: https://spectrum.ieee.org/media-library/several-people-dressed-in-clean-suits-while-working-in-a-semiconductor-manufacturing-lab.jpg?id=68054174&width=1245&height=700&coordinates=0%2C62%2C0%2C63
-    categories:
-      - Chips-act
-      - Ibm
-      - Chip-fabrication
-      - Chip-foundry
-      - Quantum-computing
-    publishedAt: 2026-10-07T13:09:13.000Z
-    source: IEEE Spectrum — Computing & Chips
+    publishedAt: 2026-10-08T18:00:00.000Z
+    source: MIT Engineering
   - title: "Planning system ensures a robot’s flight path will remain collision-free "
     url: https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007
     summary: Uncrewed aerial vehicles (UAVs) could fly deep into the heart of a
@@ -154,40 +171,6 @@ articles:
     categories: []
     publishedAt: 2026-10-07T04:00:00.000Z
     source: MIT Robotics
-  - title: A new kind of magnetism could unlock faster, more efficient computers
-    url: https://www.sciencedaily.com/releases/2026/10/261002080015.htm
-    summary: Scientists have discovered evidence of altermagnetism in a thin, highly
-      tunable material that could help electronics use electron spin instead of
-      relying only on electrical charge. The unusual magnetic state may enable
-      faster, more energy-efficient devices without the unwanted magnetic
-      interference caused by conventional magnets.
-    imageUrl: https://www.sciencedaily.com/images/1920/crystal-physics-materials-science.webp
-    categories: []
-    publishedAt: 2026-10-05T11:35:24.000Z
-    source: ScienceDaily — Computer Science
-  - title: This new qubit could be 100 times less error-prone in superfluid quantum
-      computer breakthrough
-    url: https://www.sciencedaily.com/releases/2026/09/260930020309.htm
-    summary: A proposed qubit made with superfluid helium could cut quantum
-      computing error rates by around 100 times by shielding quantum information
-      from common forms of electromagnetic noise. If experiments confirm the
-      predictions, the technology could eventually work alongside today’s
-      superconducting qubits or serve as a new kind of quantum memory.
-    imageUrl: https://www.sciencedaily.com/images/1920/majorana-qubits-quantum-entanglement.webp
-    categories: []
-    publishedAt: 2026-10-01T13:17:13.000Z
-    source: ScienceDaily — Artificial Intelligence
-  - title: This light-powered AI can spot deepfakes with nearly 98% accuracy
-    url: https://www.sciencedaily.com/releases/2026/09/260929053534.htm
-    summary: UCLA researchers built an AI system that uses light to analyze more
-      than a dozen videos simultaneously, detecting deepfakes with nearly 98%
-      accuracy. Its speed, low energy demands, and resistance to attacks could
-      make it a powerful tool for screening the growing flood of AI-generated
-      video.
-    imageUrl: https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp
-    categories: []
-    publishedAt: 2026-10-01T13:03:50.000Z
-    source: ScienceDaily — Robotics
   - title: Measure Distant Asteroids With a DIY Rig
     url: https://spectrum.ieee.org/asteroid-shadow
     summary: I’ve seen two total solar eclipses and have been duly impressed by what
