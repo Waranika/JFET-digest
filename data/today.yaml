@@ -1,28 +1,90 @@
-date: 2026-10-14
+date: 2026-10-15
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Cat-Like Whiskers Help Tiny Drones Fly in the Dark
-    url: https://www.wired.com/story/cat-like-whiskers-help-tiny-drones-fly-in-the-dark/
-    summary: "Researchers took lessons from nocturnal animals to help rescue drones
-      overcome a key challenge: flying in the dark."
-    imageUrl: https://media.wired.com/photos/6ace7f14e7efb271b8268bc8/191:100/w_1280,c_limit/2026_Q3_Web_TUDelft_Drones_0182.jpeg
+  - title: "Q&A: The “collision” between AI, your brain, and society"
+    url: https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015
+    summary: "As artificial intelligence use becomes more widespread, scholars are
+      working to understand its effects on the people who use it. MIT Professor
+      Eric So offers one of the most complete syntheses yet, in his new book,
+      “The Collision: What AI Does to Us,” published this month by W.W. Norton.
+      Recognizing that AI offers opportunities to complete work faster, and in
+      some cases has been turned into useful domain-specific tools, So
+      nonetheless looks at the costs of relying on it too broadly. He contends
+      that heavy use of AI can lead to a kind of cognitive atrophy, in which
+      people fail to develop and retain essential thinking skills. In general,
+      he says, evidence shows that our ability to learn gets dramatically better
+      when we wrestle with material, work through initial failures, keep
+      iterating, and in the process acquire better thinking skills while
+      retaining more knowledge."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-3Q-Collision-01-press_1.jpg?itok=BLOydoCM
+    categories: []
+    publishedAt: 2026-10-15T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Eye-inspired cameras help new system detect fast-moving drones in complex
+      skies
+    url: https://techxplore.com/news/2026-10-eye-cameras-fast-drones-complex.html
+    summary: Southwest Research Institute (SwRI) has developed a new tool that uses
+      neuromorphic cameras to detect unmanned aerial system (UAS) drones. SwRI's
+      Hierax system pairs event-based cameras, dynamic sensing technology that
+      mimics the power of human eyesight, with custom software to detect
+      fast-moving drones in complex aerial scenarios.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/drone-detection-system.jpg
     categories:
+      - Engineering
+    publishedAt: 2026-10-14T20:00:08.000Z
+    source: TechXplore — Engineering
+  - title: AI Came for Math. Now It’s Chasing the Rest of Science
+    url: https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/
+    summary: AI may soon be the default way to solve theoretical problems in
+      economics, high-energy physics, and other fields, MIT researchers tell
+      WIRED.
+    imageUrl: https://media.wired.com/photos/6ace87bed95d506835d511b4/191:100/w_1280,c_limit/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
       - Science
-      - Science / Physics and Math
-    publishedAt: 2026-10-14T09:15:00.000Z
-    source: WIRED science
-  - title: EU takes a page from Ireland's AI playbook
-    url: https://techxplore.com/news/2026-10-eu-page-ireland-ai-playbook.html
-    summary: The EU wants to catch up in the AI race by taking a cue from Ireland—an
-      early adopter of the technology which has rolled out the red carpet for
-      data centers despite local backlash.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/the-eu-wants-to-ramp-u.jpg
+    publishedAt: 2026-10-14T18:15:00.000Z
+    source: WIRED (AI)
+  - title: AI drone outpaces former world champions using one camera and no GPS
+    url: https://techxplore.com/news/2026-10-ai-drone-outpaces-world-champions.html
+    summary: What does it take for an autonomous robot to be faster around a course
+      than human drone pilots? At these dizzying speeds, humans need
+      lightning-fast reflexes. Researchers at Delft University of Technology
+      (the Netherlands) have developed an AI system that enables a racing drone
+      to navigate demanding courses at extreme speed using only a single camera.
+      It outperformed even former world champion human drone pilots in a race.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/the-science-behind-the-5.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-10-14T09:00:01.000Z
+      - Robotics
+    publishedAt: 2026-10-14T18:00:07.000Z
+    source: TechXplore — Robotics
+  - title: AI worms, 'major' incident fears spur safety calls at industry summit
+    url: https://techxplore.com/news/2026-10-ai-worms-major-incident-spur.html
+    summary: From the specter of refrigerator-infecting AI worms to warnings of
+      "major" security incidents on the horizon, calls to prioritize safety in
+      the development of artificial intelligence dominated an industry summit
+      Wednesday.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-worms-could-soon-so.jpg
+    categories:
+      - Security
+    publishedAt: 2026-10-14T16:50:01.000Z
     source: TechXplore — AI & Machine Learning
+  - title: Can AI understand space, time and pain?
+    url: https://techxplore.com/news/2026-10-ai-space-pain.html
+    summary: Artificial intelligence can do remarkable things, but how much does it
+      actually understand about the world? Researchers have found that
+      surprisingly specific information can be extracted from the inner workings
+      of large language models (LLMs) like ChatGPT. Using mathematical tools to
+      probe a model's internal activity, they can identify where a city is
+      located on a map, when a historical figure lived or what emotion a
+      character feels, even detecting descriptions of pain.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-understand.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-10-14T16:00:13.000Z
+    source: TechXplore — Computer Science
   - title: AI can act exactly like a human, but we still don't think it's conscious
     url: https://www.sciencedaily.com/releases/2026/10/261012185017.htm
     summary: A new study reveals that people draw a surprisingly sharp line between
@@ -35,44 +97,7 @@ articles:
     categories: []
     publishedAt: 2026-10-14T01:41:55.000Z
     source: ScienceDaily — Robotics
-  - title: How artificial neural networks build their own learning machinery
-    url: https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013
-    summary: As artificial intelligence becomes more and more powerful, its ability
-      to handle human-like tasks is undeniable. Artificial neural networks can
-      learn to recognize images, use language, or write computer code. Like the
-      brain’s circuits, they reorganize themselves as they learn, adjusting the
-      strengths of their connections to improve their performance.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-mcgovern-self-supervisedlearning.jpg?itok=_zXjMM26
-    categories: []
-    publishedAt: 2026-10-13T21:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Soft robotic fish combines high-speed swimming with 3D maneuverability
-    url: https://techxplore.com/news/2026-10-soft-robotic-fish-combines-high.html
-    summary: Researchers from the Shenyang Institute of Automation (SIA) of the
-      Chinese Academy of Sciences have developed an electrohydraulically
-      actuated soft robotic fish that can swim at high speeds and perform agile
-      three-dimensional (3D) maneuvers. The soft robotic fish addresses a
-      longstanding design challenge by combining a rigid–flexible coupled
-      propulsion system with dynamic buoyancy regulation. This allows for fast
-      propulsion without sacrificing maneuverability.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/soft-robotic-fish-comb.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-10-13T19:40:04.000Z
-    source: TechXplore — Engineering
-  - title: New detector spots AI-generated work by examining ideas, not words
-    url: https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html
-    summary: It's no secret that an ever-increasing number of scientists use AI to
-      help with their papers. While tasks such as polishing text are generally
-      permissible if declared, using the technology to write papers, or parts of
-      papers, from scratch and passing them off as original work is not. But
-      it's happening.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-detector-spots-ai.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-10-13T16:23:30.000Z
-    source: TechXplore — Computer Science
-  - title: "Q&A: Mars Perseverance Rover Distance Record"
+  - title: "Q&A: Mars Perseverance Rover Sets a Distance Record"
     url: https://spectrum.ieee.org/mars-rover-distance-record
     summary: On October 11, the Perseverance rover completed a drive that brought
       its total distance traveled on Mars to 28.10 miles (45.22 kilometers).
@@ -84,7 +109,7 @@ articles:
       Maimone, the Perseverance Robotic Operations Deputy Team Chief at NASA’s
       Jet Propulsion Laboratory, who designed and developed the self-driving
       software for Mars rovers Spirit, Opportunity, Curiosity, and Perseverance.
-    imageUrl: https://spectrum.ieee.org/media-library/a-long-trail-of-tire-tracks-left-across-mars-dusty-surface-by-a-space-rover.jpg?id=68423735&width=1200&height=800&coordinates=0%2C138%2C0%2C139
+    imageUrl: https://spectrum.ieee.org/media-library/a-long-trail-of-tire-tracks-left-across-mars-dusty-surface-by-a-space-rover.jpg?id=68423735&width=1245&height=700&coordinates=0%2C312%2C0%2C312
     categories:
       - Mars-rovers
       - Perseverance-rover
@@ -92,19 +117,19 @@ articles:
       - Autonomous-vehicles
     publishedAt: 2026-10-13T15:02:04.000Z
     source: IEEE Spectrum — Robotics
-  - title: Google Deepmind’s New Resident Philosopher Tackles AI Ethics
+  - title: Google DeepMind’s New Resident Philosopher Tackles AI Ethics
     url: https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin
     summary: "How should humans relate to generative AI? In what ways do we, or
       should we, treat a large language model (LLM) as if it were a person? If
       an AI became conscious, how could we tell? Does it make sense to think AI
-      could some day have moral rights? These are among the cognitive and
-      ethical questions that occupied philosopher Henry Shevlin at Cambridge
+      could someday have moral rights? These are among the cognitive and ethical
+      questions that occupied philosopher Henry Shevlin at Cambridge
       University’s Leverhulme Centre for the Future of Intelligence. But last
-      May Shevlin became part of the growing cohort of philosophers who work
+      May, Shevlin became part of the growing cohort of philosophers who work
       inside leading artificial intelligence companies. Though he remains active
       at Cambridge, he now spends 80 percent of his time at Google DeepMind (job
       title: “Philosopher”)."
-    imageUrl: https://spectrum.ieee.org/media-library/a-white-man-with-shoulder-length-brown-hair-smiling-softly-in-front-of-a-bookshelf.jpg?id=67861702&width=1200&height=800&coordinates=0%2C208%2C0%2C209
+    imageUrl: https://spectrum.ieee.org/media-library/a-white-man-with-shoulder-length-brown-hair-smiling-softly-in-front-of-a-bookshelf.jpg?id=67861702&width=2000&height=1500&coordinates=0%2C0%2C0%2C0
     categories:
       - Ai-ethics
       - Google-deepmind
