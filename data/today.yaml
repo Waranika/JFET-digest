@@ -1,90 +1,100 @@
-date: 2026-10-15
+date: 2026-10-16
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "Q&A: The “collision” between AI, your brain, and society"
-    url: https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015
-    summary: "As artificial intelligence use becomes more widespread, scholars are
-      working to understand its effects on the people who use it. MIT Professor
-      Eric So offers one of the most complete syntheses yet, in his new book,
-      “The Collision: What AI Does to Us,” published this month by W.W. Norton.
-      Recognizing that AI offers opportunities to complete work faster, and in
-      some cases has been turned into useful domain-specific tools, So
-      nonetheless looks at the costs of relying on it too broadly. He contends
-      that heavy use of AI can lead to a kind of cognitive atrophy, in which
-      people fail to develop and retain essential thinking skills. In general,
-      he says, evidence shows that our ability to learn gets dramatically better
-      when we wrestle with material, work through initial failures, keep
-      iterating, and in the process acquire better thinking skills while
-      retaining more knowledge."
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-3Q-Collision-01-press_1.jpg?itok=BLOydoCM
-    categories: []
-    publishedAt: 2026-10-15T04:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Eye-inspired cameras help new system detect fast-moving drones in complex
-      skies
-    url: https://techxplore.com/news/2026-10-eye-cameras-fast-drones-complex.html
-    summary: Southwest Research Institute (SwRI) has developed a new tool that uses
-      neuromorphic cameras to detect unmanned aerial system (UAS) drones. SwRI's
-      Hierax system pairs event-based cameras, dynamic sensing technology that
-      mimics the power of human eyesight, with custom software to detect
-      fast-moving drones in complex aerial scenarios.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/drone-detection-system.jpg
+  - title: Meta unveils new 'open' AI model to rival Chinese competition
+    url: https://techxplore.com/news/2026-10-meta-unveils-ai-rival-chinese.html
+    summary: Meta on Thursday launched a new open-weight AI model that it claims
+      rivals, and in some cases outperforms, similar products from leading
+      Chinese developers.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/meta.jpg
     categories:
-      - Engineering
-    publishedAt: 2026-10-14T20:00:08.000Z
-    source: TechXplore — Engineering
-  - title: AI Came for Math. Now It’s Chasing the Rest of Science
-    url: https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/
-    summary: AI may soon be the default way to solve theoretical problems in
-      economics, high-energy physics, and other fields, MIT researchers tell
-      WIRED.
-    imageUrl: https://media.wired.com/photos/6ace87bed95d506835d511b4/191:100/w_1280,c_limit/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg
+      - Machine learning & AI
+    publishedAt: 2026-10-16T08:10:02.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView
+    url: https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/
+    summary: This week on “Uncanny Valley,” we dive into an unexpected Muse feature,
+      shadowy spending from the largest pro-AI super PAC, and men’s tendency to
+      lie about how much they know about AI.
+    imageUrl: https://media.wired.com/photos/6acff05076c17d102a553f12/191:100/w_1280,c_limit/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg
     categories:
       - Business
       - Business / Artificial Intelligence
-      - Science
-    publishedAt: 2026-10-14T18:15:00.000Z
+    publishedAt: 2026-10-15T21:18:15.000Z
     source: WIRED (AI)
-  - title: AI drone outpaces former world champions using one camera and no GPS
-    url: https://techxplore.com/news/2026-10-ai-drone-outpaces-world-champions.html
-    summary: What does it take for an autonomous robot to be faster around a course
-      than human drone pilots? At these dizzying speeds, humans need
-      lightning-fast reflexes. Researchers at Delft University of Technology
-      (the Netherlands) have developed an AI system that enables a racing drone
-      to navigate demanding courses at extreme speed using only a single camera.
-      It outperformed even former world champion human drone pilots in a race.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/the-science-behind-the-5.jpg
+  - title: State of Supply Chain Sustainability Report finds corporate commitment at
+      record high, but governance lags behind
+    url: https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015
+    summary: When corporate leaders discuss climate strategy, the message that still
+      dominates is that, despite competing priorities and external pressures,
+      sustainability matters.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-ctl-sustainability.jpg?itok=r36wfDxM
+    categories: []
+    publishedAt: 2026-10-15T21:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Chemical fine-tuning lifts perovskite LEDs to 37% efficiency
+    url: https://techxplore.com/news/2026-10-chemical-fine-tuning-perovskite-efficiency.html
+    summary: Chemists developed a way to significantly improve the performance of
+      light-emitting diodes (LEDs) made with perovskite. The journal Nature
+      published the advancement in these hybrid LEDs, which hold potential for a
+      range of uses, including biomedical sensing, low-light imaging and
+      automated facial recognition.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-lightbulb-moment-che.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-10-15T19:20:08.000Z
+    source: TechXplore — Engineering
+  - title: "Cleaning a giant ship: Roomba-like robots walk on magnetic feet to scrub
+      giant ships"
+    url: https://techxplore.com/news/2026-10-giant-ship-roomba-robots-magnetic.html
+    summary: "Timothy Wong didn't suspect it at the time, but his dives off the
+      coast of Rockport and the hours he spent studying the wheels and gears of
+      robotics were leading to one mission: figuring out a way to get unwanted
+      sea matter off giant ships in need of cleaning."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/how-do-you-clean-a-gia.jpg
     categories:
       - Robotics
-    publishedAt: 2026-10-14T18:00:07.000Z
+    publishedAt: 2026-10-15T18:40:07.000Z
     source: TechXplore — Robotics
-  - title: AI worms, 'major' incident fears spur safety calls at industry summit
-    url: https://techxplore.com/news/2026-10-ai-worms-major-incident-spur.html
-    summary: From the specter of refrigerator-infecting AI worms to warnings of
-      "major" security incidents on the horizon, calls to prioritize safety in
-      the development of artificial intelligence dominated an industry summit
-      Wednesday.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-worms-could-soon-so.jpg
-    categories:
-      - Security
-    publishedAt: 2026-10-14T16:50:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Can AI understand space, time and pain?
-    url: https://techxplore.com/news/2026-10-ai-space-pain.html
-    summary: Artificial intelligence can do remarkable things, but how much does it
-      actually understand about the world? Researchers have found that
-      surprisingly specific information can be extracted from the inner workings
-      of large language models (LLMs) like ChatGPT. Using mathematical tools to
-      probe a model's internal activity, they can identify where a city is
-      located on a map, when a historical figure lived or what emotion a
-      character feels, even detecting descriptions of pain.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-understand.jpg
+  - title: Canada could save millions by developing its own operating system instead
+      of relying on Microsoft Windows
+    url: https://techxplore.com/news/2026-10-canada-millions-microsoft-windows.html
+    summary: "Canada has made digital sovereignty a priority in areas such as cloud
+      computing, artificial intelligence and telecommunications. But one
+      important part of its digital infrastructure has received far less
+      attention: the operating systems running government computers."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/person-on-computer-1.jpg
     categories:
       - Computer Sciences
-    publishedAt: 2026-10-14T16:00:13.000Z
+    publishedAt: 2026-10-15T14:00:24.000Z
     source: TechXplore — Computer Science
+  - title: Compact Analog Signal Generators for Fast RF Testing
+    url: https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/
+    summary: This White Paper shows RF and microwave engineers and technicians how
+      compact analog signal generators support core amplifier and receiver test
+      tasks, from gain and distortion measurements to blocker rejection, power
+      calibration, and local oscillator substitution.
+    imageUrl: https://spectrum.ieee.org/media-library/electro-rent-white-logo-with-stylized-er-icon-on-a-gray-background.png?id=68417208&width=980
+    categories:
+      - Type-whitepaper
+      - Analog
+      - Microwave
+      - Amplifier-gain
+      - Measurement
+    publishedAt: 2026-10-15T10:00:04.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Artemis III Scientist Shares What to Expect From NASA’s Next Lunar Mission
+    url: https://www.wired.com/story/artemis-iii-scientist-shares-what-to-expect-from-nasas-next-lunar-mission/
+    summary: Though scaled back from initial plans of landing, the voyage will serve
+      as a dress rehearsal for when humans return to the moon’s surface.
+    imageUrl: https://media.wired.com/photos/6ace784a3ccd7fa0977b8204/191:100/w_1280,c_limit/WR-Nasa.jpg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-10-15T09:15:00.000Z
+    source: WIRED science
   - title: AI can act exactly like a human, but we still don't think it's conscious
     url: https://www.sciencedaily.com/releases/2026/10/261012185017.htm
     summary: A new study reveals that people draw a surprisingly sharp line between
@@ -99,17 +109,17 @@ articles:
     source: ScienceDaily — Robotics
   - title: "Q&A: Mars Perseverance Rover Sets a Distance Record"
     url: https://spectrum.ieee.org/mars-rover-distance-record
-    summary: On October 11, the Perseverance rover completed a drive that brought
+    summary: On 11 October, the Perseverance rover completed a drive that brought
       its total distance traveled on Mars to 28.10 miles (45.22 kilometers).
       This is a new record for Mars rovers, enabled in large part by
       Perseverance’s ability to drive with much more autonomy than its
-      predecessors. Over the last five years, Perseverance’s autonomy software
+      predecessors. Over the past five years, Perseverance’s autonomy software
       has been steadily upgraded, and to learn more about how the record was
       broken and what the future holds for the rover, we spoke with Mark
       Maimone, the Perseverance Robotic Operations Deputy Team Chief at NASA’s
       Jet Propulsion Laboratory, who designed and developed the self-driving
       software for Mars rovers Spirit, Opportunity, Curiosity, and Perseverance.
-    imageUrl: https://spectrum.ieee.org/media-library/a-long-trail-of-tire-tracks-left-across-mars-dusty-surface-by-a-space-rover.jpg?id=68423735&width=1245&height=700&coordinates=0%2C312%2C0%2C312
+    imageUrl: https://spectrum.ieee.org/media-library/a-long-trail-of-tire-tracks-left-across-mars-dusty-surface-by-a-space-rover.jpg?id=68423735&width=2000&height=1500&coordinates=0%2C0%2C0%2C0
     categories:
       - Mars-rovers
       - Perseverance-rover
@@ -129,7 +139,7 @@ articles:
       inside leading artificial intelligence companies. Though he remains active
       at Cambridge, he now spends 80 percent of his time at Google DeepMind (job
       title: “Philosopher”)."
-    imageUrl: https://spectrum.ieee.org/media-library/a-white-man-with-shoulder-length-brown-hair-smiling-softly-in-front-of-a-bookshelf.jpg?id=67861702&width=2000&height=1500&coordinates=0%2C0%2C0%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/a-white-man-with-shoulder-length-brown-hair-smiling-softly-in-front-of-a-bookshelf.jpg?id=67861702&width=1200&height=800&coordinates=0%2C208%2C0%2C209
     categories:
       - Ai-ethics
       - Google-deepmind
@@ -150,22 +160,6 @@ articles:
     categories: []
     publishedAt: 2026-10-13T09:47:22.000Z
     source: ScienceDaily — Computer Science
-  - title: "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for
-      Humanoid Robots"
-    url: https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/
-    summary: This White Paper provides roboticists and control engineers with a
-      comprehensive overview of how motion planning and motion tracking can be
-      decoupled to preserve professional athletic style in humanoid robots, and
-      why adaptive, speed-aware control is essential for closing the gap between
-      simulation and real-world deployment.
-    imageUrl: https://spectrum.ieee.org/media-library/noitom-robotics-logo-with-stylized-nr-on-transparent-background.png?id=68382463&width=980
-    categories:
-      - Type-whitepaper
-      - Humanoid-robots
-      - Motion-tracking
-      - Motion-planning
-    publishedAt: 2026-10-12T10:00:03.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: Scientists build a nuclear clock that could make atomic clocks obsolete
     url: https://www.sciencedaily.com/releases/2026/10/261008102701.htm
     summary: Scientists in Vienna have achieved a major breakthrough in timekeeping
