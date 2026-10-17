@@ -1,51 +1,95 @@
-date: 2026-10-16
+date: 2026-10-17
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Meta unveils new 'open' AI model to rival Chinese competition
-    url: https://techxplore.com/news/2026-10-meta-unveils-ai-rival-chinese.html
-    summary: Meta on Thursday launched a new open-weight AI model that it claims
-      rivals, and in some cases outperforms, similar products from leading
-      Chinese developers.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2025/meta.jpg
+  - title: AI is coming for every company, Nvidia boss says
+    url: https://techxplore.com/news/2026-10-ai-company-nvidia-boss.html
+    summary: Artificial intelligence will ultimately become a key aspect of all
+      companies, the head of AI chip giant Nvidia said during a visit to
+      Stockholm, where he urged Europe to ramp up its AI industry.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/jensen-huang-with-jenn.jpg
     categories:
       - Machine learning & AI
-    publishedAt: 2026-10-16T08:10:02.000Z
+    publishedAt: 2026-10-16T22:00:10.000Z
     source: TechXplore — AI & Machine Learning
-  - title: We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView
-    url: https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/
-    summary: This week on “Uncanny Valley,” we dive into an unexpected Muse feature,
-      shadowy spending from the largest pro-AI super PAC, and men’s tendency to
-      lie about how much they know about AI.
-    imageUrl: https://media.wired.com/photos/6acff05076c17d102a553f12/191:100/w_1280,c_limit/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg
+  - title: The Leap Second Is No More
+    url: https://www.wired.com/story/leap-second-is-abolished-bipm-says/
+    summary: The metric might not mean much to laypeople, but leap seconds have been
+      a source of contention in the timekeeping community for years. Now,
+      they’re dead.
+    imageUrl: https://media.wired.com/photos/6ad26281fc48d47f39527b44/191:100/w_1280,c_limit/Science_Pour%20One%20Out%20for%20the%20Leap%20Second_v1.jpg
     categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-10-15T21:18:15.000Z
-    source: WIRED (AI)
-  - title: State of Supply Chain Sustainability Report finds corporate commitment at
-      record high, but governance lags behind
-    url: https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015
-    summary: When corporate leaders discuss climate strategy, the message that still
-      dominates is that, despite competing priorities and external pressures,
-      sustainability matters.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-ctl-sustainability.jpg?itok=r36wfDxM
-    categories: []
-    publishedAt: 2026-10-15T21:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Chemical fine-tuning lifts perovskite LEDs to 37% efficiency
-    url: https://techxplore.com/news/2026-10-chemical-fine-tuning-perovskite-efficiency.html
-    summary: Chemists developed a way to significantly improve the performance of
-      light-emitting diodes (LEDs) made with perovskite. The journal Nature
-      published the advancement in these hybrid LEDs, which hold potential for a
-      range of uses, including biomedical sensing, low-light imaging and
-      automated facial recognition.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-lightbulb-moment-che.jpg
+      - Science
+      - Science / Physics and Math
+    publishedAt: 2026-10-16T21:31:35.000Z
+    source: WIRED science
+  - title: Upcycled battery materials roughly double cell cycle life in tests
+    url: https://techxplore.com/news/2026-10-upcycled-battery-materials-roughly-cell.html
+    summary: A new recycling approach developed by Worcester Polytechnic Institute
+      (WPI) researchers could help make battery waste a valuable source of
+      high-performance materials. In a study published in Advanced Energy
+      Materials, a team led by professor Yan Wang, the William B. Smith
+      Professor of Mechanical and Materials Engineering, converted mixed battery
+      waste into upcycled materials for both the cathode and anode and found
+      that the resulting pouch cells outlasted cells made with commercial
+      counterparts.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/upcycled-battery-mater.jpg
     categories:
       - Engineering
-    publishedAt: 2026-10-15T19:20:08.000Z
+    publishedAt: 2026-10-16T20:00:07.000Z
     source: TechXplore — Engineering
+  - title: Simulation App Speeds Up Electric Truck Battery Design
+    url: https://spectrum.ieee.org/electric-truck-battery-design-simulation
+    summary: This article is brought to you by COMSOL.
+    imageUrl: https://spectrum.ieee.org/media-library/light-blue-volvo-fh-electric-semi-truck-cab-shown-from-front-side-view.png?id=67846334&width=1200&height=800&coordinates=0%2C2%2C0%2C2
+    categories:
+      - Type-sponsored
+      - Batteries
+      - Electric-vehicles
+      - Multiphysics-simulation
+      - Electric-trucks
+    publishedAt: 2026-10-16T16:49:18.000Z
+    source: IEEE Spectrum — AI
+  - title: "Video Friday: When Two Robots Become One"
+    url: https://spectrum.ieee.org/video-friday-reconfigurable-robots
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/two-small-robots-with-long-limbs-and-bodies-linked-by-a-wire-join-connect-to-form-one-four-wheeled-robot-on-a-paved-pathway.gif?id=68443843&width=1245&height=700&coordinates=0%2C7%2C0%2C7
+    categories:
+      - Video-friday
+      - Robotics-videos
+      - Reconfigurable-robots
+      - Social-robotics
+      - Physical-ai
+      - Perseverance-rover
+    publishedAt: 2026-10-16T16:30:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Fostering community amid Kendall Square’s innovation
+    url: https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016
+    summary: Kendall Square in Cambridge, Massachusetts, is often cited as the most
+      innovative square mile in the world. But when the Kendall Square
+      Association gathered local stakeholders for its 18th Annual Meeting
+      Thursday, the conversation focused on innovation primarily in the context
+      of community.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-KSA26-01-press.jpg?itok=etuhLb0w
+    categories: []
+    publishedAt: 2026-10-16T16:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: The uranium cubes that exposed Nazi Germany’s nuclear failure
+    url: https://www.sciencedaily.com/releases/2026/10/261015073218.htm
+    summary: Scientists investigating Nazi Germany's secret nuclear program have
+      uncovered evidence that its final experimental reactor was nowhere near as
+      close to working as previously claimed. Analysis of surviving uranium
+      cubes and wartime documents reveals that Germany lacked the enormous
+      quantities of uranium and heavy water needed to make its reactor
+      operational.
+    imageUrl: https://www.sciencedaily.com/images/1920/natural-uranium-cube.webp
+    categories: []
+    publishedAt: 2026-10-16T12:32:52.000Z
+    source: ScienceDaily — Engineering
   - title: "Cleaning a giant ship: Roomba-like robots walk on magnetic feet to scrub
       giant ships"
     url: https://techxplore.com/news/2026-10-giant-ship-roomba-robots-magnetic.html
@@ -85,16 +129,6 @@ articles:
       - Measurement
     publishedAt: 2026-10-15T10:00:04.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Artemis III Scientist Shares What to Expect From NASA’s Next Lunar Mission
-    url: https://www.wired.com/story/artemis-iii-scientist-shares-what-to-expect-from-nasas-next-lunar-mission/
-    summary: Though scaled back from initial plans of landing, the voyage will serve
-      as a dress rehearsal for when humans return to the moon’s surface.
-    imageUrl: https://media.wired.com/photos/6ace784a3ccd7fa0977b8204/191:100/w_1280,c_limit/WR-Nasa.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-10-15T09:15:00.000Z
-    source: WIRED science
   - title: AI can act exactly like a human, but we still don't think it's conscious
     url: https://www.sciencedaily.com/releases/2026/10/261012185017.htm
     summary: A new study reveals that people draw a surprisingly sharp line between
@@ -107,46 +141,6 @@ articles:
     categories: []
     publishedAt: 2026-10-14T01:41:55.000Z
     source: ScienceDaily — Robotics
-  - title: "Q&A: Mars Perseverance Rover Sets a Distance Record"
-    url: https://spectrum.ieee.org/mars-rover-distance-record
-    summary: On 11 October, the Perseverance rover completed a drive that brought
-      its total distance traveled on Mars to 28.10 miles (45.22 kilometers).
-      This is a new record for Mars rovers, enabled in large part by
-      Perseverance’s ability to drive with much more autonomy than its
-      predecessors. Over the past five years, Perseverance’s autonomy software
-      has been steadily upgraded, and to learn more about how the record was
-      broken and what the future holds for the rover, we spoke with Mark
-      Maimone, the Perseverance Robotic Operations Deputy Team Chief at NASA’s
-      Jet Propulsion Laboratory, who designed and developed the self-driving
-      software for Mars rovers Spirit, Opportunity, Curiosity, and Perseverance.
-    imageUrl: https://spectrum.ieee.org/media-library/a-long-trail-of-tire-tracks-left-across-mars-dusty-surface-by-a-space-rover.jpg?id=68423735&width=2000&height=1500&coordinates=0%2C0%2C0%2C0
-    categories:
-      - Mars-rovers
-      - Perseverance-rover
-      - Self-driving-cars
-      - Autonomous-vehicles
-    publishedAt: 2026-10-13T15:02:04.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Google DeepMind’s New Resident Philosopher Tackles AI Ethics
-    url: https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin
-    summary: "How should humans relate to generative AI? In what ways do we, or
-      should we, treat a large language model (LLM) as if it were a person? If
-      an AI became conscious, how could we tell? Does it make sense to think AI
-      could someday have moral rights? These are among the cognitive and ethical
-      questions that occupied philosopher Henry Shevlin at Cambridge
-      University’s Leverhulme Centre for the Future of Intelligence. But last
-      May, Shevlin became part of the growing cohort of philosophers who work
-      inside leading artificial intelligence companies. Though he remains active
-      at Cambridge, he now spends 80 percent of his time at Google DeepMind (job
-      title: “Philosopher”)."
-    imageUrl: https://spectrum.ieee.org/media-library/a-white-man-with-shoulder-length-brown-hair-smiling-softly-in-front-of-a-bookshelf.jpg?id=67861702&width=1200&height=800&coordinates=0%2C208%2C0%2C209
-    categories:
-      - Ai-ethics
-      - Google-deepmind
-      - Philosophy
-      - Artificial-intelligence
-    publishedAt: 2026-10-13T13:00:03.000Z
-    source: IEEE Spectrum — AI
   - title: Scientists recreate a bizarre quantum effect that stops a particle cold
     url: https://www.sciencedaily.com/releases/2026/10/261011211554.htm
     summary: Oxford physicists have recreated a bizarre quantum effect in which a
@@ -160,17 +154,6 @@ articles:
     categories: []
     publishedAt: 2026-10-13T09:47:22.000Z
     source: ScienceDaily — Computer Science
-  - title: Scientists build a nuclear clock that could make atomic clocks obsolete
-    url: https://www.sciencedaily.com/releases/2026/10/261008102701.htm
-    summary: Scientists in Vienna have achieved a major breakthrough in timekeeping
-      by creating the world’s first self-stabilizing nuclear clock, a technology
-      that could eventually surpass even the most precise atomic clocks. Instead
-      of relying on electrons in atoms, the clock uses the tiny nuclei of
-      thorium atoms, which are far less sensitive to outside disturbances.
-    imageUrl: https://www.sciencedaily.com/images/1920/nuclear-clock-concept.webp
-    categories: []
-    publishedAt: 2026-10-11T03:06:35.000Z
-    source: ScienceDaily — Engineering
   - title: Shape-sensing sheet digitally tracks its movement as it bends and twists
     url: https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008
     summary: MIT engineers have developed a flexible, shape-sensing sheet that
@@ -196,7 +179,7 @@ articles:
       happens as the moon casts its shadow on Earth. But recently I’ve become
       even more intrigued by a similar phenomenon that doesn’t involve the sun
       or the moon—something called an asteroid occultation.
-    imageUrl: https://spectrum.ieee.org/media-library/a-telescope-on-tripod-with-laptop-and-power-boxes-for-a-portable-astronomy-setup.png?id=67788039&width=1245&height=700&coordinates=0%2C73%2C0%2C74
+    imageUrl: https://spectrum.ieee.org/media-library/a-telescope-on-tripod-with-laptop-and-power-boxes-for-a-portable-astronomy-setup.png?id=67788039&width=1200&height=800&coordinates=46%2C0%2C46%2C0
     categories:
       - Astronomy
       - Asteroids
