@@ -1,44 +1,72 @@
-date: 2026-10-17
+date: 2026-10-18
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: AI is coming for every company, Nvidia boss says
-    url: https://techxplore.com/news/2026-10-ai-company-nvidia-boss.html
-    summary: Artificial intelligence will ultimately become a key aspect of all
-      companies, the head of AI chip giant Nvidia said during a visit to
-      Stockholm, where he urged Europe to ramp up its AI industry.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/jensen-huang-with-jenn.jpg
+  - title: Giving AI a “crystal clear” view of the materials world
+    url: https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018
+    summary: "In principle, artificial intelligence could make finding the right
+      material for an application as simple as ordering dinner: Scientists would
+      tell a large language model what they want, and it would serve them a
+      perfectly designed crystal for the job."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Synthetic-Narratives-01-press.jpg?itok=Bh8fzury
+    categories: []
+    publishedAt: 2026-10-18T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: "One AI model, trillions of variants: Breaking mass attacks on voice
+      assistants"
+    url: https://techxplore.com/news/2026-10-ai-trillions-variants-mass-voice.html
+    summary: Imagine sitting in your home, listening to what you think is a
+      run-of-the-mill advertisement or perhaps a piece of music you enjoy. But
+      while you hum along, that audio file is sending a secret, malicious audio
+      message—imperceptible to human ears—telling your home assistant to unlock
+      your door or maybe transfer money from your bank account.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/voice-assistants.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-10-16T22:00:10.000Z
+      - Security
+    publishedAt: 2026-10-17T12:00:13.000Z
     source: TechXplore — AI & Machine Learning
-  - title: The Leap Second Is No More
-    url: https://www.wired.com/story/leap-second-is-abolished-bipm-says/
-    summary: The metric might not mean much to laypeople, but leap seconds have been
-      a source of contention in the timekeeping community for years. Now,
-      they’re dead.
-    imageUrl: https://media.wired.com/photos/6ad26281fc48d47f39527b44/191:100/w_1280,c_limit/Science_Pour%20One%20Out%20for%20the%20Leap%20Second_v1.jpg
+  - title: Team develops embodied robotic arm 'EmArm' with human-like touch sensing
+    url: https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html
+    summary: A research team at The Hong Kong University of Science and Technology
+      (HKUST) has developed an Embodied Sensorimotor Robotic Arm (EmArm) capable
+      of whole-arm tactile sensing and adaptive manipulation. By embedding a
+      soft optical tactile skin directly into a robotic skeleton and integrating
+      it with a real-time decision-making algorithm, EmArm can perceive and
+      analyze contact information across its upper and lower arms, enabling
+      human-like tactile perception and adaptive object manipulation. The system
+      can also distinguish between different touch interactions, such as
+      tickling and patting, respond in real time and avoid obstacles through
+      tactile feedback, opening new possibilities for the development of
+      embodied intelligent robots.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/team-develops-embodied.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-10-17T11:00:13.000Z
+    source: TechXplore — Engineering
+  - title: Why AI Isn’t Ready to Tackle Our Convoluted Genomes
+    url: https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/
+    summary: The DNA inside our cells isn’t just a series of instructions, but
+      something far more dynamic. Like scientists, AI models don't yet have the
+      data to properly decode it.
+    imageUrl: https://media.wired.com/photos/6acf63d6b06331734b2e70d7/191:100/w_1280,c_limit/Physical%20Genome%20cr-Samuel%20Velasco%20and%20Hannah%20Waters_Quanta%20Magazine-Lede.jpg
     categories:
       - Science
-      - Science / Physics and Math
-    publishedAt: 2026-10-16T21:31:35.000Z
-    source: WIRED science
-  - title: Upcycled battery materials roughly double cell cycle life in tests
-    url: https://techxplore.com/news/2026-10-upcycled-battery-materials-roughly-cell.html
-    summary: A new recycling approach developed by Worcester Polytechnic Institute
-      (WPI) researchers could help make battery waste a valuable source of
-      high-performance materials. In a study published in Advanced Energy
-      Materials, a team led by professor Yan Wang, the William B. Smith
-      Professor of Mechanical and Materials Engineering, converted mixed battery
-      waste into upcycled materials for both the cathode and anode and found
-      that the resulting pouch cells outlasted cells made with commercial
-      counterparts.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/upcycled-battery-mater.jpg
+      - Science / Biotech
+    publishedAt: 2026-10-17T09:00:00.000Z
+    source: WIRED (AI)
+  - title: Microplastics React With Water, a New Study Says. That’s a Problem for
+      Biology
+    url: https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/
+    summary: Though plastic is usually inert, tiny pieces of it have the potential
+      to react with one of the most pervasive molecules in the environment and
+      in our bodies.
+    imageUrl: https://media.wired.com/photos/6ad106cafa571af93e3403ed/191:100/w_1280,c_limit/1245245666
     categories:
-      - Engineering
-    publishedAt: 2026-10-16T20:00:07.000Z
-    source: TechXplore — Engineering
+      - Science
+      - Science / Health
+    publishedAt: 2026-10-17T09:00:00.000Z
+    source: WIRED science
   - title: Simulation App Speeds Up Electric Truck Battery Design
     url: https://spectrum.ieee.org/electric-truck-battery-design-simulation
     summary: This article is brought to you by COMSOL.
@@ -67,17 +95,6 @@ articles:
       - Perseverance-rover
     publishedAt: 2026-10-16T16:30:02.000Z
     source: IEEE Spectrum — Robotics
-  - title: Fostering community amid Kendall Square’s innovation
-    url: https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016
-    summary: Kendall Square in Cambridge, Massachusetts, is often cited as the most
-      innovative square mile in the world. But when the Kendall Square
-      Association gathered local stakeholders for its 18th Annual Meeting
-      Thursday, the conversation focused on innovation primarily in the context
-      of community.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-KSA26-01-press.jpg?itok=etuhLb0w
-    categories: []
-    publishedAt: 2026-10-16T16:00:00.000Z
-    source: MIT Artificial Intelligence
   - title: The uranium cubes that exposed Nazi Germany’s nuclear failure
     url: https://www.sciencedaily.com/releases/2026/10/261015073218.htm
     summary: Scientists investigating Nazi Germany's secret nuclear program have
@@ -90,18 +107,6 @@ articles:
     categories: []
     publishedAt: 2026-10-16T12:32:52.000Z
     source: ScienceDaily — Engineering
-  - title: "Cleaning a giant ship: Roomba-like robots walk on magnetic feet to scrub
-      giant ships"
-    url: https://techxplore.com/news/2026-10-giant-ship-roomba-robots-magnetic.html
-    summary: "Timothy Wong didn't suspect it at the time, but his dives off the
-      coast of Rockport and the hours he spent studying the wheels and gears of
-      robotics were leading to one mission: figuring out a way to get unwanted
-      sea matter off giant ships in need of cleaning."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/how-do-you-clean-a-gia.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-10-15T18:40:07.000Z
-    source: TechXplore — Robotics
   - title: Canada could save millions by developing its own operating system instead
       of relying on Microsoft Windows
     url: https://techxplore.com/news/2026-10-canada-millions-microsoft-windows.html
