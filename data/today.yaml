@@ -1,31 +1,60 @@
-date: 2026-10-18
+date: 2026-10-19
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card
+    url: https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/
+    summary: The entertainment giant hopes to get trust and safety tech, among other
+      IP, from a startup whose chatbots dozens of states allege encouraged
+      minors to self-harm and kill their parents.
+    imageUrl: https://media.wired.com/photos/6acfe36ba2733753393886b8/191:100/w_1280,c_limit/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-10-19T09:00:00.000Z
+    source: WIRED (AI)
+  - title: "'I call it a bribe': Pennsylvania residents spurn $10,000 data center
+      checks"
+    url: https://techxplore.com/news/2026-10-bribe-pennsylvania-residents-spurn-center.html
+    summary: On his terrace overlooking the forest in eastern Pennsylvania, Ed Negra
+      lays out four letters. All are from a developer promising a $10,000 check
+      to each household once its data center is running.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ed-negra-a-resident-of.jpg
+    categories:
+      - Business
+    publishedAt: 2026-10-19T08:40:06.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: "Flaws become reinforcements: Engineered crystal defects strengthen
+      metals without changing their chemistry"
+    url: https://techxplore.com/news/2026-10-flaws-crystal-defects-metals-chemistry.html
+    summary: Scientists have found a way to use defects in crystals to engineer
+      stronger materials, according to a new study.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/structural-alloys.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-10-18T11:40:01.000Z
+    source: TechXplore — Engineering
+  - title: "Data Centers Have a New PR Plan: Your Kid’s Field Trip"
+    url: https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/
+    summary: Amid a wave of backlash, some industry-friendly groups are employing
+      creative and time-tested strategies to woo the youth.
+    imageUrl: https://media.wired.com/photos/6ad250c5e76c5dde4c61ba83/191:100/w_1280,c_limit/101626-Power%20Play.jpg
+    categories:
+      - Business
+      - Science
+    publishedAt: 2026-10-18T10:30:00.000Z
+    source: WIRED science
   - title: Giving AI a “crystal clear” view of the materials world
     url: https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018
     summary: "In principle, artificial intelligence could make finding the right
       material for an application as simple as ordering dinner: Scientists would
-      tell a large language model what they want, and it would serve them a
-      perfectly designed crystal for the job."
+      tell a large language model what they want, and it would serve them the
+      perfect material for the job."
     imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Synthetic-Narratives-01-press.jpg?itok=Bh8fzury
     categories: []
     publishedAt: 2026-10-18T04:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: "One AI model, trillions of variants: Breaking mass attacks on voice
-      assistants"
-    url: https://techxplore.com/news/2026-10-ai-trillions-variants-mass-voice.html
-    summary: Imagine sitting in your home, listening to what you think is a
-      run-of-the-mill advertisement or perhaps a piece of music you enjoy. But
-      while you hum along, that audio file is sending a secret, malicious audio
-      message—imperceptible to human ears—telling your home assistant to unlock
-      your door or maybe transfer money from your bank account.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/voice-assistants.jpg
-    categories:
-      - Security
-    publishedAt: 2026-10-17T12:00:13.000Z
-    source: TechXplore — AI & Machine Learning
   - title: Team develops embodied robotic arm 'EmArm' with human-like touch sensing
     url: https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html
     summary: A research team at The Hong Kong University of Science and Technology
@@ -43,30 +72,7 @@ articles:
     categories:
       - Robotics
     publishedAt: 2026-10-17T11:00:13.000Z
-    source: TechXplore — Engineering
-  - title: Why AI Isn’t Ready to Tackle Our Convoluted Genomes
-    url: https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/
-    summary: The DNA inside our cells isn’t just a series of instructions, but
-      something far more dynamic. Like scientists, AI models don't yet have the
-      data to properly decode it.
-    imageUrl: https://media.wired.com/photos/6acf63d6b06331734b2e70d7/191:100/w_1280,c_limit/Physical%20Genome%20cr-Samuel%20Velasco%20and%20Hannah%20Waters_Quanta%20Magazine-Lede.jpg
-    categories:
-      - Science
-      - Science / Biotech
-    publishedAt: 2026-10-17T09:00:00.000Z
-    source: WIRED (AI)
-  - title: Microplastics React With Water, a New Study Says. That’s a Problem for
-      Biology
-    url: https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/
-    summary: Though plastic is usually inert, tiny pieces of it have the potential
-      to react with one of the most pervasive molecules in the environment and
-      in our bodies.
-    imageUrl: https://media.wired.com/photos/6ad106cafa571af93e3403ed/191:100/w_1280,c_limit/1245245666
-    categories:
-      - Science
-      - Science / Health
-    publishedAt: 2026-10-17T09:00:00.000Z
-    source: WIRED science
+    source: TechXplore — Robotics
   - title: Simulation App Speeds Up Electric Truck Battery Design
     url: https://spectrum.ieee.org/electric-truck-battery-design-simulation
     summary: This article is brought to you by COMSOL.
