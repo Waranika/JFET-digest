@@ -1,106 +1,124 @@
-date: 2026-10-19
+date: 2026-10-20
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card
-    url: https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/
-    summary: The entertainment giant hopes to get trust and safety tech, among other
-      IP, from a startup whose chatbots dozens of states allege encouraged
-      minors to self-harm and kill their parents.
-    imageUrl: https://media.wired.com/photos/6acfe36ba2733753393886b8/191:100/w_1280,c_limit/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg
+  - title: MIT spinout makes surgical stitching more like applying a sticky note
+    url: https://news.mit.edu/2026/sanaheal-makes-surgical-stitching-more-like-applying-sticky-note-1020
+    summary: Dozens of surgical procedures require doctors to connect two pieces of
+      tissue together in a delicate stitching process. It happens in triple
+      heart bypass, C-sections, and surgeries to repair hernias and tendons.
+      Today, those procedures are mostly done by surgeon-controlled robots or by
+      hand, and the margin for error is small. Even small errors in suturing or
+      stapling can lead to leaks with devastating consequences to patients.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT_SanaHeal-01-press.jpg?itok=p8FULfCM
+    categories: []
+    publishedAt: 2026-10-20T04:00:00.000Z
+    source: MIT Robotics
+  - title: "From wombat burrows to Noah's Ark: Robot joins search"
+    url: https://techxplore.com/news/2026-10-wombat-burrows-noah-ark-robot.html
+    summary: Technology developed by an Australian engineer to explore wombat
+      burrows has been sent to eastern Türkiye to join in the search for the
+      biblical Noah's Ark.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/from-wombat-burrows-to-1.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-10-20T02:40:01.000Z
+    source: TechXplore — Engineering
+  - title: Robot AI predicts future scenes to guide its next moves
+    url: https://techxplore.com/news/2026-10-robot-ai-future-scenes.html
+    summary: A robot artificial intelligence (AI) system has been developed that can
+      understand human instructions, predict what a scene will look like after
+      an action and then carry out the task. Rather than simply translating
+      instructions into physical movements, the technology also uses the
+      anticipated outcomes of those actions to control the robot.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/snu-professor-jaeyoung-2.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-10-19T21:20:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: OpenAI Engineer Accused of Spying on Executives Ordered to Remain in
+      Custody
+    url: https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/
+    summary: A judge ordered Abdulrahman Alfozan to remain in custody, likening the
+      Saudi government’s offer to secure the former OpenAI engineer’s release to
+      a “blank check.”
+    imageUrl: https://media.wired.com/photos/6ad6630343f8fc6e5c00cf7e/191:100/w_1280,c_limit/open-ai-employee-court.jpg
     categories:
       - Business
       - Business / Artificial Intelligence
-    publishedAt: 2026-10-19T09:00:00.000Z
+      - Security
+      - Security / National Security
+    publishedAt: 2026-10-19T19:49:17.000Z
     source: WIRED (AI)
-  - title: "'I call it a bribe': Pennsylvania residents spurn $10,000 data center
-      checks"
-    url: https://techxplore.com/news/2026-10-bribe-pennsylvania-residents-spurn-center.html
-    summary: On his terrace overlooking the forest in eastern Pennsylvania, Ed Negra
-      lays out four letters. All are from a developer promising a $10,000 check
-      to each household once its data center is running.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ed-negra-a-resident-of.jpg
+  - title: New communications toolkit to help care providers prepare for cyber
+      incidents
+    url: https://techxplore.com/news/2026-10-communications-toolkit-cyber-incidents.html
+    summary: Digital Care Hub has launched a series of new resources to help adult
+      social care providers plan how they will communicate with key stakeholders
+      in the event of a cyber incident. These include people receiving care,
+      families, staff, partner organizations and relevant public bodies.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-communications-too.jpg
     categories:
-      - Business
-    publishedAt: 2026-10-19T08:40:06.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: "Flaws become reinforcements: Engineered crystal defects strengthen
-      metals without changing their chemistry"
-    url: https://techxplore.com/news/2026-10-flaws-crystal-defects-metals-chemistry.html
-    summary: Scientists have found a way to use defects in crystals to engineer
-      stronger materials, according to a new study.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/structural-alloys.jpg
+      - Computer Sciences
+    publishedAt: 2026-10-19T19:40:04.000Z
+    source: TechXplore — Computer Science
+  - title: Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth
+    url: https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/
+    summary: JAXA is leading an international mission to reach Mars’ Phobos moon and
+      bring soil back to Earth. If successful, it could unlock new clues about
+      the history of the solar system.
+    imageUrl: https://media.wired.com/photos/6ad0c058fa571af93e340368/191:100/w_1280,c_limit/JAXA.jpg
     categories:
-      - Engineering
-    publishedAt: 2026-10-18T11:40:01.000Z
-    source: TechXplore — Engineering
-  - title: "Data Centers Have a New PR Plan: Your Kid’s Field Trip"
-    url: https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/
-    summary: Amid a wave of backlash, some industry-friendly groups are employing
-      creative and time-tested strategies to woo the youth.
-    imageUrl: https://media.wired.com/photos/6ad250c5e76c5dde4c61ba83/191:100/w_1280,c_limit/101626-Power%20Play.jpg
-    categories:
-      - Business
       - Science
-    publishedAt: 2026-10-18T10:30:00.000Z
+      - Science / Space
+    publishedAt: 2026-10-19T18:45:06.000Z
     source: WIRED science
-  - title: Giving AI a “crystal clear” view of the materials world
-    url: https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018
-    summary: "In principle, artificial intelligence could make finding the right
-      material for an application as simple as ordering dinner: Scientists would
-      tell a large language model what they want, and it would serve them the
-      perfect material for the job."
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Synthetic-Narratives-01-press.jpg?itok=Bh8fzury
+  - title: Why teaching AI about symmetry could make prenatal diagnosis more reliable
+    url: https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019
+    summary: "Despite millions of years of evolution, the development of the human
+      fetus remains a complex process that is vulnerable to genetic,
+      environmental, and metabolic disruptions. These disruptions could result
+      in developmental abnormalities, starting with one of the first organs to
+      begin developing in the fetus that continues to develop after birth: the
+      brain."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-jameel-clinic-fetal-brain.jpg?itok=TGq3tK5p
     categories: []
-    publishedAt: 2026-10-18T04:00:00.000Z
+    publishedAt: 2026-10-19T18:20:00.000Z
     source: MIT Artificial Intelligence
-  - title: Team develops embodied robotic arm 'EmArm' with human-like touch sensing
-    url: https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html
-    summary: A research team at The Hong Kong University of Science and Technology
-      (HKUST) has developed an Embodied Sensorimotor Robotic Arm (EmArm) capable
-      of whole-arm tactile sensing and adaptive manipulation. By embedding a
-      soft optical tactile skin directly into a robotic skeleton and integrating
-      it with a real-time decision-making algorithm, EmArm can perceive and
-      analyze contact information across its upper and lower arms, enabling
-      human-like tactile perception and adaptive object manipulation. The system
-      can also distinguish between different touch interactions, such as
-      tickling and patting, respond in real time and avoid obstacles through
-      tactile feedback, opening new possibilities for the development of
-      embodied intelligent robots.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/team-develops-embodied.jpg
+  - title: The Robot I Didn’t Expect to Build
+    url: https://spectrum.ieee.org/agility-robotics-digit-5-redesign
+    summary: Agility Robotics, the company I cofounded out of my robotics lab at
+      Oregon State University in 2015, has just launched Digit 5. It’s designed
+      to be the first humanoid robot that can safely and economically do useful
+      work at scale, allowing us to bring tens of thousands of humanoid workers
+      into the real world. Engineered to lift 23-kilogram bins onto high shelves
+      and with a battery that can run for 90 minutes on a 9-minute charge, Digit
+      5’s goal is to handle heavy warehouse tasks shift after shift, filling the
+      need for labor in jobs that are too physically stressful or too dull for
+      humans to want to do.
+    imageUrl: https://spectrum.ieee.org/media-library/author-jonathan-hurst-a-tall-slim-white-man-wearing-a-black-long-sleeve-shirt-and-dark-jeans-stands-next-to-his-digit-5-humano.jpg?id=68441166&width=1245&height=700&coordinates=0%2C1422%2C0%2C1423
     categories:
       - Robotics
-    publishedAt: 2026-10-17T11:00:13.000Z
-    source: TechXplore — Robotics
-  - title: Simulation App Speeds Up Electric Truck Battery Design
-    url: https://spectrum.ieee.org/electric-truck-battery-design-simulation
-    summary: This article is brought to you by COMSOL.
-    imageUrl: https://spectrum.ieee.org/media-library/light-blue-volvo-fh-electric-semi-truck-cab-shown-from-front-side-view.png?id=67846334&width=1200&height=800&coordinates=0%2C2%2C0%2C2
-    categories:
-      - Type-sponsored
-      - Batteries
-      - Electric-vehicles
-      - Multiphysics-simulation
-      - Electric-trucks
-    publishedAt: 2026-10-16T16:49:18.000Z
-    source: IEEE Spectrum — AI
-  - title: "Video Friday: When Two Robots Become One"
-    url: https://spectrum.ieee.org/video-friday-reconfigurable-robots
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/two-small-robots-with-long-limbs-and-bodies-linked-by-a-wire-join-connect-to-form-one-four-wheeled-robot-on-a-paved-pathway.gif?id=68443843&width=1245&height=700&coordinates=0%2C7%2C0%2C7
-    categories:
-      - Video-friday
-      - Robotics-videos
-      - Reconfigurable-robots
-      - Social-robotics
-      - Physical-ai
-      - Perseverance-rover
-    publishedAt: 2026-10-16T16:30:02.000Z
+      - Humanoid-robots
+      - Agility-robotics
+      - Bipedal-robot
+    publishedAt: 2026-10-19T13:00:03.000Z
     source: IEEE Spectrum — Robotics
+  - title: "Edge AI for Smart Cities: From Insight to Cognitive Action"
+    url: https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE
+    summary: This white paper explains how edge AI and physical AI help cities move
+      beyond passive monitoring. It shows how urban infrastructure can sense,
+      reason, and act on real-time conditions across public safety, mobility,
+      and infrastructure management.
+    imageUrl: https://spectrum.ieee.org/media-library/black-intel-wordmark-logo-on-transparent-checkerboard-background.png?id=68424848&width=980
+    categories:
+      - Type-whitepaper
+      - Physical-ai
+      - Edge-ai
+      - Smart-cities
+    publishedAt: 2026-10-19T10:00:04.000Z
+    source: IEEE Spectrum — AI
   - title: The uranium cubes that exposed Nazi Germany’s nuclear failure
     url: https://www.sciencedaily.com/releases/2026/10/261015073218.htm
     summary: Scientists investigating Nazi Germany's secret nuclear program have
@@ -113,33 +131,6 @@ articles:
     categories: []
     publishedAt: 2026-10-16T12:32:52.000Z
     source: ScienceDaily — Engineering
-  - title: Canada could save millions by developing its own operating system instead
-      of relying on Microsoft Windows
-    url: https://techxplore.com/news/2026-10-canada-millions-microsoft-windows.html
-    summary: "Canada has made digital sovereignty a priority in areas such as cloud
-      computing, artificial intelligence and telecommunications. But one
-      important part of its digital infrastructure has received far less
-      attention: the operating systems running government computers."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/person-on-computer-1.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-10-15T14:00:24.000Z
-    source: TechXplore — Computer Science
-  - title: Compact Analog Signal Generators for Fast RF Testing
-    url: https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/
-    summary: This White Paper shows RF and microwave engineers and technicians how
-      compact analog signal generators support core amplifier and receiver test
-      tasks, from gain and distortion measurements to blocker rejection, power
-      calibration, and local oscillator substitution.
-    imageUrl: https://spectrum.ieee.org/media-library/electro-rent-white-logo-with-stylized-er-icon-on-a-gray-background.png?id=68417208&width=980
-    categories:
-      - Type-whitepaper
-      - Analog
-      - Microwave
-      - Amplifier-gain
-      - Measurement
-    publishedAt: 2026-10-15T10:00:04.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: AI can act exactly like a human, but we still don't think it's conscious
     url: https://www.sciencedaily.com/releases/2026/10/261012185017.htm
     summary: A new study reveals that people draw a surprisingly sharp line between
@@ -165,25 +156,6 @@ articles:
     categories: []
     publishedAt: 2026-10-13T09:47:22.000Z
     source: ScienceDaily — Computer Science
-  - title: Shape-sensing sheet digitally tracks its movement as it bends and twists
-    url: https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008
-    summary: MIT engineers have developed a flexible, shape-sensing sheet that
-      digitally reconstructs its own form as it bends and twists.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Sensing-Sheets-01-press.jpg?itok=u0FlOuu0
-    categories: []
-    publishedAt: 2026-10-08T18:00:00.000Z
-    source: MIT Engineering
-  - title: "Planning system ensures a robot’s flight path will remain collision-free "
-    url: https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007
-    summary: Uncrewed aerial vehicles (UAVs) could fly deep into the heart of a
-      raging wildfire, avoiding sudden flare-ups and dodging falling tree
-      branches to gather critical information for rescuers. But in this
-      dangerous situation, the UAV could easily be damaged or destroyed by
-      falling debris.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Safe-Planner-01-press.jpg?itok=MHGngXu6
-    categories: []
-    publishedAt: 2026-10-07T04:00:00.000Z
-    source: MIT Robotics
   - title: Measure Distant Asteroids With a DIY Rig
     url: https://spectrum.ieee.org/asteroid-shadow
     summary: I’ve seen two total solar eclipses and have been duly impressed by what
