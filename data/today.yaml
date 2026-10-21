@@ -1,8 +1,123 @@
-date: 2026-10-20
+date: 2026-10-21
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Europe Wants Data Centers. Its Climate Goals Are Getting in The Way
+    url: https://www.wired.com/story/europe-data-centers-climate-change/
+    summary: A plan to funnel the heat given off by data centers into nearby homes
+      has run aground in Germany. Across Europe, policymakers are weighing AI
+      ambitions against climate objectives.
+    imageUrl: https://media.wired.com/photos/6ad7d5f6ceee34bd819fdbeb/191:100/w_1280,c_limit/Business_Can%20Europe%20Build%20Data%20Centers%20Without%20Giving%20Up%20Its%20Climate%20Goals_v2.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-10-21T08:30:00.000Z
+    source: WIRED (AI)
+  - title: MIT student team CERBERUZ wins NASA LunaRecycle Centennial Challenge,
+      turning lunar trash into tools
+    url: https://news.mit.edu/2026/mit-student-team-cerberuz-wins-nasa-lunarecycle-centennial-challenge-1020
+    summary: "Establishing a human presence on the moon will require
+      state-of-the-art spacecraft, spacesuits, life-support systems, and some of
+      the most sophisticated technology humans have ever built. It will also
+      require figuring out where to put the garbage.A future lunar outpost will
+      receive a steady stream of supplies from Earth, bringing packaging and
+      other materials that could quickly become a mountain of waste. Meanwhile,
+      astronauts will need tools, replacement parts, and materials to maintain
+      the outpost, and shipping supplies from Earth is astronomically expensive.
+      An MIT student team has won first prize in a NASA competition for
+      developing a way to turn that trash into useful materials for lunar
+      living.The Composites for Extraterrestrial Recycling By Engineering the
+      Reuse and Upcycling of Zotek (CERBERUZ) team was named first-prize winner
+      in both the Prototype and Digital Twin tracks of NASA’s LunaRecycle
+      Challenge. The challenge — part of NASA’s Centennial Challenges series —
+      asked participants to design and develop solutions that can reuse,
+      recycle, or upcycle space waste and improve the sustainability of
+      longer-duration lunar missions. Teams were encouraged to envision
+      solutions that not only addressed recycling in deep space, but could also
+      have applications on Earth.The CERBERUZ team’s system turns otherwise
+      unusable waste into new composite materials, grinding it down, melting it,
+      and molding it into useful parts. The approach reduces the need for costly
+      shipments from Earth and keeps bulky packaging from piling up in lunar
+      landfills.“Waste packaging materials will inevitably accumulate when a
+      lunar outpost is built, and at the same time, outpost construction and
+      maintenance will require a steady supply of new materials, including
+      replacement parts,” says George Lordos, a research scientist in the MIT
+      Department of Aeronautics and Astronautics and System Design and
+      Management, and the lead advisor for the CERBERUZ team. “Recycling waste
+      materials into such parts can help reduce materials needed to be launched
+      from Earth.”Waste not, want notCERBERUZ separates non-biological waste
+      into two streams: thermoplastics and everything else. All materials are
+      then ground into a fine powder and mixed together. The powder mixture is
+      loaded into an injection molding machine, where the thermoplastics melt
+      with the remaining materials suspended in the molten plastic. The mixture
+      is finally injected into a mold, producing high-quality composite parts
+      that can be quickly and reliably replicated."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-aeroastro-CERBERUZ-Team.jpg?itok=AvNsUrA6
+    categories: []
+    publishedAt: 2026-10-20T21:30:00.000Z
+    source: MIT Engineering
+  - title: Secret trigger words could make AI-powered robots dangerous
+    url: https://techxplore.com/news/2026-10-secret-trigger-words-ai-powered.html
+    summary: Large language models (LLMs) like OpenAI's ChatGPT, Anthropic's Claude
+      and Google Gemini are increasingly being used to help robots perform
+      tasks, but what if LLMs could be exploited to turn helpful robots into
+      harmful robots?
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/secret-trigger-words-c.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-10-20T20:40:14.000Z
+    source: TechXplore — Robotics
+  - title: Brain-inspired randomness makes artificial vision more reliable
+    url: https://techxplore.com/news/2026-10-brain-randomness-artificial-vision-reliable.html
+    summary: Humans are usually remarkably good at recognizing objects, even under
+      poor conditions. Artificial vision systems, by contrast, reach their
+      limits more quickly. Researchers at the Hertie Institute for Clinical
+      Brain Research have now investigated what artificial vision systems can
+      learn from the brain. They found that combining two brain-inspired
+      features can make image recognition considerably more reliable. The
+      research findings are published in the journal Patterns.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/brain-research-how-ran.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-10-20T19:40:23.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Background static can carry wireless data without an actively generated
+      radio signal
+    url: https://techxplore.com/news/2026-10-background-static-wireless-generated-radio.html
+    summary: Stanford researchers recently revealed how a seemingly physics-defying
+      wireless communication technology works. The new technology, called
+      thermal noise communication, harnesses background static that normally is
+      the bane of radio, cellular and other wireless signals. In their new study
+      published in the Proceedings of the National Academy of Sciences, the team
+      showed how a transmitter could deliver data to a receiver without any
+      actively produced signal by manipulating tiny oscillations in voltage.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/thermal-noise-used-to.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-10-20T19:20:01.000Z
+    source: TechXplore — Engineering
+  - title: AI slays the dragon as four agents conquer Minecraft without human
+      intervention
+    url: https://techxplore.com/news/2026-10-ai-slays-dragon-agents-conquer.html
+    summary: Minecraft is one of the world's most popular video games, where players
+      explore, gather resources, craft items and try to survive in a virtual
+      universe constructed of 3D cubes that represent different materials.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-slays-the-dragon-as.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-10-20T15:15:14.000Z
+    source: TechXplore — Computer Science
+  - title: The Physics Behind Tesla’s Flying Roadster
+    url: https://www.wired.com/story/physics-behind-tesla-flying-roadster/
+    summary: To understand how Elon’s new car hops, glides, and sticks upside down,
+      we need to talk about friction and force.
+    imageUrl: https://media.wired.com/photos/6ad667a256bcd06aa1190eb2/191:100/w_1280,c_limit/Roadster_56.jpg
+    categories:
+      - Science
+      - Science / Physics and Math
+    publishedAt: 2026-10-20T10:45:00.000Z
+    source: WIRED science
   - title: MIT spinout makes surgical stitching more like applying a sticky note
     url: https://news.mit.edu/2026/sanaheal-makes-surgical-stitching-more-like-applying-sticky-note-1020
     summary: Dozens of surgical procedures require doctors to connect two pieces of
@@ -15,65 +130,17 @@ articles:
     categories: []
     publishedAt: 2026-10-20T04:00:00.000Z
     source: MIT Robotics
-  - title: "From wombat burrows to Noah's Ark: Robot joins search"
-    url: https://techxplore.com/news/2026-10-wombat-burrows-noah-ark-robot.html
-    summary: Technology developed by an Australian engineer to explore wombat
-      burrows has been sent to eastern Türkiye to join in the search for the
-      biblical Noah's Ark.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/from-wombat-burrows-to-1.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-10-20T02:40:01.000Z
-    source: TechXplore — Engineering
-  - title: Robot AI predicts future scenes to guide its next moves
-    url: https://techxplore.com/news/2026-10-robot-ai-future-scenes.html
-    summary: A robot artificial intelligence (AI) system has been developed that can
-      understand human instructions, predict what a scene will look like after
-      an action and then carry out the task. Rather than simply translating
-      instructions into physical movements, the technology also uses the
-      anticipated outcomes of those actions to control the robot.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/snu-professor-jaeyoung-2.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-10-19T21:20:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: OpenAI Engineer Accused of Spying on Executives Ordered to Remain in
-      Custody
-    url: https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/
-    summary: A judge ordered Abdulrahman Alfozan to remain in custody, likening the
-      Saudi government’s offer to secure the former OpenAI engineer’s release to
-      a “blank check.”
-    imageUrl: https://media.wired.com/photos/6ad6630343f8fc6e5c00cf7e/191:100/w_1280,c_limit/open-ai-employee-court.jpg
-    categories:
-      - Business
-      - Business / Artificial Intelligence
-      - Security
-      - Security / National Security
-    publishedAt: 2026-10-19T19:49:17.000Z
-    source: WIRED (AI)
-  - title: New communications toolkit to help care providers prepare for cyber
-      incidents
-    url: https://techxplore.com/news/2026-10-communications-toolkit-cyber-incidents.html
-    summary: Digital Care Hub has launched a series of new resources to help adult
-      social care providers plan how they will communicate with key stakeholders
-      in the event of a cyber incident. These include people receiving care,
-      families, staff, partner organizations and relevant public bodies.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-communications-too.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-10-19T19:40:04.000Z
-    source: TechXplore — Computer Science
-  - title: Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth
-    url: https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/
-    summary: JAXA is leading an international mission to reach Mars’ Phobos moon and
-      bring soil back to Earth. If successful, it could unlock new clues about
-      the history of the solar system.
-    imageUrl: https://media.wired.com/photos/6ad0c058fa571af93e340368/191:100/w_1280,c_limit/JAXA.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-10-19T18:45:06.000Z
-    source: WIRED science
+  - title: Scientists reach the ultimate quantum limit on a surface
+    url: https://www.sciencedaily.com/releases/2026/10/261018205053.htm
+    summary: Scientists have achieved a quantum breakthrough by creating an
+      ultra-clean surface where individual molecules can maintain their delicate
+      quantum properties at the fundamental limit. The discovery could unlock
+      unprecedented control over molecules and help drive the next generation of
+      quantum technologies.
+    imageUrl: https://www.sciencedaily.com/images/1920/optically-excited-molecule-on-crystal-surface.webp
+    categories: []
+    publishedAt: 2026-10-20T03:02:41.000Z
+    source: ScienceDaily — Engineering
   - title: Why teaching AI about symmetry could make prenatal diagnosis more reliable
     url: https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019
     summary: "Despite millions of years of evolution, the development of the human
@@ -103,6 +170,7 @@ articles:
       - Humanoid-robots
       - Agility-robotics
       - Bipedal-robot
+      - Type-cover
     publishedAt: 2026-10-19T13:00:03.000Z
     source: IEEE Spectrum — Robotics
   - title: "Edge AI for Smart Cities: From Insight to Cognitive Action"
@@ -119,18 +187,6 @@ articles:
       - Smart-cities
     publishedAt: 2026-10-19T10:00:04.000Z
     source: IEEE Spectrum — AI
-  - title: The uranium cubes that exposed Nazi Germany’s nuclear failure
-    url: https://www.sciencedaily.com/releases/2026/10/261015073218.htm
-    summary: Scientists investigating Nazi Germany's secret nuclear program have
-      uncovered evidence that its final experimental reactor was nowhere near as
-      close to working as previously claimed. Analysis of surviving uranium
-      cubes and wartime documents reveals that Germany lacked the enormous
-      quantities of uranium and heavy water needed to make its reactor
-      operational.
-    imageUrl: https://www.sciencedaily.com/images/1920/natural-uranium-cube.webp
-    categories: []
-    publishedAt: 2026-10-16T12:32:52.000Z
-    source: ScienceDaily — Engineering
   - title: AI can act exactly like a human, but we still don't think it's conscious
     url: https://www.sciencedaily.com/releases/2026/10/261012185017.htm
     summary: A new study reveals that people draw a surprisingly sharp line between
@@ -162,7 +218,7 @@ articles:
       happens as the moon casts its shadow on Earth. But recently I’ve become
       even more intrigued by a similar phenomenon that doesn’t involve the sun
       or the moon—something called an asteroid occultation.
-    imageUrl: https://spectrum.ieee.org/media-library/a-telescope-on-tripod-with-laptop-and-power-boxes-for-a-portable-astronomy-setup.png?id=67788039&width=1200&height=800&coordinates=46%2C0%2C46%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/a-telescope-on-tripod-with-laptop-and-power-boxes-for-a-portable-astronomy-setup.png?id=67788039&width=1245&height=700&coordinates=0%2C73%2C0%2C74
     categories:
       - Astronomy
       - Asteroids
