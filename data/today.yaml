@@ -1,19 +1,131 @@
-date: 2026-10-21
+date: 2026-10-23
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Europe Wants Data Centers. Its Climate Goals Are Getting in The Way
-    url: https://www.wired.com/story/europe-data-centers-climate-change/
-    summary: A plan to funnel the heat given off by data centers into nearby homes
-      has run aground in Germany. Across Europe, policymakers are weighing AI
-      ambitions against climate objectives.
-    imageUrl: https://media.wired.com/photos/6ad7d5f6ceee34bd819fdbeb/191:100/w_1280,c_limit/Business_Can%20Europe%20Build%20Data%20Centers%20Without%20Giving%20Up%20Its%20Climate%20Goals_v2.jpg
+  - title: The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars
+    url: https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/
+    summary: The cloud has baffled astronomers since its discovery in 2018. Now, a
+      new study offers a possible cause for its appearance.
+    imageUrl: https://media.wired.com/photos/6ad9cc2f43ef58c4a17cefed/191:100/w_1280,c_limit/Mars_Express_views_the_most_striking_cloud_on_Mars.jpg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-10-23T09:00:00.000Z
+    source: WIRED science
+  - title: "Q&A: How AI came to model the “messy” human mind"
+    url: https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023
+    summary: Generative artificial intelligence models are rooted in ideas of
+      mid-20th century engineers who thought some amount of irrationality was
+      essential for a machine that could think like a human, contends Benjamin
+      Lindquist, an assistant professor in the MIT History Section, who holds an
+      MIT Schwarzman College of Computing shared position with the Department of
+      Electrical Engineering and Computer Science (EECS) and is a principal
+      investigator in the Laboratory for Information and Decision Systems.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-indquist_Ben_IrrationalComputer-01-press.jpg?itok=syHYcG5I
+    categories: []
+    publishedAt: 2026-10-23T04:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Shares in this data center company are down 40% as investors lose faith
+      in the AI story
+    url: https://techxplore.com/news/2026-10-center-company-investors-faith-ai.html
+    summary: For two decades, data centers were relatively safe, lucrative real
+      estate investments. They attracted investors because they served as
+      digital infrastructure—the essential plumbing that keeps the internet
+      running.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/shares-in-this-data-ce.jpg
+    categories:
+      - Business
+    publishedAt: 2026-10-23T02:40:02.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Cambridge scientists create a $10 chip that could put a medical lab on
+      your wrist
+    url: https://www.sciencedaily.com/releases/2026/10/261022081312.htm
+    summary: Cambridge researchers have created a groundbreaking $10 optical sensor
+      that delivers the precision of laboratory equipment in a device small
+      enough for wearable technology. It identified foods, plastics, and
+      medicines with 100% accuracy in tests and demonstrated the ability to
+      monitor blood glucose, alcohol, and other health markers without invasive
+      procedures.
+    imageUrl: https://www.sciencedaily.com/images/1920/wearable-spectrometer-chip.webp
+    categories: []
+    publishedAt: 2026-10-23T01:21:47.000Z
+    source: ScienceDaily — Artificial Intelligence
+  - title: Tiny 3D-printed color routers could enable sharper and brighter low-light
+      photography
+    url: https://techxplore.com/news/2026-10-tiny-3d-routers-enable-sharper.html
+    summary: Almost every sensor in a digital photography device, from a smartphone
+      to a digital camera, relies on color filters to separate incoming light
+      into red, green and blue before it reaches the sensor. Substantial light
+      is lost through the process, however, and in dim conditions, this results
+      in images with higher noise, longer exposures and more motion blur. The
+      most conventional configuration, a Bayer filter array, transmits only
+      about a third of the light striking it.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/routing-the-way-to-sha.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-10-22T20:20:16.000Z
+    source: TechXplore — Engineering
+  - title: The Social Society Helping Women Join the AI Boom
+    url: https://www.wired.com/story/aged-intelligence-society-interview/
+    summary: WIRED spoke with the founders of the Aged Intelligence Society, a
+      fast-growing events startup that brings women together to “solve midlife
+      problems using frontier tools.”
+    imageUrl: https://media.wired.com/photos/6ada7db9ecc44326fbe9e386/191:100/w_1280,c_limit/Model-Behavior-Illo-102226-2.jpg
     categories:
       - Business
       - Business / Artificial Intelligence
-    publishedAt: 2026-10-21T08:30:00.000Z
+    publishedAt: 2026-10-22T19:56:32.000Z
     source: WIRED (AI)
+  - title: Lab-grown mouse muscles enable tiny robots to jump, swim, walk and grasp
+    url: https://techxplore.com/news/2026-10-lab-grown-mouse-muscles-enable.html
+    summary: Lab-grown skeletal muscle tissue can contract, but the movement is
+      often so slight that it is barely visible. This poses a problem for
+      biohybrid robots designed to move using living muscles. Researchers at ETH
+      Zurich have now demonstrated that it is not just the amount of muscle
+      tissue that matters, but above all how the muscle and the artificial
+      scaffold interact.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-develop-mu.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-10-22T19:40:19.000Z
+    source: TechXplore — Robotics
+  - title: Strand AI on a desert island, and it starts playing and inventing games
+    url: https://techxplore.com/news/2026-10-strand-ai-island-playing-games.html
+    summary: AI agents tend to do things when we give them specific commands, such
+      as analyzing data and answering questions. But what would they do if left
+      to their own devices?
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/strand-ai-on-a-desert.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-10-22T15:03:55.000Z
+    source: TechXplore — Computer Science
+  - title: A revolutionary new microscope could reveal the hidden machinery of life
+    url: https://www.sciencedaily.com/releases/2026/10/261021231230.htm
+    summary: Researchers have developed a revolutionary microscope that uses an
+      incredibly powerful laser to make previously invisible cellular structures
+      easier to see. The technology dramatically improves image clarity,
+      allowing scientists to examine small proteins that conventional electron
+      microscopes struggle to capture. It could eventually reveal how tiny
+      molecular machines interact inside cells, providing an unprecedented look
+      at the hidden workings of life.
+    imageUrl: https://www.sciencedaily.com/images/1920/cryo-em-with-laser-phase-plate.webp
+    categories: []
+    publishedAt: 2026-10-22T11:30:49.000Z
+    source: ScienceDaily — Engineering
+  - title: People are taking an unapproved weight-loss drug. AI found something
+      surprising
+    url: https://www.sciencedaily.com/releases/2026/10/261020085018.htm
+    summary: Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected
+      symptom reports linked by users to unapproved versions of retatrutide,
+      including increased appetite, sleep disturbances, and elevated heart
+      rates. The findings differ from clinical trial results and highlight how
+      AI could help identify potential drug safety signals that warrant further
+      investigation.
+    imageUrl: https://www.sciencedaily.com/images/1920/happy-young-woman-with-pink-donuts.webp
+    categories: []
+    publishedAt: 2026-10-22T02:37:01.000Z
+    source: ScienceDaily — Robotics
   - title: MIT student team CERBERUZ wins NASA LunaRecycle Centennial Challenge,
       turning lunar trash into tools
     url: https://news.mit.edu/2026/mit-student-team-cerberuz-wins-nasa-lunarecycle-centennial-challenge-1020
@@ -57,67 +169,6 @@ articles:
     categories: []
     publishedAt: 2026-10-20T21:30:00.000Z
     source: MIT Engineering
-  - title: Secret trigger words could make AI-powered robots dangerous
-    url: https://techxplore.com/news/2026-10-secret-trigger-words-ai-powered.html
-    summary: Large language models (LLMs) like OpenAI's ChatGPT, Anthropic's Claude
-      and Google Gemini are increasingly being used to help robots perform
-      tasks, but what if LLMs could be exploited to turn helpful robots into
-      harmful robots?
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/secret-trigger-words-c.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-10-20T20:40:14.000Z
-    source: TechXplore — Robotics
-  - title: Brain-inspired randomness makes artificial vision more reliable
-    url: https://techxplore.com/news/2026-10-brain-randomness-artificial-vision-reliable.html
-    summary: Humans are usually remarkably good at recognizing objects, even under
-      poor conditions. Artificial vision systems, by contrast, reach their
-      limits more quickly. Researchers at the Hertie Institute for Clinical
-      Brain Research have now investigated what artificial vision systems can
-      learn from the brain. They found that combining two brain-inspired
-      features can make image recognition considerably more reliable. The
-      research findings are published in the journal Patterns.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/brain-research-how-ran.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-10-20T19:40:23.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Background static can carry wireless data without an actively generated
-      radio signal
-    url: https://techxplore.com/news/2026-10-background-static-wireless-generated-radio.html
-    summary: Stanford researchers recently revealed how a seemingly physics-defying
-      wireless communication technology works. The new technology, called
-      thermal noise communication, harnesses background static that normally is
-      the bane of radio, cellular and other wireless signals. In their new study
-      published in the Proceedings of the National Academy of Sciences, the team
-      showed how a transmitter could deliver data to a receiver without any
-      actively produced signal by manipulating tiny oscillations in voltage.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/thermal-noise-used-to.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-10-20T19:20:01.000Z
-    source: TechXplore — Engineering
-  - title: AI slays the dragon as four agents conquer Minecraft without human
-      intervention
-    url: https://techxplore.com/news/2026-10-ai-slays-dragon-agents-conquer.html
-    summary: Minecraft is one of the world's most popular video games, where players
-      explore, gather resources, craft items and try to survive in a virtual
-      universe constructed of 3D cubes that represent different materials.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-slays-the-dragon-as.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-10-20T15:15:14.000Z
-    source: TechXplore — Computer Science
-  - title: The Physics Behind Tesla’s Flying Roadster
-    url: https://www.wired.com/story/physics-behind-tesla-flying-roadster/
-    summary: To understand how Elon’s new car hops, glides, and sticks upside down,
-      we need to talk about friction and force.
-    imageUrl: https://media.wired.com/photos/6ad667a256bcd06aa1190eb2/191:100/w_1280,c_limit/Roadster_56.jpg
-    categories:
-      - Science
-      - Science / Physics and Math
-    publishedAt: 2026-10-20T10:45:00.000Z
-    source: WIRED science
   - title: MIT spinout makes surgical stitching more like applying a sticky note
     url: https://news.mit.edu/2026/sanaheal-makes-surgical-stitching-more-like-applying-sticky-note-1020
     summary: Dozens of surgical procedures require doctors to connect two pieces of
@@ -130,29 +181,6 @@ articles:
     categories: []
     publishedAt: 2026-10-20T04:00:00.000Z
     source: MIT Robotics
-  - title: Scientists reach the ultimate quantum limit on a surface
-    url: https://www.sciencedaily.com/releases/2026/10/261018205053.htm
-    summary: Scientists have achieved a quantum breakthrough by creating an
-      ultra-clean surface where individual molecules can maintain their delicate
-      quantum properties at the fundamental limit. The discovery could unlock
-      unprecedented control over molecules and help drive the next generation of
-      quantum technologies.
-    imageUrl: https://www.sciencedaily.com/images/1920/optically-excited-molecule-on-crystal-surface.webp
-    categories: []
-    publishedAt: 2026-10-20T03:02:41.000Z
-    source: ScienceDaily — Engineering
-  - title: Why teaching AI about symmetry could make prenatal diagnosis more reliable
-    url: https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019
-    summary: "Despite millions of years of evolution, the development of the human
-      fetus remains a complex process that is vulnerable to genetic,
-      environmental, and metabolic disruptions. These disruptions could result
-      in developmental abnormalities, starting with one of the first organs to
-      begin developing in the fetus that continues to develop after birth: the
-      brain."
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-jameel-clinic-fetal-brain.jpg?itok=TGq3tK5p
-    categories: []
-    publishedAt: 2026-10-19T18:20:00.000Z
-    source: MIT Artificial Intelligence
   - title: The Robot I Didn’t Expect to Build
     url: https://spectrum.ieee.org/agility-robotics-digit-5-redesign
     summary: Agility Robotics, the company I cofounded out of my robotics lab at
@@ -173,32 +201,6 @@ articles:
       - Type-cover
     publishedAt: 2026-10-19T13:00:03.000Z
     source: IEEE Spectrum — Robotics
-  - title: "Edge AI for Smart Cities: From Insight to Cognitive Action"
-    url: https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE
-    summary: This white paper explains how edge AI and physical AI help cities move
-      beyond passive monitoring. It shows how urban infrastructure can sense,
-      reason, and act on real-time conditions across public safety, mobility,
-      and infrastructure management.
-    imageUrl: https://spectrum.ieee.org/media-library/black-intel-wordmark-logo-on-transparent-checkerboard-background.png?id=68424848&width=980
-    categories:
-      - Type-whitepaper
-      - Physical-ai
-      - Edge-ai
-      - Smart-cities
-    publishedAt: 2026-10-19T10:00:04.000Z
-    source: IEEE Spectrum — AI
-  - title: AI can act exactly like a human, but we still don't think it's conscious
-    url: https://www.sciencedaily.com/releases/2026/10/261012185017.htm
-    summary: A new study reveals that people draw a surprisingly sharp line between
-      human consciousness and artificial intelligence, even when both behave
-      identically. Researchers found that participants considered even the most
-      responsive AI less conscious than the least responsive human. Yet when
-      asked about "awareness" instead, people judged humans and AI much more
-      similarly.
-    imageUrl: https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp
-    categories: []
-    publishedAt: 2026-10-14T01:41:55.000Z
-    source: ScienceDaily — Robotics
   - title: Scientists recreate a bizarre quantum effect that stops a particle cold
     url: https://www.sciencedaily.com/releases/2026/10/261011211554.htm
     summary: Oxford physicists have recreated a bizarre quantum effect in which a
