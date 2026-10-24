@@ -1,8 +1,109 @@
-date: 2026-10-23
+date: 2026-10-24
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Flexible robot arms learn to predict their next move
+    url: https://techxplore.com/news/2026-10-flexible-robot-arms.html
+    summary: A robot arm that bends like an elephant's trunk can slip into tight
+      spaces and handle fragile objects. Controlling it is harder because its
+      smooth bending makes its next move hard to predict. Researchers have now
+      developed a method that keeps computer predictions of the arm's motion on
+      track, even when the arm moves faster than the model was trained for.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/flexible-robot-arms-le.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-10-23T21:00:02.000Z
+    source: TechXplore — Robotics
+  - title: At MIT, Martha Minow speaks on sustaining democracy, both by using and
+      overcoming AI
+    url: https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023
+    summary: Legal scholar Martha Minow delivered this fall’s Compton Lecture at MIT
+      on Thursday, examining the civic foundations of democracy — and describing
+      how artificial intelligence is undermining it, but could be used to help
+      reinforce traditional U.S. governance.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT%20Compton-01-press.JPG?itok=WqxUfa0W
+    categories: []
+    publishedAt: 2026-10-23T21:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: AI deepfakes are getting more realistic. Scientists developed a better
+      way to spot them
+    url: https://techxplore.com/news/2026-10-ai-deepfakes-realistic-scientists.html
+    summary: "Hundreds of the nation's computer scientists gathered for a conference
+      in Denver last fall, and Tuan Tran had a big test for them: Could they
+      tell the difference between the real Brad Pitt and an AI-generated version
+      of him?"
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-deepfakes-are-getti.jpg
+    categories:
+      - Security
+    publishedAt: 2026-10-23T17:45:03.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: "Q&A: How AI came to model the 'messy' human mind"
+    url: https://techxplore.com/news/2026-10-qa-ai-messy-human-mind.html
+    summary: Generative artificial intelligence models are rooted in ideas of
+      mid-20th-century engineers who thought some amount of irrationality was
+      essential for a machine that could think like a human, contends Benjamin
+      Lindquist, an assistant professor in the MIT History Section, who holds an
+      MIT Schwarzman College of Computing shared position with the Department of
+      Electrical Engineering and Computer Science (EECS) and is a principal
+      investigator in the Laboratory for Information and Decision Systems.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-hallucination-1.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-10-23T16:30:01.000Z
+    source: TechXplore — Computer Science
+  - title: "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself"
+    url: https://spectrum.ieee.org/video-friday-rubiks-cube-robot
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/red-quadruped-robot-facing-a-large-rubik-s-cube-on-an-outdoor-tiled-surface.png?id=68512950&width=1245&height=700&coordinates=0%2C0%2C0%2C0
+    categories:
+      - Video-friday
+      - Quadruped-robots
+      - Robotics-news
+      - Humanoid-robots
+      - Robot-locomotion
+      - Tactile-sensing
+    publishedAt: 2026-10-23T15:30:02.000Z
+    source: IEEE Spectrum — Robotics
+  - title: Curated hydrogen database reveals links between storage capacity and
+      release pressure
+    url: https://techxplore.com/news/2026-10-curated-hydrogen-database-reveals-links.html
+    summary: Hydrogen's ability to power a cleaner future hinges not only on finding
+      materials capable of efficiently storing and releasing it, but also on
+      understanding the trade-off between storage capacity and practical
+      operating conditions.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/curated-hydrogen-datab.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-10-23T14:20:01.000Z
+    source: TechXplore — Engineering
+  - title: MIT scientists build a tiny robot that swims using living muscle cells
+    url: https://www.sciencedaily.com/releases/2026/10/261022081308.htm
+    summary: MIT engineers have built a paper-thin swimming robot powered by living
+      muscle cells that respond to flashes of light, allowing it to swim and
+      steer through water. The breakthrough could pave the way for tiny,
+      self-healing biological robots capable of exploring fragile environments
+      that ordinary machines cannot safely navigate.
+    imageUrl: https://www.sciencedaily.com/images/1920/soft-robot-that-can-flap-through-water.webp
+    categories: []
+    publishedAt: 2026-10-23T10:33:56.000Z
+    source: ScienceDaily — Robotics
+  - title: A tiny defect in a crystal reveals a big quantum surprise
+    url: https://www.sciencedaily.com/releases/2026/10/261022081302.htm
+    summary: Researchers have solved a long-standing challenge in understanding how
+      tiny defects in materials like diamond and silicon carbide behave when
+      exposed to light. Their new computational method revealed a surprisingly
+      important energy-loss mechanism in silicon carbide that scientists had
+      previously underestimated. The finding helps explain a mystery that has
+      puzzled researchers for years and could improve the design of quantum
+      computers and sensors.
+    imageUrl: https://www.sciencedaily.com/images/1920/galli-group-diamonds.webp
+    categories: []
+    publishedAt: 2026-10-23T10:22:55.000Z
+    source: ScienceDaily — Engineering
   - title: The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars
     url: https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/
     summary: The cloud has baffled astronomers since its discovery in 2018. Now, a
@@ -13,31 +114,6 @@ articles:
       - Science / Space
     publishedAt: 2026-10-23T09:00:00.000Z
     source: WIRED science
-  - title: "Q&A: How AI came to model the “messy” human mind"
-    url: https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023
-    summary: Generative artificial intelligence models are rooted in ideas of
-      mid-20th century engineers who thought some amount of irrationality was
-      essential for a machine that could think like a human, contends Benjamin
-      Lindquist, an assistant professor in the MIT History Section, who holds an
-      MIT Schwarzman College of Computing shared position with the Department of
-      Electrical Engineering and Computer Science (EECS) and is a principal
-      investigator in the Laboratory for Information and Decision Systems.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-indquist_Ben_IrrationalComputer-01-press.jpg?itok=syHYcG5I
-    categories: []
-    publishedAt: 2026-10-23T04:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Shares in this data center company are down 40% as investors lose faith
-      in the AI story
-    url: https://techxplore.com/news/2026-10-center-company-investors-faith-ai.html
-    summary: For two decades, data centers were relatively safe, lucrative real
-      estate investments. They attracted investors because they served as
-      digital infrastructure—the essential plumbing that keeps the internet
-      running.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/shares-in-this-data-ce.jpg
-    categories:
-      - Business
-    publishedAt: 2026-10-23T02:40:02.000Z
-    source: TechXplore — AI & Machine Learning
   - title: Cambridge scientists create a $10 chip that could put a medical lab on
       your wrist
     url: https://www.sciencedaily.com/releases/2026/10/261022081312.htm
@@ -51,21 +127,6 @@ articles:
     categories: []
     publishedAt: 2026-10-23T01:21:47.000Z
     source: ScienceDaily — Artificial Intelligence
-  - title: Tiny 3D-printed color routers could enable sharper and brighter low-light
-      photography
-    url: https://techxplore.com/news/2026-10-tiny-3d-routers-enable-sharper.html
-    summary: Almost every sensor in a digital photography device, from a smartphone
-      to a digital camera, relies on color filters to separate incoming light
-      into red, green and blue before it reaches the sensor. Substantial light
-      is lost through the process, however, and in dim conditions, this results
-      in images with higher noise, longer exposures and more motion blur. The
-      most conventional configuration, a Bayer filter array, transmits only
-      about a third of the light striking it.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/routing-the-way-to-sha.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-10-22T20:20:16.000Z
-    source: TechXplore — Engineering
   - title: The Social Society Helping Women Join the AI Boom
     url: https://www.wired.com/story/aged-intelligence-society-interview/
     summary: WIRED spoke with the founders of the Aged Intelligence Society, a
@@ -77,55 +138,6 @@ articles:
       - Business / Artificial Intelligence
     publishedAt: 2026-10-22T19:56:32.000Z
     source: WIRED (AI)
-  - title: Lab-grown mouse muscles enable tiny robots to jump, swim, walk and grasp
-    url: https://techxplore.com/news/2026-10-lab-grown-mouse-muscles-enable.html
-    summary: Lab-grown skeletal muscle tissue can contract, but the movement is
-      often so slight that it is barely visible. This poses a problem for
-      biohybrid robots designed to move using living muscles. Researchers at ETH
-      Zurich have now demonstrated that it is not just the amount of muscle
-      tissue that matters, but above all how the muscle and the artificial
-      scaffold interact.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-develop-mu.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-10-22T19:40:19.000Z
-    source: TechXplore — Robotics
-  - title: Strand AI on a desert island, and it starts playing and inventing games
-    url: https://techxplore.com/news/2026-10-strand-ai-island-playing-games.html
-    summary: AI agents tend to do things when we give them specific commands, such
-      as analyzing data and answering questions. But what would they do if left
-      to their own devices?
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/strand-ai-on-a-desert.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-10-22T15:03:55.000Z
-    source: TechXplore — Computer Science
-  - title: A revolutionary new microscope could reveal the hidden machinery of life
-    url: https://www.sciencedaily.com/releases/2026/10/261021231230.htm
-    summary: Researchers have developed a revolutionary microscope that uses an
-      incredibly powerful laser to make previously invisible cellular structures
-      easier to see. The technology dramatically improves image clarity,
-      allowing scientists to examine small proteins that conventional electron
-      microscopes struggle to capture. It could eventually reveal how tiny
-      molecular machines interact inside cells, providing an unprecedented look
-      at the hidden workings of life.
-    imageUrl: https://www.sciencedaily.com/images/1920/cryo-em-with-laser-phase-plate.webp
-    categories: []
-    publishedAt: 2026-10-22T11:30:49.000Z
-    source: ScienceDaily — Engineering
-  - title: People are taking an unapproved weight-loss drug. AI found something
-      surprising
-    url: https://www.sciencedaily.com/releases/2026/10/261020085018.htm
-    summary: Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected
-      symptom reports linked by users to unapproved versions of retatrutide,
-      including increased appetite, sleep disturbances, and elevated heart
-      rates. The findings differ from clinical trial results and highlight how
-      AI could help identify potential drug safety signals that warrant further
-      investigation.
-    imageUrl: https://www.sciencedaily.com/images/1920/happy-young-woman-with-pink-donuts.webp
-    categories: []
-    publishedAt: 2026-10-22T02:37:01.000Z
-    source: ScienceDaily — Robotics
   - title: MIT student team CERBERUZ wins NASA LunaRecycle Centennial Challenge,
       turning lunar trash into tools
     url: https://news.mit.edu/2026/mit-student-team-cerberuz-wins-nasa-lunarecycle-centennial-challenge-1020
@@ -181,26 +193,6 @@ articles:
     categories: []
     publishedAt: 2026-10-20T04:00:00.000Z
     source: MIT Robotics
-  - title: The Robot I Didn’t Expect to Build
-    url: https://spectrum.ieee.org/agility-robotics-digit-5-redesign
-    summary: Agility Robotics, the company I cofounded out of my robotics lab at
-      Oregon State University in 2015, has just launched Digit 5. It’s designed
-      to be the first humanoid robot that can safely and economically do useful
-      work at scale, allowing us to bring tens of thousands of humanoid workers
-      into the real world. Engineered to lift 23-kilogram bins onto high shelves
-      and with a battery that can run for 90 minutes on a 9-minute charge, Digit
-      5’s goal is to handle heavy warehouse tasks shift after shift, filling the
-      need for labor in jobs that are too physically stressful or too dull for
-      humans to want to do.
-    imageUrl: https://spectrum.ieee.org/media-library/author-jonathan-hurst-a-tall-slim-white-man-wearing-a-black-long-sleeve-shirt-and-dark-jeans-stands-next-to-his-digit-5-humano.jpg?id=68441166&width=1245&height=700&coordinates=0%2C1422%2C0%2C1423
-    categories:
-      - Robotics
-      - Humanoid-robots
-      - Agility-robotics
-      - Bipedal-robot
-      - Type-cover
-    publishedAt: 2026-10-19T13:00:03.000Z
-    source: IEEE Spectrum — Robotics
   - title: Scientists recreate a bizarre quantum effect that stops a particle cold
     url: https://www.sciencedaily.com/releases/2026/10/261011211554.htm
     summary: Oxford physicists have recreated a bizarre quantum effect in which a
@@ -220,7 +212,7 @@ articles:
       happens as the moon casts its shadow on Earth. But recently I’ve become
       even more intrigued by a similar phenomenon that doesn’t involve the sun
       or the moon—something called an asteroid occultation.
-    imageUrl: https://spectrum.ieee.org/media-library/a-telescope-on-tripod-with-laptop-and-power-boxes-for-a-portable-astronomy-setup.png?id=67788039&width=1245&height=700&coordinates=0%2C73%2C0%2C74
+    imageUrl: https://spectrum.ieee.org/media-library/a-telescope-on-tripod-with-laptop-and-power-boxes-for-a-portable-astronomy-setup.png?id=67788039&width=1200&height=400&coordinates=0%2C303%2C0%2C303
     categories:
       - Astronomy
       - Asteroids
