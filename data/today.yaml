@@ -1,224 +1,200 @@
-date: 2026-10-24
+date: 2026-10-29
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Flexible robot arms learn to predict their next move
-    url: https://techxplore.com/news/2026-10-flexible-robot-arms.html
-    summary: A robot arm that bends like an elephant's trunk can slip into tight
-      spaces and handle fragile objects. Controlling it is harder because its
-      smooth bending makes its next move hard to predict. Researchers have now
-      developed a method that keeps computer predictions of the arm's motion on
-      track, even when the arm moves faster than the model was trained for.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/flexible-robot-arms-le.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-10-23T21:00:02.000Z
-    source: TechXplore — Robotics
-  - title: At MIT, Martha Minow speaks on sustaining democracy, both by using and
-      overcoming AI
-    url: https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023
-    summary: Legal scholar Martha Minow delivered this fall’s Compton Lecture at MIT
-      on Thursday, examining the civic foundations of democracy — and describing
-      how artificial intelligence is undermining it, but could be used to help
-      reinforce traditional U.S. governance.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT%20Compton-01-press.JPG?itok=WqxUfa0W
-    categories: []
-    publishedAt: 2026-10-23T21:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: AI deepfakes are getting more realistic. Scientists developed a better
-      way to spot them
-    url: https://techxplore.com/news/2026-10-ai-deepfakes-realistic-scientists.html
-    summary: "Hundreds of the nation's computer scientists gathered for a conference
-      in Denver last fall, and Tuan Tran had a big test for them: Could they
-      tell the difference between the real Brad Pitt and an AI-generated version
-      of him?"
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-deepfakes-are-getti.jpg
-    categories:
-      - Security
-    publishedAt: 2026-10-23T17:45:03.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: "Q&A: How AI came to model the 'messy' human mind"
-    url: https://techxplore.com/news/2026-10-qa-ai-messy-human-mind.html
-    summary: Generative artificial intelligence models are rooted in ideas of
-      mid-20th-century engineers who thought some amount of irrationality was
-      essential for a machine that could think like a human, contends Benjamin
-      Lindquist, an assistant professor in the MIT History Section, who holds an
-      MIT Schwarzman College of Computing shared position with the Department of
-      Electrical Engineering and Computer Science (EECS) and is a principal
-      investigator in the Laboratory for Information and Decision Systems.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/ai-hallucination-1.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-10-23T16:30:01.000Z
-    source: TechXplore — Computer Science
-  - title: "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself"
-    url: https://spectrum.ieee.org/video-friday-rubiks-cube-robot
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/red-quadruped-robot-facing-a-large-rubik-s-cube-on-an-outdoor-tiled-surface.png?id=68512950&width=1245&height=700&coordinates=0%2C0%2C0%2C0
-    categories:
-      - Video-friday
-      - Quadruped-robots
-      - Robotics-news
-      - Humanoid-robots
-      - Robot-locomotion
-      - Tactile-sensing
-    publishedAt: 2026-10-23T15:30:02.000Z
-    source: IEEE Spectrum — Robotics
-  - title: Curated hydrogen database reveals links between storage capacity and
-      release pressure
-    url: https://techxplore.com/news/2026-10-curated-hydrogen-database-reveals-links.html
-    summary: Hydrogen's ability to power a cleaner future hinges not only on finding
-      materials capable of efficiently storing and releasing it, but also on
-      understanding the trade-off between storage capacity and practical
-      operating conditions.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/curated-hydrogen-datab.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-10-23T14:20:01.000Z
-    source: TechXplore — Engineering
-  - title: MIT scientists build a tiny robot that swims using living muscle cells
-    url: https://www.sciencedaily.com/releases/2026/10/261022081308.htm
-    summary: MIT engineers have built a paper-thin swimming robot powered by living
-      muscle cells that respond to flashes of light, allowing it to swim and
-      steer through water. The breakthrough could pave the way for tiny,
-      self-healing biological robots capable of exploring fragile environments
-      that ordinary machines cannot safely navigate.
-    imageUrl: https://www.sciencedaily.com/images/1920/soft-robot-that-can-flap-through-water.webp
-    categories: []
-    publishedAt: 2026-10-23T10:33:56.000Z
-    source: ScienceDaily — Robotics
-  - title: A tiny defect in a crystal reveals a big quantum surprise
-    url: https://www.sciencedaily.com/releases/2026/10/261022081302.htm
-    summary: Researchers have solved a long-standing challenge in understanding how
-      tiny defects in materials like diamond and silicon carbide behave when
-      exposed to light. Their new computational method revealed a surprisingly
-      important energy-loss mechanism in silicon carbide that scientists had
-      previously underestimated. The finding helps explain a mystery that has
-      puzzled researchers for years and could improve the design of quantum
-      computers and sensors.
-    imageUrl: https://www.sciencedaily.com/images/1920/galli-group-diamonds.webp
-    categories: []
-    publishedAt: 2026-10-23T10:22:55.000Z
-    source: ScienceDaily — Engineering
-  - title: The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars
-    url: https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/
-    summary: The cloud has baffled astronomers since its discovery in 2018. Now, a
-      new study offers a possible cause for its appearance.
-    imageUrl: https://media.wired.com/photos/6ad9cc2f43ef58c4a17cefed/191:100/w_1280,c_limit/Mars_Express_views_the_most_striking_cloud_on_Mars.jpg
+  - title: An AI Breakthrough Has Made Decades of Computer Science Research
+      ‘Irrelevant’
+    url: https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/
+    summary: Anthropic and OpenAI say they’ve disproved a key tenet of computer
+      science. Researchers are struggling with the fall but also feel like
+      “overexcited bunnies” as they look at new questions to explore.
+    imageUrl: https://media.wired.com/photos/6ae293587359ba945850d8f8/191:100/w_1280,c_limit/science_math_ai_breakthrough_research.jpg
     categories:
       - Science
-      - Science / Space
-    publishedAt: 2026-10-23T09:00:00.000Z
+      - Science / Physics and Math
+    publishedAt: 2026-10-29T10:45:00.000Z
     source: WIRED science
-  - title: Cambridge scientists create a $10 chip that could put a medical lab on
-      your wrist
-    url: https://www.sciencedaily.com/releases/2026/10/261022081312.htm
-    summary: Cambridge researchers have created a groundbreaking $10 optical sensor
-      that delivers the precision of laboratory equipment in a device small
-      enough for wearable technology. It identified foods, plastics, and
-      medicines with 100% accuracy in tests and demonstrated the ability to
-      monitor blood glucose, alcohol, and other health markers without invasive
-      procedures.
-    imageUrl: https://www.sciencedaily.com/images/1920/wearable-spectrometer-chip.webp
-    categories: []
-    publishedAt: 2026-10-23T01:21:47.000Z
-    source: ScienceDaily — Artificial Intelligence
-  - title: The Social Society Helping Women Join the AI Boom
-    url: https://www.wired.com/story/aged-intelligence-society-interview/
-    summary: WIRED spoke with the founders of the Aged Intelligence Society, a
-      fast-growing events startup that brings women together to “solve midlife
-      problems using frontier tools.”
-    imageUrl: https://media.wired.com/photos/6ada7db9ecc44326fbe9e386/191:100/w_1280,c_limit/Model-Behavior-Illo-102226-2.jpg
+  - title: How to get started with AI agents, and which are best for specific tasks
+    url: https://techxplore.com/news/2026-10-ai-agents-specific-tasks.html
+    summary: Agentic artificial intelligence is gaining popularity far beyond tech
+      circles, with Meta, OpenAI, Anthropic and other companies going
+      head-to-head in the surging market for consumer-friendly AI agents.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/open-ai-conference-1.jpg
     categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-10-22T19:56:32.000Z
+      - Consumer & Gadgets
+    publishedAt: 2026-10-29T10:00:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: I Gave My Blood to the AI Death Clock
+    url: https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/
+    summary: Death Clock promises to predict when you’re going to die and help you
+      extend your time on Earth. After a month, I felt like it was sucking the
+      life out of me.
+    imageUrl: https://media.wired.com/photos/6adbec3437abe86dfce58fe9/191:100/w_1280,c_limit/WIRED-Ghost-Stories-Death-Clock.jpg
+    categories:
+      - The Big Story
+      - Culture
+      - Science
+    publishedAt: 2026-10-29T10:00:00.000Z
     source: WIRED (AI)
-  - title: MIT student team CERBERUZ wins NASA LunaRecycle Centennial Challenge,
-      turning lunar trash into tools
-    url: https://news.mit.edu/2026/mit-student-team-cerberuz-wins-nasa-lunarecycle-centennial-challenge-1020
-    summary: "Establishing a human presence on the moon will require
-      state-of-the-art spacecraft, spacesuits, life-support systems, and some of
-      the most sophisticated technology humans have ever built. It will also
-      require figuring out where to put the garbage.A future lunar outpost will
-      receive a steady stream of supplies from Earth, bringing packaging and
-      other materials that could quickly become a mountain of waste. Meanwhile,
-      astronauts will need tools, replacement parts, and materials to maintain
-      the outpost, and shipping supplies from Earth is astronomically expensive.
-      An MIT student team has won first prize in a NASA competition for
-      developing a way to turn that trash into useful materials for lunar
-      living.The Composites for Extraterrestrial Recycling By Engineering the
-      Reuse and Upcycling of Zotek (CERBERUZ) team was named first-prize winner
-      in both the Prototype and Digital Twin tracks of NASA’s LunaRecycle
-      Challenge. The challenge — part of NASA’s Centennial Challenges series —
-      asked participants to design and develop solutions that can reuse,
-      recycle, or upcycle space waste and improve the sustainability of
-      longer-duration lunar missions. Teams were encouraged to envision
-      solutions that not only addressed recycling in deep space, but could also
-      have applications on Earth.The CERBERUZ team’s system turns otherwise
-      unusable waste into new composite materials, grinding it down, melting it,
-      and molding it into useful parts. The approach reduces the need for costly
-      shipments from Earth and keeps bulky packaging from piling up in lunar
-      landfills.“Waste packaging materials will inevitably accumulate when a
-      lunar outpost is built, and at the same time, outpost construction and
-      maintenance will require a steady supply of new materials, including
-      replacement parts,” says George Lordos, a research scientist in the MIT
-      Department of Aeronautics and Astronautics and System Design and
-      Management, and the lead advisor for the CERBERUZ team. “Recycling waste
-      materials into such parts can help reduce materials needed to be launched
-      from Earth.”Waste not, want notCERBERUZ separates non-biological waste
-      into two streams: thermoplastics and everything else. All materials are
-      then ground into a fine powder and mixed together. The powder mixture is
-      loaded into an injection molding machine, where the thermoplastics melt
-      with the remaining materials suspended in the molten plastic. The mixture
-      is finally injected into a mold, producing high-quality composite parts
-      that can be quickly and reliably replicated."
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-aeroastro-CERBERUZ-Team.jpg?itok=AvNsUrA6
-    categories: []
-    publishedAt: 2026-10-20T21:30:00.000Z
-    source: MIT Engineering
-  - title: MIT spinout makes surgical stitching more like applying a sticky note
-    url: https://news.mit.edu/2026/sanaheal-makes-surgical-stitching-more-like-applying-sticky-note-1020
-    summary: Dozens of surgical procedures require doctors to connect two pieces of
-      tissue together in a delicate stitching process. It happens in triple
-      heart bypass, C-sections, and surgeries to repair hernias and tendons.
-      Today, those procedures are mostly done by surgeon-controlled robots or by
-      hand, and the margin for error is small. Even small errors in suturing or
-      stapling can lead to leaks with devastating consequences to patients.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT_SanaHeal-01-press.jpg?itok=p8FULfCM
-    categories: []
-    publishedAt: 2026-10-20T04:00:00.000Z
-    source: MIT Robotics
-  - title: Scientists recreate a bizarre quantum effect that stops a particle cold
-    url: https://www.sciencedaily.com/releases/2026/10/261011211554.htm
-    summary: Oxford physicists have recreated a bizarre quantum effect in which a
-      particle responds to a magnetic field without ever traveling through it.
-      Using a hybrid quantum computer, they demonstrated how introducing a
-      simulated magnetic flux could completely halt a particle's movement
-      through quantum interference. The experiment brings a decades-old
-      prediction into a new setting where matter and quantum fields influence
-      one another.
-    imageUrl: https://www.sciencedaily.com/images/1920/hybrid-quantum-system-loop.webp
-    categories: []
-    publishedAt: 2026-10-13T09:47:22.000Z
-    source: ScienceDaily — Computer Science
-  - title: Measure Distant Asteroids With a DIY Rig
-    url: https://spectrum.ieee.org/asteroid-shadow
-    summary: I’ve seen two total solar eclipses and have been duly impressed by what
-      happens as the moon casts its shadow on Earth. But recently I’ve become
-      even more intrigued by a similar phenomenon that doesn’t involve the sun
-      or the moon—something called an asteroid occultation.
-    imageUrl: https://spectrum.ieee.org/media-library/a-telescope-on-tripod-with-laptop-and-power-boxes-for-a-portable-astronomy-setup.png?id=67788039&width=1200&height=400&coordinates=0%2C303%2C0%2C303
+  - title: Self-adjusting drone controls could make for smoother formation flying
+    url: https://techxplore.com/news/2026-10-adjusting-drone-smoother-formation-flying.html
+    summary: A new method for controlling groups of drones, technically known as
+      unmanned aerial vehicles (UAVs), could make formation flying smoother and
+      reduce energy consumption and mechanical wear, according to research in
+      the International Journal of Systems, Control and Communications. The work
+      combines fuzzy logic processing with a self-adjusting control system,
+      known as a self-coupling proportional-integral-derivative (PID)
+      controller.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/many-drones.jpg
     categories:
-      - Astronomy
-      - Asteroids
-      - Occultations
-      - Arduino
-      - Telescope
-      - Type-departments
-    publishedAt: 2026-09-24T13:00:04.000Z
+      - Robotics
+    publishedAt: 2026-10-28T20:40:15.000Z
+    source: TechXplore — Engineering
+  - title: Systems Thinking Is Vital in the Age of AI
+    url: https://spectrum.ieee.org/systems-thinking-vital-in-ai
+    summary: Modern engineering projects increasingly combine human judgment with
+      machine capability. An engineer can define a problem, then ask an
+      artificial intelligence tool to search relevant research and technical
+      standards, generate design options, test them in simulation, and compare
+      the results. The engineer can then bring the results to specialists who
+      understand the parts AI cannot judge on its own, such as whether a design
+      can be built safely, whether it makes sense in a particular setting, or
+      how it might affect its users. The final decision about whether and how to
+      move forward remains a human responsibility.
+    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-robotic-and-a-human-hand-with-different-color-bands-wrapped-around-both-hands.jpg?id=68528703&width=1245&height=700&coordinates=0%2C125%2C0%2C125
+    categories:
+      - Ieee-member-news
+      - Opinion
+      - Careers
+      - Ai
+      - Type-ti
+    publishedAt: 2026-10-28T18:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: A soft robot could help doctors diagnose and treat disorders of the small
+      intestine
+    url: https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028
+    summary: Disorders of the small intestine are often difficult to diagnose and
+      treat. More than 20 feet long, an inch in diameter, and located deep
+      within the body, this organ is harder to access than other parts of the
+      digestive tract, such as the colon or stomach.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-IntestineRobot-A1-Press.jpg?itok=i_z0q2qb
+    categories: []
+    publishedAt: 2026-10-28T18:00:00.000Z
+    source: MIT Robotics
+  - title: "3 Questions: Why infrastructure is entering a defining era "
+    url: https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028
+    summary: For centuries, infrastructure has evolved alongside technology. New
+      materials and engineering techniques enabled taller buildings, longer
+      bridges, and larger cities. Computing and digital technologies later
+      transformed how infrastructure was designed, monitored, and operated.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-cee-Infrastructure-CambridgeView.jpg?itok=VxEHmdNx
+    categories: []
+    publishedAt: 2026-10-28T16:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Your Robot’s Safety Functions Already Work. What If the Input Lies?
+    url: https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone
+    summary: This article is brought to you by VicOne.
+    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robot-and-robot-dog-meet-a-woman-on-a-sunny-terrace-at-sunset.jpg?id=68002098&width=1245&height=700&coordinates=0%2C87%2C0%2C87
+    categories:
+      - Humanoid-robots
+      - Type-sponsored
+      - Cybersecurity
+      - Physical-ai
+      - Robot-safety
+      - Ai-robots
+    publishedAt: 2026-10-27T16:14:39.000Z
+    source: IEEE Spectrum — Robotics
+  - title: New neural framework could make LLMs more empathetic
+    url: https://techxplore.com/news/2026-10-neural-framework-llms-empathetic.html
+    summary: As more people turn to large language models (LLMs) during personal
+      crises, the companies behind them are engineering these AI-powered models
+      to be more personal, empathetic and understanding when prompts indicate a
+      user is in emotional distress.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/neural-framework.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-10-27T14:40:08.000Z
+    source: TechXplore — Computer Science
+  - title: Smithsonian scientists just recreated the first 2 billion years of the
+      Universe
+    url: https://www.sciencedaily.com/releases/2026/10/261026225600.htm
+    summary: Scientists have created one of the largest and most detailed
+      simulations of the early universe ever made, offering an extraordinary new
+      glimpse into the cosmos shortly after the Big Bang. Called Lumina, the
+      groundbreaking simulation recreates the universe’s first 2 billion years,
+      showing how dark matter, gas, and radiation interacted to give rise to the
+      earliest stars, galaxies, and black holes.
+    imageUrl: https://www.sciencedaily.com/images/1920/dark-matter-and-gas-velocity-simulation.webp
+    categories: []
+    publishedAt: 2026-10-27T09:48:35.000Z
+    source: ScienceDaily — Computer Science
+  - title: A tiny laser beam could make computer memory 1,000 times faster
+    url: https://www.sciencedaily.com/releases/2026/10/261025073046.htm
+    summary: Scientists at UC San Diego have developed a surprising new way to store
+      digital information using light instead of magnets, potentially paving the
+      way for smaller, faster, and more energy-efficient memory devices. By
+      precisely shaping and shrinking an ultrafast laser beam, researchers
+      demonstrated that they could switch magnetic states in a material, the
+      basic process used to write digital data. The technique could potentially
+      operate more than 1,000 times faster than conventional magnetic switching
+      methods.
+    imageUrl: https://www.sciencedaily.com/images/1920/ultrafast-laser-optical-beam-shaping.webp
+    categories: []
+    publishedAt: 2026-10-27T09:22:06.000Z
+    source: ScienceDaily — Engineering
+  - title: Build a Hidden Lock With a Magnetic Imager
+    url: https://spectrum.ieee.org/magnetic
+    summary: Like many a nerd, I have a certain fascination with locks. This
+      originates in reading the memoir Surely You’re Joking, Mr. Feynman as a
+      teenager, in which Richard Feynman recounts picking locks and cracking
+      combinations while at his day job working on the Manhattan Project at Los
+      Alamos. I currently have a couple of locksport pick sets and training
+      locks that I purchased at hacker conferences over the years (although I’m
+      still terrible at it), and I delight in the YouTube exploits of folks like
+      the LockPickingLawyer.
+    imageUrl: https://spectrum.ieee.org/media-library/a-medium-sized-box-with-an-open-lid-inside-is-a-lock-mechanism-a-battery-pack-and-some-circuit-boards.png?id=68493268&width=1200&height=600&coordinates=0%2C443%2C0%2C443
+    categories:
+      - Physical-security
+      - Typedepartments
+      - Lock
+      - Magnetic-imaging
+      - Teensy
+    publishedAt: 2026-10-26T13:00:02.000Z
     source: IEEE Spectrum — DIY
+  - title: Tiny magnetic vortices could help computers work more like your brain
+    url: https://www.sciencedaily.com/releases/2026/10/261025073038.htm
+    summary: Scientists have filmed tiny magnetic vortices called skyrmions melting
+      out of an organized lattice for the first time, revealing new ways to
+      manipulate these unusual structures. The breakthrough could help make
+      brain-like computers a reality, potentially enabling dramatically smaller
+      and more energy-efficient technology.
+    imageUrl: https://www.sciencedaily.com/images/1920/magnetic-swirls-brain-computer.webp
+    categories: []
+    publishedAt: 2026-10-26T10:06:16.000Z
+    source: ScienceDaily — Artificial Intelligence
+  - title: AI detects “invisible” signs of pancreatic cancer years before diagnosis
+    url: https://www.sciencedaily.com/releases/2026/10/261024222031.htm
+    summary: A powerful new AI system could help doctors detect pancreatic cancer
+      years before it becomes visible on conventional scans. The technology,
+      called REDMOD, identified hidden warning signs an average of 475 days
+      before diagnosis and was nearly twice as sensitive as experienced
+      radiologists. By spotting cancer-related changes at their earliest stages,
+      it could dramatically improve the chances of successful treatment for one
+      of the deadliest forms of cancer.
+    imageUrl: https://www.sciencedaily.com/images/1920/pancreatic-cancer-male-anatomy.webp
+    categories: []
+    publishedAt: 2026-10-26T09:25:21.000Z
+    source: ScienceDaily — Robotics
+  - title: "Poetry for Engineers: Of Code and Shortleaf Pine"
+    url: https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine
+    summary: I step into the warm moist airamong the columns of the pines,their net
+      of twigs and rootscomplex as any lines of code.
+    imageUrl: https://spectrum.ieee.org/media-library/abstract-illustration-showing-two-beams-of-soft-pink-light-swimming-amidst-rows-of-dark-green-columns-patterned-like-wood-grain.png?id=68487080&width=1245&height=700&coordinates=0%2C108%2C0%2C108
+    categories:
+      - Poetry
+      - Verse-becomes-electric
+      - Artificial-intelligence
+      - Typedepartments
+    publishedAt: 2026-10-25T12:00:02.000Z
+    source: IEEE Spectrum — Computing & Chips
