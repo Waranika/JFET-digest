@@ -1,42 +1,50 @@
-date: 2026-10-29
+date: 2026-10-30
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: An AI Breakthrough Has Made Decades of Computer Science Research
-      ‘Irrelevant’
-    url: https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/
-    summary: Anthropic and OpenAI say they’ve disproved a key tenet of computer
-      science. Researchers are struggling with the fall but also feel like
-      “overexcited bunnies” as they look at new questions to explore.
-    imageUrl: https://media.wired.com/photos/6ae293587359ba945850d8f8/191:100/w_1280,c_limit/science_math_ai_breakthrough_research.jpg
+  - title: "Shock, vindication, regret: Scientists react to AI roiling life's work"
+    url: https://techxplore.com/news/2026-10-vindication-scientists-react-ai-roiling.html
+    summary: For decades, three computer scientists built their careers around an
+      idea about the limits of what computers can do.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/openai-and-anthropic-e.jpg
     categories:
-      - Science
-      - Science / Physics and Math
-    publishedAt: 2026-10-29T10:45:00.000Z
-    source: WIRED science
-  - title: How to get started with AI agents, and which are best for specific tasks
-    url: https://techxplore.com/news/2026-10-ai-agents-specific-tasks.html
-    summary: Agentic artificial intelligence is gaining popularity far beyond tech
-      circles, with Meta, OpenAI, Anthropic and other companies going
-      head-to-head in the surging market for consumer-friendly AI agents.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/open-ai-conference-1.jpg
-    categories:
-      - Consumer & Gadgets
-    publishedAt: 2026-10-29T10:00:01.000Z
+      - Machine learning & AI
+    publishedAt: 2026-10-30T10:20:02.000Z
     source: TechXplore — AI & Machine Learning
-  - title: I Gave My Blood to the AI Death Clock
-    url: https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/
-    summary: Death Clock promises to predict when you’re going to die and help you
-      extend your time on Earth. After a month, I felt like it was sucking the
-      life out of me.
-    imageUrl: https://media.wired.com/photos/6adbec3437abe86dfce58fe9/191:100/w_1280,c_limit/WIRED-Ghost-Stories-Death-Clock.jpg
+  - title: Crematoria Are Being Used to Heat Homes and Swimming Pools
+    url: https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools/
+    summary: European countries are leading the way harvesting heat that would
+      otherwise be wasted as green death practices become more common.
+    imageUrl: https://media.wired.com/photos/6ae429d4d21d2596b6fe3ef9/191:100/w_1280,c_limit/Crematoriams.jpg
     categories:
-      - The Big Story
-      - Culture
       - Science
-    publishedAt: 2026-10-29T10:00:00.000Z
-    source: WIRED (AI)
+      - Science / Environment
+    publishedAt: 2026-10-30T10:00:00.000Z
+    source: WIRED science
+  - title: Making bad weather on purpose to test camera and sensor performance
+    url: https://techxplore.com/news/2026-10-bad-weather-purpose-camera-sensor.html
+    summary: Many buildings and sites tied to national security rely on cameras and
+      sensor networks to detect people and other objects nearby, but weather
+      conditions can quickly obscure their view. To understand how these systems
+      perform, Sandia National Laboratories researchers are deliberately
+      recreating thick fog and heavy rain in a controlled chamber.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/fog-chamber-cameras.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-10-29T20:40:09.000Z
+    source: TechXplore — Engineering
+  - title: Improving AI-generated images, pixel by pixel
+    url: https://techxplore.com/news/2026-10-ai-generated-images-pixel.html
+    summary: "If you have ever used an artificial intelligence text-to-image
+      generator like ChatGPT or Google Gemini, you may have encountered a common
+      but maddening problem: The image looks nearly perfect, but when you ask
+      the AI to fix one small detail, it messes up something unrelated."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/improving-ai-generated.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-10-29T17:20:19.000Z
+    source: TechXplore — Computer Science
   - title: Self-adjusting drone controls could make for smoother formation flying
     url: https://techxplore.com/news/2026-10-adjusting-drone-smoother-formation-flying.html
     summary: A new method for controlling groups of drones, technically known as
@@ -50,7 +58,7 @@ articles:
     categories:
       - Robotics
     publishedAt: 2026-10-28T20:40:15.000Z
-    source: TechXplore — Engineering
+    source: TechXplore — Robotics
   - title: Systems Thinking Is Vital in the Age of AI
     url: https://spectrum.ieee.org/systems-thinking-vital-in-ai
     summary: Modern engineering projects increasingly combine human judgment with
@@ -105,17 +113,6 @@ articles:
       - Ai-robots
     publishedAt: 2026-10-27T16:14:39.000Z
     source: IEEE Spectrum — Robotics
-  - title: New neural framework could make LLMs more empathetic
-    url: https://techxplore.com/news/2026-10-neural-framework-llms-empathetic.html
-    summary: As more people turn to large language models (LLMs) during personal
-      crises, the companies behind them are engineering these AI-powered models
-      to be more personal, empathetic and understanding when prompts indicate a
-      user is in emotional distress.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/neural-framework.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-10-27T14:40:08.000Z
-    source: TechXplore — Computer Science
   - title: Smithsonian scientists just recreated the first 2 billion years of the
       Universe
     url: https://www.sciencedaily.com/releases/2026/10/261026225600.htm
