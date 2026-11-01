@@ -1,39 +1,114 @@
-date: 2026-10-30
+date: 2026-11-01
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "Shock, vindication, regret: Scientists react to AI roiling life's work"
-    url: https://techxplore.com/news/2026-10-vindication-scientists-react-ai-roiling.html
-    summary: For decades, three computer scientists built their careers around an
-      idea about the limits of what computers can do.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/openai-and-anthropic-e.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-10-30T10:20:02.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Crematoria Are Being Used to Heat Homes and Swimming Pools
-    url: https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools/
-    summary: European countries are leading the way harvesting heat that would
-      otherwise be wasted as green death practices become more common.
-    imageUrl: https://media.wired.com/photos/6ae429d4d21d2596b6fe3ef9/191:100/w_1280,c_limit/Crematoriams.jpg
+  - title: Chatbots Are Leading Hikers Astray, With Dangerous Consequences
+    url: https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/
+    summary: Outsourcing planning to AI can lead people to surrender their own
+      critical thinking, which can have potentially deadly results in places
+      like the backcountry.
+    imageUrl: https://media.wired.com/photos/6ae22d8856ee4dcb93f11713/191:100/w_1280,c_limit/HCN406-scaled.jpg
     categories:
       - Science
       - Science / Environment
-    publishedAt: 2026-10-30T10:00:00.000Z
-    source: WIRED science
-  - title: Making bad weather on purpose to test camera and sensor performance
-    url: https://techxplore.com/news/2026-10-bad-weather-purpose-camera-sensor.html
-    summary: Many buildings and sites tied to national security rely on cameras and
-      sensor networks to detect people and other objects nearby, but weather
-      conditions can quickly obscure their view. To understand how these systems
-      perform, Sandia National Laboratories researchers are deliberately
-      recreating thick fog and heavy rain in a controlled chamber.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/fog-chamber-cameras.jpg
+    publishedAt: 2026-11-01T10:30:00.000Z
+    source: WIRED (AI)
+  - title: AI giants promise publishers new way to block some scraping
+    url: https://techxplore.com/news/2026-10-ai-giants-publishers-block.html
+    summary: OpenAI, Google, Microsoft and Anthropic pledged on Friday to give media
+      outlets and other websites a single way to prevent their content from
+      being scraped to train artificial intelligence (AI) models, amid growing
+      criticisms and legal battles from news publishers.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/anthropic-2.jpg
+    categories:
+      - Internet
+    publishedAt: 2026-10-31T11:00:11.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Scientists smash oxygen nuclei to recreate matter from the Big Bang
+    url: https://www.sciencedaily.com/releases/2026/10/261030002935.htm
+    summary: Scientists have recreated a primordial state of matter from the dawn of
+      the universe by colliding oxygen nuclei at nearly the speed of light. The
+      surprising results show that this exotic substance can form in smaller,
+      lower-energy collisions than previously demonstrated, challenging the
+      known boundaries of early-universe physics.
+    imageUrl: https://www.sciencedaily.com/images/1920/back-to-back-jets-produced-in-quark-gluon-plasma.webp
+    categories: []
+    publishedAt: 2026-10-31T02:09:38.000Z
+    source: ScienceDaily — Engineering
+  - title: MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows
+    url: https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030
+    summary: Five MIT faculty members and two additional alumni were recently named
+      to the 2026 cohort of AI2050 Fellows. The honor is announced annually by
+      Schmidt Sciences, Eric and Wendy Schmidt’s philanthropic initiative that
+      aims to accelerate scientific innovation.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-eecs-Schmidt-AI-2050.jpg?itok=tKYYjIR3
+    categories: []
+    publishedAt: 2026-10-30T20:15:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Laser pulses can track extreme airflow in tests for hypersonic spacecraft
+    url: https://techxplore.com/news/2026-10-laser-pulses-track-extreme-airflow.html
+    summary: Researchers from The University of Texas at Arlington's Aerodynamics
+      Research Center have published a study in the journal Communications
+      Engineering. Their work details a laser-based technique applied to arc-jet
+      flows that could transform how scientists measure hypersonic airflow, such
+      as the extreme conditions encountered by spacecraft reentering Earth's
+      atmosphere.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/laser-pulses-track-pla.jpg
     categories:
       - Engineering
-    publishedAt: 2026-10-29T20:40:09.000Z
+    publishedAt: 2026-10-30T17:20:22.000Z
     source: TechXplore — Engineering
+  - title: Robot moth grows a UV sensor by using an artificial circulatory system
+    url: https://techxplore.com/news/2026-10-robot-moth-uv-sensor-artificial.html
+    summary: A moth-shaped robot used an artificial circulatory system to deliver
+      chemical building blocks through its body and grow a light sensor where UV
+      light struck.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/robot-moth-gained-an-e.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-10-30T17:00:01.000Z
+    source: TechXplore — Robotics
+  - title: "Video Friday: Spot Plays to Show Its Whole-Body Manipulation"
+    url: https://spectrum.ieee.org/video-friday-whole-body-manipulation
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/colorful-boston-dynamics-robot-dog-plays-with-a-tire-on-an-outdoor-basketball-court-while-someone-with-a-hockey-stick-interferes.webp?id=68558917&width=1200&height=800&coordinates=88%2C0%2C89%2C0
+    categories:
+      - Video-friday
+      - Social-robots
+      - Quadruped-robots
+      - Robotics-news
+      - Robot-vision
+      - Robot-hands
+    publishedAt: 2026-10-30T16:30:03.000Z
+    source: IEEE Spectrum — Robotics
+  - title: A computer scientist breaks through a limit that stood since 1996
+    url: https://www.sciencedaily.com/releases/2026/10/261029072146.htm
+    summary: A computer scientist has achieved a breakthrough in a nearly
+      25-year-old problem involving how computers calculate distances across
+      enormous networks. The new algorithm delivers more reliable estimates for
+      closely connected points without sacrificing speed, overcoming a
+      longstanding limitation of earlier methods. Its secret lies in a smarter
+      way of sampling network connections at multiple scales.
+    imageUrl: https://www.sciencedaily.com/images/1920/ai-machine-learning-big-data-analytics-neural-network-data-flow.webp
+    categories: []
+    publishedAt: 2026-10-30T11:08:52.000Z
+    source: ScienceDaily — Robotics
+  - title: Consumer Appetite for Personal AI Goes Mainstream
+    url: https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables
+    summary: This article is brought to you by Qualcomm Technologies.
+    imageUrl: https://spectrum.ieee.org/media-library/smiling-man-in-headphones-with-on-screen-alerts-for-calendar-emails-and-awareness-mode.png?id=68506456&width=1200&height=400&coordinates=0%2C366%2C0%2C366
+    categories:
+      - Consumer-electronics
+      - Artificial-intelligence
+      - Wearable-devices
+      - Ai-assistant
+      - Type-sponsored
+    publishedAt: 2026-10-29T19:18:20.000Z
+    source: IEEE Spectrum — AI
   - title: Improving AI-generated images, pixel by pixel
     url: https://techxplore.com/news/2026-10-ai-generated-images-pixel.html
     summary: "If you have ever used an artificial intelligence text-to-image
@@ -45,40 +120,6 @@ articles:
       - Computer Sciences
     publishedAt: 2026-10-29T17:20:19.000Z
     source: TechXplore — Computer Science
-  - title: Self-adjusting drone controls could make for smoother formation flying
-    url: https://techxplore.com/news/2026-10-adjusting-drone-smoother-formation-flying.html
-    summary: A new method for controlling groups of drones, technically known as
-      unmanned aerial vehicles (UAVs), could make formation flying smoother and
-      reduce energy consumption and mechanical wear, according to research in
-      the International Journal of Systems, Control and Communications. The work
-      combines fuzzy logic processing with a self-adjusting control system,
-      known as a self-coupling proportional-integral-derivative (PID)
-      controller.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/many-drones.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-10-28T20:40:15.000Z
-    source: TechXplore — Robotics
-  - title: Systems Thinking Is Vital in the Age of AI
-    url: https://spectrum.ieee.org/systems-thinking-vital-in-ai
-    summary: Modern engineering projects increasingly combine human judgment with
-      machine capability. An engineer can define a problem, then ask an
-      artificial intelligence tool to search relevant research and technical
-      standards, generate design options, test them in simulation, and compare
-      the results. The engineer can then bring the results to specialists who
-      understand the parts AI cannot judge on its own, such as whether a design
-      can be built safely, whether it makes sense in a particular setting, or
-      how it might affect its users. The final decision about whether and how to
-      move forward remains a human responsibility.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-a-robotic-and-a-human-hand-with-different-color-bands-wrapped-around-both-hands.jpg?id=68528703&width=1245&height=700&coordinates=0%2C125%2C0%2C125
-    categories:
-      - Ieee-member-news
-      - Opinion
-      - Careers
-      - Ai
-      - Type-ti
-    publishedAt: 2026-10-28T18:00:02.000Z
-    source: IEEE Spectrum — AI
   - title: A soft robot could help doctors diagnose and treat disorders of the small
       intestine
     url: https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028
@@ -90,29 +131,6 @@ articles:
     categories: []
     publishedAt: 2026-10-28T18:00:00.000Z
     source: MIT Robotics
-  - title: "3 Questions: Why infrastructure is entering a defining era "
-    url: https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028
-    summary: For centuries, infrastructure has evolved alongside technology. New
-      materials and engineering techniques enabled taller buildings, longer
-      bridges, and larger cities. Computing and digital technologies later
-      transformed how infrastructure was designed, monitored, and operated.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-cee-Infrastructure-CambridgeView.jpg?itok=VxEHmdNx
-    categories: []
-    publishedAt: 2026-10-28T16:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Your Robot’s Safety Functions Already Work. What If the Input Lies?
-    url: https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone
-    summary: This article is brought to you by VicOne.
-    imageUrl: https://spectrum.ieee.org/media-library/humanoid-robot-and-robot-dog-meet-a-woman-on-a-sunny-terrace-at-sunset.jpg?id=68002098&width=1245&height=700&coordinates=0%2C87%2C0%2C87
-    categories:
-      - Humanoid-robots
-      - Type-sponsored
-      - Cybersecurity
-      - Physical-ai
-      - Robot-safety
-      - Ai-robots
-    publishedAt: 2026-10-27T16:14:39.000Z
-    source: IEEE Spectrum — Robotics
   - title: Smithsonian scientists just recreated the first 2 billion years of the
       Universe
     url: https://www.sciencedaily.com/releases/2026/10/261026225600.htm
@@ -126,20 +144,6 @@ articles:
     categories: []
     publishedAt: 2026-10-27T09:48:35.000Z
     source: ScienceDaily — Computer Science
-  - title: A tiny laser beam could make computer memory 1,000 times faster
-    url: https://www.sciencedaily.com/releases/2026/10/261025073046.htm
-    summary: Scientists at UC San Diego have developed a surprising new way to store
-      digital information using light instead of magnets, potentially paving the
-      way for smaller, faster, and more energy-efficient memory devices. By
-      precisely shaping and shrinking an ultrafast laser beam, researchers
-      demonstrated that they could switch magnetic states in a material, the
-      basic process used to write digital data. The technique could potentially
-      operate more than 1,000 times faster than conventional magnetic switching
-      methods.
-    imageUrl: https://www.sciencedaily.com/images/1920/ultrafast-laser-optical-beam-shaping.webp
-    categories: []
-    publishedAt: 2026-10-27T09:22:06.000Z
-    source: ScienceDaily — Engineering
   - title: Build a Hidden Lock With a Magnetic Imager
     url: https://spectrum.ieee.org/magnetic
     summary: Like many a nerd, I have a certain fascination with locks. This
@@ -170,24 +174,11 @@ articles:
     categories: []
     publishedAt: 2026-10-26T10:06:16.000Z
     source: ScienceDaily — Artificial Intelligence
-  - title: AI detects “invisible” signs of pancreatic cancer years before diagnosis
-    url: https://www.sciencedaily.com/releases/2026/10/261024222031.htm
-    summary: A powerful new AI system could help doctors detect pancreatic cancer
-      years before it becomes visible on conventional scans. The technology,
-      called REDMOD, identified hidden warning signs an average of 475 days
-      before diagnosis and was nearly twice as sensitive as experienced
-      radiologists. By spotting cancer-related changes at their earliest stages,
-      it could dramatically improve the chances of successful treatment for one
-      of the deadliest forms of cancer.
-    imageUrl: https://www.sciencedaily.com/images/1920/pancreatic-cancer-male-anatomy.webp
-    categories: []
-    publishedAt: 2026-10-26T09:25:21.000Z
-    source: ScienceDaily — Robotics
   - title: "Poetry for Engineers: Of Code and Shortleaf Pine"
     url: https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine
     summary: I step into the warm moist airamong the columns of the pines,their net
       of twigs and rootscomplex as any lines of code.
-    imageUrl: https://spectrum.ieee.org/media-library/abstract-illustration-showing-two-beams-of-soft-pink-light-swimming-amidst-rows-of-dark-green-columns-patterned-like-wood-grain.png?id=68487080&width=1245&height=700&coordinates=0%2C108%2C0%2C108
+    imageUrl: https://spectrum.ieee.org/media-library/abstract-illustration-showing-two-beams-of-soft-pink-light-swimming-amidst-rows-of-dark-green-columns-patterned-like-wood-grain.png?id=68487080&width=1200&height=800&coordinates=0%2C48%2C0%2C48
     categories:
       - Poetry
       - Verse-becomes-electric
