@@ -1,81 +1,124 @@
-date: 2026-11-01
+date: 2026-11-04
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Chatbots Are Leading Hikers Astray, With Dangerous Consequences
-    url: https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/
-    summary: Outsourcing planning to AI can lead people to surrender their own
-      critical thinking, which can have potentially deadly results in places
-      like the backcountry.
-    imageUrl: https://media.wired.com/photos/6ae22d8856ee4dcb93f11713/191:100/w_1280,c_limit/HCN406-scaled.jpg
+  - title: Democratic victories cloud outlook for AI data center rollout
+    url: https://techxplore.com/news/2026-11-democratic-victories-cloud-outlook-ai.html
+    summary: Strong wins for Democratic candidates threaten the prospects for
+      energy-guzzling data centers in key U.S. states, potentially slowing the
+      AI rollout that has carried Wall Street forward over the past four years.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/elon-musk-who-spent-he.jpg
+    categories:
+      - Hardware
+    publishedAt: 2026-11-04T11:50:01.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Hypersonic projectiles turn ultra-hard diamond composite into
+      shock-absorbing graphite
+    url: https://techxplore.com/news/2026-11-hypersonic-projectiles-ultra-hard-diamond.html
+    summary: '"Diamonds are forever." Or so the saying goes. Texas A&M University
+      College of Engineering and Rice University researchers put that claim to
+      the ultimate test. They forged a diamond composite, then marched it
+      directly into the line of fire, blasting it with aluminum projectiles
+      traveling at more than eight times the speed of sound.'
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/forging-diamonds-firin-2.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-11-04T10:40:02.000Z
+    source: TechXplore — Engineering
+  - title: Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know Why
+    url: https://www.wired.com/story/chernobyls-dogs-may-be-evolving-but-scientists-dont-know-why/
+    summary: A new study found evidence of natural selection in the dogs of
+      Chernobyl, but it’s still unclear what drove these genetic differences and
+      what evolutionary advantages they may provide.
+    imageUrl: https://media.wired.com/photos/6ae8fedf93d0a10b8d7f1f42/191:100/w_1280,c_limit/492210506
     categories:
       - Science
       - Science / Environment
-    publishedAt: 2026-11-01T10:30:00.000Z
-    source: WIRED (AI)
-  - title: AI giants promise publishers new way to block some scraping
-    url: https://techxplore.com/news/2026-10-ai-giants-publishers-block.html
-    summary: OpenAI, Google, Microsoft and Anthropic pledged on Friday to give media
-      outlets and other websites a single way to prevent their content from
-      being scraped to train artificial intelligence (AI) models, amid growing
-      criticisms and legal battles from news publishers.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/anthropic-2.jpg
-    categories:
-      - Internet
-    publishedAt: 2026-10-31T11:00:11.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Scientists smash oxygen nuclei to recreate matter from the Big Bang
-    url: https://www.sciencedaily.com/releases/2026/10/261030002935.htm
-    summary: Scientists have recreated a primordial state of matter from the dawn of
-      the universe by colliding oxygen nuclei at nearly the speed of light. The
-      surprising results show that this exotic substance can form in smaller,
-      lower-energy collisions than previously demonstrated, challenging the
-      known boundaries of early-universe physics.
-    imageUrl: https://www.sciencedaily.com/images/1920/back-to-back-jets-produced-in-quark-gluon-plasma.webp
+    publishedAt: 2026-11-04T10:00:00.000Z
+    source: WIRED science
+  - title: "Dream, build, destroy, repeat "
+    url: https://news.mit.edu/2026/dream-build-destroy-repeat-combat-robotics-club-1104
+    summary: The MIT Combat Robotics Club (CRC) uses the tagline “build, battle,
+      destroy, repeat,” which is a pretty spot-on description for a club that
+      embraces learning opportunities through destruction.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/CRC_03_0.jpeg?itok=a7E0VRZa
     categories: []
-    publishedAt: 2026-10-31T02:09:38.000Z
-    source: ScienceDaily — Engineering
-  - title: MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows
-    url: https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030
-    summary: Five MIT faculty members and two additional alumni were recently named
-      to the 2026 cohort of AI2050 Fellows. The honor is announced annually by
-      Schmidt Sciences, Eric and Wendy Schmidt’s philanthropic initiative that
-      aims to accelerate scientific innovation.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-eecs-Schmidt-AI-2050.jpg?itok=tKYYjIR3
-    categories: []
-    publishedAt: 2026-10-30T20:15:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Laser pulses can track extreme airflow in tests for hypersonic spacecraft
-    url: https://techxplore.com/news/2026-10-laser-pulses-track-extreme-airflow.html
-    summary: Researchers from The University of Texas at Arlington's Aerodynamics
-      Research Center have published a study in the journal Communications
-      Engineering. Their work details a laser-based technique applied to arc-jet
-      flows that could transform how scientists measure hypersonic airflow, such
-      as the extreme conditions encountered by spacecraft reentering Earth's
-      atmosphere.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/laser-pulses-track-pla.jpg
+    publishedAt: 2026-11-04T05:00:00.000Z
+    source: MIT Robotics
+  - title: Robot hand learns nimble moves with fewer dropped objects
+    url: https://techxplore.com/news/2026-11-robot-nimble.html
+    summary: Manipulating an object with one hand is a balancing act. Fingers must
+      release and renew their grip while keeping the object from slipping away,
+      even with the palm facing downward.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-robot-hand-learns-to.jpg
     categories:
-      - Engineering
-    publishedAt: 2026-10-30T17:20:22.000Z
-    source: TechXplore — Engineering
-  - title: Robot moth grows a UV sensor by using an artificial circulatory system
-    url: https://techxplore.com/news/2026-10-robot-moth-uv-sensor-artificial.html
-    summary: A moth-shaped robot used an artificial circulatory system to deliver
-      chemical building blocks through its body and grow a light sensor where UV
-      light struck.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/robot-moth-gained-an-e.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-10-30T17:00:01.000Z
+      - Software
+    publishedAt: 2026-11-03T19:30:05.000Z
     source: TechXplore — Robotics
+  - title: Building connections across the research infrastructure
+    url: https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103
+    summary: "Running a modern research laboratory requires more than maintaining
+      sophisticated instruments. Researchers need to complete training, obtain
+      access, schedule and operate equipment, navigate billing, and more. For
+      large, shared facilities, coordinating these activities across hundreds of
+      instruments and thousands of users can be a significant undertaking. As
+      research becomes increasingly interdisciplinary, another challenge is
+      emerging: finding the right capability in the first place."
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/NEMO-meeting-2026_0.jpeg?itok=K5PP4PlO
+    categories: []
+    publishedAt: 2026-11-03T19:30:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Biocomputer can explore multiple solutions at once as bacteria multiply
+      in tiny, interconnected channels
+    url: https://techxplore.com/news/2026-11-biocomputer-explore-multiple-solutions-bacteria.html
+    summary: A McGill-led research team has developed a bacteria-based biocomputer
+      that can solve large, complex problems using a small fraction of the
+      memory and resources required by standard ("solid-state") computers.
+      Possible applications include encryption, molecular biology and artificial
+      intelligence, the researchers said.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-biocomputer-that-run.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-11-03T16:20:16.000Z
+    source: TechXplore — Computer Science
+  - title: How a Kenyan Startup Is Rethinking AI for Small Businesses
+    url: https://spectrum.ieee.org/ai-small-business-mobile-money-startup
+    summary: The first time Mutembei Kariuki thought about how AI models could work
+      in Kenya, his home country, was in 2019. He was attending a conference at
+      the University of Tokyo on the future of AI, and kept hearing about how
+      this technology was going to transform the world. “But nobody mentioned
+      Africa at all,” he says.
+    imageUrl: https://spectrum.ieee.org/media-library/a-photo-shows-a-smiling-man-in-a-barbers-chair-with-a-smiling-man-standing-over-him.jpg?id=68563378&width=1200&height=800&coordinates=0%2C100%2C0%2C100
+    categories:
+      - Africa
+      - Kenya
+      - Mobile-phones
+      - Digital-divide
+      - Ai-models
+    publishedAt: 2026-11-03T14:30:02.000Z
+    source: IEEE Spectrum — AI
+  - title: Large Hadron Collider reveals evidence of Big Bang matter in surprisingly
+      small collisions
+    url: https://www.sciencedaily.com/releases/2026/10/261031221211.htm
+    summary: Scientists at CERN's Large Hadron Collider have uncovered compelling
+      new evidence that even relatively small atomic collisions can recreate the
+      extraordinary state of matter that filled the universe moments after the
+      Big Bang. Known as quark-gluon plasma, this exotic substance forms at
+      temperatures more than 100,000 times hotter than the center of the Sun,
+      causing ordinary particles to break apart into their fundamental building
+      blocks.
+    imageUrl: https://www.sciencedaily.com/images/1920/quark-gluon-plasma-formation.webp
+    categories: []
+    publishedAt: 2026-11-03T02:39:04.000Z
+    source: ScienceDaily — Engineering
   - title: "Video Friday: Spot Plays to Show Its Whole-Body Manipulation"
     url: https://spectrum.ieee.org/video-friday-whole-body-manipulation
     summary: Video Friday is your weekly selection of awesome robotics videos,
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/colorful-boston-dynamics-robot-dog-plays-with-a-tire-on-an-outdoor-basketball-court-while-someone-with-a-hockey-stick-interferes.webp?id=68558917&width=1200&height=800&coordinates=88%2C0%2C89%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/colorful-boston-dynamics-robot-dog-plays-with-a-tire-on-an-outdoor-basketball-court-while-someone-with-a-hockey-stick-interferes.webp?id=68558917&width=1245&height=700&coordinates=0%2C21%2C0%2C21
     categories:
       - Video-friday
       - Social-robots
@@ -97,40 +140,6 @@ articles:
     categories: []
     publishedAt: 2026-10-30T11:08:52.000Z
     source: ScienceDaily — Robotics
-  - title: Consumer Appetite for Personal AI Goes Mainstream
-    url: https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables
-    summary: This article is brought to you by Qualcomm Technologies.
-    imageUrl: https://spectrum.ieee.org/media-library/smiling-man-in-headphones-with-on-screen-alerts-for-calendar-emails-and-awareness-mode.png?id=68506456&width=1200&height=400&coordinates=0%2C366%2C0%2C366
-    categories:
-      - Consumer-electronics
-      - Artificial-intelligence
-      - Wearable-devices
-      - Ai-assistant
-      - Type-sponsored
-    publishedAt: 2026-10-29T19:18:20.000Z
-    source: IEEE Spectrum — AI
-  - title: Improving AI-generated images, pixel by pixel
-    url: https://techxplore.com/news/2026-10-ai-generated-images-pixel.html
-    summary: "If you have ever used an artificial intelligence text-to-image
-      generator like ChatGPT or Google Gemini, you may have encountered a common
-      but maddening problem: The image looks nearly perfect, but when you ask
-      the AI to fix one small detail, it messes up something unrelated."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/improving-ai-generated.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-10-29T17:20:19.000Z
-    source: TechXplore — Computer Science
-  - title: A soft robot could help doctors diagnose and treat disorders of the small
-      intestine
-    url: https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028
-    summary: Disorders of the small intestine are often difficult to diagnose and
-      treat. More than 20 feet long, an inch in diameter, and located deep
-      within the body, this organ is harder to access than other parts of the
-      digestive tract, such as the colon or stomach.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-IntestineRobot-A1-Press.jpg?itok=i_z0q2qb
-    categories: []
-    publishedAt: 2026-10-28T18:00:00.000Z
-    source: MIT Robotics
   - title: Smithsonian scientists just recreated the first 2 billion years of the
       Universe
     url: https://www.sciencedaily.com/releases/2026/10/261026225600.htm
@@ -154,7 +163,7 @@ articles:
       locks that I purchased at hacker conferences over the years (although I’m
       still terrible at it), and I delight in the YouTube exploits of folks like
       the LockPickingLawyer.
-    imageUrl: https://spectrum.ieee.org/media-library/a-medium-sized-box-with-an-open-lid-inside-is-a-lock-mechanism-a-battery-pack-and-some-circuit-boards.png?id=68493268&width=1200&height=600&coordinates=0%2C443%2C0%2C443
+    imageUrl: https://spectrum.ieee.org/media-library/a-medium-sized-box-with-an-open-lid-inside-is-a-lock-mechanism-a-battery-pack-and-some-circuit-boards.png?id=68493268&width=1200&height=800&coordinates=0%2C289%2C0%2C290
     categories:
       - Physical-security
       - Typedepartments
@@ -174,15 +183,3 @@ articles:
     categories: []
     publishedAt: 2026-10-26T10:06:16.000Z
     source: ScienceDaily — Artificial Intelligence
-  - title: "Poetry for Engineers: Of Code and Shortleaf Pine"
-    url: https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine
-    summary: I step into the warm moist airamong the columns of the pines,their net
-      of twigs and rootscomplex as any lines of code.
-    imageUrl: https://spectrum.ieee.org/media-library/abstract-illustration-showing-two-beams-of-soft-pink-light-swimming-amidst-rows-of-dark-green-columns-patterned-like-wood-grain.png?id=68487080&width=1200&height=800&coordinates=0%2C48%2C0%2C48
-    categories:
-      - Poetry
-      - Verse-becomes-electric
-      - Artificial-intelligence
-      - Typedepartments
-    publishedAt: 2026-10-25T12:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
