@@ -1,43 +1,81 @@
-date: 2026-11-06
+date: 2026-11-07
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: AI helps find better recipes for 3D-printing titanium parts
-    url: https://techxplore.com/news/2026-11-ai-recipes-3d-titanium.html
-    summary: Engineers can 3D-print high-performance titanium parts for aircraft,
-      medical implants and advanced machinery, but finding the right printing
-      settings can still require costly and time-consuming trial and error. A
-      new study shows how artificial intelligence could help narrow that search
-      before production testing begins.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-helps-find-better-r.jpg
+  - title: The American Dream Wasn’t Built for Climate Change
+    url: https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/
+    summary: Owning a home is billed as a way to build wealth, but amid
+      climate-related disasters, for many, it's beginning to feel like a trap.
+    imageUrl: https://media.wired.com/photos/6aee19e08c38504c1a2ffc8b/191:100/w_1280,c_limit/110626-american-dream-climate-change.jpg
     categories:
-      - Hi Tech & Innovation
-    publishedAt: 2026-11-06T11:20:02.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Target fabrication achieves new precision through additive manufacturing
-    url: https://techxplore.com/news/2026-11-fabrication-precision-additive.html
-    summary: What happens when additive manufacturing meets target fabrication
-      engineering? An impossibly small, submillimeter-scale cone that can be
-      manufactured 10 times faster than before, enabling new target
-      configurations for experiments at Lawrence Livermore National Laboratory
-      (LLNL)'s National Ignition Facility (NIF).
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/llnl-target-fabricatio.jpg
+      - Science
+      - Science / Environment
+    publishedAt: 2026-11-07T10:00:00.000Z
+    source: WIRED science
+  - title: "Measuring for success: Construction app makes estimates faster, easier"
+    url: https://techxplore.com/news/2026-11-success-app-faster-easier.html
+    summary: U.S. Navy and Marine Corps engineer officers and engineer chiefs have
+      tough, dirty jobs in what's called horizontal construction—building and
+      maintaining roads, airstrips, landing zones and base camps.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/measuring-for-success.jpg
     categories:
       - Engineering
-    publishedAt: 2026-11-06T11:04:47.000Z
+    publishedAt: 2026-11-07T01:20:02.000Z
     source: TechXplore — Engineering
-  - title: Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not
-    url: https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/
-    summary: As Anthropic maintains its vow to keep ads out of Claude, the rest of
-      the AI chatbot industry is racing to win over advertisers without
-      antagonizing users.
-    imageUrl: https://media.wired.com/photos/6aeccd4b5e88c9a490858b81/191:100/w_1280,c_limit/Model-Behavior-11052026-option2.jpg
+  - title: Three new techniques target hidden AI backdoors without major performance
+      losses
+    url: https://techxplore.com/news/2026-11-techniques-hidden-ai-backdoors-major.html
+    summary: Researchers have demonstrated three new techniques to prevent so-called
+      "backdoor attacks," which induce malicious or undesirable behavior in AI
+      models. The researchers have also proposed a concept that would repurpose
+      backdoor attack techniques to create an additional layer of security for
+      users.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-man-looks-at-two-com.jpg
     categories:
-      - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-11-05T21:37:18.000Z
+      - Security
+    publishedAt: 2026-11-06T19:00:06.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: How to predict the behavior of molecules from scant data
+    url: https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106
+    summary: Discovering new molecules for specific uses is a major driver of
+      progress in a wide variety of industries, whether it’s pharmaceutical
+      companies looking for new drugs, or electronics or energy companies
+      seeking new materials with particular properties. But it’s also largely a
+      trial-and-error process, because there is not yet any way to perfectly
+      predict how a given chemical compound will behave in terms of the myriad
+      different properties and responses materials can exhibit.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-cheme-chemeleon.jpg?itok=sxUBAH56
+    categories: []
+    publishedAt: 2026-11-06T19:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Free Chinese AI Models Are Getting Scary Good at Hacking
+    url: https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/
+    summary: An experiment in which AI models were asked to break into simulated
+      networks showed the hacking skills of DeepSeek and GLM to be not far
+      behind OpenAI’s most advanced cyber model, which isn’t public.
+    imageUrl: https://media.wired.com/photos/6aebaf11899aefeeb0331a11/191:100/w_1280,c_limit/Security_Open-Weight%20AI%20Models%20Are%20About%20to%20Hit%20a%20Key%20Cyber%20Milestone_v1.jpg
+    categories:
+      - Security
+      - Security / Cyberattacks and Hacks
+    publishedAt: 2026-11-06T18:43:43.000Z
     source: WIRED (AI)
+  - title: "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up"
+    url: https://spectrum.ieee.org/video-friday-home-cable-robot
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/cable-robot-tidies-messy-playroom-with-scattered-toys-playhouse-and-musical-keyboard.gif?id=68608914&width=1200&height=400&coordinates=0%2C171%2C0%2C171
+    categories:
+      - Video-friday
+      - Robot-videos
+      - Drones
+      - Industrial-robotics
+      - Agility-robotics
+      - Home-robots
+    publishedAt: 2026-11-06T17:00:03.000Z
+    source: IEEE Spectrum — Robotics
   - title: New communication and memory tools reduce AI data traffic and response
       delays
     url: https://techxplore.com/news/2026-11-communication-memory-tools-ai-traffic.html
@@ -118,24 +156,6 @@ articles:
     categories: []
     publishedAt: 2026-11-05T03:47:09.000Z
     source: ScienceDaily — Artificial Intelligence
-  - title: Are Drone Ports the Next Annoying Tech Neighbor?
-    url: https://spectrum.ieee.org/drone-delivery-noise
-    summary: Rick and Marcia LeCompte loved to watch the Cooper’s hawks that
-      frequented a sweet-gum tree in their yard in Baton Rouge, La. But this
-      October, the hawks were gone. Marcia LeCompte is convinced the birds were
-      scared away by the same flying robots that have been vexing the couple
-      since early September. The noise had them spending less time outside in
-      their garden, and even inside their home, they couldn’t escape the
-      near-constant buzzing. Angry and feeling harassed, the LeComptes began to
-      think about moving.
-    imageUrl: https://spectrum.ieee.org/media-library/a-worker-walking-amid-several-delivery-drones-on-a-launchpad-in-a-chinese-city.jpg?id=68592213&width=1200&height=400&coordinates=0%2C729%2C0%2C730
-    categories:
-      - Drones
-      - Amazon
-      - Robotics
-      - Delivery-drones
-    publishedAt: 2026-11-04T18:47:21.000Z
-    source: IEEE Spectrum — Robotics
   - title: MIT scientists break a 20-year rule and unlock never-before-seen crystal
       structures
     url: https://www.sciencedaily.com/releases/2026/11/261104012248.htm
