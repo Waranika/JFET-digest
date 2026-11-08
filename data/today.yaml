@@ -1,18 +1,29 @@
-date: 2026-11-07
+date: 2026-11-08
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: The American Dream Wasn’t Built for Climate Change
-    url: https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/
-    summary: Owning a home is billed as a way to build wealth, but amid
-      climate-related disasters, for many, it's beginning to feel like a trap.
-    imageUrl: https://media.wired.com/photos/6aee19e08c38504c1a2ffc8b/191:100/w_1280,c_limit/110626-american-dream-climate-change.jpg
+  - title: A 55-Year-Old Math Problem Was Solved—This Time by Humans
+    url: https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/
+    summary: A group of young mathematicians found the solution to the long
+      unanswered conjecture, first inspired by juggling, through randomness and
+      friendship.
+    imageUrl: https://media.wired.com/photos/6aece5642b09aa917f933765/191:100/w_1280,c_limit/GrahamConjecture-crIrenePe%CC%81rez-Lede.jpg
     categories:
       - Science
-      - Science / Environment
-    publishedAt: 2026-11-07T10:00:00.000Z
+      - Science / Physics and Math
+    publishedAt: 2026-11-08T10:30:00.000Z
     source: WIRED science
+  - title: World Models Will Soon Be Inescapable. Here’s What You Need to Know
+    url: https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/
+    summary: Moving AI from text to 3D space, world models simulate real-world
+      physics to teach robots and autonomous cars how to navigate reality.
+    imageUrl: https://media.wired.com/photos/6aee7497bf81da8802edc3e6/191:100/w_1280,c_limit/gear-ai-world-models-3d.jpg
+    categories:
+      - Gear
+      - Gear / Trends
+    publishedAt: 2026-11-08T10:00:00.000Z
+    source: WIRED (AI)
   - title: "Measuring for success: Construction app makes estimates faster, easier"
     url: https://techxplore.com/news/2026-11-success-app-faster-easier.html
     summary: U.S. Navy and Marine Corps engineer officers and engineer chiefs have
@@ -49,17 +60,6 @@ articles:
     categories: []
     publishedAt: 2026-11-06T19:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: Free Chinese AI Models Are Getting Scary Good at Hacking
-    url: https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/
-    summary: An experiment in which AI models were asked to break into simulated
-      networks showed the hacking skills of DeepSeek and GLM to be not far
-      behind OpenAI’s most advanced cyber model, which isn’t public.
-    imageUrl: https://media.wired.com/photos/6aebaf11899aefeeb0331a11/191:100/w_1280,c_limit/Security_Open-Weight%20AI%20Models%20Are%20About%20to%20Hit%20a%20Key%20Cyber%20Milestone_v1.jpg
-    categories:
-      - Security
-      - Security / Cyberattacks and Hacks
-    publishedAt: 2026-11-06T18:43:43.000Z
-    source: WIRED (AI)
   - title: "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up"
     url: https://spectrum.ieee.org/video-friday-home-cable-robot
     summary: Video Friday is your weekly selection of awesome robotics videos,
