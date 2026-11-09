@@ -1,29 +1,97 @@
-date: 2026-11-08
+date: 2026-11-09
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: A 55-Year-Old Math Problem Was Solved—This Time by Humans
-    url: https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/
-    summary: A group of young mathematicians found the solution to the long
-      unanswered conjecture, first inspired by juggling, through randomness and
-      friendship.
-    imageUrl: https://media.wired.com/photos/6aece5642b09aa917f933765/191:100/w_1280,c_limit/GrahamConjecture-crIrenePe%CC%81rez-Lede.jpg
+  - title: Who is behind the UK's billion-pound AI boom?
+    url: https://techxplore.com/news/2026-11-uk-billion-pound-ai-boom.html
+    summary: Who is most likely to pay for ChatGPT or Claude out of their own
+      pocket? "Who Pays for AI?," a new study by economists at the University of
+      Warwick and Imperial College London, uses anonymized bank and card
+      transactions to examine the U.K.'s boom in use of paid AI tools.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/claude-3.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-11-09T12:33:56.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Scientists May Have Discovered a Massive Starless Galaxy
+    url: https://www.wired.com/story/scientists-discover-massive-starless-galaxy/
+    summary: The promising candidate contains roughly 2 billion times the sun’s mass
+      in hydrogen, yet appears to have no stars. Studying it could help answer
+      questions that have vexed astronomers for years.
+    imageUrl: https://media.wired.com/photos/6ae4b0b9fafa122d7f6143a0/191:100/w_1280,c_limit/103016-Starless%20Galaxy.jpg
     categories:
       - Science
-      - Science / Physics and Math
-    publishedAt: 2026-11-08T10:30:00.000Z
+      - Science / Space
+    publishedAt: 2026-11-09T11:15:00.000Z
     source: WIRED science
-  - title: World Models Will Soon Be Inescapable. Here’s What You Need to Know
-    url: https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/
-    summary: Moving AI from text to 3D space, world models simulate real-world
-      physics to teach robots and autonomous cars how to navigate reality.
-    imageUrl: https://media.wired.com/photos/6aee7497bf81da8802edc3e6/191:100/w_1280,c_limit/gear-ai-world-models-3d.jpg
+  - title: Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It
+      Enough?
+    url: https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/
+    summary: As the publishing industry wrestles with paranoia over the provenance
+      of manuscripts, writers are caught in an impossible bind.
+    imageUrl: https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg
     categories:
-      - Gear
-      - Gear / Trends
-    publishedAt: 2026-11-08T10:00:00.000Z
+      - Culture
+      - Culture / Books
+    publishedAt: 2026-11-09T11:00:00.000Z
     source: WIRED (AI)
+  - title: AI-assisted learning platform helps robots reason beyond literal commands
+    url: https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109
+    summary: Humans are intuitive by nature. We can sense meaning beyond the literal
+      words that we encounter. Now, a new artificial intelligence-assisted
+      learning platform developed by MIT engineers is enabling robots to read
+      larger meaning into a human’s natural language commands.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-FLEX-01-press.jpg?itok=811PS9Sd
+    categories: []
+    publishedAt: 2026-11-09T05:00:00.000Z
+    source: MIT Robotics
+  - title: A single AI model simulates the behavior of many substances, from sliding
+      sand to folding proteins
+    url: https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109
+    summary: Today, a scientist who wants to simulate a physical process must pick
+      the right tool for that one job, such as a solver built for flowing water
+      or another designed to model the way a protein folds. Each one is
+      hand-coded around the specific equations that dictate how that process
+      behaves.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-WorldParticle-01-Press.jpg?itok=kwMpBg6F
+    categories: []
+    publishedAt: 2026-11-09T05:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Team unlocks large-scale Fourier transforms for analog in-memory computing
+    url: https://techxplore.com/news/2026-11-team-large-scale-fourier-analog.html
+    summary: Fourier transforms are mathematical calculations that can be used to
+      identify the frequencies that make up a signal and shed light on their
+      individual contributions. These transforms have been used, for example, to
+      unveil patterns in sounds and images, ranging from gradual changes in
+      intensity to fine repeating motifs or details.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/team-applies-fourier-t.jpg
+    categories:
+      - Electronics & Semiconductors
+    publishedAt: 2026-11-08T16:00:01.000Z
+    source: TechXplore — Computer Science
+  - title: Pakistan-built robots serve taste of future to Karachi diners
+    url: https://techxplore.com/news/2026-11-pakistan-built-robots-future-karachi.html
+    summary: Wheeling its way between dining booths at a neon-lit restaurant in
+      Pakistan's Karachi megacity, a robot waitress drops off a fresh pizza to a
+      waiting family.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/robia-a-humanoid-robot.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-11-08T12:00:01.000Z
+    source: TechXplore — Robotics
+  - title: A hidden limit of space and time could unlock electronics 100,000 times
+      faster
+    url: https://www.sciencedaily.com/releases/2026/11/261106174537.htm
+    summary: Scientists have discovered a surprising quantum limit that prevents
+      electrons from being tracked with unlimited precision in both space and
+      time. The breakthrough could pave the way for manipulating chemical
+      reactions and developing electronics hundreds of thousands of times faster
+      than today's technology.
+    imageUrl: https://www.sciencedaily.com/images/1920/extremely-short-electron-wave-packet-at-limits-of-space-and-time.webp
+    categories: []
+    publishedAt: 2026-11-07T23:34:19.000Z
+    source: ScienceDaily — Robotics
   - title: "Measuring for success: Construction app makes estimates faster, easier"
     url: https://techxplore.com/news/2026-11-success-app-faster-easier.html
     summary: U.S. Navy and Marine Corps engineer officers and engineer chiefs have
@@ -34,39 +102,13 @@ articles:
       - Engineering
     publishedAt: 2026-11-07T01:20:02.000Z
     source: TechXplore — Engineering
-  - title: Three new techniques target hidden AI backdoors without major performance
-      losses
-    url: https://techxplore.com/news/2026-11-techniques-hidden-ai-backdoors-major.html
-    summary: Researchers have demonstrated three new techniques to prevent so-called
-      "backdoor attacks," which induce malicious or undesirable behavior in AI
-      models. The researchers have also proposed a concept that would repurpose
-      backdoor attack techniques to create an additional layer of security for
-      users.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/a-man-looks-at-two-com.jpg
-    categories:
-      - Security
-    publishedAt: 2026-11-06T19:00:06.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: How to predict the behavior of molecules from scant data
-    url: https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106
-    summary: Discovering new molecules for specific uses is a major driver of
-      progress in a wide variety of industries, whether it’s pharmaceutical
-      companies looking for new drugs, or electronics or energy companies
-      seeking new materials with particular properties. But it’s also largely a
-      trial-and-error process, because there is not yet any way to perfectly
-      predict how a given chemical compound will behave in terms of the myriad
-      different properties and responses materials can exhibit.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-cheme-chemeleon.jpg?itok=sxUBAH56
-    categories: []
-    publishedAt: 2026-11-06T19:00:00.000Z
-    source: MIT Artificial Intelligence
   - title: "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up"
     url: https://spectrum.ieee.org/video-friday-home-cable-robot
     summary: Video Friday is your weekly selection of awesome robotics videos,
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/cable-robot-tidies-messy-playroom-with-scattered-toys-playhouse-and-musical-keyboard.gif?id=68608914&width=1200&height=400&coordinates=0%2C171%2C0%2C171
+    imageUrl: https://spectrum.ieee.org/media-library/cable-robot-tidies-messy-playroom-with-scattered-toys-playhouse-and-musical-keyboard.gif?id=68608914&width=1245&height=700&coordinates=0%2C79%2C0%2C79
     categories:
       - Video-friday
       - Robot-videos
@@ -76,18 +118,6 @@ articles:
       - Home-robots
     publishedAt: 2026-11-06T17:00:03.000Z
     source: IEEE Spectrum — Robotics
-  - title: New communication and memory tools reduce AI data traffic and response
-      delays
-    url: https://techxplore.com/news/2026-11-communication-memory-tools-ai-traffic.html
-    summary: Researchers have developed technologies that reduce communication
-      overhead by transmitting only the data needed for artificial intelligence
-      (AI) analysis and shorten the time users must wait for a response when
-      returning to an AI application after using other apps on a smartphone.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/snu-professor-kyunghan.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-11-05T17:00:04.000Z
-    source: TechXplore — Computer Science
   - title: AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules
     url: https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe
     summary: The European Union now requires AI-generated text to be watermarked so
@@ -107,18 +137,6 @@ articles:
       - Openai
     publishedAt: 2026-11-05T15:00:03.000Z
     source: IEEE Spectrum — AI
-  - title: Chimney or squirrel? Clearing up a robot's fuzzy memory by comparing
-      images from different angles
-    url: https://techxplore.com/news/2026-11-chimney-squirrel-robot-fuzzy-memory.html
-    summary: In an emergency, a human might someday ask a robotic assistant to fetch
-      a wall-mounted defibrillator located down the hall. But if the robot has
-      incorrectly labeled the defibrillator as a fire extinguisher in its stored
-      memory, it may not know where to find the lifesaving device.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/clearing-up-a-robots-f.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-11-05T14:00:06.000Z
-    source: TechXplore — Robotics
   - title: Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras
     url: https://spectrum.ieee.org/2026-solar-eclipse
     summary: The sun hangs low over the plains of Castile and León, in the
@@ -135,39 +153,6 @@ articles:
       - Solar-eclipse-photography
     publishedAt: 2026-11-05T14:00:02.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Clearing up a robot’s fuzzy memory
-    url: https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105
-    summary: In an emergency, a human might someday ask a robotic assistant to fetch
-      a wall-mounted defibrillator located down the hall. But if the robot has
-      incorrectly labeled the defibrillator as a fire extinguisher in its stored
-      memory, it may not know where to find the life-saving device.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Confident-Mem-01-press.jpg?itok=N_4ApjRl
-    categories: []
-    publishedAt: 2026-11-05T05:00:00.000Z
-    source: MIT Robotics
-  - title: A tiny supercurrent could unlock quantum information without destroying it
-    url: https://www.sciencedaily.com/releases/2026/11/261102202831.htm
-    summary: Researchers have proposed a breakthrough technique for reading quantum
-      information without destroying the delicate states that make quantum
-      computers work. By detecting an electrical signal generated by the qubit
-      itself, their method achieved up to 99.85% accuracy in simulations and
-      could make future quantum computers simpler and more efficient.
-    imageUrl: https://www.sciencedaily.com/images/1920/supercurrent-enables-reading-of-quantum-information.webp
-    categories: []
-    publishedAt: 2026-11-05T03:47:09.000Z
-    source: ScienceDaily — Artificial Intelligence
-  - title: MIT scientists break a 20-year rule and unlock never-before-seen crystal
-      structures
-    url: https://www.sciencedaily.com/releases/2026/11/261104012248.htm
-    summary: MIT scientists have challenged two decades of conventional thinking by
-      discovering that flexible molecular connections, rather than rigid ones,
-      can unlock entirely new ways to arrange nanoparticles. The breakthrough
-      could lead to a new generation of designer materials with unusual
-      properties and applications in electronics, medicine, and energy.
-    imageUrl: https://www.sciencedaily.com/images/1920/mit-nanoparticle-assembly.webp
-    categories: []
-    publishedAt: 2026-11-04T12:23:36.000Z
-    source: ScienceDaily — Engineering
   - title: SLAC scientists find conclusive proof of a mysterious third type of
       magnetism
     url: https://www.sciencedaily.com/releases/2026/11/261104012256.htm
@@ -192,18 +177,6 @@ articles:
     categories: []
     publishedAt: 2026-11-04T05:00:00.000Z
     source: MIT Engineering
-  - title: A computer scientist breaks through a limit that stood since 1996
-    url: https://www.sciencedaily.com/releases/2026/10/261029072146.htm
-    summary: A computer scientist has achieved a breakthrough in a nearly
-      25-year-old problem involving how computers calculate distances across
-      enormous networks. The new algorithm delivers more reliable estimates for
-      closely connected points without sacrificing speed, overcoming a
-      longstanding limitation of earlier methods. Its secret lies in a smarter
-      way of sampling network connections at multiple scales.
-    imageUrl: https://www.sciencedaily.com/images/1920/ai-machine-learning-big-data-analytics-neural-network-data-flow.webp
-    categories: []
-    publishedAt: 2026-10-30T11:08:52.000Z
-    source: ScienceDaily — Robotics
   - title: Build a Hidden Lock With a Magnetic Imager
     url: https://spectrum.ieee.org/magnetic
     summary: Like many a nerd, I have a certain fascination with locks. This
