@@ -1,41 +1,136 @@
-date: 2026-11-09
+date: 2026-11-10
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Who is behind the UK's billion-pound AI boom?
-    url: https://techxplore.com/news/2026-11-uk-billion-pound-ai-boom.html
-    summary: Who is most likely to pay for ChatGPT or Claude out of their own
-      pocket? "Who Pays for AI?," a new study by economists at the University of
-      Warwick and Imperial College London, uses anonymized bank and card
-      transactions to examine the U.K.'s boom in use of paid AI tools.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/claude-3.jpg
+  - title: Australia to adopt 'mandatory' AI safeguards
+    url: https://techxplore.com/news/2026-11-australia-mandatory-ai-safeguards.html
+    summary: Artificial intelligence companies will have to abide by new "mandatory"
+      safeguards when operating in Australia, Prime Minister Anthony Albanese
+      said Tuesday.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/australias-prime-minis-1.jpg
     categories:
       - Machine learning & AI
-    publishedAt: 2026-11-09T12:33:56.000Z
+    publishedAt: 2026-11-10T11:14:12.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Scientists May Have Discovered a Massive Starless Galaxy
-    url: https://www.wired.com/story/scientists-discover-massive-starless-galaxy/
-    summary: The promising candidate contains roughly 2 billion times the sun’s mass
-      in hydrogen, yet appears to have no stars. Studying it could help answer
-      questions that have vexed astronomers for years.
-    imageUrl: https://media.wired.com/photos/6ae4b0b9fafa122d7f6143a0/191:100/w_1280,c_limit/103016-Starless%20Galaxy.jpg
+  - title: Catch Electronics Shock and Drop Failures Before Hardware Is Built
+    url: https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing/
+    summary: Learn how guided virtual shock and drop analysis helps engineering
+      teams identify reliability risks before physical testing, reduce
+      qualification iterations, optimize packaging designs, and accelerate
+      electronics product development.
+    imageUrl: https://spectrum.ieee.org/media-library/keysight-logo-for-webinars-and-whitepapers.png?id=27151246&width=980
+    categories:
+      - Type-whitepaper
+      - Electronics
+      - Testing
+      - Failures
+    publishedAt: 2026-11-10T11:00:02.000Z
+    source: IEEE Spectrum — Computing & Chips
+  - title: Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From
+      Corporate Enslavers
+    url: https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/
+    summary: The “abliterators” are flooding the internet with AI models that never
+      say no, making it easier for people to improve their cyberdefenses—or
+      build a bomb.
+    imageUrl: https://media.wired.com/photos/6aea502d9cd85e14ae759341/191:100/w_1280,c_limit/WEB%20Still%20BLUR.jpg
+    categories:
+      - The Big Story
+    publishedAt: 2026-11-10T11:00:00.000Z
+    source: WIRED (AI)
+  - title: Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane
+    url: https://www.wired.com/story/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/
+    summary: NASA announced the development of an experimental aircraft designed to
+      explore new flight capabilities, although details about its design and
+      operation remain under wraps.
+    imageUrl: https://media.wired.com/photos/6af20c50a64aa182bab7b341/191:100/w_1280,c_limit/nasa-x-70-image.jpg
     categories:
       - Science
       - Science / Space
-    publishedAt: 2026-11-09T11:15:00.000Z
+    publishedAt: 2026-11-10T10:00:00.000Z
     source: WIRED science
-  - title: Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It
-      Enough?
-    url: https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/
-    summary: As the publishing industry wrestles with paranoia over the provenance
-      of manuscripts, writers are caught in an impossible bind.
-    imageUrl: https://media.wired.com/photos/6ae34f0e2a90131582712a70/191:100/w_1280,c_limit/102926-AI%20Cheating_.jpg
+  - title: "MIT-led team receives funding to develop next-generation alternatives to
+      modern weed killers "
+    url: https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110
+    summary: MIT researchers will lead an up to $53 million effort, awarded by the
+      U.S. Advanced Research Projects Agency for Health (ARPA-H) as part of its
+      STREAM (Systems for Tracking and Resilience in Efficient
+      Agricultural-input Management) program, to develop next-generation weed
+      killers that help farmers and protect human health.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-VoigtGrant-01-Press.jpg?itok=qhs4y2eX
+    categories: []
+    publishedAt: 2026-11-10T05:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Streamlining metal parts production to revitalize American industry
+    url: https://news.mit.edu/2026/streamlining-metal-parts-production-revitalize-american-industry-fabri-1110
+    summary: The United States used to be the world leader in metal casting, a
+      process where liquid hot metal is poured into a mold to solidify into a
+      desired shape. But more than 70 percent of American metal casting
+      facilities have closed since the industry’s peak in the 1950s. Today,
+      China and India dominate global metal casting production, which is
+      critical for making the components of jet engines, nuclear and gas
+      turbines, medical devices, and more.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Fabri-01-press.jpg?itok=vLqRlOFF
+    categories: []
+    publishedAt: 2026-11-10T05:00:00.000Z
+    source: MIT Engineering
+  - title: "Architected fillers: Shape becomes a design variable for composites"
+    url: https://techxplore.com/news/2026-11-architected-fillers-variable-composites.html
+    summary: In a recent study, researchers in materials science at Tampere
+      University challenged conventional composite filler shapes by introducing
+      a different approach in which each particle's 3D geometry is designed
+      first, then printed to specification. The research enables decisions to be
+      made on the shape of the filler, not only its material. This approach
+      using architected fillers could pave the way for new solutions in soft
+      robotics, biomedical materials with tailored stiffness and printed
+      scaffolds for tissue engineering.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/architected-fillers-sh-1.jpg
     categories:
-      - Culture
-      - Culture / Books
-    publishedAt: 2026-11-09T11:00:00.000Z
-    source: WIRED (AI)
+      - Engineering
+    publishedAt: 2026-11-09T22:20:21.000Z
+    source: TechXplore — Engineering
+  - title: FLEX approach helps robots reason beyond literal commands
+    url: https://techxplore.com/news/2026-11-flex-approach-robots-literal.html
+    summary: Humans are intuitive by nature. We can sense meaning beyond the literal
+      words that we encounter. Now, a new artificial intelligence–assisted
+      learning platform developed by MIT engineers is enabling robots to read
+      larger meaning into a human's natural language commands.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-assisted-learning-p.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-11-09T17:40:01.000Z
+    source: TechXplore — Robotics
+  - title: AI Agents Are Testing the Limits of Zero-Trust Security
+    url: https://spectrum.ieee.org/zero-trust-agentic-ai-architecture
+    summary: This article is brought to you by Queen’s University Belfast.
+    imageUrl: https://spectrum.ieee.org/media-library/collage-of-indoor-drone-flight-phone-controls-and-operator-at-computer-workstation.jpg?id=68578379&width=1200&height=400&coordinates=0%2C293%2C0%2C294
+    categories:
+      - Ai-agents
+      - Cybersecurity
+      - Hacking
+      - Risk-assessment
+      - Agentic-ai
+      - Ai-models
+    publishedAt: 2026-11-09T16:25:06.000Z
+    source: IEEE Spectrum — AI
+  - title: Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?
+    url: https://spectrum.ieee.org/agentic-robotics
+    summary: Robotics companies are investing heavily in the belief that data will
+      solve the most difficult problems in robotics. Once AI systems have
+      ingested enough data from human demonstrations, the thinking goes, robots
+      will be able to perform the vast majority of the manual tasks that humans
+      now do. There are even robotics companies that exist solely to collect
+      training data and sell it to other robotics companies in pursuit of this
+      goal.
+    imageUrl: https://spectrum.ieee.org/media-library/3d-rendering-of-a-scara-robotic-arm-carefully-dropping-a-syringe-into-a-sharps-box.jpg?id=68618830&width=1245&height=700&coordinates=0%2C382%2C0%2C383
+    categories:
+      - Robotics
+      - Agentic-ai
+      - Coding-agents
+      - Manufacturing-robots
+      - Agentic-robotics
+    publishedAt: 2026-11-09T14:00:02.000Z
+    source: IEEE Spectrum — Robotics
   - title: AI-assisted learning platform helps robots reason beyond literal commands
     url: https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109
     summary: Humans are intuitive by nature. We can sense meaning beyond the literal
@@ -46,18 +141,6 @@ articles:
     categories: []
     publishedAt: 2026-11-09T05:00:00.000Z
     source: MIT Robotics
-  - title: A single AI model simulates the behavior of many substances, from sliding
-      sand to folding proteins
-    url: https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109
-    summary: Today, a scientist who wants to simulate a physical process must pick
-      the right tool for that one job, such as a solver built for flowing water
-      or another designed to model the way a protein folds. Each one is
-      hand-coded around the specific equations that dictate how that process
-      behaves.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-WorldParticle-01-Press.jpg?itok=kwMpBg6F
-    categories: []
-    publishedAt: 2026-11-09T05:00:00.000Z
-    source: MIT Artificial Intelligence
   - title: Team unlocks large-scale Fourier transforms for analog in-memory computing
     url: https://techxplore.com/news/2026-11-team-large-scale-fourier-analog.html
     summary: Fourier transforms are mathematical calculations that can be used to
@@ -70,16 +153,6 @@ articles:
       - Electronics & Semiconductors
     publishedAt: 2026-11-08T16:00:01.000Z
     source: TechXplore — Computer Science
-  - title: Pakistan-built robots serve taste of future to Karachi diners
-    url: https://techxplore.com/news/2026-11-pakistan-built-robots-future-karachi.html
-    summary: Wheeling its way between dining booths at a neon-lit restaurant in
-      Pakistan's Karachi megacity, a robot waitress drops off a fresh pizza to a
-      waiting family.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/robia-a-humanoid-robot.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-11-08T12:00:01.000Z
-    source: TechXplore — Robotics
   - title: A hidden limit of space and time could unlock electronics 100,000 times
       faster
     url: https://www.sciencedaily.com/releases/2026/11/261106174537.htm
@@ -92,67 +165,6 @@ articles:
     categories: []
     publishedAt: 2026-11-07T23:34:19.000Z
     source: ScienceDaily — Robotics
-  - title: "Measuring for success: Construction app makes estimates faster, easier"
-    url: https://techxplore.com/news/2026-11-success-app-faster-easier.html
-    summary: U.S. Navy and Marine Corps engineer officers and engineer chiefs have
-      tough, dirty jobs in what's called horizontal construction—building and
-      maintaining roads, airstrips, landing zones and base camps.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/measuring-for-success.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-11-07T01:20:02.000Z
-    source: TechXplore — Engineering
-  - title: "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up"
-    url: https://spectrum.ieee.org/video-friday-home-cable-robot
-    summary: Video Friday is your weekly selection of awesome robotics videos,
-      collected by your friends at IEEE Spectrum robotics. We also post a weekly
-      calendar of upcoming robotics events for the next few months. Please send
-      us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/cable-robot-tidies-messy-playroom-with-scattered-toys-playhouse-and-musical-keyboard.gif?id=68608914&width=1245&height=700&coordinates=0%2C79%2C0%2C79
-    categories:
-      - Video-friday
-      - Robot-videos
-      - Drones
-      - Industrial-robotics
-      - Agility-robotics
-      - Home-robots
-    publishedAt: 2026-11-06T17:00:03.000Z
-    source: IEEE Spectrum — Robotics
-  - title: AI Text Watermarking May Not Be Able to Meet the E.U.’s New Rules
-    url: https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe
-    summary: The European Union now requires AI-generated text to be watermarked so
-      that it can be identified as such. But tests on OpenAI’s new textGrain
-      watermark, released in October and developed to comply with the new E.U.
-      law, show that these watermarks often do not survive additional editing of
-      the text or when it’s under 150 words. With no clear legal benchmark for
-      how well watermarks should work, it’s uncertain whether textGrain will
-      meet Europe’s transparency rules, which could cost the company
-      significantly and make it difficult to detect AI-generated text as models
-      grow more sophisticated.
-    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-the-european-union-flag-with-its-stars-replaced-by-logos-for-open-ai.jpg?id=68564327&width=1245&height=700&coordinates=0%2C469%2C0%2C469
-    categories:
-      - Watermark
-      - Artificial-intelligence
-      - European-union
-      - Openai
-    publishedAt: 2026-11-05T15:00:03.000Z
-    source: IEEE Spectrum — AI
-  - title: Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras
-    url: https://spectrum.ieee.org/2026-solar-eclipse
-    summary: The sun hangs low over the plains of Castile and León, in the
-      north-central region of Spain. But from a slope of the mountain Pico
-      Trigaza, it appears that a few puffy white clouds have started to block
-      the sun. That’s vexing.
-    imageUrl: https://spectrum.ieee.org/media-library/a-black-disk-is-surrounded-by-the-solar-corona-which-appears-in-the-image-as-hairlike-white-strands-extending-far-out-into-a-su.jpg?id=68586921&width=1200&height=400&coordinates=0%2C513%2C0%2C514
-    categories:
-      - Solar-eclipse
-      - Corona-temperature
-      - Miloslav-druckmller
-      - Solar-research
-      - Astrophotography
-      - Solar-eclipse-photography
-    publishedAt: 2026-11-05T14:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
   - title: SLAC scientists find conclusive proof of a mysterious third type of
       magnetism
     url: https://www.sciencedaily.com/releases/2026/11/261104012256.htm
@@ -168,15 +180,6 @@ articles:
     categories: []
     publishedAt: 2026-11-04T10:43:44.000Z
     source: ScienceDaily — Computer Science
-  - title: "Dream, build, destroy, repeat "
-    url: https://news.mit.edu/2026/dream-build-destroy-repeat-combat-robotics-club-1104
-    summary: The MIT Combat Robotics Club (CRC) uses the tagline “build, battle,
-      destroy, repeat,” which is a pretty spot-on description for a club that
-      embraces learning opportunities through destruction.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/CRC_03_0.jpeg?itok=a7E0VRZa
-    categories: []
-    publishedAt: 2026-11-04T05:00:00.000Z
-    source: MIT Engineering
   - title: Build a Hidden Lock With a Magnetic Imager
     url: https://spectrum.ieee.org/magnetic
     summary: Like many a nerd, I have a certain fascination with locks. This
@@ -187,7 +190,7 @@ articles:
       locks that I purchased at hacker conferences over the years (although I’m
       still terrible at it), and I delight in the YouTube exploits of folks like
       the LockPickingLawyer.
-    imageUrl: https://spectrum.ieee.org/media-library/a-medium-sized-box-with-an-open-lid-inside-is-a-lock-mechanism-a-battery-pack-and-some-circuit-boards.png?id=68493268&width=1200&height=400&coordinates=0%2C596%2C0%2C596
+    imageUrl: https://spectrum.ieee.org/media-library/a-medium-sized-box-with-an-open-lid-inside-is-a-lock-mechanism-a-battery-pack-and-some-circuit-boards.png?id=68493268&width=1245&height=700&coordinates=0%2C385%2C0%2C386
     categories:
       - Physical-security
       - Typedepartments
