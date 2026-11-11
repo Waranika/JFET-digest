@@ -1,18 +1,64 @@
-date: 2026-11-10
+date: 2026-11-11
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Australia to adopt 'mandatory' AI safeguards
-    url: https://techxplore.com/news/2026-11-australia-mandatory-ai-safeguards.html
-    summary: Artificial intelligence companies will have to abide by new "mandatory"
-      safeguards when operating in Australia, Prime Minister Anthony Albanese
-      said Tuesday.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/australias-prime-minis-1.jpg
+  - title: "Many AI companies will adopt advertising: Ad chief Criteo"
+    url: https://techxplore.com/news/2026-11-ai-companies-advertising-ad-chief.html
+    summary: Many AI platforms will end up eventually adopting advertising, the head
+      of the online advertising agency Criteo told AFP Tuesday, as investors are
+      focused on whether the technology will ever be profitable.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/developing-ai-models-a.jpg
     categories:
       - Machine learning & AI
-    publishedAt: 2026-11-10T11:14:12.000Z
+    publishedAt: 2026-11-11T11:10:01.000Z
     source: TechXplore — AI & Machine Learning
+  - title: A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get
+      Flagged for Weeks
+    url: https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/
+    summary: The young girl’s parents allege that she used Gemini via her school
+      Chromebook to plan her suicide, but the school’s monitoring systems didn’t
+      know until it was almost too late.
+    imageUrl: https://media.wired.com/photos/6aee70f5276d9711716c9d02/191:100/w_1280,c_limit/Gemini-AI-Coached-Teen-Suicide-Business.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-11-11T11:00:00.000Z
+    source: WIRED (AI)
+  - title: Inspired by elephant trunks, shape-shifting robots bend, grab and team up
+    url: https://techxplore.com/news/2026-11-elephant-trunks-shifting-robots-team.html
+    summary: Researchers at Colorado State University have developed a flexible
+      robot that functions like an elephant's trunk to grip objects, with a goal
+      of one day sending teams of these machines to aid in space exploration or
+      to help with any number of other complex tasks.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/inspired-by-elephant-t.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-11-11T10:00:25.000Z
+    source: TechXplore — Engineering
+  - title: School of Engineering welcomes new faculty in 2026
+    url: https://news.mit.edu/2026/school-engineering-welcomes-new-faculty-1110
+    summary: The MIT School of Engineering welcomes new faculty members across six
+      of its academic units in 2026. This new cohort of faculty members, who
+      have recently started their roles at MIT, conduct research across a
+      diverse range of disciplines.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/New%20Faculty%202026%20Collage_0.png?itok=E8xRmmwx
+    categories: []
+    publishedAt: 2026-11-10T22:00:00.000Z
+    source: MIT Engineering
+  - title: Researchers investigate why technology professionals turn to Reddit for
+      privacy law advice
+    url: https://techxplore.com/news/2026-11-technology-professionals-reddit-privacy-law.html
+    summary: When technology professionals have questions about how privacy laws
+      apply to the products they build, some turn to Reddit for answers. A
+      University of Maine–led research team investigated why these professionals
+      seek guidance on the platform, which privacy requirements they find most
+      challenging and how they assess advice from strangers.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/reddit.jpg
+    categories:
+      - Business
+    publishedAt: 2026-11-10T18:40:12.000Z
+    source: TechXplore — Computer Science
   - title: Catch Electronics Shock and Drop Failures Before Hardware Is Built
     url: https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing/
     summary: Learn how guided virtual shock and drop analysis helps engineering
@@ -27,28 +73,19 @@ articles:
       - Failures
     publishedAt: 2026-11-10T11:00:02.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From
-      Corporate Enslavers
-    url: https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/
-    summary: The “abliterators” are flooding the internet with AI models that never
-      say no, making it easier for people to improve their cyberdefenses—or
-      build a bomb.
-    imageUrl: https://media.wired.com/photos/6aea502d9cd85e14ae759341/191:100/w_1280,c_limit/WEB%20Still%20BLUR.jpg
-    categories:
-      - The Big Story
-    publishedAt: 2026-11-10T11:00:00.000Z
-    source: WIRED (AI)
-  - title: Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane
-    url: https://www.wired.com/story/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/
-    summary: NASA announced the development of an experimental aircraft designed to
-      explore new flight capabilities, although details about its design and
-      operation remain under wraps.
-    imageUrl: https://media.wired.com/photos/6af20c50a64aa182bab7b341/191:100/w_1280,c_limit/nasa-x-70-image.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-11-10T10:00:00.000Z
-    source: WIRED science
+  - title: Global fossil fuel emissions set to fall in 2026, but total CO2 keeps
+      rising
+    url: https://www.sciencedaily.com/releases/2026/11/261109205358.htm
+    summary: Global fossil fuel emissions are projected to fall in 2026 as renewable
+      energy and electric vehicles gain ground, but rising emissions from
+      deforestation threaten to push total CO2 emissions to a new record.
+      Scientists warn that the world's remaining carbon budget for limiting
+      warming to 1.5°C could be exhausted in less than four years, even as a
+      lasting decline in emissions appears increasingly within reach.
+    imageUrl: https://www.sciencedaily.com/images/1920/carbon-dioxide-air-pollution-industrial-smokestack.webp
+    categories: []
+    publishedAt: 2026-11-10T06:05:25.000Z
+    source: ScienceDaily — Engineering
   - title: "MIT-led team receives funding to develop next-generation alternatives to
       modern weed killers "
     url: https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110
@@ -61,45 +98,6 @@ articles:
     categories: []
     publishedAt: 2026-11-10T05:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: Streamlining metal parts production to revitalize American industry
-    url: https://news.mit.edu/2026/streamlining-metal-parts-production-revitalize-american-industry-fabri-1110
-    summary: The United States used to be the world leader in metal casting, a
-      process where liquid hot metal is poured into a mold to solidify into a
-      desired shape. But more than 70 percent of American metal casting
-      facilities have closed since the industry’s peak in the 1950s. Today,
-      China and India dominate global metal casting production, which is
-      critical for making the components of jet engines, nuclear and gas
-      turbines, medical devices, and more.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Fabri-01-press.jpg?itok=vLqRlOFF
-    categories: []
-    publishedAt: 2026-11-10T05:00:00.000Z
-    source: MIT Engineering
-  - title: "Architected fillers: Shape becomes a design variable for composites"
-    url: https://techxplore.com/news/2026-11-architected-fillers-variable-composites.html
-    summary: In a recent study, researchers in materials science at Tampere
-      University challenged conventional composite filler shapes by introducing
-      a different approach in which each particle's 3D geometry is designed
-      first, then printed to specification. The research enables decisions to be
-      made on the shape of the filler, not only its material. This approach
-      using architected fillers could pave the way for new solutions in soft
-      robotics, biomedical materials with tailored stiffness and printed
-      scaffolds for tissue engineering.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/architected-fillers-sh-1.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-11-09T22:20:21.000Z
-    source: TechXplore — Engineering
-  - title: FLEX approach helps robots reason beyond literal commands
-    url: https://techxplore.com/news/2026-11-flex-approach-robots-literal.html
-    summary: Humans are intuitive by nature. We can sense meaning beyond the literal
-      words that we encounter. Now, a new artificial intelligence–assisted
-      learning platform developed by MIT engineers is enabling robots to read
-      larger meaning into a human's natural language commands.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-assisted-learning-p.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-11-09T17:40:01.000Z
-    source: TechXplore — Robotics
   - title: AI Agents Are Testing the Limits of Zero-Trust Security
     url: https://spectrum.ieee.org/zero-trust-agentic-ai-architecture
     summary: This article is brought to you by Queen’s University Belfast.
@@ -141,18 +139,6 @@ articles:
     categories: []
     publishedAt: 2026-11-09T05:00:00.000Z
     source: MIT Robotics
-  - title: Team unlocks large-scale Fourier transforms for analog in-memory computing
-    url: https://techxplore.com/news/2026-11-team-large-scale-fourier-analog.html
-    summary: Fourier transforms are mathematical calculations that can be used to
-      identify the frequencies that make up a signal and shed light on their
-      individual contributions. These transforms have been used, for example, to
-      unveil patterns in sounds and images, ranging from gradual changes in
-      intensity to fine repeating motifs or details.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/team-applies-fourier-t.jpg
-    categories:
-      - Electronics & Semiconductors
-    publishedAt: 2026-11-08T16:00:01.000Z
-    source: TechXplore — Computer Science
   - title: A hidden limit of space and time could unlock electronics 100,000 times
       faster
     url: https://www.sciencedaily.com/releases/2026/11/261106174537.htm
