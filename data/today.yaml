@@ -1,51 +1,138 @@
-date: 2026-11-11
+date: 2026-11-12
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "Many AI companies will adopt advertising: Ad chief Criteo"
-    url: https://techxplore.com/news/2026-11-ai-companies-advertising-ad-chief.html
-    summary: Many AI platforms will end up eventually adopting advertising, the head
-      of the online advertising agency Criteo told AFP Tuesday, as investors are
-      focused on whether the technology will ever be profitable.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/developing-ai-models-a.jpg
+  - title: Improving the safety of timber buildings—by setting them on fire
+    url: https://techxplore.com/news/2026-11-safety-timber.html
+    summary: Full-scale fire tests on specially designed timber ceilings could help
+      University of Queensland researchers pave the way for safer buildings that
+      are less likely to collapse during a fire.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/improving-the-safety-o.jpg
     categories:
-      - Machine learning & AI
-    publishedAt: 2026-11-11T11:10:01.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get
-      Flagged for Weeks
-    url: https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/
-    summary: The young girl’s parents allege that she used Gemini via her school
-      Chromebook to plan her suicide, but the school’s monitoring systems didn’t
-      know until it was almost too late.
-    imageUrl: https://media.wired.com/photos/6aee70f5276d9711716c9d02/191:100/w_1280,c_limit/Gemini-AI-Coached-Teen-Suicide-Business.jpg
+      - Engineering
+    publishedAt: 2026-11-12T12:00:02.000Z
+    source: TechXplore — Engineering
+  - title: Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s
+      Said Recently
+    url: https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/
+    summary: The Palantir CEO touted his “progressive” worldview in a recent
+      interview. Let’s see how that lines up with his comments during the
+      company’s earnings call two weeks ago.
+    imageUrl: https://media.wired.com/photos/6af4c862c4fc953ed4f6f19b/191:100/w_1280,c_limit/Palantir-Progressive-Company-Business-2297745126.jpg
     categories:
       - Business
-      - Business / Artificial Intelligence
-    publishedAt: 2026-11-11T11:00:00.000Z
+      - Business / Big Tech
+    publishedAt: 2026-11-12T10:30:00.000Z
     source: WIRED (AI)
-  - title: Inspired by elephant trunks, shape-shifting robots bend, grab and team up
-    url: https://techxplore.com/news/2026-11-elephant-trunks-shifting-robots-team.html
-    summary: Researchers at Colorado State University have developed a flexible
-      robot that functions like an elephant's trunk to grip objects, with a goal
-      of one day sending teams of these machines to aid in space exploration or
-      to help with any number of other complex tasks.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/inspired-by-elephant-t.jpg
+  - title: The Polar Vortex Is About to Make Weather Weird From the UK to the US
+    url: https://www.wired.com/story/the-polar-vortex-is-about-to-make-weather-weird-from-the-uk-to-the-us/
+    summary: These Arctic currents have never broken down so early in the season.
+      Combined with an unprecedented El Niño, the outcomes aren’t easy to
+      predict.
+    imageUrl: https://media.wired.com/photos/6ae9f4b9174ddb15ddc58a96/191:100/w_1280,c_limit/Science_PolarVortex_v1.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-11-12T08:00:00.000Z
+    source: WIRED science
+  - title: New research could lead to faster, trustworthy AI models for climate
+      prediction
+    url: https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112
+    summary: Accurate, up-to-date climate projections are essential for planning
+      decisions that enhance the resilience of power grids, protect public
+      health, maximize agricultural yields, and more.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Climate-Emulation-01.jpg?itok=QnECRQGT
+    categories: []
+    publishedAt: 2026-11-12T05:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: A massive new simulation reveals how the universe emerged from darkness
+    url: https://www.sciencedaily.com/releases/2026/11/261110042534.htm
+    summary: A groundbreaking new supercomputer simulation is revealing how the
+      universe escaped its cosmic dark age and transformed into a cosmos filled
+      with stars and galaxies. Called Lumina, it recreates 2 billion years of
+      early cosmic history across a region 1.6 billion light-years wide,
+      capturing extraordinary details that previous simulations could not.
+    imageUrl: https://www.sciencedaily.com/images/1920/lumina-scales-of-simulation.webp
+    categories: []
+    publishedAt: 2026-11-12T04:07:24.000Z
+    source: ScienceDaily — Engineering
+  - title: Inside this quantum computer, memory vibrates like a guitar string
+    url: https://www.sciencedaily.com/releases/2026/11/261109205416.htm
+    summary: Researchers have created a quantum computer that stores information in
+      microscopic vibrations, potentially making quantum machines smaller, more
+      powerful, and better at preserving information. The breakthrough
+      successfully demonstrated advanced quantum calculations and could help
+      overcome major barriers to practical quantum computing.
+    imageUrl: https://www.sciencedaily.com/images/1920/computer-vibration-memory.webp
+    categories: []
+    publishedAt: 2026-11-12T02:35:20.000Z
+    source: ScienceDaily — Computer Science
+  - title: New framework examines one-sided human-AI relationships and potential
+      risks for consumers
+    url: https://techxplore.com/news/2026-11-framework-sided-human-ai-relationships.html
+    summary: Practically or theoretically, whether teaching a classroom full of Penn
+      State students or pondering concepts with a smaller group of international
+      colleagues, Heather Shoenberger brings curiosity and optimism as she
+      considers the challenges and opportunities related to artificial
+      intelligence.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2023/ai-7.jpg
+    categories:
+      - Machine learning & AI
+    publishedAt: 2026-11-11T17:00:07.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: PRISM helps robots move better by learning how forces and motion interact
+    url: https://techxplore.com/news/2026-11-prism-robots-motion-interact.html
+    summary: "A new neural network component, developed at University of Michigan
+      Engineering, challenges a common assumption in robot learning: that the
+      same general-purpose neural networks used for image recognition are
+      equally suited to controlling physical movement."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/prism-a-neural-network.jpg
     categories:
       - Robotics
-    publishedAt: 2026-11-11T10:00:25.000Z
-    source: TechXplore — Engineering
-  - title: School of Engineering welcomes new faculty in 2026
-    url: https://news.mit.edu/2026/school-engineering-welcomes-new-faculty-1110
-    summary: The MIT School of Engineering welcomes new faculty members across six
-      of its academic units in 2026. This new cohort of faculty members, who
-      have recently started their roles at MIT, conduct research across a
-      diverse range of disciplines.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/New%20Faculty%202026%20Collage_0.png?itok=E8xRmmwx
+    publishedAt: 2026-11-11T17:00:01.000Z
+    source: TechXplore — Robotics
+  - title: "Inspired by networks found in nature, engineers design stronger, more
+      resilient “metamaterials” "
+    url: https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111
+    summary: Order has long been the rule in the design of synthetic
+      “metamaterials,” which have internal structures that give the whole
+      material exceptional properties not found in nature.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-MultiMeta-01-Press.jpg?itok=bT896F-F
     categories: []
-    publishedAt: 2026-11-10T22:00:00.000Z
+    publishedAt: 2026-11-11T16:00:00.000Z
     source: MIT Engineering
+  - title: When Does It Actually Make Sense to Put AI Into Products?
+    url: https://spectrum.ieee.org/human-centered-ai-product-design
+    summary: Over the past few years, the tech industry has rushed to plug a new
+      microchip into every device on the assumption that if you can add AI, you
+      should. Smart-vision toothbrushes, mood-reading household robots, and a
+      host of physical products are invading consumers’ daily lives, reliant on
+      artificial intelligence to learn, predict, and adjust our behavior.
+    imageUrl: https://spectrum.ieee.org/media-library/photo-collage-of-a-woman-speaking-on-stage-with-electric-toothbrushes-and-refrigerators-layered-in-the-background.jpg?id=68653834&width=1245&height=700&coordinates=0%2C156%2C0%2C157
+    categories:
+      - Product-design
+      - Product-development
+      - Ai-gadgets
+      - User-centered-design
+    publishedAt: 2026-11-11T14:00:02.000Z
+    source: IEEE Spectrum — AI
+  - title: NSF’s X-Labs Program Draws Support From Charities and Investors
+    url: https://spectrum.ieee.org/national-science-foundation-x-labs
+    summary: When the U.S. National Science Foundation began its X-Labs program in
+      May, the agency said the higher-risk, higher-funded awards would create
+      new kinds of partnerships that would confront urgent scientific and
+      technological challenges. Now, the NSF is doubling down on the idea, with
+      an announcement in October that charities, companies, and investment funds
+      would provide X-Lab winners practical support such as laboratory space,
+      software, shared equipment, and access to key data and expert guidance.
+    imageUrl: https://spectrum.ieee.org/media-library/three-men-conversing-in-front-of-a-construction-sign-on-a-dirt-lot.jpg?id=68653956&width=1200&height=400&coordinates=0%2C729%2C0%2C730
+    categories:
+      - National-science-foundation
+      - Research
+      - Science-funding
+    publishedAt: 2026-11-11T13:00:03.000Z
+    source: IEEE Spectrum — Computing & Chips
   - title: Researchers investigate why technology professionals turn to Reddit for
       privacy law advice
     url: https://techxplore.com/news/2026-11-technology-professionals-reddit-privacy-law.html
@@ -59,58 +146,6 @@ articles:
       - Business
     publishedAt: 2026-11-10T18:40:12.000Z
     source: TechXplore — Computer Science
-  - title: Catch Electronics Shock and Drop Failures Before Hardware Is Built
-    url: https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing/
-    summary: Learn how guided virtual shock and drop analysis helps engineering
-      teams identify reliability risks before physical testing, reduce
-      qualification iterations, optimize packaging designs, and accelerate
-      electronics product development.
-    imageUrl: https://spectrum.ieee.org/media-library/keysight-logo-for-webinars-and-whitepapers.png?id=27151246&width=980
-    categories:
-      - Type-whitepaper
-      - Electronics
-      - Testing
-      - Failures
-    publishedAt: 2026-11-10T11:00:02.000Z
-    source: IEEE Spectrum — Computing & Chips
-  - title: Global fossil fuel emissions set to fall in 2026, but total CO2 keeps
-      rising
-    url: https://www.sciencedaily.com/releases/2026/11/261109205358.htm
-    summary: Global fossil fuel emissions are projected to fall in 2026 as renewable
-      energy and electric vehicles gain ground, but rising emissions from
-      deforestation threaten to push total CO2 emissions to a new record.
-      Scientists warn that the world's remaining carbon budget for limiting
-      warming to 1.5°C could be exhausted in less than four years, even as a
-      lasting decline in emissions appears increasingly within reach.
-    imageUrl: https://www.sciencedaily.com/images/1920/carbon-dioxide-air-pollution-industrial-smokestack.webp
-    categories: []
-    publishedAt: 2026-11-10T06:05:25.000Z
-    source: ScienceDaily — Engineering
-  - title: "MIT-led team receives funding to develop next-generation alternatives to
-      modern weed killers "
-    url: https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110
-    summary: MIT researchers will lead an up to $53 million effort, awarded by the
-      U.S. Advanced Research Projects Agency for Health (ARPA-H) as part of its
-      STREAM (Systems for Tracking and Resilience in Efficient
-      Agricultural-input Management) program, to develop next-generation weed
-      killers that help farmers and protect human health.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-VoigtGrant-01-Press.jpg?itok=qhs4y2eX
-    categories: []
-    publishedAt: 2026-11-10T05:00:00.000Z
-    source: MIT Artificial Intelligence
-  - title: AI Agents Are Testing the Limits of Zero-Trust Security
-    url: https://spectrum.ieee.org/zero-trust-agentic-ai-architecture
-    summary: This article is brought to you by Queen’s University Belfast.
-    imageUrl: https://spectrum.ieee.org/media-library/collage-of-indoor-drone-flight-phone-controls-and-operator-at-computer-workstation.jpg?id=68578379&width=1200&height=400&coordinates=0%2C293%2C0%2C294
-    categories:
-      - Ai-agents
-      - Cybersecurity
-      - Hacking
-      - Risk-assessment
-      - Agentic-ai
-      - Ai-models
-    publishedAt: 2026-11-09T16:25:06.000Z
-    source: IEEE Spectrum — AI
   - title: Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?
     url: https://spectrum.ieee.org/agentic-robotics
     summary: Robotics companies are investing heavily in the belief that data will
@@ -151,21 +186,6 @@ articles:
     categories: []
     publishedAt: 2026-11-07T23:34:19.000Z
     source: ScienceDaily — Robotics
-  - title: SLAC scientists find conclusive proof of a mysterious third type of
-      magnetism
-    url: https://www.sciencedaily.com/releases/2026/11/261104012256.htm
-    summary: For nearly 90 years, scientists believed magnetism fell into just two
-      categories, but researchers have now confirmed a remarkable third type
-      called altermagnetism. Using specialized X-rays, they uncovered a unique
-      magnetic signature that proves these materials behave differently from
-      conventional magnets. Altermagnets combine stability with the ability to
-      efficiently carry information, potentially overcoming major limitations in
-      today's electronics. The discovery could lead to faster computers, more
-      efficient data centers, and breakthroughs in quantum technology.
-    imageUrl: https://www.sciencedaily.com/images/1920/three-mirrors-proposed-forms-of-magnetism.webp
-    categories: []
-    publishedAt: 2026-11-04T10:43:44.000Z
-    source: ScienceDaily — Computer Science
   - title: Build a Hidden Lock With a Magnetic Imager
     url: https://spectrum.ieee.org/magnetic
     summary: Like many a nerd, I have a certain fascination with locks. This
