@@ -1,51 +1,100 @@
-date: 2026-11-12
+date: 2026-11-13
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Improving the safety of timber buildings—by setting them on fire
-    url: https://techxplore.com/news/2026-11-safety-timber.html
-    summary: Full-scale fire tests on specially designed timber ceilings could help
-      University of Queensland researchers pave the way for safer buildings that
-      are less likely to collapse during a fire.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/improving-the-safety-o.jpg
+  - title: This Startup Is Betting on AI Microdramas to Get More Black Stories in
+      Hollywood
+    url: https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/
+    summary: Mansa says its AI microdramas can serve as proofs of concept for what
+      Black audiences want. Critics say the studio is selling out.
+    imageUrl: https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg
     categories:
-      - Engineering
-    publishedAt: 2026-11-12T12:00:02.000Z
-    source: TechXplore — Engineering
-  - title: Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s
-      Said Recently
-    url: https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/
-    summary: The Palantir CEO touted his “progressive” worldview in a recent
-      interview. Let’s see how that lines up with his comments during the
-      company’s earnings call two weeks ago.
-    imageUrl: https://media.wired.com/photos/6af4c862c4fc953ed4f6f19b/191:100/w_1280,c_limit/Palantir-Progressive-Company-Business-2297745126.jpg
-    categories:
-      - Business
-      - Business / Big Tech
-    publishedAt: 2026-11-12T10:30:00.000Z
+      - Culture
+      - Culture / TV
+    publishedAt: 2026-11-13T11:45:00.000Z
     source: WIRED (AI)
-  - title: The Polar Vortex Is About to Make Weather Weird From the UK to the US
-    url: https://www.wired.com/story/the-polar-vortex-is-about-to-make-weather-weird-from-the-uk-to-the-us/
-    summary: These Arctic currents have never broken down so early in the season.
-      Combined with an unprecedented El Niño, the outcomes aren’t easy to
-      predict.
-    imageUrl: https://media.wired.com/photos/6ae9f4b9174ddb15ddc58a96/191:100/w_1280,c_limit/Science_PolarVortex_v1.jpg
+  - title: The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep
+      It Afloat
+    url: https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/
+    summary: With Hubble expected to reenter the atmosphere by 2034 and several
+      malfunctions on board, NASA is asking commercial space companies for
+      proposals on how to extend the telescope’s lifespan.
+    imageUrl: https://media.wired.com/photos/6af5dcf2d057d0b5e841ea04/191:100/w_1280,c_limit/27990737266_8b321346a4_o.jpg
     categories:
       - Science
-      - Science / Environment
-    publishedAt: 2026-11-12T08:00:00.000Z
+      - Science / Space
+    publishedAt: 2026-11-13T10:00:00.000Z
     source: WIRED science
-  - title: New research could lead to faster, trustworthy AI models for climate
-      prediction
-    url: https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112
-    summary: Accurate, up-to-date climate projections are essential for planning
-      decisions that enhance the resilience of power grids, protect public
-      health, maximize agricultural yields, and more.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Climate-Emulation-01.jpg?itok=QnECRQGT
+  - title: Jensen Huang built the company that powers AI. Now Nvidia must find a way
+      forward without him
+    url: https://techxplore.com/news/2026-11-jensen-huang-built-company-powers.html
+    summary: Nvidia CEO Jensen Huang resigned Thursday, capping a spectacular
+      downfall for a poster boy of the artificial intelligence boom whose exit
+      following reports of extramarital affairs now thrusts the chipmaker into
+      an uncertain future.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/us-nvidia-jensen-huang.jpg
+    categories:
+      - Business
+    publishedAt: 2026-11-13T09:40:02.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: Helping robots fit into the human workplace
+    url: https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113
+    summary: Despite fears about robots replacing humans at work, there are still
+      plenty of things humans can do far better than machines. That’s fine with
+      Robust AI, a startup building robots designed to complement what humans do
+      best.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Robust-AI-01-press.jpg?itok=1bn6fHx2
     categories: []
-    publishedAt: 2026-11-12T05:00:00.000Z
+    publishedAt: 2026-11-13T05:00:00.000Z
+    source: MIT Robotics
+  - title: New AI “copilot” helps engineers design better structures
+    url: https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113
+    summary: The use of algorithms to design structures has led to new parts
+      optimized for ultralight aircraft, high-bandwidth antennas, and F1 racing
+      cars.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-ai-design-01-press.jpg?itok=mgkpfRIX
+    categories: []
+    publishedAt: 2026-11-13T05:00:00.000Z
     source: MIT Artificial Intelligence
+  - title: AI system can reconstruct aerodynamic shapes and predict their performance
+    url: https://techxplore.com/news/2026-11-ai-reconstruct-aerodynamic.html
+    summary: The efficiency of an aircraft wing or a wind turbine blade depends on
+      how air flows around it. Finding an optimal shape involves testing
+      numerous designs and can be a burdensome and time-consuming process. Now,
+      researchers at Kyushu University have developed a new artificial
+      intelligence (AI) system that can predict the aerodynamic performance of
+      different shapes. The AI system may allow engineers more time to explore
+      and compare designs more efficiently.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/an-ai-system-that-reco.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-11-12T21:20:12.000Z
+    source: TechXplore — Engineering
+  - title: AI improves cosmic particle scans to locate hidden objects more
+      accurately in simulations
+    url: https://techxplore.com/news/2026-11-ai-cosmic-particle-scans-hidden.html
+    summary: Researchers at the University of Tartu Institute of Computer Science
+      are working with the Estonian technology company GScan to develop AI-based
+      methods that use measurement data collected with the help of cosmic
+      particles to locate objects more accurately. The technology is useful for
+      assessing the condition of bridges and other large structures and
+      identifying potential damage.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-helps-university-of.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-11-12T20:00:24.000Z
+    source: TechXplore — Computer Science
+  - title: German AI robotics startup valued at $8.5 billion after new fundraising
+    url: https://techxplore.com/news/2026-11-german-ai-robotics-startup-valued.html
+    summary: German AI robotics startup Agile Robots said Thursday that a new
+      funding round valued the company at $8.5 billion (7.7 billion euros),
+      providing additional firepower for a global expansion.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/agile-robots-deploys-h.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-11-12T19:20:01.000Z
+    source: TechXplore — Robotics
   - title: A massive new simulation reveals how the universe emerged from darkness
     url: https://www.sciencedaily.com/releases/2026/11/261110042534.htm
     summary: A groundbreaking new supercomputer simulation is revealing how the
@@ -68,30 +117,6 @@ articles:
     categories: []
     publishedAt: 2026-11-12T02:35:20.000Z
     source: ScienceDaily — Computer Science
-  - title: New framework examines one-sided human-AI relationships and potential
-      risks for consumers
-    url: https://techxplore.com/news/2026-11-framework-sided-human-ai-relationships.html
-    summary: Practically or theoretically, whether teaching a classroom full of Penn
-      State students or pondering concepts with a smaller group of international
-      colleagues, Heather Shoenberger brings curiosity and optimism as she
-      considers the challenges and opportunities related to artificial
-      intelligence.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2023/ai-7.jpg
-    categories:
-      - Machine learning & AI
-    publishedAt: 2026-11-11T17:00:07.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: PRISM helps robots move better by learning how forces and motion interact
-    url: https://techxplore.com/news/2026-11-prism-robots-motion-interact.html
-    summary: "A new neural network component, developed at University of Michigan
-      Engineering, challenges a common assumption in robot learning: that the
-      same general-purpose neural networks used for image recognition are
-      equally suited to controlling physical movement."
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/prism-a-neural-network.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-11-11T17:00:01.000Z
-    source: TechXplore — Robotics
   - title: "Inspired by networks found in nature, engineers design stronger, more
       resilient “metamaterials” "
     url: https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111
@@ -109,7 +134,7 @@ articles:
       should. Smart-vision toothbrushes, mood-reading household robots, and a
       host of physical products are invading consumers’ daily lives, reliant on
       artificial intelligence to learn, predict, and adjust our behavior.
-    imageUrl: https://spectrum.ieee.org/media-library/photo-collage-of-a-woman-speaking-on-stage-with-electric-toothbrushes-and-refrigerators-layered-in-the-background.jpg?id=68653834&width=1245&height=700&coordinates=0%2C156%2C0%2C157
+    imageUrl: https://spectrum.ieee.org/media-library/photo-collage-of-a-woman-speaking-on-stage-with-electric-toothbrushes-and-refrigerators-layered-in-the-background.jpg?id=68653834&width=1200&height=400&coordinates=0%2C729%2C0%2C730
     categories:
       - Product-design
       - Product-development
@@ -122,30 +147,17 @@ articles:
     summary: When the U.S. National Science Foundation began its X-Labs program in
       May, the agency said the higher-risk, higher-funded awards would create
       new kinds of partnerships that would confront urgent scientific and
-      technological challenges. Now, the NSF is doubling down on the idea, with
+      technological challenges. Now the NSF is doubling down on the idea, with
       an announcement in October that charities, companies, and investment funds
       would provide X-Lab winners practical support such as laboratory space,
       software, shared equipment, and access to key data and expert guidance.
-    imageUrl: https://spectrum.ieee.org/media-library/three-men-conversing-in-front-of-a-construction-sign-on-a-dirt-lot.jpg?id=68653956&width=1200&height=400&coordinates=0%2C729%2C0%2C730
+    imageUrl: https://spectrum.ieee.org/media-library/three-men-conversing-in-front-of-a-construction-sign-on-a-dirt-lot.jpg?id=68653956&width=1245&height=700&coordinates=0%2C156%2C0%2C157
     categories:
       - National-science-foundation
       - Research
       - Science-funding
     publishedAt: 2026-11-11T13:00:03.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Researchers investigate why technology professionals turn to Reddit for
-      privacy law advice
-    url: https://techxplore.com/news/2026-11-technology-professionals-reddit-privacy-law.html
-    summary: When technology professionals have questions about how privacy laws
-      apply to the products they build, some turn to Reddit for answers. A
-      University of Maine–led research team investigated why these professionals
-      seek guidance on the platform, which privacy requirements they find most
-      challenging and how they assess advice from strangers.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/reddit.jpg
-    categories:
-      - Business
-    publishedAt: 2026-11-10T18:40:12.000Z
-    source: TechXplore — Computer Science
   - title: Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?
     url: https://spectrum.ieee.org/agentic-robotics
     summary: Robotics companies are investing heavily in the belief that data will
@@ -155,7 +167,7 @@ articles:
       now do. There are even robotics companies that exist solely to collect
       training data and sell it to other robotics companies in pursuit of this
       goal.
-    imageUrl: https://spectrum.ieee.org/media-library/3d-rendering-of-a-scara-robotic-arm-carefully-dropping-a-syringe-into-a-sharps-box.jpg?id=68618830&width=1245&height=700&coordinates=0%2C382%2C0%2C383
+    imageUrl: https://spectrum.ieee.org/media-library/3d-rendering-of-a-scara-robotic-arm-carefully-dropping-a-syringe-into-a-sharps-box.jpg?id=68618830&width=1200&height=400&coordinates=0%2C849%2C0%2C850
     categories:
       - Robotics
       - Agentic-ai
@@ -164,16 +176,6 @@ articles:
       - Agentic-robotics
     publishedAt: 2026-11-09T14:00:02.000Z
     source: IEEE Spectrum — Robotics
-  - title: AI-assisted learning platform helps robots reason beyond literal commands
-    url: https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109
-    summary: Humans are intuitive by nature. We can sense meaning beyond the literal
-      words that we encounter. Now, a new artificial intelligence-assisted
-      learning platform developed by MIT engineers is enabling robots to read
-      larger meaning into a human’s natural language commands.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-FLEX-01-press.jpg?itok=811PS9Sd
-    categories: []
-    publishedAt: 2026-11-09T05:00:00.000Z
-    source: MIT Robotics
   - title: A hidden limit of space and time could unlock electronics 100,000 times
       faster
     url: https://www.sciencedaily.com/releases/2026/11/261106174537.htm
