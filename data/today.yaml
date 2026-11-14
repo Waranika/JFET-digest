@@ -1,43 +1,124 @@
-date: 2026-11-13
+date: 2026-11-14
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: This Startup Is Betting on AI Microdramas to Get More Black Stories in
-      Hollywood
-    url: https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/
-    summary: Mansa says its AI microdramas can serve as proofs of concept for what
-      Black audiences want. Critics say the studio is selling out.
-    imageUrl: https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/191:100/w_1280,c_limit/Startup-Betting-on-AI-Microdramas-Culture.jpg
+  - title: No Pilots. Few Air Traffic Controllers. What Could Go Wrong?
+    url: https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/
+    summary: Normally, aviation is slow to embrace new technology—but AI has come
+      for the skies.
+    imageUrl: https://media.wired.com/photos/6af209fa2480549f4d787257/191:100/w_1280,c_limit/ai_aviation.jpg
     categories:
-      - Culture
-      - Culture / TV
-    publishedAt: 2026-11-13T11:45:00.000Z
+      - The Big Story
+      - Business
+      - Business / Transportation
+    publishedAt: 2026-11-14T11:00:00.000Z
     source: WIRED (AI)
-  - title: The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep
-      It Afloat
-    url: https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/
-    summary: With Hubble expected to reenter the atmosphere by 2034 and several
-      malfunctions on board, NASA is asking commercial space companies for
-      proposals on how to extend the telescope’s lifespan.
-    imageUrl: https://media.wired.com/photos/6af5dcf2d057d0b5e841ea04/191:100/w_1280,c_limit/27990737266_8b321346a4_o.jpg
+  - title: Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage
+    url: https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/
+    summary: As Israeli restrictions limit repairs in Gaza, fuel is being diverted
+      from wells to drainage pumps.
+    imageUrl: https://media.wired.com/photos/6af4abdffbe5af43ea5def11/191:100/w_1280,c_limit/GazaFlood_01.jpg
     categories:
       - Science
-      - Science / Space
-    publishedAt: 2026-11-13T10:00:00.000Z
+    publishedAt: 2026-11-14T10:30:00.000Z
     source: WIRED science
-  - title: Jensen Huang built the company that powers AI. Now Nvidia must find a way
-      forward without him
-    url: https://techxplore.com/news/2026-11-jensen-huang-built-company-powers.html
-    summary: Nvidia CEO Jensen Huang resigned Thursday, capping a spectacular
-      downfall for a poster boy of the artificial intelligence boom whose exit
-      following reports of extramarital affairs now thrusts the chipmaker into
-      an uncertain future.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/us-nvidia-jensen-huang.jpg
+  - title: AI supercharges laser physics with a stunning 250x speed boost
+    url: https://www.sciencedaily.com/releases/2026/11/261111005913.htm
+    summary: Researchers at Stanford, UCLA, and SLAC have developed an AI system
+      that simulates complex laser interactions thousands of times faster than
+      conventional methods. The breakthrough allows scientists to predict how
+      laser pulses behave inside special crystals in just milliseconds, without
+      sacrificing much accuracy. This could dramatically improve the precision
+      and efficiency of powerful X-ray lasers used in cutting-edge scientific
+      research.
+    imageUrl: https://www.sciencedaily.com/images/1920/noncollinear-sum-frequency-generation.webp
+    categories: []
+    publishedAt: 2026-11-13T23:41:08.000Z
+    source: ScienceDaily — Robotics
+  - title: Hydropower study reveals energy potential in Appalachia
+    url: https://techxplore.com/news/2026-11-hydropower-reveals-energy-potential-appalachia.html
+    summary: Small hydropower systems could generate 22.6 megawatts of electricity
+      in a remote part of western North Carolina, enough to power 5,000 homes in
+      an area where the rugged, heavily forested terrain limits reliable access
+      to energy, according to a recent study.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/hydropower-study-revea.jpg
     categories:
-      - Business
-    publishedAt: 2026-11-13T09:40:02.000Z
+      - Engineering
+    publishedAt: 2026-11-13T23:20:04.000Z
+    source: TechXplore — Engineering
+  - title: How Microcredentials Help Engineers Build Trustworthy AI
+    url: https://spectrum.ieee.org/microcredentials-trustworthy-ai
+    summary: "Engineering teams are moving at breakneck speed to integrate
+      artificial intelligence, but they are running into a formidable new
+      barrier: compliance issues. Translating high-level AI ethics, governance,
+      and auditing into daily operational workflows has become one of the
+      industry’s toughest challenges."
+    imageUrl: https://spectrum.ieee.org/media-library/conceptual-illustration-of-planet-earth-surrounded-by-educational-objects-such-as-a-microscope-beaker-and-textbook.jpg?id=68675346&width=1200&height=400&coordinates=0%2C1042%2C0%2C1042
+    categories:
+      - Type-ti
+      - Ethics
+      - Artificial-intelligence
+      - Careers
+      - Ieee-products-and-services
+      - Professional-development
+    publishedAt: 2026-11-13T19:00:03.000Z
+    source: IEEE Spectrum — AI
+  - title: "Video Friday: NASA PROMISEs a New Moon Rover"
+    url: https://spectrum.ieee.org/video-friday-moon-rover-promise
+    summary: Video Friday is your weekly selection of awesome robotics videos,
+      collected by your friends at IEEE Spectrum robotics. We also post a weekly
+      calendar of upcoming robotics events for the next few months. Please send
+      us your events for inclusion.
+    imageUrl: https://spectrum.ieee.org/media-library/rendering-of-a-lunar-rover-with-a-drill-as-it-explores-a-snowy-crater-under-a-starry-night-sky.png?id=68673117&width=1245&height=700&coordinates=0%2C0%2C0%2C0
+    categories:
+      - Humanoid-robots
+      - Video-friday
+      - Quadrotors
+      - Robotics-news
+      - Moon-rover
+      - Physical-ai
+    publishedAt: 2026-11-13T17:30:03.000Z
+    source: IEEE Spectrum — Robotics
+  - title: New AI 'copilot' lets engineers guide structural designs as algorithms
+      create them
+    url: https://techxplore.com/news/2026-11-ai-copilot-algorithms.html
+    summary: "The use of algorithms to design structures has led to new parts
+      optimized for ultralight aircraft, high-bandwidth antennas and F1 racing
+      cars. But the best algorithmic design techniques still require lots of
+      computation and time: Users only see the final design after it's complete,
+      after which they often must start the design process all over again to
+      make changes. That process also makes it harder to trust that the final
+      designs are structurally sound."
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-ai-copilot-helps-e.jpg
+    categories:
+      - Engineering
+    publishedAt: 2026-11-13T17:00:01.000Z
     source: TechXplore — AI & Machine Learning
+  - title: AI helps digital humans move more naturally as they speak
+    url: https://techxplore.com/news/2026-11-ai-digital-humans-naturally.html
+    summary: People communicate with more than words. A raised hand, a change in
+      posture or a facial expression can help convey meaning and emotion. Now,
+      researchers have developed an artificial intelligence (AI) system that can
+      translate speech into coordinated movements of the body, hands and face,
+      potentially making digital characters and virtual presenters more
+      expressive and lifelike.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-helps-digital-human.jpg
+    categories:
+      - Computer Sciences
+    publishedAt: 2026-11-13T16:40:01.000Z
+    source: TechXplore — Computer Science
+  - title: Tiny flaws in diamonds could unlock a quantum computing revolution
+    url: https://www.sciencedaily.com/releases/2026/11/261111005855.htm
+    summary: Scientists have discovered a faster way to identify diamond-based
+      materials that could power quantum computers and sensors at room
+      temperature. The breakthrough has already revealed promising new quantum
+      building blocks that could help unlock computing capabilities far beyond
+      those of today's supercomputers.
+    imageUrl: https://www.sciencedaily.com/images/1920/pink-diamond.webp
+    categories: []
+    publishedAt: 2026-11-13T05:26:41.000Z
+    source: ScienceDaily — Artificial Intelligence
   - title: Helping robots fit into the human workplace
     url: https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113
     summary: Despite fears about robots replacing humans at work, there are still
@@ -57,34 +138,6 @@ articles:
     categories: []
     publishedAt: 2026-11-13T05:00:00.000Z
     source: MIT Artificial Intelligence
-  - title: AI system can reconstruct aerodynamic shapes and predict their performance
-    url: https://techxplore.com/news/2026-11-ai-reconstruct-aerodynamic.html
-    summary: The efficiency of an aircraft wing or a wind turbine blade depends on
-      how air flows around it. Finding an optimal shape involves testing
-      numerous designs and can be a burdensome and time-consuming process. Now,
-      researchers at Kyushu University have developed a new artificial
-      intelligence (AI) system that can predict the aerodynamic performance of
-      different shapes. The AI system may allow engineers more time to explore
-      and compare designs more efficiently.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/an-ai-system-that-reco.jpg
-    categories:
-      - Engineering
-    publishedAt: 2026-11-12T21:20:12.000Z
-    source: TechXplore — Engineering
-  - title: AI improves cosmic particle scans to locate hidden objects more
-      accurately in simulations
-    url: https://techxplore.com/news/2026-11-ai-cosmic-particle-scans-hidden.html
-    summary: Researchers at the University of Tartu Institute of Computer Science
-      are working with the Estonian technology company GScan to develop AI-based
-      methods that use measurement data collected with the help of cosmic
-      particles to locate objects more accurately. The technology is useful for
-      assessing the condition of bridges and other large structures and
-      identifying potential damage.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/ai-helps-university-of.jpg
-    categories:
-      - Computer Sciences
-    publishedAt: 2026-11-12T20:00:24.000Z
-    source: TechXplore — Computer Science
   - title: German AI robotics startup valued at $8.5 billion after new fundraising
     url: https://techxplore.com/news/2026-11-german-ai-robotics-startup-valued.html
     summary: German AI robotics startup Agile Robots said Thursday that a new
@@ -95,28 +148,6 @@ articles:
       - Robotics
     publishedAt: 2026-11-12T19:20:01.000Z
     source: TechXplore — Robotics
-  - title: A massive new simulation reveals how the universe emerged from darkness
-    url: https://www.sciencedaily.com/releases/2026/11/261110042534.htm
-    summary: A groundbreaking new supercomputer simulation is revealing how the
-      universe escaped its cosmic dark age and transformed into a cosmos filled
-      with stars and galaxies. Called Lumina, it recreates 2 billion years of
-      early cosmic history across a region 1.6 billion light-years wide,
-      capturing extraordinary details that previous simulations could not.
-    imageUrl: https://www.sciencedaily.com/images/1920/lumina-scales-of-simulation.webp
-    categories: []
-    publishedAt: 2026-11-12T04:07:24.000Z
-    source: ScienceDaily — Engineering
-  - title: Inside this quantum computer, memory vibrates like a guitar string
-    url: https://www.sciencedaily.com/releases/2026/11/261109205416.htm
-    summary: Researchers have created a quantum computer that stores information in
-      microscopic vibrations, potentially making quantum machines smaller, more
-      powerful, and better at preserving information. The breakthrough
-      successfully demonstrated advanced quantum calculations and could help
-      overcome major barriers to practical quantum computing.
-    imageUrl: https://www.sciencedaily.com/images/1920/computer-vibration-memory.webp
-    categories: []
-    publishedAt: 2026-11-12T02:35:20.000Z
-    source: ScienceDaily — Computer Science
   - title: "Inspired by networks found in nature, engineers design stronger, more
       resilient “metamaterials” "
     url: https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111
@@ -127,21 +158,6 @@ articles:
     categories: []
     publishedAt: 2026-11-11T16:00:00.000Z
     source: MIT Engineering
-  - title: When Does It Actually Make Sense to Put AI Into Products?
-    url: https://spectrum.ieee.org/human-centered-ai-product-design
-    summary: Over the past few years, the tech industry has rushed to plug a new
-      microchip into every device on the assumption that if you can add AI, you
-      should. Smart-vision toothbrushes, mood-reading household robots, and a
-      host of physical products are invading consumers’ daily lives, reliant on
-      artificial intelligence to learn, predict, and adjust our behavior.
-    imageUrl: https://spectrum.ieee.org/media-library/photo-collage-of-a-woman-speaking-on-stage-with-electric-toothbrushes-and-refrigerators-layered-in-the-background.jpg?id=68653834&width=1200&height=400&coordinates=0%2C729%2C0%2C730
-    categories:
-      - Product-design
-      - Product-development
-      - Ai-gadgets
-      - User-centered-design
-    publishedAt: 2026-11-11T14:00:02.000Z
-    source: IEEE Spectrum — AI
   - title: NSF’s X-Labs Program Draws Support From Charities and Investors
     url: https://spectrum.ieee.org/national-science-foundation-x-labs
     summary: When the U.S. National Science Foundation began its X-Labs program in
@@ -158,36 +174,6 @@ articles:
       - Science-funding
     publishedAt: 2026-11-11T13:00:03.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?
-    url: https://spectrum.ieee.org/agentic-robotics
-    summary: Robotics companies are investing heavily in the belief that data will
-      solve the most difficult problems in robotics. Once AI systems have
-      ingested enough data from human demonstrations, the thinking goes, robots
-      will be able to perform the vast majority of the manual tasks that humans
-      now do. There are even robotics companies that exist solely to collect
-      training data and sell it to other robotics companies in pursuit of this
-      goal.
-    imageUrl: https://spectrum.ieee.org/media-library/3d-rendering-of-a-scara-robotic-arm-carefully-dropping-a-syringe-into-a-sharps-box.jpg?id=68618830&width=1200&height=400&coordinates=0%2C849%2C0%2C850
-    categories:
-      - Robotics
-      - Agentic-ai
-      - Coding-agents
-      - Manufacturing-robots
-      - Agentic-robotics
-    publishedAt: 2026-11-09T14:00:02.000Z
-    source: IEEE Spectrum — Robotics
-  - title: A hidden limit of space and time could unlock electronics 100,000 times
-      faster
-    url: https://www.sciencedaily.com/releases/2026/11/261106174537.htm
-    summary: Scientists have discovered a surprising quantum limit that prevents
-      electrons from being tracked with unlimited precision in both space and
-      time. The breakthrough could pave the way for manipulating chemical
-      reactions and developing electronics hundreds of thousands of times faster
-      than today's technology.
-    imageUrl: https://www.sciencedaily.com/images/1920/extremely-short-electron-wave-packet-at-limits-of-space-and-time.webp
-    categories: []
-    publishedAt: 2026-11-07T23:34:19.000Z
-    source: ScienceDaily — Robotics
   - title: Build a Hidden Lock With a Magnetic Imager
     url: https://spectrum.ieee.org/magnetic
     summary: Like many a nerd, I have a certain fascination with locks. This
@@ -198,7 +184,7 @@ articles:
       locks that I purchased at hacker conferences over the years (although I’m
       still terrible at it), and I delight in the YouTube exploits of folks like
       the LockPickingLawyer.
-    imageUrl: https://spectrum.ieee.org/media-library/a-medium-sized-box-with-an-open-lid-inside-is-a-lock-mechanism-a-battery-pack-and-some-circuit-boards.png?id=68493268&width=1245&height=700&coordinates=0%2C385%2C0%2C386
+    imageUrl: https://spectrum.ieee.org/media-library/a-medium-sized-box-with-an-open-lid-inside-is-a-lock-mechanism-a-battery-pack-and-some-circuit-boards.png?id=68493268&width=1200&height=400&coordinates=0%2C596%2C0%2C596
     categories:
       - Physical-security
       - Typedepartments
