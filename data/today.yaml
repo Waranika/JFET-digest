@@ -1,80 +1,77 @@
-date: 2026-11-18
+date: 2026-11-19
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Robots learn human movement patterns to find paths through dense crowds
-    url: https://techxplore.com/news/2026-11-robots-human-movement-patterns-paths.html
-    summary: Navigating a bustling train station or airport is a major challenge for
-      people with visual impairments. New research from Örebro University
-      teaches robots to follow the "unwritten rules" of human movement and make
-      their way through dense crowds. In the long term, the technology could
-      serve as a digital complement to guide dogs.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/dense-crowds.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-11-18T12:00:10.000Z
-    source: TechXplore — Robotics
-  - title: Will AI Coding Eat Video Game Engines?
-    url: https://spectrum.ieee.org/epic-games-unreal-engine-ai
-    summary: When Travis McGeathy’s studio, Seeker Entertainment, ran out of funding
-      in September, its game KinForge went down with it. KinForge was an online
-      game built in Unreal Engine 5.7 and designed to run on servers hosted by
-      Amazon Web Services (AWS). With no one left to pay the server bill, the
-      game became unplayable even for those few developers, including studio
-      co-founder McGeathy, who had the code.
-    imageUrl: https://spectrum.ieee.org/media-library/a-game-development-software-being-used-to-generate-and-refine-images-videos-and-3d-models-of-an-1800s-saloon-setting-for-a-vi.jpg?id=68705132&width=1200&height=800&coordinates=0%2C198%2C0%2C199
-    categories:
-      - Unreal-engine
-      - Epic-games
-      - Vibe-coding
-      - Artificial-intelligence
-      - Video-games
-    publishedAt: 2026-11-18T12:00:03.000Z
-    source: IEEE Spectrum — AI
-  - title: Voyager 1 Beat the Odds and Is Still Working a Light-Day Away From Earth
-    url: https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/
-    summary: The spacecraft stores data on an eight-track tape, but it’s managed to
-      stay in contact with scientists for decades. Now, it’s the first
-      human-made object to travel a light-day away from Earth.
-    imageUrl: https://media.wired.com/photos/6afc240b2a6df42cc7084204/191:100/w_1280,c_limit/pia17462.jpg
-    categories:
-      - Science
-      - Science / Space
-    publishedAt: 2026-11-18T11:15:00.000Z
-    source: WIRED science
-  - title: Lovable Wants You to Vibe Code Your Dream Job
-    url: https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/
-    summary: This Swedish startup dominated the vibe-coded app boom. Two years after
-      launch, Lovable is shifting gears to help users run vibe-coded businesses.
-    imageUrl: https://media.wired.com/photos/6afcd191c00d87e3fd8ba0d4/191:100/w_1280,c_limit/GettyImages-2303907996.jpg
-    categories:
-      - Gear
-      - Gear / Gear News and Events
-    publishedAt: 2026-11-18T10:00:00.000Z
-    source: WIRED (AI)
-  - title: Classified communications network at the National Security Agency goes
-      down, defense official says
-    url: https://techxplore.com/news/2026-11-communications-network-national-agency-defense.html
-    summary: An internal network the National Security Agency uses to communicate
-      classified information was offline Tuesday after what the agency described
-      as "routine maintenance."
-    imageUrl: https://techxplore.com/pic/logo_small.png
+  - title: Old infrastructure, AI-driven fixes behind wave of US outages
+    url: https://techxplore.com/news/2026-11-infrastructure-ai-driven-outages.html
+    summary: A sudden spate of disruptive tech breakdowns in the United States has
+      triggered widespread public unease and compelled top officials to counter
+      rampant speculation about everything from malicious actors to unchecked
+      AI.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/takeoffs-were-halted-n.jpg
     categories:
       - Computing & Networks
-    publishedAt: 2026-11-18T09:40:01.000Z
+    publishedAt: 2026-11-19T12:00:04.000Z
     source: TechXplore — Computer Science
-  - title: Helping AI text detectors keep up with changing conditions
-    url: https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118
-    summary: A teacher who believes a student’s term paper may have been written by
-      a large language model (LLM) can use a tool for detecting artificial
-      intelligence-generated text to help confirm their suspicions. But the
-      teacher may want to think twice before putting all their trust in the
-      detector.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-movingtarget-01-press.jpg?itok=As8TOTUK
+  - title: Why a Computer Scientist Thinks Superintelligence Won’t Happen
+    url: https://spectrum.ieee.org/ai-superintelligence-debate
+    summary: ""
+    imageUrl: https://spectrum.ieee.org/media-library/pop-art-robot-head-wired-to-colorful-neural-network-nodes-on-patterned-background.png?id=68699683&width=1200&height=400&coordinates=0%2C420%2C0%2C420
+    categories:
+      - Superintelligence
+      - Artificial-general-intelligence
+      - Large-language-models
+      - Anthropic
+      - Openai
+      - Singularity
+    publishedAt: 2026-11-19T12:00:03.000Z
+    source: IEEE Spectrum — AI
+  - title: Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst
+      Enemy—Itself
+    url: https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/
+    summary: Investors betting a barnstorming $107 billion will weigh whether the
+      company’s AI safety strategy and growing public anger towards data centers
+      could impact its growth.
+    imageUrl: https://media.wired.com/photos/6afdeccab8b6cf0d23988257/191:100/w_1280,c_limit/Anthropic-IPO-Business-2297744238.jpg
+    categories:
+      - Business
+      - Business / Artificial Intelligence
+    publishedAt: 2026-11-19T12:00:00.000Z
+    source: WIRED (AI)
+  - title: Voyager Is a Light-Day Away. Here’s How Far That Really Is
+    url: https://www.wired.com/story/voyager-light-day-away-how-far-that-really-is/
+    summary: The distance and forces shaping the venerable craft’s trajectory are
+      mind-boggling reminders of the vastness of space.
+    imageUrl: https://media.wired.com/photos/6afd6967d7198704b1746983/191:100/w_1280,c_limit/1LD%20Social%20Graphics_Shine%20Bright%20-%20Web%20Hero%20copy%202.jpg
+    categories:
+      - Science / Physics and Math
+      - Science / Space
+    publishedAt: 2026-11-19T12:00:00.000Z
+    source: WIRED science
+  - title: Featherweight flying robot carries its own sensors and computers
+    url: https://techxplore.com/news/2026-11-featherweight-flying-robot-sensors.html
+    summary: Over the past decade, MIT researchers have developed aerial microrobots
+      with bumblebee-like speed, agility and durability for tasks like precision
+      agriculture or search and rescue. But these featherweight microrobots
+      couldn't carry the electronics needed for navigation, forcing them to
+      remain connected to a motion-capture system in the lab.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/this-featherweight-fly.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-11-18T19:00:25.000Z
+    source: TechXplore — Robotics
+  - title: "This featherweight, flying robot carries its own sensors and computers "
+    url: https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118
+    summary: Over the past decade, MIT researchers have developed aerial microrobots
+      with bumblebee-like speed, agility, and durability, for tasks like
+      precision agriculture or search-and-rescue. But these featherweight
+      microrobots couldn’t carry the electronics needed for navigation, forcing
+      them to remain connected to a motion-capture system in the lab.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Onboard-Microbot-A1-press.jpg?itok=-TluzTJd
     categories: []
-    publishedAt: 2026-11-18T05:00:00.000Z
-    source: MIT Artificial Intelligence
+    publishedAt: 2026-11-18T19:00:00.000Z
+    source: MIT Robotics
   - title: Building blocks for a greener skyline
     url: https://news.mit.edu/2026/building-blocks-for-greener-skyline-miana-smith-1118
     summary: The construction industry is often cited as contributing over one-third
@@ -99,7 +96,7 @@ articles:
       for the Embedded Security in Cars (escar) conference to discuss using AI
       for defense, hardening chips, and otherwise securing the auto industry’s
       data handling.
-    imageUrl: https://spectrum.ieee.org/media-library/a-tesla-sedan-parked-inside-a-testing-tent-made-of-high-metal-content-fabric.jpg?id=68696237&width=1245&height=700&coordinates=0%2C469%2C0%2C470
+    imageUrl: https://spectrum.ieee.org/media-library/a-tesla-sedan-parked-inside-a-testing-tent-made-of-high-metal-content-fabric.jpg?id=68696237&width=1200&height=400&coordinates=0%2C1042%2C0%2C1043
     categories:
       - Connected-vehicles
       - Connected-cars
@@ -142,7 +139,7 @@ articles:
       blood clot, David Bell, the surgeon seated to my right, helpfully reminds
       me that every minute a stroke goes untreated, millions of brain cells
       suffocate, swell, and die.
-    imageUrl: https://spectrum.ieee.org/media-library/remedy-robotics-n1-prototype-console-lower-left-sits-ready-to-guide-a-catheter-through-blood-vessels-using-a-ct-scan-overlai.jpg?id=68671534&width=1200&height=400&coordinates=0%2C575%2C0%2C575
+    imageUrl: https://spectrum.ieee.org/media-library/remedy-robotics-n1-prototype-console-lower-left-sits-ready-to-guide-a-catheter-through-blood-vessels-using-a-ct-scan-overlai.jpg?id=68671534&width=1245&height=700&coordinates=0%2C2%2C0%2C2
     categories:
       - Surgery
       - Telecommunications
@@ -163,16 +160,6 @@ articles:
     categories: []
     publishedAt: 2026-11-15T01:05:10.000Z
     source: ScienceDaily — Robotics
-  - title: Helping robots fit into the human workplace
-    url: https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113
-    summary: Despite fears about robots replacing humans at work, there are still
-      plenty of things humans can do far better than machines. That’s fine with
-      Robust AI, a startup building robots designed to complement what humans do
-      best.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Robust-AI-01-press.jpg?itok=1bn6fHx2
-    categories: []
-    publishedAt: 2026-11-13T05:00:00.000Z
-    source: MIT Robotics
   - title: Build a Hidden Lock With a Magnetic Imager
     url: https://spectrum.ieee.org/magnetic
     summary: Like many a nerd, I have a certain fascination with locks. This
