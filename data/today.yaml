@@ -1,41 +1,53 @@
-date: 2026-11-21
+date: 2026-11-22
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense
-      Systems
-    url: https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/
-    summary: Several years ago, NASA tested systems for deterring dangerous space
-      rocks. Now, a probe from the European Space Agency is returning to the
-      scene to investigate.
-    imageUrl: https://media.wired.com/photos/6b0013b54b02437d9d07344e/191:100/w_1280,c_limit/Hera_her_CubeSats_and_their_rocky_target.png
+  - title: Banks Have Had It Up to Here With Your AI Agent
+    url: https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/
+    summary: Major US financial institutions are banning third-party bots from
+      logging into your accounts—and warning that any costly bot mistakes are
+      strictly your problem.
+    imageUrl: https://media.wired.com/photos/6b0080a25f35c47a5c116087/191:100/w_1280,c_limit/GettyImages-2285133719.jpg
+    categories:
+      - Gear
+      - Gear / Gear News and Events
+    publishedAt: 2026-11-22T11:00:00.000Z
+    source: WIRED (AI)
+  - title: Scientists Tried to Kill This Dirt, but It Wouldn’t Die
+    url: https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/
+    summary: Biologically important chemical reactions persisted in the sterilized
+      soil for six years—offering clues to how life on Earth may have gotten its
+      start.
+    imageUrl: https://media.wired.com/photos/6afec80a658c126f4fca9f94/191:100/w_1280,c_limit/Abiotic-metabolism%20cr-Samuel%20Velasco-Lede.jpg
     categories:
       - Science
-      - Science / Space
-    publishedAt: 2026-11-21T12:00:00.000Z
+      - Science / Physics and Math
+    publishedAt: 2026-11-22T10:30:00.000Z
     source: WIRED science
-  - title: Has AI's honeymoon ended on Wall Street?
-    url: https://techxplore.com/news/2026-11-ai-honeymoon-wall-street.html
-    summary: Although the AI industry has been the darling of Wall Street for years,
-      the sector now makes investors wince as it reckons with a wave of concerns
-      over dizzying spending and its promise to make the technology profitable.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-photo-from-the-new-y.jpg
+  - title: Can teams of AI agents recreate the chain reaction of human decisions?
+    url: https://techxplore.com/news/2026-11-teams-ai-agents-recreate-chain.html
+    summary: At the start of the COVID-19 pandemic in 2020, people hoarded toilet
+      paper. Australians alone bought 39.7 million rolls from the Woolworths
+      supermarket chain in a single week, according to the store's 2020 annual
+      report. It's not the only time that fear of a shortage spiraled into one.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/can-teams-of-ai-agents.jpg
     categories:
-      - Business
-    publishedAt: 2026-11-21T11:00:01.000Z
+      - Artificial Intelligence
+    publishedAt: 2026-11-21T19:00:06.000Z
     source: TechXplore — AI & Machine Learning
-  - title: Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop
-    url: https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/
-    summary: The blockbuster game makes no secret of its contempt for law
-      enforcement. Real police departments using it to recruit new members and
-      scold the public apparently didn’t get the memo.
-    imageUrl: https://media.wired.com/photos/6b008734209518b1b255d3f5/191:100/w_1280,c_limit/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg
-    categories:
-      - Culture
-      - Culture / Video Games
-    publishedAt: 2026-11-20T23:24:02.000Z
-    source: WIRED (AI)
+  - title: AI may not work like the human brain after all, scientists discover
+    url: https://www.sciencedaily.com/releases/2026/11/261120075701.htm
+    summary: AI may not think like the human brain after all, according to a
+      striking new discovery that challenges how scientists understand
+      artificial intelligence. Researchers found that even AI models that
+      closely predict brain activity may rely on internal processes the brain
+      doesn't use, raising important questions about their reliability in
+      neuroscience research.
+    imageUrl: https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp
+    categories: []
+    publishedAt: 2026-11-21T15:24:58.000Z
+    source: ScienceDaily — Robotics
   - title: "Q&A: Enabling more human-like interactions and understanding in
       multimodal foundation models"
     url: https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120
@@ -169,17 +181,6 @@ articles:
     categories: []
     publishedAt: 2026-11-17T12:03:58.000Z
     source: ScienceDaily — Computer Science
-  - title: AI discovers a hidden heart signal that could predict sudden death
-    url: https://www.sciencedaily.com/releases/2026/11/261112230456.htm
-    summary: Scientists have uncovered a hidden warning sign in routine heart scans
-      that could predict sudden cardiac death before it strikes. The AI-powered
-      discovery outperformed conventional screening methods, potentially
-      revealing thousands of people at risk of a fatal heart malfunction that
-      doctors might otherwise miss.
-    imageUrl: https://www.sciencedaily.com/images/1920/cardiology-heart-attack-disease-prevention.webp
-    categories: []
-    publishedAt: 2026-11-15T01:05:10.000Z
-    source: ScienceDaily — Robotics
   - title: Build a Hidden Lock With a Magnetic Imager
     url: https://spectrum.ieee.org/magnetic
     summary: Like many a nerd, I have a certain fascination with locks. This
