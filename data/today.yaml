@@ -1,41 +1,74 @@
-date: 2026-11-22
+date: 2026-11-23
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: Banks Have Had It Up to Here With Your AI Agent
-    url: https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/
-    summary: Major US financial institutions are banning third-party bots from
-      logging into your accounts—and warning that any costly bot mistakes are
-      strictly your problem.
-    imageUrl: https://media.wired.com/photos/6b0080a25f35c47a5c116087/191:100/w_1280,c_limit/GettyImages-2285133719.jpg
-    categories:
-      - Gear
-      - Gear / Gear News and Events
-    publishedAt: 2026-11-22T11:00:00.000Z
-    source: WIRED (AI)
-  - title: Scientists Tried to Kill This Dirt, but It Wouldn’t Die
-    url: https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/
-    summary: Biologically important chemical reactions persisted in the sterilized
-      soil for six years—offering clues to how life on Earth may have gotten its
-      start.
-    imageUrl: https://media.wired.com/photos/6afec80a658c126f4fca9f94/191:100/w_1280,c_limit/Abiotic-metabolism%20cr-Samuel%20Velasco-Lede.jpg
-    categories:
-      - Science
-      - Science / Physics and Math
-    publishedAt: 2026-11-22T10:30:00.000Z
-    source: WIRED science
-  - title: Can teams of AI agents recreate the chain reaction of human decisions?
-    url: https://techxplore.com/news/2026-11-teams-ai-agents-recreate-chain.html
-    summary: At the start of the COVID-19 pandemic in 2020, people hoarded toilet
-      paper. Australians alone bought 39.7 million rolls from the Woolworths
-      supermarket chain in a single week, according to the store's 2020 annual
-      report. It's not the only time that fear of a shortage spiraled into one.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/can-teams-of-ai-agents.jpg
+  - title: "'SLIC' training could help engineers design analog chips faster and with
+      less expense"
+    url: https://techxplore.com/news/2026-11-slic-analog-chips-faster-expense.html
+    summary: A new technique developed by MIT researchers could help engineers use
+      artificial intelligence to streamline the design and innovation of analog
+      integrated circuits, semiconductor chips that perform vital functions like
+      communication and power management in electronic devices.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/semiconductor-chip-1.jpg
     categories:
       - Artificial Intelligence
-    publishedAt: 2026-11-21T19:00:06.000Z
+    publishedAt: 2026-11-23T14:00:11.000Z
     source: TechXplore — AI & Machine Learning
+  - title: Nvidia Is Powering Brain-Computer Interfaces Now
+    url: https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/
+    summary: Brain-computer interface company Paradromics is using Nvidia’s
+      computing hardware and software to process brain data.
+    imageUrl: https://media.wired.com/photos/6b00bf3096143f394c42fff6/191:100/w_1280,c_limit/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg
+    categories:
+      - Science
+      - Science / Biotech
+    publishedAt: 2026-11-23T13:11:48.000Z
+    source: WIRED (AI)
+  - title: "A LEASH for AI-controlled robots: New system could reduce harmful actions"
+    url: https://techxplore.com/news/2026-11-leash-ai-robots-actions.html
+    summary: Large language models, the models behind the functioning of ChatGPT,
+      Gemini and similar platforms, are now also used in robotics. These models
+      can help robots to interpret user instructions, plan their actions and
+      respond to changes in their surroundings.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-system-could-reduc-2.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-11-23T12:40:01.000Z
+    source: TechXplore — Robotics
+  - title: Mysterious new viruses reveal a missing link in evolution
+    url: https://www.sciencedaily.com/releases/2026/11/261122060334.htm
+    summary: Scientists have discovered previously unknown viruses that could help
+      explain how some of life’s earliest biological structures evolved. The
+      surprising findings challenge a longstanding evolutionary theory and
+      suggest that viruses may have hidden capabilities far beyond simply
+      infecting cells.
+    imageUrl: https://www.sciencedaily.com/images/1920/abelardo-aguilar.webp
+    categories: []
+    publishedAt: 2026-11-23T10:45:53.000Z
+    source: ScienceDaily — Robotics
+  - title: AI-driven technique could help engineers design analog chips faster and
+      with less expense
+    url: https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123
+    summary: A new technique developed by MIT researchers could help engineers use
+      artificial intelligence to streamline the design and innovation of analog
+      integrated circuits, semiconductor chips that perform vital functions like
+      communication and power management in electronic devices.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-AnalogOptimize-01-Press.jpg?itok=826Fvg7c
+    categories: []
+    publishedAt: 2026-11-23T05:00:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Interstellar solar sails hit a bizarre problem at 75% of light speed
+    url: https://www.sciencedaily.com/releases/2026/11/261120071305.htm
+    summary: "Scientists have discovered a surprising obstacle to interstellar
+      travel: at extreme speeds, the light propelling futuristic solar sails
+      could actually begin slowing them down. Once a spacecraft reaches 75% of
+      the speed of light, some scattered light starts producing drag,
+      potentially complicating humanity’s plans to reach distant stars."
+    imageUrl: https://www.sciencedaily.com/images/1920/diffractive-solar-sail.webp
+    categories: []
+    publishedAt: 2026-11-22T11:59:29.000Z
+    source: ScienceDaily — Engineering
   - title: AI may not work like the human brain after all, scientists discover
     url: https://www.sciencedaily.com/releases/2026/11/261120075701.htm
     summary: AI may not think like the human brain after all, according to a
@@ -47,21 +80,7 @@ articles:
     imageUrl: https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp
     categories: []
     publishedAt: 2026-11-21T15:24:58.000Z
-    source: ScienceDaily — Robotics
-  - title: "Q&A: Enabling more human-like interactions and understanding in
-      multimodal foundation models"
-    url: https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120
-    summary: Humans experience and interact with the world through sensory
-      information. This could mean learning correspondences between the sound of
-      bird chirps and the word “robin,” or being able to visually identify and
-      follow your friend “Sarah” in a crowd of people. In many cases, people are
-      able to draw on their latent “multimodal” knowledge — information across
-      multiple data types, from audio to video to text or spoken word — to
-      perform these tasks without many, or sometimes even any, examples.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-ibm-multimodal.jpg?itok=5RCVRMBS
-    categories: []
-    publishedAt: 2026-11-20T21:00:00.000Z
-    source: MIT Artificial Intelligence
+    source: ScienceDaily — Artificial Intelligence
   - title: Noninvasive brain interface uses AI suggestions to convey messages nearly
       three times faster
     url: https://techxplore.com/news/2026-11-noninvasive-brain-interface-ai-convey.html
@@ -90,7 +109,7 @@ articles:
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/small-quadrotor-drone-with-glowing-leds-squeezes-itself-to-slip-through-a-rectangular-hole-in-a-wooden-wall.gif?id=68705683&width=1200&height=400&coordinates=0%2C205%2C0%2C205
+    imageUrl: https://spectrum.ieee.org/media-library/small-quadrotor-drone-with-glowing-leds-squeezes-itself-to-slip-through-a-rectangular-hole-in-a-wooden-wall.gif?id=68705683&width=1200&height=800&coordinates=0%2C5%2C0%2C5
     categories:
       - Video-friday
       - Quadrotors
@@ -100,20 +119,6 @@ articles:
       - Humanoid-robots
     publishedAt: 2026-11-20T17:30:03.000Z
     source: IEEE Spectrum — Robotics
-  - title: Outdoor 3D tracking technology uses a drone's flight path as a 'moving
-      ruler'
-    url: https://techxplore.com/news/2026-11-outdoor-3d-tracking-technology-drone.html
-    summary: The secret behind the lifelike movements of the characters in the film
-      "Avatar" was motion capture, a technology that records movement in three
-      dimensions by attaching markers to actors' bodies and filming them with
-      multiple cameras inside a studio. However, bringing such precise
-      measurement into wide outdoor spaces such as sports fields has never been
-      easy.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/outdoor-3d-tracking-te.jpg
-    categories:
-      - Artificial Intelligence
-    publishedAt: 2026-11-20T16:00:28.000Z
-    source: TechXplore — Robotics
   - title: I Don’t Trust Visual Recordings Anymore. But One Day I Will Again
     url: https://spectrum.ieee.org/fighting-back-against-deep-fakes
     summary: In March of this year, a flurry of emails and text messages from a half
@@ -132,18 +137,6 @@ articles:
       - Content-credentials
     publishedAt: 2026-11-20T14:00:03.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: CERN scientists finally find evidence of a particle decay so rare it took
-      40 years to detect
-    url: https://www.sciencedaily.com/releases/2026/11/261119194530.htm
-    summary: Scientists at CERN have found the first evidence of an incredibly rare
-      particle decay after more than 40 years of searching, detecting a process
-      expected to occur just once in every 10 billion beauty particles. The
-      breakthrough could help physicists explore a mysterious microscopic realm
-      where unknown particles and forces may be hiding.
-    imageUrl: https://www.sciencedaily.com/images/1920/high-energy-atomic-particle-physics.webp
-    categories: []
-    publishedAt: 2026-11-20T12:23:23.000Z
-    source: ScienceDaily — Engineering
   - title: Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check
     url: https://spectrum.ieee.org/ai-agent-manager
     summary: AI agents are running amok on the internet, armed with commands to
