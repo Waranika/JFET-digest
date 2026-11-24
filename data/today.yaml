@@ -1,40 +1,92 @@
-date: 2026-11-23
+date: 2026-11-24
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
-  - title: "'SLIC' training could help engineers design analog chips faster and with
-      less expense"
-    url: https://techxplore.com/news/2026-11-slic-analog-chips-faster-expense.html
-    summary: A new technique developed by MIT researchers could help engineers use
-      artificial intelligence to streamline the design and innovation of analog
-      integrated circuits, semiconductor chips that perform vital functions like
-      communication and power management in electronic devices.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2022/semiconductor-chip-1.jpg
+  - title: Why Does Voice AI Still Struggle With Kenyans’ Speech?
+    url: https://spectrum.ieee.org/swahili-speech-recognition
+    summary: When people read prepared text aloud, AI can transcribe Swahili with
+      remarkably few errors, and Swahili speech recognition looks close to
+      solved. A March 2026 preprint by a team including a Harvard University
+      researcher reports a 3.24 percent word error rate on recordings from
+      Mozilla’s Common Voice collection of volunteer-recorded speech.
+    imageUrl: https://spectrum.ieee.org/media-library/three-college-students-posing-together-in-front-of-a-whiteboard-covered-in-writing-from-various-sheng-dialects.jpg?id=68751313&width=2000&height=1500&coordinates=402%2C0%2C403%2C0
     categories:
-      - Artificial Intelligence
-    publishedAt: 2026-11-23T14:00:11.000Z
-    source: TechXplore — AI & Machine Learning
-  - title: Nvidia Is Powering Brain-Computer Interfaces Now
-    url: https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/
-    summary: Brain-computer interface company Paradromics is using Nvidia’s
-      computing hardware and software to process brain data.
-    imageUrl: https://media.wired.com/photos/6b00bf3096143f394c42fff6/191:100/w_1280,c_limit/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg
+      - Natural-language-processing
+      - Speech-recognition
+      - Kenya
+      - Speech-recognition-technology
+      - Africa
+    publishedAt: 2026-11-24T12:00:03.000Z
+    source: IEEE Spectrum — AI
+  - title: ‘GTA 6’ Is a Birder’s Paradise
+    url: https://www.wired.com/story/gta-vi-birders-paradise/
+    summary: Here’s what it’s like to grab a pair of binoculars and go in search of
+      the 62 species of birds that populate the game.
+    imageUrl: https://media.wired.com/photos/6b03f4615f8e6c0d7b84ae8c/191:100/w_1280,c_limit/image2.png
     categories:
       - Science
-      - Science / Biotech
-    publishedAt: 2026-11-23T13:11:48.000Z
+      - Science / Environment
+      - Culture
+    publishedAt: 2026-11-24T11:45:00.000Z
+    source: WIRED science
+  - title: Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving
+    url: https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/
+    summary: Young people anxious about their futures say they’re increasingly
+      frustrated with their pro-AI parents. They’re worried it’s going to make
+      holiday gatherings very tense.
+    imageUrl: https://media.wired.com/photos/6b04ca840ad1d7b44d47c2ed/191:100/w_1280,c_limit/Dont-Bring-Up-AI-if-You-Want-to-Enjoy-Thanksgiving-Business.jpg
+    categories:
+      - Culture
+      - Culture / Digital Culture
+    publishedAt: 2026-11-24T10:45:00.000Z
     source: WIRED (AI)
-  - title: "A LEASH for AI-controlled robots: New system could reduce harmful actions"
-    url: https://techxplore.com/news/2026-11-leash-ai-robots-actions.html
-    summary: Large language models, the models behind the functioning of ChatGPT,
-      Gemini and similar platforms, are now also used in robotics. These models
-      can help robots to interpret user instructions, plan their actions and
-      respond to changes in their surroundings.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/new-system-could-reduc-2.jpg
+  - title: IBM quantum computer solves problem classical computers can’t in just 15
+      minutes
+    url: https://www.sciencedaily.com/releases/2026/11/261123231244.htm
+    summary: IBM and University of Chicago researchers have demonstrated that a
+      quantum computer can complete an extraordinarily complex calculation in
+      just 15 minutes, beyond the practical reach of leading classical computing
+      methods. A novel error-detection technique also allows scientists to
+      establish confidence in the accuracy of the results, overcoming a major
+      hurdle in quantum computing.
+    imageUrl: https://www.sciencedaily.com/images/1920/quantum-computer-processor-with-superconducting-circuits.webp
+    categories: []
+    publishedAt: 2026-11-24T04:46:12.000Z
+    source: ScienceDaily — Computer Science
+  - title: Many languages, one common neural code
+    url: https://news.mit.edu/2026/many-languages-one-common-neural-code-1123
+    summary: Languages take on thousands of forms. Some are tonal, like Vietnamese,
+      where shifts in pitch convey distinct meanings. English relies on precise
+      word orders, but this matters less for Russian, where words can be swapped
+      without changing the intended message.
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/mit-mcgovern-languages.jpg?itok=wMLbQvpF
+    categories: []
+    publishedAt: 2026-11-23T21:15:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Thanksgiving travel could be messy with storms coming after a week filled
+      with airline glitches
+    url: https://techxplore.com/news/2026-11-airline-glitches-storms-messy-thanksgiving.html
+    summary: Traveling for the Thanksgiving holiday is shaping up to be a bit
+      chaotic, following a cascade of glitches that have upended airlines the
+      past weeks, the threat of storms on both coasts and soaring airfares.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/aptopix-us-nationwide-3.jpg
+    categories:
+      - Transportation
+    publishedAt: 2026-11-23T19:20:01.000Z
+    source: TechXplore — Computer Science
+  - title: New drone prototype folds itself through gaps half its width during flight
+    url: https://techxplore.com/news/2026-11-drone-prototype-gaps-width-flight.html
+    summary: Drones are now commonly used in areas that are difficult for humans to
+      access, but these spaces often have small or awkwardly shaped regions that
+      are also difficult for drones to access. Some designs have attempted to
+      overcome these limitations with shape-changing mechanisms that require
+      extra motors or special thrust maneuvers, but these usually add complexity
+      or restrict movement in other ways.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-drone-prototype-fo.jpg
     categories:
       - Robotics
-    publishedAt: 2026-11-23T12:40:01.000Z
+    publishedAt: 2026-11-23T18:20:07.000Z
     source: TechXplore — Robotics
   - title: Mysterious new viruses reveal a missing link in evolution
     url: https://www.sciencedaily.com/releases/2026/11/261122060334.htm
@@ -47,17 +99,6 @@ articles:
     categories: []
     publishedAt: 2026-11-23T10:45:53.000Z
     source: ScienceDaily — Robotics
-  - title: AI-driven technique could help engineers design analog chips faster and
-      with less expense
-    url: https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123
-    summary: A new technique developed by MIT researchers could help engineers use
-      artificial intelligence to streamline the design and innovation of analog
-      integrated circuits, semiconductor chips that perform vital functions like
-      communication and power management in electronic devices.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-AnalogOptimize-01-Press.jpg?itok=826Fvg7c
-    categories: []
-    publishedAt: 2026-11-23T05:00:00.000Z
-    source: MIT Artificial Intelligence
   - title: Interstellar solar sails hit a bizarre problem at 75% of light speed
     url: https://www.sciencedaily.com/releases/2026/11/261120071305.htm
     summary: "Scientists have discovered a surprising obstacle to interstellar
@@ -69,30 +110,6 @@ articles:
     categories: []
     publishedAt: 2026-11-22T11:59:29.000Z
     source: ScienceDaily — Engineering
-  - title: AI may not work like the human brain after all, scientists discover
-    url: https://www.sciencedaily.com/releases/2026/11/261120075701.htm
-    summary: AI may not think like the human brain after all, according to a
-      striking new discovery that challenges how scientists understand
-      artificial intelligence. Researchers found that even AI models that
-      closely predict brain activity may rely on internal processes the brain
-      doesn't use, raising important questions about their reliability in
-      neuroscience research.
-    imageUrl: https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp
-    categories: []
-    publishedAt: 2026-11-21T15:24:58.000Z
-    source: ScienceDaily — Artificial Intelligence
-  - title: Noninvasive brain interface uses AI suggestions to convey messages nearly
-      three times faster
-    url: https://techxplore.com/news/2026-11-noninvasive-brain-interface-ai-convey.html
-    summary: Rutgers engineers have developed one of the fastest noninvasive
-      brain-computer communication interfaces of its kind, leveraging artificial
-      intelligence (AI) to translate brain activity into words and phrases at
-      record-level speeds.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/a-group-of-people-stan.jpg
-    categories:
-      - Computing & Networks
-    publishedAt: 2026-11-20T20:00:04.000Z
-    source: TechXplore — Computer Science
   - title: New approach enables physically consistent AI models of chaotic systems
     url: https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120
     summary: Modeling of complex, chaotic processes such as weather and climate
@@ -137,20 +154,6 @@ articles:
       - Content-credentials
     publishedAt: 2026-11-20T14:00:03.000Z
     source: IEEE Spectrum — Computing & Chips
-  - title: Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check
-    url: https://spectrum.ieee.org/ai-agent-manager
-    summary: AI agents are running amok on the internet, armed with commands to
-      accomplish certain tasks but often acting in undesirable or unexpected
-      ways. These rogue incidents run the gamut from deleting an entire email
-      inbox to hacking websites and even launching cyberattacks.
-    imageUrl: https://spectrum.ieee.org/media-library/illustration-of-an-ai-agent-supervising-and-designating-tasks-to-smaller-ai-agents.jpg?id=68511562&width=1200&height=400&coordinates=0%2C729%2C0%2C730
-    categories:
-      - Agentic-ai
-      - Alignment
-      - Software-engineering
-      - Algorithmic-management
-    publishedAt: 2026-11-19T15:00:03.000Z
-    source: IEEE Spectrum — AI
   - title: "This featherweight, flying robot carries its own sensors and computers "
     url: https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118
     summary: Over the past decade, MIT researchers have developed aerial microrobots
@@ -162,18 +165,6 @@ articles:
     categories: []
     publishedAt: 2026-11-18T19:00:00.000Z
     source: MIT Robotics
-  - title: Scientists tracked kids for 8 years. What they found about screen time
-      was surprising
-    url: https://www.sciencedaily.com/releases/2026/11/261116014725.htm
-    summary: A surprising Finnish study found that children who spent more time
-      using screens tended to have better cognitive processing abilities as
-      teenagers, challenging the assumption that screen time is always harmful.
-      Researchers suggest that what children do on screens may matter more than
-      how much time they spend using them.
-    imageUrl: https://www.sciencedaily.com/images/1920/cute-boy-staring-at-cell-phone-screen.webp
-    categories: []
-    publishedAt: 2026-11-17T12:03:58.000Z
-    source: ScienceDaily — Computer Science
   - title: Build a Hidden Lock With a Magnetic Imager
     url: https://spectrum.ieee.org/magnetic
     summary: Like many a nerd, I have a certain fascination with locks. This
@@ -184,7 +175,7 @@ articles:
       locks that I purchased at hacker conferences over the years (although I’m
       still terrible at it), and I delight in the YouTube exploits of folks like
       the LockPickingLawyer.
-    imageUrl: https://spectrum.ieee.org/media-library/a-medium-sized-box-with-an-open-lid-inside-is-a-lock-mechanism-a-battery-pack-and-some-circuit-boards.png?id=68493268&width=1200&height=800&coordinates=0%2C289%2C0%2C290
+    imageUrl: https://spectrum.ieee.org/media-library/a-medium-sized-box-with-an-open-lid-inside-is-a-lock-mechanism-a-battery-pack-and-some-circuit-boards.png?id=68493268&width=1200&height=400&coordinates=0%2C596%2C0%2C596
     categories:
       - Physical-security
       - Typedepartments
