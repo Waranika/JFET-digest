@@ -1,16 +1,84 @@
-date: 2026-11-24
+date: 2026-11-25
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Agentic system personalizes physical controls to help users 'DJ their art'
+    url: https://techxplore.com/news/2026-11-agentic-personalizes-physical-users-dj.html
+    summary: In 2017, Apple removed the home button from its iPhones. Users lost a
+      convenient, tangible control—part of a larger shift to digital buttons,
+      knobs and sliders we also see in cars (like with radio presets and air
+      conditioning) and kitchens (smart fridges).
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/agentic-system-persona.jpg
+    categories:
+      - Computing & Networks
+    publishedAt: 2026-11-25T14:00:09.000Z
+    source: TechXplore — Computer Science
+  - title: Inflatable FaBrick enables soft robots to contract, bend and twist
+    url: https://techxplore.com/news/2026-11-inflatable-fabrick-enables-soft-robots.html
+    summary: Soft robots that contract, bend, twist, rotate or stiffen can be built
+      from the same pneumatically actuated fabric with easily accessible tools,
+      according to a University of Michigan Engineering study. The fabric,
+      embedded with a grid of inflatable pouches, earned the name FaBrick as the
+      design drew inspiration from modular building blocks like LEGO bricks.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/soft-robotics-actuated.jpg
+    categories:
+      - Robotics
+    publishedAt: 2026-11-25T13:40:13.000Z
+    source: TechXplore — Robotics
+  - title: Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long
+    url: https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/
+    summary: The “hardest remaining problem in classical physics” gets a boost from
+      terabytes of crowdsourced data and new ways of using machine learning and
+      AI.
+    imageUrl: https://media.wired.com/photos/6b0548d39ef0144d4a117a16/191:100/w_1280,c_limit/GettyImages-1291069581.jpg
+    categories:
+      - Gear
+      - Gear / Gear News and Events
+    publishedAt: 2026-11-25T11:30:00.000Z
+    source: WIRED (AI)
+  - title: What is a thought made of? Why human consciousness may be beyond AI’s reach
+    url: https://www.sciencedaily.com/releases/2026/11/261124055712.htm
+    summary: A new theory suggests that the brain may chemically encode and retrieve
+      memories rather than relying solely on electrical signals. Researchers
+      propose that interactions between brain cells and their molecular
+      surroundings could help explain the intimate connection between memory,
+      emotion, and thought. Their findings challenge the assumption that
+      increasingly powerful computers could eventually develop human-like
+      consciousness.
+    imageUrl: https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thought-consciousness.webp
+    categories: []
+    publishedAt: 2026-11-25T09:30:54.000Z
+    source: ScienceDaily — Robotics
+  - title: Agentic system personalizes physical controls to help users “DJ their art”
+    url: https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124
+    summary: In 2017, Apple removed the home button from its iPhones. Users lost a
+      convenient, tangible control — part of a larger shift to digital buttons,
+      knobs, and sliders we also see in cars (like with radio presets and air
+      conditioning) and kitchens (see smart fridges).
+    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-csail-TangiMap.jpg?itok=eoPhYjUD
+    categories: []
+    publishedAt: 2026-11-24T19:30:00.000Z
+    source: MIT Artificial Intelligence
+  - title: Thanksgiving Travel Will Be a Stormy Mess
+    url: https://www.wired.com/story/thanksgiving-travel-will-be-stormy-mess/
+    summary: Snow, wind, rain, flooding. Storms on both coasts mean the holiday
+      travel week will have it all—and it could wreak havoc at airports across
+      the US.
+    imageUrl: https://media.wired.com/photos/6b04c97ceec76be14d96215d/191:100/w_1280,c_limit/Holiday-Travel-Mess-Science-2305538543.jpg
+    categories:
+      - Science
+      - Science / Environment
+    publishedAt: 2026-11-24T15:12:31.000Z
+    source: WIRED science
   - title: Why Does Voice AI Still Struggle With Kenyans’ Speech?
     url: https://spectrum.ieee.org/swahili-speech-recognition
     summary: When people read prepared text aloud, AI can transcribe Swahili with
       remarkably few errors, and Swahili speech recognition looks close to
       solved. A March 2026 preprint by a team including a Harvard University
-      researcher reports a 3.24 percent word error rate on recordings from
+      researcher reports a 3.24 percent word-error rate on recordings from
       Mozilla’s Common Voice collection of volunteer-recorded speech.
-    imageUrl: https://spectrum.ieee.org/media-library/three-college-students-posing-together-in-front-of-a-whiteboard-covered-in-writing-from-various-sheng-dialects.jpg?id=68751313&width=2000&height=1500&coordinates=402%2C0%2C403%2C0
+    imageUrl: https://spectrum.ieee.org/media-library/three-college-students-posing-together-in-front-of-a-whiteboard-covered-in-writing-from-various-sheng-dialects.jpg?id=68751313&width=1200&height=800&coordinates=140%2C0%2C141%2C0
     categories:
       - Natural-language-processing
       - Speech-recognition
@@ -19,86 +87,6 @@ articles:
       - Africa
     publishedAt: 2026-11-24T12:00:03.000Z
     source: IEEE Spectrum — AI
-  - title: ‘GTA 6’ Is a Birder’s Paradise
-    url: https://www.wired.com/story/gta-vi-birders-paradise/
-    summary: Here’s what it’s like to grab a pair of binoculars and go in search of
-      the 62 species of birds that populate the game.
-    imageUrl: https://media.wired.com/photos/6b03f4615f8e6c0d7b84ae8c/191:100/w_1280,c_limit/image2.png
-    categories:
-      - Science
-      - Science / Environment
-      - Culture
-    publishedAt: 2026-11-24T11:45:00.000Z
-    source: WIRED science
-  - title: Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving
-    url: https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/
-    summary: Young people anxious about their futures say they’re increasingly
-      frustrated with their pro-AI parents. They’re worried it’s going to make
-      holiday gatherings very tense.
-    imageUrl: https://media.wired.com/photos/6b04ca840ad1d7b44d47c2ed/191:100/w_1280,c_limit/Dont-Bring-Up-AI-if-You-Want-to-Enjoy-Thanksgiving-Business.jpg
-    categories:
-      - Culture
-      - Culture / Digital Culture
-    publishedAt: 2026-11-24T10:45:00.000Z
-    source: WIRED (AI)
-  - title: IBM quantum computer solves problem classical computers can’t in just 15
-      minutes
-    url: https://www.sciencedaily.com/releases/2026/11/261123231244.htm
-    summary: IBM and University of Chicago researchers have demonstrated that a
-      quantum computer can complete an extraordinarily complex calculation in
-      just 15 minutes, beyond the practical reach of leading classical computing
-      methods. A novel error-detection technique also allows scientists to
-      establish confidence in the accuracy of the results, overcoming a major
-      hurdle in quantum computing.
-    imageUrl: https://www.sciencedaily.com/images/1920/quantum-computer-processor-with-superconducting-circuits.webp
-    categories: []
-    publishedAt: 2026-11-24T04:46:12.000Z
-    source: ScienceDaily — Computer Science
-  - title: Many languages, one common neural code
-    url: https://news.mit.edu/2026/many-languages-one-common-neural-code-1123
-    summary: Languages take on thousands of forms. Some are tonal, like Vietnamese,
-      where shifts in pitch convey distinct meanings. English relies on precise
-      word orders, but this matters less for Russian, where words can be swapped
-      without changing the intended message.
-    imageUrl: https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/mit-mcgovern-languages.jpg?itok=wMLbQvpF
-    categories: []
-    publishedAt: 2026-11-23T21:15:00.000Z
-    source: MIT Artificial Intelligence
-  - title: Thanksgiving travel could be messy with storms coming after a week filled
-      with airline glitches
-    url: https://techxplore.com/news/2026-11-airline-glitches-storms-messy-thanksgiving.html
-    summary: Traveling for the Thanksgiving holiday is shaping up to be a bit
-      chaotic, following a cascade of glitches that have upended airlines the
-      past weeks, the threat of storms on both coasts and soaring airfares.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/aptopix-us-nationwide-3.jpg
-    categories:
-      - Transportation
-    publishedAt: 2026-11-23T19:20:01.000Z
-    source: TechXplore — Computer Science
-  - title: New drone prototype folds itself through gaps half its width during flight
-    url: https://techxplore.com/news/2026-11-drone-prototype-gaps-width-flight.html
-    summary: Drones are now commonly used in areas that are difficult for humans to
-      access, but these spaces often have small or awkwardly shaped regions that
-      are also difficult for drones to access. Some designs have attempted to
-      overcome these limitations with shape-changing mechanisms that require
-      extra motors or special thrust maneuvers, but these usually add complexity
-      or restrict movement in other ways.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/new-drone-prototype-fo.jpg
-    categories:
-      - Robotics
-    publishedAt: 2026-11-23T18:20:07.000Z
-    source: TechXplore — Robotics
-  - title: Mysterious new viruses reveal a missing link in evolution
-    url: https://www.sciencedaily.com/releases/2026/11/261122060334.htm
-    summary: Scientists have discovered previously unknown viruses that could help
-      explain how some of life’s earliest biological structures evolved. The
-      surprising findings challenge a longstanding evolutionary theory and
-      suggest that viruses may have hidden capabilities far beyond simply
-      infecting cells.
-    imageUrl: https://www.sciencedaily.com/images/1920/abelardo-aguilar.webp
-    categories: []
-    publishedAt: 2026-11-23T10:45:53.000Z
-    source: ScienceDaily — Robotics
   - title: Interstellar solar sails hit a bizarre problem at 75% of light speed
     url: https://www.sciencedaily.com/releases/2026/11/261120071305.htm
     summary: "Scientists have discovered a surprising obstacle to interstellar
@@ -126,7 +114,7 @@ articles:
       collected by your friends at IEEE Spectrum robotics. We also post a weekly
       calendar of upcoming robotics events for the next few months. Please send
       us your events for inclusion.
-    imageUrl: https://spectrum.ieee.org/media-library/small-quadrotor-drone-with-glowing-leds-squeezes-itself-to-slip-through-a-rectangular-hole-in-a-wooden-wall.gif?id=68705683&width=1200&height=800&coordinates=0%2C5%2C0%2C5
+    imageUrl: https://spectrum.ieee.org/media-library/small-quadrotor-drone-with-glowing-leds-squeezes-itself-to-slip-through-a-rectangular-hole-in-a-wooden-wall.gif?id=68705683&width=1245&height=700&coordinates=0%2C67%2C0%2C68
     categories:
       - Video-friday
       - Quadrotors
@@ -175,7 +163,7 @@ articles:
       locks that I purchased at hacker conferences over the years (although I’m
       still terrible at it), and I delight in the YouTube exploits of folks like
       the LockPickingLawyer.
-    imageUrl: https://spectrum.ieee.org/media-library/a-medium-sized-box-with-an-open-lid-inside-is-a-lock-mechanism-a-battery-pack-and-some-circuit-boards.png?id=68493268&width=1200&height=400&coordinates=0%2C596%2C0%2C596
+    imageUrl: https://spectrum.ieee.org/media-library/a-medium-sized-box-with-an-open-lid-inside-is-a-lock-mechanism-a-battery-pack-and-some-circuit-boards.png?id=68493268&width=1245&height=700&coordinates=0%2C385%2C0%2C386
     categories:
       - Physical-security
       - Typedepartments
