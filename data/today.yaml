@@ -1,8 +1,60 @@
-date: 2026-11-27
+date: 2026-11-28
 subject: Your Tech Digest
 intro: Curated news on AI, robotics, chips and engineering. Feel free to tweak
   this intro in data/today.yaml.
 articles:
+  - title: Swift Saw the Secrets of Space Before Falling to Earth
+    url: https://www.wired.com/story/swift-saw-the-secrets-of-space-before-falling-to-earth/
+    summary: Designed for a two-year mission, the Neil Gehrels Swift Observatory saw
+      thousands of gamma-ray bursts and stars being torn apart by black holes
+      over 22 years before burning up in Earth’s atmosphere.
+    imageUrl: https://media.wired.com/photos/6afdfad71581bbef3a3945cc/191:100/w_1280,c_limit/Swift_in_space_15_ac.jpg
+    categories:
+      - Science
+      - Science / Space
+    publishedAt: 2026-11-28T11:30:00.000Z
+    source: WIRED science
+  - title: The physics wall facing orbital AI data centers
+    url: https://techxplore.com/news/2026-11-physics-wall-orbital-ai-centers.html
+    summary: Basing entire business plans on back-of-the-envelope calculations might
+      not seem like the best idea. However, according to a new paper by Dr.
+      Slava Turyshev of NASA's Jet Propulsion Laboratory, available as a
+      preprint on arXiv, that is precisely what the companies touting orbital AI
+      data centers are doing.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/the-physics-wall-facin.jpg
+    categories:
+      - Computing & Networks
+    publishedAt: 2026-11-28T02:40:05.000Z
+    source: TechXplore — Computer Science
+  - title: Frozen language model helps predict materials properties with roughly 95%
+      less training time
+    url: https://techxplore.com/news/2026-11-frozen-language-materials-properties-roughly.html
+    summary: Discovering new materials often involves predicting their properties
+      before investing time and resources in making and testing them in the
+      laboratory. Machine-learning models are widely used to estimate important
+      properties, such as band gap and formation energy, helping researchers
+      narrow down candidate materials. More recently, large language models
+      (LLMs) have offered a flexible way to represent materials through text for
+      property prediction.
+    imageUrl: https://scx2.b-cdn.net/gfx/news/hires/2026/zebra-prop-a-lightweig.jpg
+    categories:
+      - Artificial Intelligence
+    publishedAt: 2026-11-27T18:40:02.000Z
+    source: TechXplore — AI & Machine Learning
+  - title: This ER Doctor Became a Hospital’s First Clinical AI Engineer
+    url: https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai
+    summary: When Boston Children’s Hospital posted a job listing for a prompt
+      engineer in 2023, Dinesh Rai decided to apply. He didn’t expect to get the
+      job.
+    imageUrl: https://spectrum.ieee.org/media-library/smiling-man-in-glasses-sits-at-a-desk-surrounded-by-computer-monitors-and-gadgets.png?id=68731256&width=1200&height=800&coordinates=0%2C0%2C0%2C0
+    categories:
+      - Typedepartments
+      - Prompt-engineering
+      - Medical-ai
+      - Hospitals
+      - Large-language-models
+    publishedAt: 2026-11-27T14:00:01.000Z
+    source: IEEE Spectrum — AI
   - title: "From lab to blueberry field: Blueberry-picking robot uses soft silicone
       bands to selectively harvest ripe fruit"
     url: https://techxplore.com/news/2026-11-lab-blueberry-field-robot-soft.html
@@ -14,29 +66,6 @@ articles:
       - Robotics
     publishedAt: 2026-11-27T12:40:01.000Z
     source: TechXplore — Robotics
-  - title: Blockchain power trading could cut energy costs by up to 56% in simulated
-      microgrid
-    url: https://techxplore.com/news/2026-11-blockchain-power-energy-simulated-microgrid.html
-    summary: A blockchain-based system for trading electricity directly between
-      households and businesses could cut energy costs by up to 56% and increase
-      the income of small-scale producers by almost 150%, according to research
-      in the International Journal of Industrial and Systems Engineering.
-    imageUrl: https://scx2.b-cdn.net/gfx/news/2026/blockchain-power-tradi.jpg
-    categories:
-      - Energy
-    publishedAt: 2026-11-27T12:10:06.000Z
-    source: TechXplore — Computer Science
-  - title: Welcome to the Repair Café, Where Neighbors Fight Throwaway Culture
-    url: https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/
-    summary: In church basements and warehouses, Americans are building cozy yet
-      radical spaces to encourage each other to fix broken items instead of
-      throwing them away.
-    imageUrl: https://media.wired.com/photos/6b03f84cb82d3b05468e7f25/191:100/w_1280,c_limit/maccomputer.jpg
-    categories:
-      - Science
-      - Science / Environment
-    publishedAt: 2026-11-27T11:30:00.000Z
-    source: WIRED science
   - title: A New Breed of Chip Runs AI Models Using Waves of Light
     url: https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/
     summary: German company Q.ANT is trying to cut the amount of energy required to
@@ -97,22 +126,6 @@ articles:
     categories: []
     publishedAt: 2026-11-24T19:30:00.000Z
     source: MIT Artificial Intelligence
-  - title: Why Does Voice AI Still Struggle With Kenyans’ Speech?
-    url: https://spectrum.ieee.org/swahili-speech-recognition
-    summary: When people read prepared text aloud, AI can transcribe Swahili with
-      remarkably few errors, and Swahili speech recognition looks close to
-      solved. A March 2026 preprint by a team including a Harvard University
-      researcher reports a 3.24 percent word-error rate on recordings from
-      Mozilla’s Common Voice collection of volunteer-recorded speech.
-    imageUrl: https://spectrum.ieee.org/media-library/three-college-students-posing-together-in-front-of-a-whiteboard-covered-in-writing-from-various-sheng-dialects.jpg?id=68751313&width=1245&height=700&coordinates=0%2C167%2C0%2C167
-    categories:
-      - Natural-language-processing
-      - Speech-recognition
-      - Kenya
-      - Speech-recognition-technology
-      - Africa
-    publishedAt: 2026-11-24T12:00:03.000Z
-    source: IEEE Spectrum — AI
   - title: New approach enables physically consistent AI models of chaotic systems
     url: https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120
     summary: Modeling of complex, chaotic processes such as weather and climate
